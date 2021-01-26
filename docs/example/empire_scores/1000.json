@@ -1,0 +1,147 @@
+{
+  "empire_scores_list": [
+    {
+      "tracker_name": "TestEvent",
+      "tracker_description": "Test Event",
+      "start_date": "2013-09-02 00:00:00.0",
+      "start_time": "1378080000",
+      "end_date": "2013-09-05 00:00:00.0",
+      "end_time": "1378339200",
+      "name": {
+        "de": "Planetside 2",
+        "en": "Planetside 2",
+        "es": "PlanetSide 2",
+        "fr": "Planetside 2",
+        "it": "PlanetSide 2",
+        "tr": "Planetside 2 "
+      }
+    },
+    {
+      "tracker_name": "NoTabScreen",
+      "tracker_description": "No Tab Screen Test",
+      "start_date": "2013-09-10 00:00:00.0",
+      "start_time": "1378771200",
+      "end_date": "2013-09-11 00:00:00.0",
+      "end_time": "1378857600",
+      "name": {
+        "de": "World Domination Series 1 - Vorsaison",
+        "en": "World Domination Series Pre-season",
+        "es": "Pretemporada de World Domination Series",
+        "fr": "Les séries Domination du Monde Pré-saison",
+        "it": "Precampionato Serie Dominio Universale",
+        "tr": "World Domination Series Pre-season"
+      }
+    },
+    {
+      "tracker_name": "WDSTest",
+      "tracker_description": "WDS Test",
+      "start_date": "2013-09-12 00:00:00.0",
+      "start_time": "1378944000",
+      "end_date": "2013-09-13 00:00:00.0",
+      "end_time": "1379030400",
+      "name": {
+        "de": "World Domination Series 1 - Vorsaison",
+        "en": "World Domination Series Pre-season",
+        "es": "Pretemporada de World Domination Series",
+        "fr": "Les séries Domination du Monde Pré-saison",
+        "it": "Precampionato Serie Dominio Universale",
+        "tr": "World Domination Series Pre-season"
+      }
+    },
+    {
+      "tracker_name": "WDS01",
+      "tracker_description": "WDS01",
+      "start_date": "2013-09-16 00:00:00.0",
+      "start_time": "1379289600",
+      "end_date": "2013-10-28 00:00:00.0",
+      "end_time": "1382918400",
+      "name": {
+        "de": "World Domination Series 1 - Vorsaison",
+        "en": "World Domination Series Pre-season",
+        "es": "Pretemporada de World Domination Series",
+        "fr": "Les séries Domination du Monde Pré-saison",
+        "it": "Precampionato Serie Dominio Universale",
+        "tr": "World Domination Series Pre-season"
+      }
+    },
+    {
+      "tracker_name": "BHTest",
+      "tracker_description": "BH test event",
+      "start_date": "2013-11-01 00:00:00.0",
+      "start_time": "1383264000",
+      "end_date": "2013-12-01 00:00:00.0",
+      "end_time": "1385856000",
+      "name": {
+        "de": "World Domination Series 1 - Vorsaison",
+        "en": "World Domination Series Pre-season",
+        "es": "Pretemporada de World Domination Series",
+        "fr": "Les séries Domination du Monde Pré-saison",
+        "it": "Precampionato Serie Dominio Universale",
+        "tr": "World Domination Series Pre-season"
+      }
+    },
+    {
+      "tracker_name": "WDSCalibration1",
+      "tracker_description": "WDS Calibration1",
+      "start_date": "2013-12-06 00:00:00.0",
+      "start_time": "1386288000",
+      "end_date": "2013-12-31 00:00:00.0",
+      "end_time": "1388448000",
+      "name": {
+        "de": "WDS-Kalibrierung 1",
+        "en": "WDS Calibration 1",
+        "es": "Calibración de WDS 1",
+        "fr": "Calibrage Séries Domination du Monde 1",
+        "it": "WDS Calibrazione 1",
+        "tr": "WDS Calibration 1"
+      }
+    },
+    {
+      "tracker_name": "WDSCalibration2",
+      "tracker_description": "WDS Calibration2",
+      "start_date": "2014-01-06 00:00:00.0",
+      "start_time": "1388966400",
+      "end_date": "2014-01-22 00:00:00.0",
+      "end_time": "1390348800",
+      "name": {
+        "de": "Kalibrierung 2",
+        "en": "Calibration 2",
+        "es": "Calibrado 2",
+        "fr": "Calibration 2"
+      }
+    },
+    {
+      "tracker_name": "WDSCalibration3",
+      "tracker_description": "WDS Calibration3",
+      "start_date": "2014-01-22 00:00:00.0",
+      "start_time": "1390348800",
+      "end_date": "2014-02-06 00:00:00.0",
+      "end_time": "1391644800",
+      "name": {
+        "de": "Kalibrierung 3",
+        "en": "Calibration 3",
+        "es": "Calibración 3",
+        "fr": "Calibration 3",
+        "it": "Calibrazione 3",
+        "tr": "Calibration 3"
+      }
+    },
+    {
+      "tracker_name": "Preseason2",
+      "tracker_description": "Preseason 2",
+      "start_date": "2014-02-07 00:00:00.0",
+      "start_time": "1391731200",
+      "end_date": "2014-02-28 00:00:00.0",
+      "end_time": "1393545600",
+      "name": {
+        "de": "World Domination Series - Vorsaison 2",
+        "en": "World Domination Series Pre-season 2",
+        "es": "Pretemporada 2 de World Domination Series",
+        "fr": "Les séries Domination du Monde Pré-saison 2",
+        "it": "Precampionato Serie Dominio Universale 2",
+        "tr": "World Domination Series Pre-season 2"
+      }
+    }
+  ],
+  "returned": 9
+}

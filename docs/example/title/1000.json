@@ -1,0 +1,2918 @@
+{
+  "title_list": [
+    {
+      "title_id": "1",
+      "name": {
+        "de": "Private",
+        "en": "Private",
+        "es": "Soldado raso",
+        "fr": "Soldat",
+        "it": "Soldato",
+        "tr": "Er"
+      }
+    },
+    {
+      "title_id": "2",
+      "name": {
+        "de": "PFC",
+        "en": "PFC",
+        "es": "Soldado de 1.ª clase",
+        "fr": "Sdt 1cl",
+        "it": "PFC",
+        "tr": "Er"
+      }
+    },
+    {
+      "title_id": "3",
+      "name": {
+        "de": "Spezialist",
+        "en": "Specialist",
+        "es": "Especialista",
+        "fr": "Spécialiste",
+        "it": "Specialista",
+        "tr": "Uzman"
+      }
+    },
+    {
+      "title_id": "4",
+      "name": {
+        "de": "Lance Cpl.",
+        "en": "Lance Cpl.",
+        "es": "Cabo segundo",
+        "fr": "Soldat 1e classe",
+        "it": "Soldato scelto",
+        "tr": "Erbaş"
+      }
+    },
+    {
+      "title_id": "5",
+      "name": {
+        "de": "Corporal",
+        "en": "Corporal",
+        "es": "Cabo primero",
+        "fr": "Caporal",
+        "it": "Caporale",
+        "tr": "Onbaşı"
+      }
+    },
+    {
+      "title_id": "6",
+      "name": {
+        "de": "Sergeant",
+        "en": "Sergeant",
+        "es": "Sargento",
+        "fr": "Sergent",
+        "it": "Sergente",
+        "tr": "Çavuş"
+      }
+    },
+    {
+      "title_id": "7",
+      "name": {
+        "de": "Staff Sgt.",
+        "en": "Staff Sgt.",
+        "es": "Sgto. segundo",
+        "fr": "Sgt-chef",
+        "it": "Serg.Magg.",
+        "tr": "Üstçavuş"
+      }
+    },
+    {
+      "title_id": "8",
+      "name": {
+        "de": "Tech Sgt.",
+        "en": "Tech Sgt.",
+        "es": "Sgto. técnico",
+        "fr": "Adjudant",
+        "it": "Serg.Magg.Tec.",
+        "tr": "Astsubay Kıdemli Çavuş"
+      }
+    },
+    {
+      "title_id": "9",
+      "name": {
+        "de": "Sgt. 1st Class",
+        "en": "Sgt. 1st Class",
+        "es": "Sgto. de primera clase",
+        "fr": "Sgt 1e classe",
+        "it": "Serg.Magg.Ca.",
+        "tr": "Astsubay Kıdemli Üstçavuş"
+      }
+    },
+    {
+      "title_id": "10",
+      "name": {
+        "de": "Master Sgt.",
+        "en": "Master Sgt.",
+        "es": "Sgto. maestre",
+        "fr": "Sgt maître",
+        "it": "Mar.",
+        "tr": "Başçavuş"
+      }
+    },
+    {
+      "title_id": "11",
+      "name": {
+        "de": "First Sgt.",
+        "en": "First Sgt.",
+        "es": "Sgto. primero",
+        "fr": "1er Sgt",
+        "it": "Mar.Ord.",
+        "tr": "Kıdemli Başçavuş"
+      }
+    },
+    {
+      "title_id": "12",
+      "name": {
+        "de": "Sgt. Major",
+        "en": "Sgt. Major",
+        "es": "Sgto. mayor",
+        "fr": "Sgt-major",
+        "it": "Serg. Magg.",
+        "tr": "Başçavuş"
+      }
+    },
+    {
+      "title_id": "13",
+      "name": {
+        "de": "Comm. Sgt. Major",
+        "en": "Comm. Sgt. Major",
+        "es": "Sgto. mayor de comando",
+        "fr": "Commandant sergent-major",
+        "it": "Sergente maggiore capo",
+        "tr": "Astsubay Kıdemli Başçavuş"
+      }
+    },
+    {
+      "title_id": "14",
+      "name": {
+        "de": "Warrant Officer",
+        "en": "Warrant Officer",
+        "es": "Oficial técnico",
+        "fr": "Adjudant-chef",
+        "it": "Sottufficiale",
+        "tr": "Kıdemli Subay"
+      }
+    },
+    {
+      "title_id": "15",
+      "name": {
+        "de": "Second Lt.",
+        "en": "Second Lt.",
+        "es": "Tte. segundo",
+        "fr": "Second Ltn",
+        "it": "S.Ten.",
+        "tr": "Teğmen"
+      }
+    },
+    {
+      "title_id": "16",
+      "name": {
+        "de": "First Lt.",
+        "en": "First Lt.",
+        "es": "Tte. primero",
+        "fr": "1er Ltn",
+        "it": "Tenente",
+        "tr": "Üsteğmen"
+      }
+    },
+    {
+      "title_id": "17",
+      "name": {
+        "de": "Lt. Commander",
+        "en": "Lt. Commander",
+        "es": "Cap. de corbeta",
+        "fr": "Ltn en chef",
+        "it": "Ten.Com.",
+        "tr": "Kıdemli Yüzbaşı"
+      }
+    },
+    {
+      "title_id": "18",
+      "name": {
+        "de": "Commander",
+        "en": "Commander",
+        "es": "Comandante",
+        "fr": "Commandant",
+        "it": "Comandante",
+        "tr": "Kumandan"
+      }
+    },
+    {
+      "title_id": "19",
+      "name": {
+        "de": "Captain",
+        "en": "Captain",
+        "es": "Capitán",
+        "fr": "Capitaine",
+        "it": "Capitano",
+        "tr": "Yüzbaşı"
+      }
+    },
+    {
+      "title_id": "20",
+      "name": {
+        "de": "Major",
+        "en": "Major",
+        "es": "Mayor",
+        "fr": "Commandant",
+        "it": "Maggiore",
+        "tr": "Binbaşı"
+      }
+    },
+    {
+      "title_id": "21",
+      "name": {
+        "de": "Lt. Colonel",
+        "en": "Lt. Colonel",
+        "es": "Tte. coronel",
+        "fr": "Ltn-col",
+        "it": "Tenente Colonnello",
+        "tr": "Yarbay"
+      }
+    },
+    {
+      "title_id": "22",
+      "name": {
+        "de": "Colonel",
+        "en": "Colonel",
+        "es": "Coronel",
+        "fr": "Colonel",
+        "it": "Colonnello",
+        "tr": "Albay"
+      }
+    },
+    {
+      "title_id": "23",
+      "name": {
+        "de": "Commissar",
+        "en": "Commissar",
+        "es": "Comisario",
+        "fr": "Commissaire",
+        "it": "Commissario",
+        "tr": "Komiser"
+      }
+    },
+    {
+      "title_id": "24",
+      "name": {
+        "de": "Maj. General",
+        "en": "Maj. General",
+        "es": "Gral. de división",
+        "fr": "Gal. de division",
+        "it": "Gen.Div.",
+        "tr": "Tümgeneral"
+      }
+    },
+    {
+      "title_id": "25",
+      "name": {
+        "de": "Lt. General",
+        "en": "Lt. General",
+        "es": "Tte. general",
+        "fr": "Gal. de corps d'armée",
+        "it": "Gen.C.A.",
+        "tr": "Korgeneral"
+      }
+    },
+    {
+      "title_id": "26",
+      "name": {
+        "de": "General",
+        "en": "General",
+        "es": "General",
+        "fr": "Général",
+        "it": "Generale",
+        "tr": "General"
+      }
+    },
+    {
+      "title_id": "27",
+      "name": {
+        "de": "Feldmarschall",
+        "en": "Field Marshal",
+        "es": "Mariscal de campo",
+        "fr": "Maréchal",
+        "it": "Generale dell'Esercito",
+        "tr": "Mareşal"
+      }
+    },
+    {
+      "title_id": "28",
+      "name": {
+        "de": "Initiate",
+        "en": "Initiate",
+        "es": "Principiante",
+        "fr": "Initié",
+        "it": "Iniziato",
+        "tr": "Yeni Üye"
+      }
+    },
+    {
+      "title_id": "29",
+      "name": {
+        "de": "Novus",
+        "en": "Novus",
+        "es": "Novus",
+        "fr": "Novus",
+        "it": "Novus",
+        "tr": "Novus"
+      }
+    },
+    {
+      "title_id": "30",
+      "name": {
+        "de": "Lehrling",
+        "en": "Disciple",
+        "es": "Discípulo",
+        "fr": "Disciple",
+        "it": "Discepolo",
+        "tr": "Çömez"
+      }
+    },
+    {
+      "title_id": "31",
+      "name": {
+        "de": "Aspirant",
+        "en": "Aspirant ",
+        "es": "Aspirante",
+        "fr": "Aspirant ",
+        "it": "Aspirante",
+        "tr": "Aday"
+      }
+    },
+    {
+      "title_id": "32",
+      "name": {
+        "de": "Liktor",
+        "en": "Lictor",
+        "es": "Lictor",
+        "fr": "Licteur",
+        "it": "Littore",
+        "tr": "Baltacı"
+      }
+    },
+    {
+      "title_id": "33",
+      "name": {
+        "de": "Decanus",
+        "en": "Decanus",
+        "es": "Decano",
+        "fr": "Decanus",
+        "it": "Decano",
+        "tr": "Decanus"
+      }
+    },
+    {
+      "title_id": "34",
+      "name": {
+        "de": "Präzeptor",
+        "en": "Preceptor",
+        "es": "Preceptor",
+        "fr": "Précepteur",
+        "it": "Precettore",
+        "tr": "Öğretmen"
+      }
+    },
+    {
+      "title_id": "35",
+      "name": {
+        "de": "Präfekt",
+        "en": "Prefect",
+        "es": "Prefecto",
+        "fr": "Préfet",
+        "it": "Prefetto",
+        "tr": "Reis"
+      }
+    },
+    {
+      "title_id": "36",
+      "name": {
+        "de": "Adept",
+        "en": "Adept",
+        "es": "Experto",
+        "fr": "Adepte",
+        "it": "Adepto",
+        "tr": "Usta"
+      }
+    },
+    {
+      "title_id": "37",
+      "name": {
+        "de": "Legionär",
+        "en": "Legionary",
+        "es": "Legionario",
+        "fr": "Légionnaire",
+        "it": "Legionario",
+        "tr": "Lejyoner"
+      }
+    },
+    {
+      "title_id": "38",
+      "name": {
+        "de": "Anhänger",
+        "en": "Adherent",
+        "es": "Seguidor",
+        "fr": "Adhérent",
+        "it": "Fedele",
+        "tr": "Yandaş"
+      }
+    },
+    {
+      "title_id": "39",
+      "name": {
+        "de": "Operant",
+        "en": "Operant",
+        "es": "Operativo",
+        "fr": "Opérant",
+        "it": "Operante",
+        "tr": "Operan"
+      }
+    },
+    {
+      "title_id": "40",
+      "name": {
+        "de": "Venator",
+        "en": "Venator",
+        "es": "Venator",
+        "fr": "Venator",
+        "it": "Venator",
+        "tr": "Venator"
+      }
+    },
+    {
+      "title_id": "41",
+      "name": {
+        "de": "Arcanus",
+        "en": "Arcanus",
+        "es": "Arcano",
+        "fr": "Arcanus",
+        "it": "Arcanus",
+        "tr": "Gizemli"
+      }
+    },
+    {
+      "title_id": "42",
+      "name": {
+        "de": "Justiziar",
+        "en": "Justicar",
+        "es": "Justiciar",
+        "fr": "Justicar",
+        "it": "Giustiziere",
+        "tr": "Adaletkar"
+      }
+    },
+    {
+      "title_id": "43",
+      "name": {
+        "de": "Aszendent",
+        "en": "Ascendant",
+        "es": "Ascendente",
+        "fr": "Ascendant",
+        "it": "Ascendente",
+        "tr": "Egemen"
+      }
+    },
+    {
+      "title_id": "44",
+      "name": {
+        "de": "Primus",
+        "en": "Primus",
+        "es": "Primus",
+        "fr": "Primat",
+        "it": "Primate",
+        "tr": "Primus"
+      }
+    },
+    {
+      "title_id": "45",
+      "name": {
+        "de": "Zenturio",
+        "en": "Centurion",
+        "es": "Centurión",
+        "fr": "Centurion",
+        "it": "Centurione",
+        "tr": "Sentüryon"
+      }
+    },
+    {
+      "title_id": "46",
+      "name": {
+        "de": "Signifer",
+        "en": "Signifer",
+        "es": "Signifer",
+        "fr": "Signifer",
+        "it": "Signifer",
+        "tr": "Signifer"
+      }
+    },
+    {
+      "title_id": "47",
+      "name": {
+        "de": "Kastellan",
+        "en": "Castellan",
+        "es": "Castellano",
+        "fr": "Châtelain",
+        "it": "Castellano",
+        "tr": "Kale Kumandanı"
+      }
+    },
+    {
+      "title_id": "48",
+      "name": {
+        "de": "Unsterblich",
+        "en": "Immortal",
+        "es": "Inmortal",
+        "fr": "Immortel",
+        "it": "Immortale",
+        "tr": "Ölümsüz"
+      }
+    },
+    {
+      "title_id": "49",
+      "name": {
+        "de": "Legat",
+        "en": "Legate",
+        "es": "Legado",
+        "fr": "Légat",
+        "it": "Legato",
+        "tr": "Sefir"
+      }
+    },
+    {
+      "title_id": "50",
+      "name": {
+        "de": "Archon",
+        "en": "Archon",
+        "es": "Arconte",
+        "fr": "Archonte",
+        "it": "Arconte",
+        "tr": "Hükümdar"
+      }
+    },
+    {
+      "title_id": "51",
+      "name": {
+        "de": "Prätur",
+        "en": "Praetor",
+        "es": "Pretor",
+        "fr": "Prétorien",
+        "it": "Pretore",
+        "tr": "Pretor"
+      }
+    },
+    {
+      "title_id": "52",
+      "name": {
+        "de": "Vorbote",
+        "en": "Harbinger",
+        "es": "Precursor",
+        "fr": "Annonciateur",
+        "it": "Precursore",
+        "tr": "Müjdeci"
+      }
+    },
+    {
+      "title_id": "53",
+      "name": {
+        "de": "Primarch",
+        "en": "Primarch",
+        "es": "Primarca",
+        "fr": "Primarque",
+        "it": "Primarca",
+        "tr": "Primarch"
+      }
+    },
+    {
+      "title_id": "54",
+      "name": {
+        "de": "Paragon",
+        "en": "Paragon",
+        "es": "Paragón",
+        "fr": "Parangon",
+        "it": "Campione",
+        "tr": "Paragon"
+      }
+    },
+    {
+      "title_id": "55",
+      "name": {
+        "de": "Rekrut",
+        "en": "Recruit",
+        "es": "Recluta",
+        "fr": "Recrue",
+        "it": "Recluta",
+        "tr": "Acemi"
+      }
+    },
+    {
+      "title_id": "56",
+      "name": {
+        "de": "Kadett",
+        "en": "Cadet",
+        "es": "Cadete",
+        "fr": "Aspirant",
+        "it": "Cadetto",
+        "tr": "Subay Adayı"
+      }
+    },
+    {
+      "title_id": "57",
+      "name": {
+        "de": "Knecht",
+        "en": "Grunt",
+        "es": "Peón",
+        "fr": "Bidasse",
+        "it": "Coscritto",
+        "tr": "Piyade Er"
+      }
+    },
+    {
+      "title_id": "58",
+      "name": {
+        "de": "Kavallerist",
+        "en": "Trooper",
+        "es": "Soldado",
+        "fr": "Troupier",
+        "it": "Ussaro",
+        "tr": "Süvari Eri"
+      }
+    },
+    {
+      "title_id": "59",
+      "name": {
+        "de": "Schütze",
+        "en": "Gunner",
+        "es": "Soldado de artillería",
+        "fr": "Canonnier",
+        "it": "Artigliere",
+        "tr": "Nişancı"
+      }
+    },
+    {
+      "title_id": "60",
+      "name": {
+        "de": "Guerilla",
+        "en": "Guerilla",
+        "es": "Guerrillero",
+        "fr": "Guérilla",
+        "it": "Guerilla",
+        "tr": "Gerilla"
+      }
+    },
+    {
+      "title_id": "61",
+      "name": {
+        "de": "Aufklärer",
+        "en": "Scout",
+        "es": "Soldado explorador",
+        "fr": "Éclaireur",
+        "it": "Esploratore",
+        "tr": "Gözcü"
+      }
+    },
+    {
+      "title_id": "62",
+      "name": {
+        "de": "Vigilante",
+        "en": "Vigilante",
+        "es": "Rebelde",
+        "fr": "Justicier",
+        "it": "Vigilante",
+        "tr": "Eşkıya"
+      }
+    },
+    {
+      "title_id": "63",
+      "name": {
+        "de": "Maverick",
+        "en": "Maverick",
+        "es": "Disidente",
+        "fr": "Franc-tireur",
+        "it": "Dissidente",
+        "tr": "Maverik"
+      }
+    },
+    {
+      "title_id": "64",
+      "name": {
+        "de": "Soldat",
+        "en": "Serviceman",
+        "es": "Militar",
+        "fr": "Militaire",
+        "it": "Militare",
+        "tr": "Asker"
+      }
+    },
+    {
+      "title_id": "65",
+      "name": {
+        "de": "Gardist",
+        "en": "Guardsman",
+        "es": "Guardia",
+        "fr": "Maître artilleur",
+        "it": "Guardia",
+        "tr": "Muhafız"
+      }
+    },
+    {
+      "title_id": "66",
+      "name": {
+        "de": "Corporal",
+        "en": "Corporal",
+        "es": "Cabo primero",
+        "fr": "Caporal",
+        "it": "Caporale",
+        "tr": "Onbaşı"
+      }
+    },
+    {
+      "title_id": "67",
+      "name": {
+        "de": "Kavalier",
+        "en": "Cavalier",
+        "es": "Cavalier",
+        "fr": "Cavalier",
+        "it": "Cavaliere",
+        "tr": "Kavalye"
+      }
+    },
+    {
+      "title_id": "68",
+      "name": {
+        "de": "Kommando",
+        "en": "Commando",
+        "es": "Comando",
+        "fr": "Commando",
+        "it": "Commando",
+        "tr": "Komando"
+      }
+    },
+    {
+      "title_id": "69",
+      "name": {
+        "de": "Ranger",
+        "en": "Ranger",
+        "es": "Ranger",
+        "fr": "Ranger",
+        "it": "Dirigente Senior",
+        "tr": "Korucu"
+      }
+    },
+    {
+      "title_id": "70",
+      "name": {
+        "de": "Deputy",
+        "en": "Deputy",
+        "es": "Subjefe",
+        "fr": "Adjoint",
+        "it": "Intendente",
+        "tr": "Yardımcı"
+      }
+    },
+    {
+      "title_id": "71",
+      "name": {
+        "de": "Fähnrich",
+        "en": "Ensign",
+        "es": "Alférez",
+        "fr": "Enseigne",
+        "it": "Alfiere",
+        "tr": "Asteğmen"
+      }
+    },
+    {
+      "title_id": "72",
+      "name": {
+        "de": "Agent",
+        "en": "Agent",
+        "es": "Agente",
+        "fr": "Agent",
+        "it": "Agente",
+        "tr": "Ajan"
+      }
+    },
+    {
+      "title_id": "73",
+      "name": {
+        "de": "Raider",
+        "en": "Raider",
+        "es": "Incursor",
+        "fr": "Raider",
+        "it": "Predatore",
+        "tr": "Akıncı"
+      }
+    },
+    {
+      "title_id": "74",
+      "name": {
+        "de": "Wächter",
+        "en": "Warden",
+        "es": "Guarda",
+        "fr": "Gardien",
+        "it": "Warden",
+        "tr": "Gardiyan"
+      }
+    },
+    {
+      "title_id": "75",
+      "name": {
+        "de": "Aufseher ",
+        "en": "Overseer",
+        "es": "Supervisor",
+        "fr": "Superviseur",
+        "it": "Sorvegliante",
+        "tr": "Gözetmen"
+      }
+    },
+    {
+      "title_id": "76",
+      "name": {
+        "de": "Wärter",
+        "en": "Sentinel",
+        "es": "Centinela",
+        "fr": "Sentinelle",
+        "it": "Sentinella",
+        "tr": "Nöbetçi"
+      }
+    },
+    {
+      "title_id": "77",
+      "name": {
+        "de": "Brigadier",
+        "en": "Brigadier",
+        "es": "Brigadier",
+        "fr": "Gal de brigade",
+        "it": "Brigadiere",
+        "tr": "Tuğgeneral"
+      }
+    },
+    {
+      "title_id": "78",
+      "name": {
+        "de": "Maj. General",
+        "en": "Maj. General",
+        "es": "Gral. de división",
+        "fr": "Gal. de division",
+        "it": "Gen.Div.",
+        "tr": "Tümgeneral"
+      }
+    },
+    {
+      "title_id": "79",
+      "name": {
+        "de": "Stellvertretender Direktor",
+        "en": "Deputy Director",
+        "es": "Subdirector",
+        "fr": "Sous-directeur",
+        "it": "Vicedirettore",
+        "tr": "Korgeneral"
+      }
+    },
+    {
+      "title_id": "80",
+      "name": {
+        "de": "Generaldirektor",
+        "en": "Director General",
+        "es": "Director General",
+        "fr": "Directeur général",
+        "it": "Direttore Generale",
+        "tr": "Orgeneral"
+      }
+    },
+    {
+      "title_id": "81",
+      "name": {
+        "de": "Vollstrecker",
+        "en": "Executor",
+        "es": "Ejecutor",
+        "fr": "Exécuteur",
+        "it": "Esecutore",
+        "tr": "Uygulayıcı"
+      }
+    },
+    {
+      "title_id": "82",
+      "name": {
+        "de": "Vollstrecker",
+        "en": "Enforcer",
+        "es": "Enforcer",
+        "fr": "Exécuteur",
+        "it": "Enforcer",
+        "tr": "İnfazcı"
+      }
+    },
+    {
+      "title_id": "83",
+      "name": {
+        "de": "Agent",
+        "en": "Operative",
+        "es": "Operativo",
+        "fr": "Agent opérationnel",
+        "it": "Agente",
+        "tr": "Operatör"
+      }
+    },
+    {
+      "title_id": "84",
+      "name": {
+        "de": "Leitender Vollstrecker",
+        "en": "Lead Enforcer",
+        "es": "Enforcer líder",
+        "fr": "Exécuteur en chef",
+        "it": "Primo Enforcer",
+        "tr": "Üst İnfazcı"
+      }
+    },
+    {
+      "title_id": "85",
+      "name": {
+        "de": "Haupt-Vollstrecker",
+        "en": "Head Enforcer",
+        "es": "Enforcer jefe",
+        "fr": "Responsable exécuteur",
+        "it": "Capo Enforcer",
+        "tr": "Baş İnfazcı"
+      }
+    },
+    {
+      "title_id": "86",
+      "name": {
+        "de": "Leitender Agent",
+        "en": "Lead Operative",
+        "es": "Operativo líder",
+        "fr": "Agent en chef",
+        "it": "Primo Agente",
+        "tr": "Üst Operatör"
+      }
+    },
+    {
+      "title_id": "87",
+      "name": {
+        "de": "Haupt-Agent",
+        "en": "Head Operative",
+        "es": "Operativo jefe",
+        "fr": "Responsable opérationnel",
+        "it": "Capo Agente",
+        "tr": "Baş Operatör"
+      }
+    },
+    {
+      "title_id": "88",
+      "name": {
+        "de": "Gründer",
+        "en": "Founder",
+        "es": "Fundador",
+        "fr": "Fondateur",
+        "it": "Fondatore",
+        "tr": "Kurucu"
+      }
+    },
+    {
+      "title_id": "89",
+      "name": {
+        "de": "Veteran",
+        "en": "Veteran",
+        "es": "Veterano",
+        "fr": "Vétéran",
+        "it": "Veterano"
+      }
+    },
+    {
+      "title_id": "90",
+      "name": {
+        "de": "Exterminator",
+        "en": "Exterminator",
+        "es": "Exterminador",
+        "fr": "Exterminateur",
+        "it": "Sterminatore",
+        "tr": "İmha Edici"
+      }
+    },
+    {
+      "title_id": "91",
+      "name": {
+        "de": "Treuer Soldat",
+        "en": "Loyal Soldier",
+        "es": "Soldado leal",
+        "fr": "Soldat loyal",
+        "it": "Soldato leale",
+        "tr": "Sadık Asker"
+      }
+    },
+    {
+      "title_id": "92",
+      "name": {
+        "de": "Delegiert",
+        "en": "Delegate",
+        "es": "Delegar",
+        "fr": "Déléguer",
+        "it": "\"Delegate\"",
+        "tr": "Devret"
+      }
+    },
+    {
+      "title_id": "93",
+      "name": {
+        "de": "Attaché",
+        "en": "Attache",
+        "es": "Agregado",
+        "fr": "Attaché",
+        "it": "\"Attaché\"",
+        "tr": "Attache"
+      }
+    },
+    {
+      "title_id": "94",
+      "name": {
+        "de": "Konsul",
+        "en": "Consul",
+        "es": "Cónsul",
+        "fr": "Consul",
+        "it": "\"Consul\"",
+        "tr": "Konsolos"
+      }
+    },
+    {
+      "title_id": "95",
+      "name": {
+        "de": "Diplomat",
+        "en": "Diplomat",
+        "es": "Diplomático",
+        "fr": "Diplomate",
+        "it": "\"Diplomat\"",
+        "tr": "Diplomat"
+      }
+    },
+    {
+      "title_id": "96",
+      "name": {
+        "de": "Botschafter",
+        "en": "Ambassador",
+        "es": "Embajador",
+        "fr": "Ambassadeur",
+        "it": "\"Ambassador\"",
+        "tr": "Elçi"
+      }
+    },
+    {
+      "title_id": "97",
+      "name": {
+        "de": "Gesandter",
+        "en": "Grand Ambassador",
+        "es": "Gran embajador",
+        "fr": "Grand ambassadeur",
+        "it": "\"Grand Ambassador\"",
+        "tr": "Büyükelçi"
+      }
+    },
+    {
+      "title_id": "98",
+      "name": {
+        "de": "Pyromane",
+        "en": "Pyro",
+        "es": "Piro",
+        "fr": "Pyro",
+        "it": "Piro",
+        "tr": "Pyro"
+      }
+    },
+    {
+      "title_id": "99",
+      "name": {
+        "de": "Plänkler",
+        "en": "Skirmisher",
+        "es": "Hostigador",
+        "fr": "Voltigeur",
+        "it": "Schermagliatore",
+        "tr": "Skirmisher"
+      }
+    },
+    {
+      "title_id": "100",
+      "name": {
+        "de": "Schneefräse",
+        "en": "Snowblower",
+        "es": "Barredora de nieve",
+        "fr": "Souffleuse à neige",
+        "it": "Spazzaneve",
+        "tr": "Snowblower"
+      }
+    },
+    {
+      "title_id": "101",
+      "name": {
+        "de": "Schneeballmaschine",
+        "en": "Snow Balla",
+        "es": "Lanzabolas de nieve",
+        "fr": "Boules de neige",
+        "it": "Snow Balla",
+        "tr": "Snow Balla"
+      }
+    },
+    {
+      "title_id": "102",
+      "name": {
+        "de": "Dominator",
+        "en": "Dominator",
+        "es": "Dominator",
+        "fr": "Dominateur",
+        "it": "Dominatore",
+        "tr": "Dominator"
+      }
+    },
+    {
+      "title_id": "103",
+      "name": {
+        "de": "Hasser",
+        "en": "Hater",
+        "es": "Odio",
+        "fr": "Détracteur",
+        "it": "Odioso",
+        "tr": "Hater"
+      }
+    },
+    {
+      "title_id": "104",
+      "name": {
+        "de": "Schatz",
+        "en": "Sweetheart",
+        "es": "Amor",
+        "fr": "Chéri",
+        "it": "Innamorato",
+        "tr": "Sweetheart"
+      }
+    },
+    {
+      "title_id": "105",
+      "name": {
+        "de": "Raidgegner",
+        "en": "Raid Boss",
+        "es": "Jefe de asalto",
+        "fr": "Chef de raid",
+        "it": "Boss del raid",
+        "tr": "Raid Boss"
+      }
+    },
+    {
+      "title_id": "106",
+      "name": {
+        "de": "Bugjäger",
+        "en": "Bug Hunter",
+        "es": "Cazaerrores",
+        "fr": "Chasseur de bugs",
+        "it": "Cacciatore di bug",
+        "tr": "Bug Hunter"
+      }
+    },
+    {
+      "title_id": "107",
+      "name": {
+        "de": "Opportunist",
+        "en": "Opportunist",
+        "es": "Oportunista",
+        "fr": "Opportuniste",
+        "it": "Opportunist"
+      }
+    },
+    {
+      "title_id": "108",
+      "name": {
+        "en": "Daum Title 2"
+      }
+    },
+    {
+      "title_id": "109",
+      "name": {
+        "en": "Daum Title 3"
+      }
+    },
+    {
+      "title_id": "110",
+      "name": {
+        "en": "Daum Title 4"
+      }
+    },
+    {
+      "title_id": "111",
+      "name": {
+        "en": "Daum Title 5"
+      }
+    },
+    {
+      "title_id": "112",
+      "name": {
+        "en": "Daum Title 6"
+      }
+    },
+    {
+      "title_id": "113",
+      "name": {
+        "en": "Daum Title 7"
+      }
+    },
+    {
+      "title_id": "114",
+      "name": {
+        "en": "Daum Title 8"
+      }
+    },
+    {
+      "title_id": "115",
+      "name": {
+        "en": "Daum Title 9"
+      }
+    },
+    {
+      "title_id": "116",
+      "name": {
+        "en": "Daum Title 10"
+      }
+    },
+    {
+      "title_id": "117",
+      "name": {
+        "de": "Juggernaut",
+        "en": "Juggernaut",
+        "es": "Juggernaut",
+        "fr": "Mastodonte",
+        "it": "Juggernaut"
+      }
+    },
+    {
+      "title_id": "118",
+      "name": {
+        "de": "Flottenadmiral",
+        "en": "Fleet Admiral",
+        "es": "Almirante de flota",
+        "fr": "Amiral de la flotte",
+        "it": "Ammiraglio della flotta"
+      }
+    },
+    {
+      "title_id": "119",
+      "name": {
+        "de": "der Zerschmetterer",
+        "en": "the Smasher",
+        "es": " el Destructor",
+        "fr": "Le Fracasseur",
+        "it": "lo schiantatore"
+      }
+    },
+    {
+      "title_id": "120",
+      "name": {
+        "de": "der Gesichtslose",
+        "en": "the Faceless",
+        "es": " el Sin Rostro",
+        "fr": "Le Sans Visage",
+        "it": "il senza volto"
+      }
+    },
+    {
+      "title_id": "121",
+      "name": {
+        "de": "der Demolierer",
+        "en": "the Wrecker",
+        "es": " el Demoledor",
+        "fr": "Le Destructeur",
+        "it": "il distruttore"
+      }
+    },
+    {
+      "title_id": "122",
+      "name": {
+        "de": "der Schlachter",
+        "en": "the Butcher",
+        "es": " el Carnicero",
+        "fr": "Le Boucher",
+        "it": "il macellaio"
+      }
+    },
+    {
+      "title_id": "123",
+      "name": {
+        "de": "der Schwindler",
+        "en": "the Trickster",
+        "es": " el Embustero",
+        "fr": "Le Farceur",
+        "it": "l'imbroglione"
+      }
+    },
+    {
+      "title_id": "124",
+      "name": {
+        "de": "der Killer",
+        "en": "the Slayer",
+        "es": " el Exterminador",
+        "fr": "le Massacreur",
+        "it": "l'uccisore"
+      }
+    },
+    {
+      "title_id": "125",
+      "name": {
+        "de": "Weltraum",
+        "en": "Space",
+        "es": "Astro",
+        "fr": "Espace",
+        "it": "Spazio"
+      }
+    },
+    {
+      "title_id": "126",
+      "name": {
+        "de": "Führender Offizier",
+        "en": "Executive Officer",
+        "es": "Funcionario ejecutivo",
+        "fr": "Agent exécutif",
+        "it": "Vice comandante"
+      }
+    },
+    {
+      "title_id": "127",
+      "name": {
+        "de": "Kaltblütig",
+        "en": "Cold Blooded",
+        "es": "Despiadado",
+        "fr": "Sang froid",
+        "it": "Sangue freddo"
+      }
+    },
+    {
+      "title_id": "128",
+      "name": {
+        "de": "Eiskalt",
+        "en": "Ice Cold",
+        "es": "Frío como el hielo",
+        "fr": "Froid comme la glace",
+        "it": "Freddo ghiacciato"
+      }
+    },
+    {
+      "title_id": "129",
+      "name": {
+        "en": "Innova Placeholder Title 1"
+      }
+    },
+    {
+      "title_id": "130",
+      "name": {
+        "en": "Innova Placeholder Title 2"
+      }
+    },
+    {
+      "title_id": "131",
+      "name": {
+        "en": "Innova Placeholder Title 3"
+      }
+    },
+    {
+      "title_id": "132",
+      "name": {
+        "en": "Innova Placeholder Title 4"
+      }
+    },
+    {
+      "title_id": "133",
+      "name": {
+        "en": "Innova Placeholder Title 5"
+      }
+    },
+    {
+      "title_id": "134",
+      "name": {
+        "en": "Innova Placeholder Title 6"
+      }
+    },
+    {
+      "title_id": "135",
+      "name": {
+        "en": "Innova Placeholder Title 7"
+      }
+    },
+    {
+      "title_id": "136",
+      "name": {
+        "en": "Innova Placeholder Title 8"
+      }
+    },
+    {
+      "title_id": "137",
+      "name": {
+        "en": "Innova Placeholder Title 9"
+      }
+    },
+    {
+      "title_id": "138",
+      "name": {
+        "en": "Innova Placeholder Title 10"
+      }
+    },
+    {
+      "title_id": "139",
+      "name": {
+        "en": "Innova Placeholder Title 11"
+      }
+    },
+    {
+      "title_id": "140",
+      "name": {
+        "en": "Innova Placeholder Title 12"
+      }
+    },
+    {
+      "title_id": "141",
+      "name": {
+        "en": "Innova Placeholder Title 13"
+      }
+    },
+    {
+      "title_id": "142",
+      "name": {
+        "en": "Innova Placeholder Title 14"
+      }
+    },
+    {
+      "title_id": "143",
+      "name": {
+        "en": "Innova Placeholder Title 15"
+      }
+    },
+    {
+      "title_id": "144",
+      "name": {
+        "en": "Innova Placeholder Title 16"
+      }
+    },
+    {
+      "title_id": "145",
+      "name": {
+        "en": "Innova Placeholder Title 17"
+      }
+    },
+    {
+      "title_id": "146",
+      "name": {
+        "en": "Innova Placeholder Title 18"
+      }
+    },
+    {
+      "title_id": "147",
+      "name": {
+        "en": "Innova Placeholder Title 19"
+      }
+    },
+    {
+      "title_id": "148",
+      "name": {
+        "en": "Innova Placeholder Title 20"
+      }
+    },
+    {
+      "title_id": "149",
+      "name": {
+        "en": "Innova Placeholder Title 21"
+      }
+    },
+    {
+      "title_id": "150",
+      "name": {
+        "en": "Innova Placeholder Title 22"
+      }
+    },
+    {
+      "title_id": "151",
+      "name": {
+        "en": "Innova Placeholder Title 23"
+      }
+    },
+    {
+      "title_id": "152",
+      "name": {
+        "en": "Innova Placeholder Title 24"
+      }
+    },
+    {
+      "title_id": "153",
+      "name": {
+        "en": "Innova Placeholder Title 25"
+      }
+    },
+    {
+      "title_id": "154",
+      "name": {
+        "en": "Innova Placeholder Title 26"
+      }
+    },
+    {
+      "title_id": "155",
+      "name": {
+        "en": "Innova Placeholder Title 27"
+      }
+    },
+    {
+      "title_id": "156",
+      "name": {
+        "en": "Innova Placeholder Title 28"
+      }
+    },
+    {
+      "title_id": "157",
+      "name": {
+        "en": "Innova Placeholder Title 29"
+      }
+    },
+    {
+      "title_id": "158",
+      "name": {
+        "en": "Innova Placeholder Title 30"
+      }
+    },
+    {
+      "title_id": "159",
+      "name": {
+        "en": "Innova Placeholder Title 31"
+      }
+    },
+    {
+      "title_id": "160",
+      "name": {
+        "en": "Innova Placeholder Title 32"
+      }
+    },
+    {
+      "title_id": "161",
+      "name": {
+        "en": "Innova Placeholder Title 33"
+      }
+    },
+    {
+      "title_id": "162",
+      "name": {
+        "en": "Innova Placeholder Title 34"
+      }
+    },
+    {
+      "title_id": "163",
+      "name": {
+        "en": "Innova Placeholder Title 35"
+      }
+    },
+    {
+      "title_id": "164",
+      "name": {
+        "en": "Innova Placeholder Title 36"
+      }
+    },
+    {
+      "title_id": "165",
+      "name": {
+        "en": "Innova Placeholder Title 37"
+      }
+    },
+    {
+      "title_id": "166",
+      "name": {
+        "en": "Innova Placeholder Title 38"
+      }
+    },
+    {
+      "title_id": "167",
+      "name": {
+        "en": "Innova Placeholder Title 39"
+      }
+    },
+    {
+      "title_id": "168",
+      "name": {
+        "en": "Innova Placeholder Title 40"
+      }
+    },
+    {
+      "title_id": "169",
+      "name": {
+        "en": "Innova Placeholder Title 41"
+      }
+    },
+    {
+      "title_id": "170",
+      "name": {
+        "en": "Innova Placeholder Title 42"
+      }
+    },
+    {
+      "title_id": "171",
+      "name": {
+        "en": "Innova Placeholder Title 43"
+      }
+    },
+    {
+      "title_id": "172",
+      "name": {
+        "en": "Innova Placeholder Title 44"
+      }
+    },
+    {
+      "title_id": "173",
+      "name": {
+        "en": "Innova Placeholder Title 45"
+      }
+    },
+    {
+      "title_id": "174",
+      "name": {
+        "en": "Innova Placeholder Title 46"
+      }
+    },
+    {
+      "title_id": "175",
+      "name": {
+        "en": "Innova Placeholder Title 47"
+      }
+    },
+    {
+      "title_id": "176",
+      "name": {
+        "en": "Innova Placeholder Title 48"
+      }
+    },
+    {
+      "title_id": "177",
+      "name": {
+        "en": "Innova Placeholder Title 49"
+      }
+    },
+    {
+      "title_id": "178",
+      "name": {
+        "en": "Innova Placeholder Title 50"
+      }
+    },
+    {
+      "title_id": "179",
+      "name": {
+        "en": "Innova Placeholder Title 51"
+      }
+    },
+    {
+      "title_id": "180",
+      "name": {
+        "en": "Innova Placeholder Title 52"
+      }
+    },
+    {
+      "title_id": "181",
+      "name": {
+        "en": "Innova Placeholder Title 53"
+      }
+    },
+    {
+      "title_id": "182",
+      "name": {
+        "en": "Innova Placeholder Title 54"
+      }
+    },
+    {
+      "title_id": "183",
+      "name": {
+        "en": "Innova Placeholder Title 55"
+      }
+    },
+    {
+      "title_id": "184",
+      "name": {
+        "en": "Innova Placeholder Title 56"
+      }
+    },
+    {
+      "title_id": "185",
+      "name": {
+        "en": "Innova Placeholder Title 57"
+      }
+    },
+    {
+      "title_id": "186",
+      "name": {
+        "en": "Innova Placeholder Title 58"
+      }
+    },
+    {
+      "title_id": "187",
+      "name": {
+        "en": "Innova Placeholder Title 59"
+      }
+    },
+    {
+      "title_id": "188",
+      "name": {
+        "en": "Innova Placeholder Title 60"
+      }
+    },
+    {
+      "title_id": "190",
+      "name": {
+        "de": "PS2-Entwickler",
+        "en": "PS2 Developer",
+        "es": "Desarrollador de PS2",
+        "fr": "Développeur PS2",
+        "it": "Sviluppatore PS2"
+      }
+    },
+    {
+      "title_id": "191",
+      "name": {
+        "de": "Basis",
+        "en": "Based",
+        "es": "Con base",
+        "fr": "Basé",
+        "it": "Base"
+      }
+    },
+    {
+      "title_id": "192",
+      "name": {
+        "de": "Rekord-Schmetterer",
+        "en": "Record Smasher",
+        "es": "Machacarécords",
+        "fr": "Record Smasher",
+        "it": "Schiantarecord"
+      }
+    },
+    {
+      "title_id": "193",
+      "name": {
+        "de": "PlanetsideBattles",
+        "en": "PlanetsideBattles",
+        "es": "PlanetsideBattles",
+        "fr": "Les Batailles Planetside",
+        "it": "PlanetsideBattles"
+      }
+    },
+    {
+      "title_id": "194",
+      "name": {
+        "de": "AGD-Patriarch",
+        "en": "AGD Patriarch",
+        "es": "Patriarca AGD",
+        "fr": "Fauteuil du patriarche développeur",
+        "it": "Patriarca degli sviluppatori in poltrona"
+      }
+    },
+    {
+      "title_id": "195",
+      "name": {
+        "de": "Der Überlebende",
+        "en": "The Survivor",
+        "es": "El superviviente",
+        "fr": "Le Survivant",
+        "it": "Il sopravvissuto"
+      }
+    },
+    {
+      "title_id": "197",
+      "name": {
+        "de": "Kopfgeldjäger",
+        "en": "Bounty Hunter",
+        "es": "Cazarrecompensas",
+        "fr": "Chasseur de primes",
+        "it": "Cacciatore di taglie"
+      }
+    },
+    {
+      "title_id": "198",
+      "name": {
+        "de": "Zerstörer",
+        "en": "Destroyer",
+        "es": "Destructor",
+        "fr": "Destructeur",
+        "it": "Distruttore"
+      }
+    },
+    {
+      "title_id": "199",
+      "name": {
+        "de": "Champion",
+        "en": "Champion",
+        "es": "Campeón",
+        "fr": "Champion",
+        "it": "Campione"
+      }
+    },
+    {
+      "title_id": "200",
+      "name": {
+        "de": "Eroberer",
+        "en": "Conqueror",
+        "es": "Conquistador",
+        "fr": "Conquérant",
+        "it": "Conquistatore"
+      }
+    },
+    {
+      "title_id": "201",
+      "name": {
+        "de": "Prädator",
+        "en": "Predator",
+        "es": "Depredador",
+        "fr": "Prédateur",
+        "it": "Predatore"
+      }
+    },
+    {
+      "title_id": "202",
+      "name": {
+        "de": "Dreadnaught",
+        "en": "Dreadnaught",
+        "es": "Acorazado",
+        "fr": "Dreadnaught",
+        "it": "Dreadnaught"
+      }
+    },
+    {
+      "title_id": "203",
+      "name": {
+        "de": "Hersteller",
+        "en": "Creator",
+        "es": "Creador",
+        "fr": "Créateur",
+        "it": "Creatore"
+      }
+    },
+    {
+      "title_id": "204",
+      "name": {
+        "de": "Kaiser",
+        "en": "Imperator",
+        "es": "Imperator",
+        "fr": "Imperator",
+        "it": "Imperatore"
+      }
+    },
+    {
+      "title_id": "205",
+      "name": {
+        "de": "Entdeckungsmeister",
+        "en": "Detection Master",
+        "es": "Maestro detector",
+        "fr": "Maître de Détection",
+        "it": "Maestro di rilevamento"
+      }
+    },
+    {
+      "title_id": "206",
+      "name": {
+        "de": "World Champion",
+        "en": "World Champion",
+        "es": "Campeón mundial",
+        "fr": "Champion du Monde",
+        "it": "Campione del mondo"
+      }
+    },
+    {
+      "title_id": "207",
+      "name": {
+        "de": "LaneSmash Champion",
+        "en": "LaneSmash Champion",
+        "es": "Campeón LaneSmash",
+        "fr": "Champion LaneSmash",
+        "it": "Campione di LaneSmash"
+      }
+    },
+    {
+      "title_id": "208",
+      "name": {
+        "de": "Der Heldenhafte",
+        "en": "The Heroic",
+        "es": "El Heroico",
+        "fr": "L'Héroïque",
+        "it": "Eroico"
+      }
+    },
+    {
+      "title_id": "209",
+      "name": {
+        "de": "Madman",
+        "en": "Madman",
+        "es": "Demente",
+        "fr": "Madman",
+        "it": "Folle"
+      }
+    },
+    {
+      "title_id": "210",
+      "name": {
+        "de": "Reiter",
+        "en": "Horseman",
+        "es": "Jinete",
+        "fr": "Cavalier",
+        "it": "Cavaliere"
+      }
+    },
+    {
+      "title_id": "211",
+      "name": {
+        "de": "Kriegsbringer",
+        "en": "Warbringer",
+        "es": "Destructor",
+        "fr": "Belliciste",
+        "it": "Macchina da guerra"
+      }
+    },
+    {
+      "title_id": "212",
+      "name": {
+        "de": "Fröhlich",
+        "en": "Jolly",
+        "es": "Alegre",
+        "fr": "Joyeux",
+        "it": "Allegro"
+      }
+    },
+    {
+      "title_id": "213",
+      "name": {
+        "de": "F.S.P. Einsatzkraft",
+        "en": "A.S.P. Operative",
+        "es": "Operativo P.A.E.",
+        "fr": "Agent du P.S.A.",
+        "it": "Agente A.S.P."
+      }
+    },
+    {
+      "title_id": "214",
+      "name": {
+        "de": "Warnung",
+        "en": "Advisory",
+        "es": "Asesor",
+        "fr": "Conseil",
+        "it": "Consulente"
+      }
+    },
+    {
+      "title_id": "215",
+      "name": {
+        "de": "Myriade",
+        "en": "Myriad",
+        "es": "Miríada",
+        "fr": "Myriade",
+        "it": "Miriade"
+      }
+    },
+    {
+      "title_id": "216",
+      "name": {
+        "de": "Auserwählt",
+        "en": "Chosen",
+        "es": "Elegido",
+        "fr": "Choisi",
+        "it": "Prescelto"
+      }
+    },
+    {
+      "title_id": "217",
+      "name": {
+        "de": "Baumeister",
+        "en": "Builder",
+        "es": "Constructor",
+        "fr": "Constructeur",
+        "it": "Costruttore"
+      }
+    },
+    {
+      "title_id": "218",
+      "name": {
+        "de": "Scrim-Meister",
+        "en": "Scrim Master",
+        "es": "Maestro de desafíos",
+        "fr": "Maître du Scrim",
+        "it": "Maestro di mischia"
+      }
+    },
+    {
+      "title_id": "219",
+      "name": {
+        "de": "Griesgram",
+        "en": "Grouchy",
+        "es": "Cascarrabias",
+        "fr": "Grognon",
+        "it": "Scorbutico"
+      }
+    },
+    {
+      "title_id": "228",
+      "name": {
+        "en": "v0.0.2"
+      }
+    },
+    {
+      "title_id": "229",
+      "name": {
+        "en": "v0.0.3"
+      }
+    },
+    {
+      "title_id": "230",
+      "name": {
+        "en": "v0.0.4"
+      }
+    },
+    {
+      "title_id": "231",
+      "name": {
+        "en": "v0.0.5"
+      }
+    },
+    {
+      "title_id": "232",
+      "name": {
+        "en": "v0.0.6"
+      }
+    },
+    {
+      "title_id": "233",
+      "name": {
+        "en": "v0.0.7"
+      }
+    },
+    {
+      "title_id": "234",
+      "name": {
+        "en": "v0.0.8"
+      }
+    },
+    {
+      "title_id": "235",
+      "name": {
+        "en": "v0.0.9"
+      }
+    },
+    {
+      "title_id": "236",
+      "name": {
+        "en": "v0.1.0"
+      }
+    },
+    {
+      "title_id": "237",
+      "name": {
+        "en": "v0.1.1"
+      }
+    },
+    {
+      "title_id": "238",
+      "name": {
+        "en": "v0.1.2"
+      }
+    },
+    {
+      "title_id": "239",
+      "name": {
+        "en": "v0.1.3"
+      }
+    },
+    {
+      "title_id": "240",
+      "name": {
+        "en": "v0.1.4"
+      }
+    },
+    {
+      "title_id": "241",
+      "name": {
+        "en": "v0.1.5"
+      }
+    },
+    {
+      "title_id": "242",
+      "name": {
+        "en": "v0.1.6"
+      }
+    },
+    {
+      "title_id": "243",
+      "name": {
+        "en": "v0.1.7"
+      }
+    },
+    {
+      "title_id": "244",
+      "name": {
+        "en": "v0.1.8"
+      }
+    },
+    {
+      "title_id": "245",
+      "name": {
+        "en": "v0.1.9"
+      }
+    },
+    {
+      "title_id": "246",
+      "name": {
+        "en": "v0.2.0"
+      }
+    },
+    {
+      "title_id": "247",
+      "name": {
+        "en": "v0.2.1"
+      }
+    },
+    {
+      "title_id": "248",
+      "name": {
+        "en": "v0.2.2"
+      }
+    },
+    {
+      "title_id": "249",
+      "name": {
+        "en": "v0.2.3"
+      }
+    },
+    {
+      "title_id": "250",
+      "name": {
+        "en": "v0.2.4"
+      }
+    },
+    {
+      "title_id": "251",
+      "name": {
+        "en": "v0.2.5"
+      }
+    },
+    {
+      "title_id": "252",
+      "name": {
+        "en": "v0.2.6"
+      }
+    },
+    {
+      "title_id": "253",
+      "name": {
+        "en": "v0.2.7"
+      }
+    },
+    {
+      "title_id": "254",
+      "name": {
+        "en": "v0.2.8"
+      }
+    },
+    {
+      "title_id": "255",
+      "name": {
+        "en": "v0.2.9"
+      }
+    },
+    {
+      "title_id": "256",
+      "name": {
+        "en": "v0.3.0"
+      }
+    },
+    {
+      "title_id": "257",
+      "name": {
+        "en": "v0.3.1"
+      }
+    },
+    {
+      "title_id": "258",
+      "name": {
+        "en": "v0.3.2"
+      }
+    },
+    {
+      "title_id": "259",
+      "name": {
+        "en": "v0.3.3"
+      }
+    },
+    {
+      "title_id": "260",
+      "name": {
+        "en": "v0.3.4"
+      }
+    },
+    {
+      "title_id": "261",
+      "name": {
+        "en": "v0.3.5"
+      }
+    },
+    {
+      "title_id": "262",
+      "name": {
+        "en": "v0.3.6"
+      }
+    },
+    {
+      "title_id": "263",
+      "name": {
+        "en": "v0.3.7"
+      }
+    },
+    {
+      "title_id": "264",
+      "name": {
+        "en": "v0.3.8"
+      }
+    },
+    {
+      "title_id": "265",
+      "name": {
+        "en": "v0.3.9"
+      }
+    },
+    {
+      "title_id": "266",
+      "name": {
+        "en": "v0.4.0"
+      }
+    },
+    {
+      "title_id": "267",
+      "name": {
+        "en": "v0.4.1"
+      }
+    },
+    {
+      "title_id": "268",
+      "name": {
+        "en": "v0.4.2"
+      }
+    },
+    {
+      "title_id": "269",
+      "name": {
+        "en": "v0.4.3"
+      }
+    },
+    {
+      "title_id": "270",
+      "name": {
+        "en": "v0.4.4"
+      }
+    },
+    {
+      "title_id": "271",
+      "name": {
+        "en": "v0.4.5"
+      }
+    },
+    {
+      "title_id": "272",
+      "name": {
+        "en": "v0.4.6"
+      }
+    },
+    {
+      "title_id": "273",
+      "name": {
+        "en": "v0.4.7"
+      }
+    },
+    {
+      "title_id": "274",
+      "name": {
+        "en": "v0.4.8"
+      }
+    },
+    {
+      "title_id": "275",
+      "name": {
+        "en": "v0.4.9"
+      }
+    },
+    {
+      "title_id": "276",
+      "name": {
+        "en": "v0.5.0"
+      }
+    },
+    {
+      "title_id": "277",
+      "name": {
+        "en": "v0.5.1"
+      }
+    },
+    {
+      "title_id": "278",
+      "name": {
+        "en": "v0.5.2"
+      }
+    },
+    {
+      "title_id": "279",
+      "name": {
+        "en": "v0.5.3"
+      }
+    },
+    {
+      "title_id": "280",
+      "name": {
+        "en": "v0.5.4"
+      }
+    },
+    {
+      "title_id": "281",
+      "name": {
+        "en": "v0.5.5"
+      }
+    },
+    {
+      "title_id": "282",
+      "name": {
+        "en": "v0.5.6"
+      }
+    },
+    {
+      "title_id": "283",
+      "name": {
+        "en": "v0.5.7"
+      }
+    },
+    {
+      "title_id": "284",
+      "name": {
+        "en": "v0.5.8"
+      }
+    },
+    {
+      "title_id": "285",
+      "name": {
+        "en": "v0.5.9"
+      }
+    },
+    {
+      "title_id": "286",
+      "name": {
+        "en": "v0.6.0"
+      }
+    },
+    {
+      "title_id": "287",
+      "name": {
+        "en": "v0.6.1"
+      }
+    },
+    {
+      "title_id": "288",
+      "name": {
+        "en": "v0.6.2"
+      }
+    },
+    {
+      "title_id": "289",
+      "name": {
+        "en": "v0.6.3"
+      }
+    },
+    {
+      "title_id": "290",
+      "name": {
+        "en": "v0.6.4"
+      }
+    },
+    {
+      "title_id": "291",
+      "name": {
+        "en": "v0.6.5"
+      }
+    },
+    {
+      "title_id": "292",
+      "name": {
+        "en": "v0.6.6"
+      }
+    },
+    {
+      "title_id": "293",
+      "name": {
+        "en": "v0.6.7"
+      }
+    },
+    {
+      "title_id": "294",
+      "name": {
+        "en": "v0.6.8"
+      }
+    },
+    {
+      "title_id": "295",
+      "name": {
+        "en": "v0.6.9"
+      }
+    },
+    {
+      "title_id": "296",
+      "name": {
+        "en": "v0.7.0"
+      }
+    },
+    {
+      "title_id": "297",
+      "name": {
+        "en": "v0.7.1"
+      }
+    },
+    {
+      "title_id": "298",
+      "name": {
+        "en": "v0.7.2"
+      }
+    },
+    {
+      "title_id": "299",
+      "name": {
+        "en": "v0.7.3"
+      }
+    },
+    {
+      "title_id": "300",
+      "name": {
+        "en": "v0.7.4"
+      }
+    },
+    {
+      "title_id": "301",
+      "name": {
+        "en": "v0.7.5"
+      }
+    },
+    {
+      "title_id": "302",
+      "name": {
+        "en": "v0.7.6"
+      }
+    },
+    {
+      "title_id": "303",
+      "name": {
+        "en": "v0.7.7"
+      }
+    },
+    {
+      "title_id": "304",
+      "name": {
+        "en": "v0.7.8"
+      }
+    },
+    {
+      "title_id": "305",
+      "name": {
+        "en": "v0.7.9"
+      }
+    },
+    {
+      "title_id": "306",
+      "name": {
+        "en": "v0.8.0"
+      }
+    },
+    {
+      "title_id": "307",
+      "name": {
+        "en": "v0.8.1"
+      }
+    },
+    {
+      "title_id": "308",
+      "name": {
+        "en": "v0.8.2"
+      }
+    },
+    {
+      "title_id": "309",
+      "name": {
+        "en": "v0.8.3"
+      }
+    },
+    {
+      "title_id": "310",
+      "name": {
+        "en": "v0.8.4"
+      }
+    },
+    {
+      "title_id": "311",
+      "name": {
+        "en": "v0.8.5"
+      }
+    },
+    {
+      "title_id": "312",
+      "name": {
+        "en": "v0.8.6"
+      }
+    },
+    {
+      "title_id": "313",
+      "name": {
+        "en": "v0.8.7"
+      }
+    },
+    {
+      "title_id": "314",
+      "name": {
+        "en": "v0.8.8"
+      }
+    },
+    {
+      "title_id": "315",
+      "name": {
+        "en": "v0.8.9"
+      }
+    },
+    {
+      "title_id": "316",
+      "name": {
+        "en": "v0.9.0"
+      }
+    },
+    {
+      "title_id": "317",
+      "name": {
+        "en": "v0.9.1"
+      }
+    },
+    {
+      "title_id": "318",
+      "name": {
+        "en": "v0.9.2"
+      }
+    },
+    {
+      "title_id": "319",
+      "name": {
+        "en": "v0.9.3"
+      }
+    },
+    {
+      "title_id": "320",
+      "name": {
+        "en": "v0.9.4"
+      }
+    },
+    {
+      "title_id": "321",
+      "name": {
+        "en": "v0.9.5"
+      }
+    },
+    {
+      "title_id": "322",
+      "name": {
+        "en": "v0.9.6"
+      }
+    },
+    {
+      "title_id": "323",
+      "name": {
+        "en": "v0.9.7"
+      }
+    },
+    {
+      "title_id": "324",
+      "name": {
+        "en": "v0.9.8"
+      }
+    },
+    {
+      "title_id": "325",
+      "name": {
+        "en": "v0.9.9"
+      }
+    },
+    {
+      "title_id": "326",
+      "name": {
+        "en": "v1.0.0"
+      }
+    },
+    {
+      "title_id": "327",
+      "name": {
+        "en": "v1.0.1"
+      }
+    },
+    {
+      "title_id": "328",
+      "name": {
+        "en": "v1.0.2"
+      }
+    },
+    {
+      "title_id": "329",
+      "name": {
+        "en": "v1.0.3"
+      }
+    },
+    {
+      "title_id": "330",
+      "name": {
+        "en": "v1.0.4"
+      }
+    },
+    {
+      "title_id": "331",
+      "name": {
+        "en": "v1.0.5"
+      }
+    },
+    {
+      "title_id": "332",
+      "name": {
+        "en": "v1.0.6"
+      }
+    },
+    {
+      "title_id": "333",
+      "name": {
+        "en": "v1.0.7"
+      }
+    },
+    {
+      "title_id": "334",
+      "name": {
+        "en": "v1.0.8"
+      }
+    },
+    {
+      "title_id": "335",
+      "name": {
+        "en": "v1.0.9"
+      }
+    },
+    {
+      "title_id": "336",
+      "name": {
+        "en": "v1.1.0"
+      }
+    },
+    {
+      "title_id": "337",
+      "name": {
+        "en": "v1.1.1"
+      }
+    },
+    {
+      "title_id": "338",
+      "name": {
+        "en": "v1.1.2"
+      }
+    },
+    {
+      "title_id": "339",
+      "name": {
+        "en": "v1.1.3"
+      }
+    },
+    {
+      "title_id": "340",
+      "name": {
+        "en": "v1.1.4"
+      }
+    },
+    {
+      "title_id": "341",
+      "name": {
+        "en": "v1.1.5"
+      }
+    },
+    {
+      "title_id": "342",
+      "name": {
+        "en": "v1.1.6"
+      }
+    },
+    {
+      "title_id": "343",
+      "name": {
+        "en": "v1.1.7"
+      }
+    },
+    {
+      "title_id": "344",
+      "name": {
+        "en": "v1.1.8"
+      }
+    },
+    {
+      "title_id": "345",
+      "name": {
+        "en": "v1.1.9"
+      }
+    },
+    {
+      "title_id": "346",
+      "name": {
+        "en": "v1.2.0"
+      }
+    },
+    {
+      "title_id": "347",
+      "name": {
+        "de": "Rekursiv",
+        "en": "Recursive",
+        "es": "Recursive",
+        "fr": "Recursive",
+        "it": "Ricorrente"
+      }
+    },
+    {
+      "title_id": "390",
+      "name": {
+        "de": "Surfer",
+        "en": "Surfer",
+        "es": "Surfista",
+        "fr": "Surfeur",
+        "it": "Surfista"
+      }
+    },
+    {
+      "title_id": "391",
+      "name": {
+        "de": "Leichenbestatter",
+        "en": "Undertaker",
+        "es": "Enterrador",
+        "fr": "Croque-mort",
+        "it": "Becchino"
+      }
+    },
+    {
+      "title_id": "392",
+      "name": {
+        "de": "Abscheulicher",
+        "en": "Abominable",
+        "es": "Abominable",
+        "fr": "Abominable",
+        "it": "Abominevole"
+      }
+    },
+    {
+      "title_id": "393",
+      "name": {
+        "de": "Team-Loyalist",
+        "en": "Outfit Loyalist",
+        "es": "Leal de la brigada",
+        "fr": "Loyal à son unité",
+        "it": "Lealista dell'outfit"
+      }
+    },
+    {
+      "title_id": "394",
+      "name": {
+        "de": "Team-Loyalist",
+        "en": "Outfit Loyalist",
+        "es": "Leal de la brigada",
+        "fr": "Loyal à son unité",
+        "it": "Lealista dell'outfit"
+      }
+    },
+    {
+      "title_id": "395",
+      "name": {
+        "de": "Team-Loyalist",
+        "en": "Outfit Loyalist",
+        "es": "Leal de la brigada",
+        "fr": "Loyal à son unité",
+        "it": "Lealista dell'outfit"
+      }
+    },
+    {
+      "title_id": "396",
+      "name": {
+        "de": "Team-Loyalist",
+        "en": "Outfit Loyalist",
+        "es": "Leal de la brigada",
+        "fr": "Loyal à son unité",
+        "it": "Lealista dell'outfit"
+      }
+    },
+    {
+      "title_id": "397",
+      "name": {
+        "de": "Team-Unterstützer",
+        "en": "Outfit Supporter",
+        "es": "Apoyo a la brigada",
+        "fr": "Adepte de l'unité",
+        "it": "Sostenitore dell'outfit"
+      }
+    },
+    {
+      "title_id": "398",
+      "name": {
+        "de": "Team-Unterstützer",
+        "en": "Outfit Supporter",
+        "es": "Apoyo a la brigada",
+        "fr": "Adepte de l'unité",
+        "it": "Sostenitore dell'outfit"
+      }
+    },
+    {
+      "title_id": "399",
+      "name": {
+        "de": "Team-Unterstützer",
+        "en": "Outfit Supporter",
+        "es": "Apoyo a la brigada",
+        "fr": "Adepte de l'unité",
+        "it": "Sostenitore dell'outfit"
+      }
+    },
+    {
+      "title_id": "400",
+      "name": {
+        "de": "Team-Unterstützer",
+        "en": "Outfit Supporter",
+        "es": "Apoyo a la brigada",
+        "fr": "Adepte de l'unité",
+        "it": "Sostenitore dell'outfit"
+      }
+    },
+    {
+      "title_id": "401",
+      "name": {
+        "de": "Krieger",
+        "en": "Warrior",
+        "es": "Guerrero",
+        "fr": "Guerrier",
+        "it": "Guerriero"
+      }
+    },
+    {
+      "title_id": "402",
+      "name": {
+        "de": "Sturmjäger",
+        "en": "Stormchaser",
+        "es": "Cazador de tormentas",
+        "fr": "Chasseur de tempête",
+        "it": "Cercatempeste"
+      }
+    },
+    {
+      "title_id": "403",
+      "name": {
+        "de": "Gruselig",
+        "en": "Creepy",
+        "es": "Espeluznante",
+        "fr": "Effrayant",
+        "it": "Terrificante"
+      }
+    },
+    {
+      "title_id": "404",
+      "name": {
+        "de": "Entdecker",
+        "en": "Cinematographer",
+        "es": "Cinematógrafo",
+        "fr": "Chef opérateur",
+        "it": "Cine operatore"
+      }
+    },
+    {
+      "title_id": "405",
+      "name": {
+        "de": "Raketenmann",
+        "en": "Rocketman",
+        "es": "Cohetero",
+        "fr": "Rocketman",
+        "it": "Uomo razzo"
+      }
+    },
+    {
+      "title_id": "406",
+      "name": {
+        "de": "Großzügig",
+        "en": "Generous",
+        "es": "Generosidad",
+        "fr": "Généreux",
+        "it": "Generoso"
+      }
+    },
+    {
+      "title_id": "407",
+      "name": {
+        "de": "Siegreich",
+        "en": "Victorious",
+        "es": "Victoria",
+        "fr": "Victorieux",
+        "it": "Vittorioso"
+      }
+    },
+    {
+      "title_id": "408",
+      "name": {
+        "de": "Fröhlich",
+        "en": "Cheerful",
+        "es": "Alegre",
+        "fr": "Joyeux",
+        "it": "Allegro"
+      }
+    }
+  ],
+  "returned": 356
+}

@@ -1,0 +1,79 @@
+{
+  "faction_list": [
+    {
+      "faction_id": "0",
+      "name": {
+        "de": "Kein",
+        "en": "None",
+        "es": "Ninguno",
+        "fr": "Aucun",
+        "it": "Nessuno",
+        "tr": "None"
+      },
+      "code_tag": "None",
+      "user_selectable": "0"
+    },
+    {
+      "faction_id": "1",
+      "name": {
+        "de": "Vanu-Souveränität",
+        "en": "Vanu Sovereignty",
+        "es": "Soberanía Vanu",
+        "fr": "Souveraineté Vanu",
+        "it": "Sovranità Vanu",
+        "tr": "Vanu Hükümdarlığı"
+      },
+      "image_set_id": "21",
+      "image_id": "94",
+      "image_path": "/files/ps2/images/static/94.png",
+      "code_tag": "VS",
+      "user_selectable": "1"
+    },
+    {
+      "faction_id": "2",
+      "name": {
+        "de": "Neues Konglomerat",
+        "en": "New Conglomerate",
+        "es": "Nuevo Conglomerado",
+        "fr": "Nouveau Conglomérat",
+        "it": "Nuovo Conglomerato",
+        "tr": "Yeni Birleşim"
+      },
+      "image_set_id": "19",
+      "image_id": "12",
+      "image_path": "/files/ps2/images/static/12.png",
+      "code_tag": "NC",
+      "user_selectable": "1"
+    },
+    {
+      "faction_id": "3",
+      "name": {
+        "de": "Terranische Republik",
+        "en": "Terran Republic",
+        "es": "República Terran",
+        "fr": "République Terrane",
+        "it": "Repubblica Terrestre",
+        "tr": "Terran Cumhuriyeti"
+      },
+      "image_set_id": "20",
+      "image_id": "18",
+      "image_path": "/files/ps2/images/static/18.png",
+      "code_tag": "TR",
+      "user_selectable": "1"
+    },
+    {
+      "faction_id": "4",
+      "name": {
+        "de": "NS-Agenten",
+        "en": "NS Operatives",
+        "es": "Operativos NS",
+        "fr": "Agents NS",
+        "it": "Agenti NS"
+      },
+      "image_set_id": "804586",
+      "code_tag": "NSO",
+      "user_selectable": "1"
+    }
+  ],
+  "returned": 5
+}
