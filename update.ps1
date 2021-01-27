@@ -1,11 +1,23 @@
 Import-Module ./src/PSDayBreak.psm1
 
-# TODO: Run updates...
+<#
 
-# Get-JsonIndex -Path './docs/data' | ConvertTo-Json -Depth 10 | Out-File './docs/data/index.json'
+.DESCRIPTION
+Updates website data.
 
-Get-JsonIndex -Path './docs/example' | ConvertTo-Json -Depth 10 | Out-File './docs/example/index.json'
+#>
+Function Invoke-Update {
+    # TODO: Run updates...
+    
+    # Get-JsonIndex -Path './docs/data' | ConvertTo-Json -Depth 10 | Out-File './docs/data/index.json'
+    
+    Sync-ExampleCensusData -Path './docs/example'
 
+    Get-JsonIndex -Path './docs/example' | ConvertTo-Json -Depth 10 | Out-File './docs/example/index.json'
+}
+<#
+
+#>
 Function Get-JsonIndex ($Path) {
     $ht = [ordered]@{}
 
@@ -21,4 +33,8 @@ Function Get-JsonIndex ($Path) {
     }
 
     [pscustomobject]$ht
+}
+
+if (-not $psISE -and -not $psEditor) {
+    Invoke-Update
 }

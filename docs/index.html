@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>[EDIM] Emerald Immersion - PS2 Census Data</title>
+	<title>[EDIM] Census Data</title>
 	<meta name="description" content="EDIM Census Website for PlanetSide data" />
 	<meta name="keywords" content="Emerald Immersion, EDIM, PlanetSide Outfit" />
 	<meta name="author" content="EDIM" />
@@ -18,11 +18,33 @@
 	<link rel="stylesheet" media="screen" href="style.css" />
 </head>
 <body>
-	<h1>Emerald Immersion - PlanetSide 2 Census Data</h1>
-	<p>This website hosts cached data for PlanetSide 2.</p>
-	<p>It will also provide some documentation soon, as well as indexes and reports.</p>
-	<h2>Example</h2>
-	<p>Example data is viewable at: <a href="example/index.json">example/index.json</a></p>
+	<main>
+		<aside>
+				<img src="media/EDIM_512.png" width="256" height="256" alt="Emerald Immersion" />
+			<hr/>
+				<a href="#home">Home</a>
+			<hr/>
+				<img src="media/planetside.png" width="200" height="34" alt="PlanetSide 2" />
+			<hr/>
+				<a href="#ps2">PlanetSide 2</a>
+				<a href="#ps2-example">Example</a>
+				<a href="#ps2-data">Data</a>
+		</aside>
+		<section>
+			<article>
+				<h1 id="home">Emerald Immersion - Census Data</h1>
+			</article>
+			<article>
+				<h1 id="ps2">PlanetSide 2</h1>
+				<p>Documentation coming soon, as well as indexes and reports.</p>
+				<h2 id="ps2-example">Example</h2>
+				<p>Example data is viewable at: <a href="example/index.json">example/index.json</a></p>
+				<h2 id="ps2-data">Data</h2>
+				<p>The data will eventually be at <a href="data/index.json">data/index.json</a>.</p>
+				<p>This dataset will be indexed in blocks of 1000 items where the object keys are the ID's for easy lookup.</p>
+			</article>
+		</section>
+	</main>
 	<script src="app.js" async defer></script>
 </body>
 </html>

@@ -34,42 +34,75 @@ Function Get-PlanetSidePlayerItemDetails ([string]$PlayerName) {
         }
     }
 }
-
 <#
+
+.DESCRIPTION
+Simple loop through available API data to grab examples.
+
+.PARAMETER Path
+The path of your example data.
+
+.PARAMETER IncludePersonal
+Include character and outfit collections, for development, data is in .gitignore
 
 .EXAMPLE
 
-gci data -file -recurse | ? { ($_ | gc -Raw) -like '*Missing Service ID*' } | remove-item
-
-gci data -file -recurse | ? { ($_ | gc -Raw) -like '*@{*' } | remove-item
-
-gci data -file -recurse | ? {
+# cleanup errors
+gci docs/example -file -recurse -exclude 'index.json' | ? { ($_ | gc -Raw) -like '*Missing Service ID*' } | remove-item
+gci docs/example -file -recurse -exclude 'index.json' | ? { ($_ | gc -Raw) -like '*@{*' } | remove-item
+gci docs/example -file -recurse -exclude 'index.json' | ? {
     $name = [IO.Path]::GetDirectoryName($_.DirectoryName)
 
     $data = ($_ | gc -Raw | ConvertFrom-Json)
 
     -not $data.returned
-} | gc
+} | Remove-Item
+
+# small datasets
+gci docs/example -file -recurse -exclude 'index.json' | ? {
+    $name = [IO.Path]::GetDirectoryName($_.DirectoryName)
+
+    $data = ($_ | gc -Raw | ConvertFrom-Json)
+
+    $data.returned -and $data.returned -lt 1000
+} | % { "'$([IO.Path]::GetFileName($_.DirectoryName))'" }
+
+# large datasets
+gci docs/example -file -recurse -exclude 'index.json' | ? {
+    $name = [IO.Path]::GetDirectoryName($_.DirectoryName)
+
+    $data = ($_ | gc -Raw | ConvertFrom-Json)
+
+    $data.returned -and $data.returned -eq 1000
+} | % { "'$([IO.Path]::GetFileName($_.DirectoryName))'" }
+
+# personal datasets
+gci docs/example -file -recurse -exclude 'index.json' | ? { 
+    $_.FullName -like '*char*' -or $_.FullName -like '*outfit*'
+} | % { "'$([IO.Path]::GetFileName($_.DirectoryName))'" }
 
 #>
-Function Sync-PlanetSideData ($OutputFolder) {
+Function Sync-ExampleCensusData ([string]$Path, [switch]$IncludePersonal) {
     $ps2 = 'https://census.daybreakgames.com/get/ps2:v2'
+    $limit = 1000
 
     $collections = Invoke-RestMethod $ps2
-
-    $limit = 1000
-    $offset = 0
 
     $collections.datatype_list | ForEach-Object {
         $name = $_.name
 
-        $outputName = [IO.Path]::Combine($OutputFolder, "data/${name}/${offset}-${limit}_example.json")
+        if ($IncludePersonal) {
+            if ($name -like 'character*' -or $name -like 'outfit*') {
+                Return
+            }
+        }
+
+        $outputPath = [IO.Path]::Combine($Path, $name)
+        $outputName = [IO.Path]::Combine($outputPath, "${limit}.json")
 
         if ([IO.File]::Exists($outputName)) {
             Return
         }
-
-        $next = "${ps2}/${name}/?c:limit=$limit&c:start=$offset"
 
         $page = $null
 
@@ -98,10 +131,49 @@ Function Sync-PlanetSideData ($OutputFolder) {
             $page
         }
 
-        New-Item -ItemType Directory "data/${name}" -ErrorAction SilentlyContinue
-
-        $page | ConvertTo-Json -Depth 99 | Out-File $outputName
+        if ($page.returned) {
+            New-Item -ItemType Directory $outputPath -ErrorAction SilentlyContinue
+    
+            $page | ConvertTo-Json -Depth 99 | Out-File $outputName
+        }
     }
+}
+<#
+
+.DESCRIPTION
+
+
+#>
+Function Sync-LiveCensusData ([string]$DataFolder) {
+    $ps2 = 'https://census.daybreakgames.com/get/ps2:v2'
+
+    $collections = Invoke-RestMethod $ps2
+
+    $datatype = @{}
+    
+    $collections.datatype_list | ForEach-Object {
+        $name = $_.name
+        
+        $datatypeFolder = [IO.Path]::Combine($DataFolder, $name)
+
+        $currentItems = Get-ChildItem -Path $datatypeFolder -File -Filter *.json | ForEach-Object {
+            try {
+                $s = $_.BaseName.Split('-', 2)
+
+                $_ | Add-Member -NotePropertyName 'StartID' -NotePropertyValue [int]$s[0]
+                $_ | Add-Member -NotePropertyName 'StopID' -NotePropertyValue [int]$s[1]
+
+                $_ 
+            } catch {
+                Write-Warning "Error parsing file in data directory: $($_.FullName.SubString($datatypeFolder.Length))"
+            }
+        }
+        
+        $datatype[$name] = [pscustomobject]@{
+            
+        }
+    }
+
 }
 <#
 
@@ -124,34 +196,54 @@ $vehicle_attachment_pages = Get-PlanetSideMany -url 'https://census.daybreakgame
 
 #>
 Function Get-PlanetSideMany ([string]$url, [int]$start, [int]$limit) {
-    $offset = 0 + $start
 
-    while ($true) {
-        $next = "${url}c:limit=$limit&c:start=$offset"
+    Get-DataStream -FromCount -ToCount -Limit 1000 -Fetch {
+        param([int]$Offset, [int]$Count)
 
-        Write-Host $next
+        $next = "${ps2}/${name}/?c:limit=${Count}&c:start=${Offset}"
 
-        try {
-            $page = Invoke-RestMethod $next
+        $page = $null
 
-            if ($page.returned) {
-                
+        $retries = 0
+        
+        while (-not $page) {
+            try {
+                $page = Invoke-RestMethod $next
+
+                if ($page.error -and $page.error -like '*Missing Service ID*') {
+                    Write-Host "Throttled, waiting 5 seconds..."
+                    $page = $null
+                    Start-Sleep -Seconds 5
+                } else {
+                    break
+                }
+            } catch {
+                if ($retries -gt 3) {
+                    throw $_
+                }
+
+                Write-Host "Request failed, sleeping 5 seconds, probably throttling: $next"
+
+                $_
+
+                Start-Sleep -Seconds 5
+
+                $retries += 1
             }
-        } catch {
-            Write-Host "Request failed, sleeping 5 seconds, probably throttling: $next"
-            $_
-            Start-Sleep -Seconds 5
-            continue
         }
 
-        $page
-
-        if ($page.returned -ne $limit) {
-            break
+        if ($page.error -or $page.errorCode) {
+            Write-Warning "Collection returned error: $name"
+            $page
         }
 
-        $offset += $limit
+        if ($page.returned) {
+
+        }
+
+        $_
     }
+
 }
 
 <#
@@ -162,7 +254,7 @@ Function Get-PlanetSideMany ([string]$url, [int]$start, [int]$limit) {
 .PARAMETER Fetch
 Fetch is called with the parameters based on Time or Count.
 
-This should return an array of objects.
+This should return each object, so they can be counted.
 
 param([DateTime]$StartTime, [DateTime]$EndTime)
 param([int]$Offset, [int]$Count)
@@ -200,7 +292,7 @@ Function Get-DataStream  {
         $offset = $FromTime
 
         while ($true) {
-            $results = Invoke-Command -ScriptBlock $Fetch -ArgumentList $offset,$ToTime
+            $results = @(Invoke-Command -ScriptBlock $Fetch -ArgumentList $offset,$ToTime)
     
             if ($results.Length -ge $Limit) {
                 
@@ -212,9 +304,13 @@ Function Get-DataStream  {
         while ($true) {
             $counter = 0
     
-            Invoke-Command -ScriptBlock $Fetch -ArgumentList $offset,$Limit | ForEach-Object {
-                $counter += 1
-                $_
+            try {
+                Invoke-Command -ScriptBlock $Fetch -ArgumentList $offset,$Limit | ForEach-Object {
+                    $counter += 1
+                    $_
+                }
+            } catch {
+                
             }
     
             if ($counter -lt $Limit) {
@@ -225,4 +321,101 @@ Function Get-DataStream  {
         }
     }
 
+}
+<#
+
+.DESCRIPTION
+Outputs a JSON file for a lookup table that can be diffed/compared easily.
+
+If values do contain multiple lines it will output like that, but it will still be valid json.
+
+.EXAMPLE
+
+Get-ChildItem . | Select-Object Name,Length,LastWriteTime | ConvertTo-JsonLookup -PropertyId 'Name' -Depth 1
+
+.EXAMPLE
+
+@(
+    [ordered]@{ "id" = 1; "text" = "foo" }
+    [ordered]@{ "id" = 2; "text" = "foo" }
+) | ConvertTo-JsonLookup -PropertyId 'id'
+
+Output:
+
+{
+"1": { "id": 1, "text": "foo" }
+,"2": { "id": 2, "text": "foo" }
+}
+
+#>
+Function ConvertTo-JsonLookup {
+    param (
+        [Parameter(ValueFromPipeline)]$InputObject,
+        [Parameter(Mandatory)][string]$PropertyId,
+        [int]$Depth = 10
+    )
+    begin {
+        "{"
+        $prefix = ''
+    }
+    process {
+        if (-not $_.$PropertyId) {
+            Write-Error "One or more items do not have the specified PropertyID."
+            Return
+        }
+
+        "$prefix`"$($_.$PropertyId)`": $($_ | ConvertTo-Json -Compress -Depth $Depth)"
+
+        if (-not $prefix) {
+            $prefix = ','
+        }
+    }
+    end {
+        '}'
+    }
+}
+<#
+
+.DESCRIPTION
+Converts input objects to JSON, within an JSON object.
+
+.EXAMPLE
+
+{"Items":[
+{ "id": 1 }
+,{ "id": 2 }
+,{ "id": 3 }
+],"Count":3}
+
+.NOTES
+First item could be null to skip prefix check...
+
+#>
+Function ConvertTo-JsonStream {
+    param (
+        [Parameter(ValueFromPipeline)]$InputObject,
+        [int]$Depth = 10,
+        [switch]$NoCount
+    )
+    begin {
+        [uint64]$count = 0
+
+        '{"Items":['
+    }
+    process {
+        "$prefix$($_ | ConvertTo-Json -Compress -Depth $Depth)"
+
+        $count += 1
+
+        if (-not $prefix) {
+            $prefix = ','
+        }
+    }
+    end {
+        if ($NoCount) {
+            ']}'
+        } else {
+            "],`"Count`":$count}"
+        }
+    }
 }

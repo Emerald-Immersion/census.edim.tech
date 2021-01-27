@@ -1,0 +1,98 @@
+/* Layout */
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+main {
+    display: flex;
+    justify-content: left;
+    align-content: left;
+    flex-direction: row;
+}
+
+main > aside {
+    display: flex;
+    justify-content: top;
+    align-content: center;
+    flex-direction: column;
+    margin: 15px;
+    padding: 15px;
+    border-right: 5px solid white;
+    height: 95vh;
+}
+
+main > section {
+    margin: 5px;
+    padding: 5px;
+}
+
+main > aside > img, main > aside > span {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+main > aside > span {
+    width: 100%;
+}
+
+main > aside > hr {
+    display: block;
+    border-bottom: 2px solid white;
+    width: 100%;
+}
+
+main > aside > a {
+    padding: 5px;
+    background-color: #555;
+    text-decoration: none;
+    color: #fff;
+    border-left: 5px solid cyan;
+}
+
+main > aside > a:hover {
+    border-left-color: green !important;
+}
+
+main > aside > a.visible {
+    border-left-color: white;
+}
+
+
+@media screen and (max-width: 860px) {
+    main {
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+    main > aside {
+        height: auto;
+        border-right: none;
+        justify-content: center;
+        align-content: center;
+    }
+}
+
+/* Styles */
+body {
+    background: #1c262f;
+}
+main {
+    color: #fff;
+    font-family: 'Arial';
+}
+
+article a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+article a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+pre {
+    font-family: 'Courier New';
+}
