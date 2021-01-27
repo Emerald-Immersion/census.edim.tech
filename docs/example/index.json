@@ -29,132 +29,6 @@
       "LastWriteTimeUtc": 1611688884777
     }
   },
-  "/character": {
-    "1000.json": {
-      "Length": 1033797,
-      "LastWriteTimeUtc": 1611689010288
-    }
-  },
-  "/character_name": {
-    "1000.json": {
-      "Length": 155433,
-      "LastWriteTimeUtc": 1611689011482
-    }
-  },
-  "/characters_achievement": {
-    "1000.json": {
-      "Length": 344087,
-      "LastWriteTimeUtc": 1611688306436
-    }
-  },
-  "/characters_currency": {
-    "1000.json": {
-      "Length": 181052,
-      "LastWriteTimeUtc": 1611688308215
-    }
-  },
-  "/characters_directive": {
-    "1000.json": {
-      "Length": 213051,
-      "LastWriteTimeUtc": 1611688312893
-    }
-  },
-  "/characters_directive_objective": {
-    "1000.json": {
-      "Length": 209157,
-      "LastWriteTimeUtc": 1611688314605
-    }
-  },
-  "/characters_directive_tier": {
-    "1000.json": {
-      "Length": 217483,
-      "LastWriteTimeUtc": 1611688316952
-    }
-  },
-  "/characters_directive_tree": {
-    "1000.json": {
-      "Length": 251172,
-      "LastWriteTimeUtc": 1611688320365
-    }
-  },
-  "/characters_event": {
-    "1000.json": {
-      "Length": 115,
-      "LastWriteTimeUtc": 1611689593696
-    }
-  },
-  "/characters_event_grouped": {
-    "1000.json": {
-      "Length": 115,
-      "LastWriteTimeUtc": 1611689543096
-    }
-  },
-  "/characters_friend": {
-    "1000.json": {
-      "Length": 35,
-      "LastWriteTimeUtc": 1611689541327
-    }
-  },
-  "/characters_item": {
-    "1000.json": {
-      "Length": 35,
-      "LastWriteTimeUtc": 1611688880321
-    }
-  },
-  "/characters_leaderboard": {
-    "1000.json": {
-      "Length": 35,
-      "LastWriteTimeUtc": 1611689542497
-    }
-  },
-  "/characters_online_status": {
-    "1000.json": {
-      "Length": 63,
-      "LastWriteTimeUtc": 1611689540219
-    }
-  },
-  "/characters_skill": {
-    "1000.json": {
-      "Length": 173290,
-      "LastWriteTimeUtc": 1611688323281
-    }
-  },
-  "/characters_stat": {
-    "1000.json": {
-      "Length": 363169,
-      "LastWriteTimeUtc": 1611688326265
-    }
-  },
-  "/characters_stat_by_faction": {
-    "1000.json": {
-      "Length": 699898,
-      "LastWriteTimeUtc": 1611688331631
-    }
-  },
-  "/characters_stat_history": {
-    "1000.json": {
-      "Length": 1486484,
-      "LastWriteTimeUtc": 1611689020634
-    }
-  },
-  "/characters_weapon_stat": {
-    "1000.json": {
-      "Length": 259202,
-      "LastWriteTimeUtc": 1611688340642
-    }
-  },
-  "/characters_weapon_stat_by_faction": {
-    "1000.json": {
-      "Length": 315267,
-      "LastWriteTimeUtc": 1611688344399
-    }
-  },
-  "/characters_world": {
-    "1000.json": {
-      "Length": 84939,
-      "LastWriteTimeUtc": 1611689467833
-    }
-  },
   "/currency": {
     "1000.json": {
       "Length": 304,
@@ -201,12 +75,6 @@
     "1000.json": {
       "Length": 5050,
       "LastWriteTimeUtc": 1611689042442
-    }
-  },
-  "/event": {
-    "1000.json": {
-      "Length": 37,
-      "LastWriteTimeUtc": 1611689661865
     }
   },
   "/experience": {
@@ -329,22 +197,10 @@
       "LastWriteTimeUtc": 1611689173275
     }
   },
-  "/leaderboard": {
-    "1000.json": {
-      "Length": 35,
-      "LastWriteTimeUtc": 1611689541911
-    }
-  },
   "/loadout": {
     "1000.json": {
       "Length": 2374,
       "LastWriteTimeUtc": 1611689173830
-    }
-  },
-  "/map": {
-    "1000.json": {
-      "Length": 35,
-      "LastWriteTimeUtc": 1611689540786
     }
   },
   "/map_hex": {
@@ -405,30 +261,6 @@
     "1000.json": {
       "Length": 5624,
       "LastWriteTimeUtc": 1611689323044
-    }
-  },
-  "/outfit": {
-    "1000.json": {
-      "Length": 342339,
-      "LastWriteTimeUtc": 1611689533605
-    }
-  },
-  "/outfit_member": {
-    "1000.json": {
-      "Length": 246460,
-      "LastWriteTimeUtc": 1611689535116
-    }
-  },
-  "/outfit_member_extended": {
-    "1000.json": {
-      "Length": 555397,
-      "LastWriteTimeUtc": 1611689538280
-    }
-  },
-  "/outfit_rank": {
-    "1000.json": {
-      "Length": 144698,
-      "LastWriteTimeUtc": 1611689539699
     }
   },
   "/player_state": {
@@ -531,12 +363,6 @@
     "1000.json": {
       "Length": 729,
       "LastWriteTimeUtc": 1611689326567
-    }
-  },
-  "/single_character_by_id": {
-    "1000.json": {
-      "Length": 35,
-      "LastWriteTimeUtc": 1611688297081
     }
   },
   "/skill": {
