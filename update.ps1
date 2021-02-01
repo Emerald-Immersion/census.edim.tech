@@ -11,9 +11,9 @@ Function Invoke-Update {
     
     # Get-JsonIndex -Path './docs/data' | ConvertTo-Json -Depth 10 | Out-File './docs/data/index.json'
     
-    Sync-ExampleCensusData -Path './docs/example'
+    Sync-ExampleCensusData -Path './docs/data/ps2_v2_example'
 
-    Get-JsonIndex -Path './docs/example' | ConvertTo-Json -Depth 10 | Out-File './docs/example/index.json'
+    Get-JsonIndex -Path './docs/data' | ConvertTo-Json -Depth 10 | Out-File './docs/data/index.json'
 }
 <#
 
