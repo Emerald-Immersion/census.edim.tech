@@ -1,0 +1,7005 @@
+{
+  "character_name_list": [
+    {
+      "character_id": "5428010618035157025",
+      "name": {
+        "first": "KarlTheJarl",
+        "first_lower": "karlthejarl"
+      }
+    },
+    {
+      "character_id": "5428010618035270193",
+      "name": {
+        "first": "RamboCsirke",
+        "first_lower": "rambocsirke"
+      }
+    },
+    {
+      "character_id": "5428010618036253601",
+      "name": {
+        "first": "StoutAle",
+        "first_lower": "stoutale"
+      }
+    },
+    {
+      "character_id": "5428010618037394497",
+      "name": {
+        "first": "Nethersquirrel",
+        "first_lower": "nethersquirrel"
+      }
+    },
+    {
+      "character_id": "5428010618037985489",
+      "name": {
+        "first": "ZulthusVS",
+        "first_lower": "zulthusvs"
+      }
+    },
+    {
+      "character_id": "5428010618038650385",
+      "name": {
+        "first": "iceagecoming",
+        "first_lower": "iceagecoming"
+      }
+    },
+    {
+      "character_id": "5428010618038970913",
+      "name": {
+        "first": "Sennzon",
+        "first_lower": "sennzon"
+      }
+    },
+    {
+      "character_id": "5428010618039168449",
+      "name": {
+        "first": "Flyingthong",
+        "first_lower": "flyingthong"
+      }
+    },
+    {
+      "character_id": "5428010618040125841",
+      "name": {
+        "first": "Wulff",
+        "first_lower": "wulff"
+      }
+    },
+    {
+      "character_id": "5428010618040174609",
+      "name": {
+        "first": "D3F3CTOR",
+        "first_lower": "d3f3ctor"
+      }
+    },
+    {
+      "character_id": "5428010618040455809",
+      "name": {
+        "first": "PetrP",
+        "first_lower": "petrp"
+      }
+    },
+    {
+      "character_id": "5428010618040854241",
+      "name": {
+        "first": "Code3rooster",
+        "first_lower": "code3rooster"
+      }
+    },
+    {
+      "character_id": "5428010618042334657",
+      "name": {
+        "first": "PetrPP",
+        "first_lower": "petrpp"
+      }
+    },
+    {
+      "character_id": "5428010618042440737",
+      "name": {
+        "first": "Quasars",
+        "first_lower": "quasars"
+      }
+    },
+    {
+      "character_id": "5428010618043393057",
+      "name": {
+        "first": "Lelani",
+        "first_lower": "lelani"
+      }
+    },
+    {
+      "character_id": "5428010618043679697",
+      "name": {
+        "first": "Hitlero",
+        "first_lower": "hitlero"
+      }
+    },
+    {
+      "character_id": "5428010618047899313",
+      "name": {
+        "first": "Drikou",
+        "first_lower": "drikou"
+      }
+    },
+    {
+      "character_id": "5428010917232286673",
+      "name": {
+        "first": "Donkish",
+        "first_lower": "donkish"
+      }
+    },
+    {
+      "character_id": "5428010917236432337",
+      "name": {
+        "first": "Jziced",
+        "first_lower": "jziced"
+      }
+    },
+    {
+      "character_id": "5428010917244602145",
+      "name": {
+        "first": "volkq",
+        "first_lower": "volkq"
+      }
+    },
+    {
+      "character_id": "5428010917249678177",
+      "name": {
+        "first": "Risolo",
+        "first_lower": "risolo"
+      }
+    },
+    {
+      "character_id": "5428010917249830529",
+      "name": {
+        "first": "4upakabra",
+        "first_lower": "4upakabra"
+      }
+    },
+    {
+      "character_id": "5428010917251290433",
+      "name": {
+        "first": "Tacknid",
+        "first_lower": "tacknid"
+      }
+    },
+    {
+      "character_id": "5428010917251382161",
+      "name": {
+        "first": "Travis",
+        "first_lower": "travis"
+      }
+    },
+    {
+      "character_id": "5428010917251463297",
+      "name": {
+        "first": "Zinix11",
+        "first_lower": "zinix11"
+      }
+    },
+    {
+      "character_id": "5428010917252640753",
+      "name": {
+        "first": "Mosta",
+        "first_lower": "mosta"
+      }
+    },
+    {
+      "character_id": "5428010917254184801",
+      "name": {
+        "first": "nillenilsson",
+        "first_lower": "nillenilsson"
+      }
+    },
+    {
+      "character_id": "5428010917255005473",
+      "name": {
+        "first": "kvjksj",
+        "first_lower": "kvjksj"
+      }
+    },
+    {
+      "character_id": "5428010917264355857",
+      "name": {
+        "first": "WarMacheenV2",
+        "first_lower": "warmacheenv2"
+      }
+    },
+    {
+      "character_id": "5428010917269704225",
+      "name": {
+        "first": "AngusBeef",
+        "first_lower": "angusbeef"
+      }
+    },
+    {
+      "character_id": "5428010917269778353",
+      "name": {
+        "first": "Neurotika",
+        "first_lower": "neurotika"
+      }
+    },
+    {
+      "character_id": "5428010917270129777",
+      "name": {
+        "first": "Dorfstein",
+        "first_lower": "dorfstein"
+      }
+    },
+    {
+      "character_id": "5428011263270430097",
+      "name": {
+        "first": "Greer",
+        "first_lower": "greer"
+      }
+    },
+    {
+      "character_id": "5428011263274238769",
+      "name": {
+        "first": "Serathir",
+        "first_lower": "serathir"
+      }
+    },
+    {
+      "character_id": "5428011263282719793",
+      "name": {
+        "first": "Spartankid",
+        "first_lower": "spartankid"
+      }
+    },
+    {
+      "character_id": "5428011263287318097",
+      "name": {
+        "first": "Cilyena",
+        "first_lower": "cilyena"
+      }
+    },
+    {
+      "character_id": "5428011263289215665",
+      "name": {
+        "first": "Blackhawk3339",
+        "first_lower": "blackhawk3339"
+      }
+    },
+    {
+      "character_id": "5428011263292610081",
+      "name": {
+        "first": "BobbyBriggs",
+        "first_lower": "bobbybriggs"
+      }
+    },
+    {
+      "character_id": "5428011263295863425",
+      "name": {
+        "first": "Zulthus",
+        "first_lower": "zulthus"
+      }
+    },
+    {
+      "character_id": "5428011263296030385",
+      "name": {
+        "first": "Xvendetta",
+        "first_lower": "xvendetta"
+      }
+    },
+    {
+      "character_id": "5428011263296079057",
+      "name": {
+        "first": "Meradmerad",
+        "first_lower": "meradmerad"
+      }
+    },
+    {
+      "character_id": "5428011263296762721",
+      "name": {
+        "first": "ComfyBlanket",
+        "first_lower": "comfyblanket"
+      }
+    },
+    {
+      "character_id": "5428011263306246673",
+      "name": {
+        "first": "Shiroun",
+        "first_lower": "shiroun"
+      }
+    },
+    {
+      "character_id": "5428011263307818129",
+      "name": {
+        "first": "Karbonara",
+        "first_lower": "karbonara"
+      }
+    },
+    {
+      "character_id": "5428011263309210833",
+      "name": {
+        "first": "Hanatoro",
+        "first_lower": "hanatoro"
+      }
+    },
+    {
+      "character_id": "5428011263311420769",
+      "name": {
+        "first": "Tiafan",
+        "first_lower": "tiafan"
+      }
+    },
+    {
+      "character_id": "5428011263314629329",
+      "name": {
+        "first": "HellsArchon1",
+        "first_lower": "hellsarchon1"
+      }
+    },
+    {
+      "character_id": "5428011263316043825",
+      "name": {
+        "first": "BarbarossaV",
+        "first_lower": "barbarossav"
+      }
+    },
+    {
+      "character_id": "5428011263318990625",
+      "name": {
+        "first": "jiban",
+        "first_lower": "jiban"
+      }
+    },
+    {
+      "character_id": "5428011263320210785",
+      "name": {
+        "first": "XphaedX",
+        "first_lower": "xphaedx"
+      }
+    },
+    {
+      "character_id": "5428011263322530561",
+      "name": {
+        "first": "RudenTheRipper",
+        "first_lower": "rudentheripper"
+      }
+    },
+    {
+      "character_id": "5428011263325394753",
+      "name": {
+        "first": "ily",
+        "first_lower": "ily"
+      }
+    },
+    {
+      "character_id": "5428011263331869745",
+      "name": {
+        "first": "PocokHUN2",
+        "first_lower": "pocokhun2"
+      }
+    },
+    {
+      "character_id": "5428011263339866529",
+      "name": {
+        "first": "SoulShards",
+        "first_lower": "soulshards"
+      }
+    },
+    {
+      "character_id": "5428011263351403073",
+      "name": {
+        "first": "BRockObamBam",
+        "first_lower": "brockobambam"
+      }
+    },
+    {
+      "character_id": "5428011263351915473",
+      "name": {
+        "first": "Heizan2",
+        "first_lower": "heizan2"
+      }
+    },
+    {
+      "character_id": "5428011263360795041",
+      "name": {
+        "first": "Xpulsion",
+        "first_lower": "xpulsion"
+      }
+    },
+    {
+      "character_id": "5428011263361462193",
+      "name": {
+        "first": "Daveed",
+        "first_lower": "daveed"
+      }
+    },
+    {
+      "character_id": "5428011263370748081",
+      "name": {
+        "first": "Candlejack289",
+        "first_lower": "candlejack289"
+      }
+    },
+    {
+      "character_id": "5428011263371632449",
+      "name": {
+        "first": "GuardianPrime",
+        "first_lower": "guardianprime"
+      }
+    },
+    {
+      "character_id": "5428011263373856193",
+      "name": {
+        "first": "Brad645",
+        "first_lower": "brad645"
+      }
+    },
+    {
+      "character_id": "5428011263374416129",
+      "name": {
+        "first": "tayranus1",
+        "first_lower": "tayranus1"
+      }
+    },
+    {
+      "character_id": "5428011263374625313",
+      "name": {
+        "first": "Hunara",
+        "first_lower": "hunara"
+      }
+    },
+    {
+      "character_id": "5428011263374659409",
+      "name": {
+        "first": "cocopuff542",
+        "first_lower": "cocopuff542"
+      }
+    },
+    {
+      "character_id": "5428011263382174321",
+      "name": {
+        "first": "Eatinchips",
+        "first_lower": "eatinchips"
+      }
+    },
+    {
+      "character_id": "5428011263382767857",
+      "name": {
+        "first": "Qurien",
+        "first_lower": "qurien"
+      }
+    },
+    {
+      "character_id": "5428011263390692465",
+      "name": {
+        "first": "billbobaggens",
+        "first_lower": "billbobaggens"
+      }
+    },
+    {
+      "character_id": "5428011263398266001",
+      "name": {
+        "first": "PyongFTW",
+        "first_lower": "pyongftw"
+      }
+    },
+    {
+      "character_id": "5428011263400660017",
+      "name": {
+        "first": "Spigot",
+        "first_lower": "spigot"
+      }
+    },
+    {
+      "character_id": "5428011263417576945",
+      "name": {
+        "first": "Ithrol",
+        "first_lower": "ithrol"
+      }
+    },
+    {
+      "character_id": "5428011263417630993",
+      "name": {
+        "first": "DarkEnd4",
+        "first_lower": "darkend4"
+      }
+    },
+    {
+      "character_id": "5428011263422825937",
+      "name": {
+        "first": "MuaddibRJ",
+        "first_lower": "muaddibrj"
+      }
+    },
+    {
+      "character_id": "5428011263433903153",
+      "name": {
+        "first": "Ryvan34",
+        "first_lower": "ryvan34"
+      }
+    },
+    {
+      "character_id": "5428011263437646561",
+      "name": {
+        "first": "Necotrucido",
+        "first_lower": "necotrucido"
+      }
+    },
+    {
+      "character_id": "5428011263446898225",
+      "name": {
+        "first": "WillHammill",
+        "first_lower": "willhammill"
+      }
+    },
+    {
+      "character_id": "5428013610390638113",
+      "name": {
+        "first": "TurboNinja",
+        "first_lower": "turboninja"
+      }
+    },
+    {
+      "character_id": "5428013610405868625",
+      "name": {
+        "first": "miniDEATH",
+        "first_lower": "minideath"
+      }
+    },
+    {
+      "character_id": "5428013610419988577",
+      "name": {
+        "first": "N3phal1m",
+        "first_lower": "n3phal1m"
+      }
+    },
+    {
+      "character_id": "5428013610426335905",
+      "name": {
+        "first": "GabrielSeverus",
+        "first_lower": "gabrielseverus"
+      }
+    },
+    {
+      "character_id": "5428013610428244337",
+      "name": {
+        "first": "GeneralGris",
+        "first_lower": "generalgris"
+      }
+    },
+    {
+      "character_id": "5428013610428837137",
+      "name": {
+        "first": "2dumb",
+        "first_lower": "2dumb"
+      }
+    },
+    {
+      "character_id": "5428013610432477505",
+      "name": {
+        "first": "Kengor",
+        "first_lower": "kengor"
+      }
+    },
+    {
+      "character_id": "5428013610433454529",
+      "name": {
+        "first": "GENERALRIVER",
+        "first_lower": "generalriver"
+      }
+    },
+    {
+      "character_id": "5428013610435457761",
+      "name": {
+        "first": "ItzMahvelBaybee",
+        "first_lower": "itzmahvelbaybee"
+      }
+    },
+    {
+      "character_id": "5428013610450032129",
+      "name": {
+        "first": "Spaceboat",
+        "first_lower": "spaceboat"
+      }
+    },
+    {
+      "character_id": "5428013610450524129",
+      "name": {
+        "first": "TheSmitters",
+        "first_lower": "thesmitters"
+      }
+    },
+    {
+      "character_id": "5428013610452088753",
+      "name": {
+        "first": "IExinferisI",
+        "first_lower": "iexinferisi"
+      }
+    },
+    {
+      "character_id": "5428013610456766001",
+      "name": {
+        "first": "adasss2000LT",
+        "first_lower": "adasss2000lt"
+      }
+    },
+    {
+      "character_id": "5428013610463832273",
+      "name": {
+        "first": "WorstSheepNZ",
+        "first_lower": "worstsheepnz"
+      }
+    },
+    {
+      "character_id": "5428013610464344241",
+      "name": {
+        "first": "Ryvanthegreat",
+        "first_lower": "ryvanthegreat"
+      }
+    },
+    {
+      "character_id": "5428013610471697153",
+      "name": {
+        "first": "Ithyrael",
+        "first_lower": "ithyrael"
+      }
+    },
+    {
+      "character_id": "5428013610471736721",
+      "name": {
+        "first": "Nymitz",
+        "first_lower": "nymitz"
+      }
+    },
+    {
+      "character_id": "5428013610471766577",
+      "name": {
+        "first": "SpaceBruh",
+        "first_lower": "spacebruh"
+      }
+    },
+    {
+      "character_id": "5428013610474798593",
+      "name": {
+        "first": "Redll",
+        "first_lower": "redll"
+      }
+    },
+    {
+      "character_id": "5428013610486240017",
+      "name": {
+        "first": "n4l2k0tik",
+        "first_lower": "n4l2k0tik"
+      }
+    },
+    {
+      "character_id": "5428013610486411185",
+      "name": {
+        "first": "Krinkov762",
+        "first_lower": "krinkov762"
+      }
+    },
+    {
+      "character_id": "5428013610487632129",
+      "name": {
+        "first": "HoppiHop",
+        "first_lower": "hoppihop"
+      }
+    },
+    {
+      "character_id": "5428013610489226913",
+      "name": {
+        "first": "xXJ0nnyT00GooDXx",
+        "first_lower": "xxj0nnyt00goodxx"
+      }
+    },
+    {
+      "character_id": "5428016459718953729",
+      "name": {
+        "first": "Nevdawg88",
+        "first_lower": "nevdawg88"
+      }
+    },
+    {
+      "character_id": "5428016459723111921",
+      "name": {
+        "first": "Alexitive",
+        "first_lower": "alexitive"
+      }
+    },
+    {
+      "character_id": "5428016459725955649",
+      "name": {
+        "first": "bywerekilled",
+        "first_lower": "bywerekilled"
+      }
+    },
+    {
+      "character_id": "5428016459736678417",
+      "name": {
+        "first": "Armageddon07",
+        "first_lower": "armageddon07"
+      }
+    },
+    {
+      "character_id": "5428016813471439265",
+      "name": {
+        "first": "BabyOj",
+        "first_lower": "babyoj"
+      }
+    },
+    {
+      "character_id": "5428016813475311521",
+      "name": {
+        "first": "Taiiils",
+        "first_lower": "taiiils"
+      }
+    },
+    {
+      "character_id": "5428016813481844753",
+      "name": {
+        "first": "EatingTacks",
+        "first_lower": "eatingtacks"
+      }
+    },
+    {
+      "character_id": "5428016813482522529",
+      "name": {
+        "first": "PinkoCommBot",
+        "first_lower": "pinkocommbot"
+      }
+    },
+    {
+      "character_id": "5428016813487031441",
+      "name": {
+        "first": "xderkanzlerx",
+        "first_lower": "xderkanzlerx"
+      }
+    },
+    {
+      "character_id": "5428016813487756097",
+      "name": {
+        "first": "Trydian",
+        "first_lower": "trydian"
+      }
+    },
+    {
+      "character_id": "5428016813489640337",
+      "name": {
+        "first": "scalypudin",
+        "first_lower": "scalypudin"
+      }
+    },
+    {
+      "character_id": "5428016813489848689",
+      "name": {
+        "first": "McBlackYeah",
+        "first_lower": "mcblackyeah"
+      }
+    },
+    {
+      "character_id": "5428016813489955681",
+      "name": {
+        "first": "NubsRCool",
+        "first_lower": "nubsrcool"
+      }
+    },
+    {
+      "character_id": "5428016813492099121",
+      "name": {
+        "first": "Jagaren",
+        "first_lower": "jagaren"
+      }
+    },
+    {
+      "character_id": "5428016813492570161",
+      "name": {
+        "first": "Daaxious",
+        "first_lower": "daaxious"
+      }
+    },
+    {
+      "character_id": "5428016813493717825",
+      "name": {
+        "first": "Armageddon32",
+        "first_lower": "armageddon32"
+      }
+    },
+    {
+      "character_id": "5428017900397891121",
+      "name": {
+        "first": "kleinerjunge",
+        "first_lower": "kleinerjunge"
+      }
+    },
+    {
+      "character_id": "5428017900404849857",
+      "name": {
+        "first": "Jonnykill89",
+        "first_lower": "jonnykill89"
+      }
+    },
+    {
+      "character_id": "5428017900405525985",
+      "name": {
+        "first": "Marine11",
+        "first_lower": "marine11"
+      }
+    },
+    {
+      "character_id": "5428017900405985281",
+      "name": {
+        "first": "Ruu1122",
+        "first_lower": "ruu1122"
+      }
+    },
+    {
+      "character_id": "5428018587883785665",
+      "name": {
+        "first": "Dj8083",
+        "first_lower": "dj8083"
+      }
+    },
+    {
+      "character_id": "5428018587890795137",
+      "name": {
+        "first": "Mostep",
+        "first_lower": "mostep"
+      }
+    },
+    {
+      "character_id": "5428018587890997985",
+      "name": {
+        "first": "RasenShuriken",
+        "first_lower": "rasenshuriken"
+      }
+    },
+    {
+      "character_id": "5428018587891281985",
+      "name": {
+        "first": "bunzieman1",
+        "first_lower": "bunzieman1"
+      }
+    },
+    {
+      "character_id": "5428018587891306625",
+      "name": {
+        "first": "Thimar",
+        "first_lower": "thimar"
+      }
+    },
+    {
+      "character_id": "5428019223836623201",
+      "name": {
+        "first": "SollerC",
+        "first_lower": "sollerc"
+      }
+    },
+    {
+      "character_id": "5428019223843089329",
+      "name": {
+        "first": "archaeological",
+        "first_lower": "archaeological"
+      }
+    },
+    {
+      "character_id": "5428019223843209057",
+      "name": {
+        "first": "KeeperMK77",
+        "first_lower": "keepermk77"
+      }
+    },
+    {
+      "character_id": "5428019223849275713",
+      "name": {
+        "first": "Olderezski",
+        "first_lower": "olderezski"
+      }
+    },
+    {
+      "character_id": "5428019223849754161",
+      "name": {
+        "first": "C0NN0R12",
+        "first_lower": "c0nn0r12"
+      }
+    },
+    {
+      "character_id": "5428019223851291473",
+      "name": {
+        "first": "Bakkaboi",
+        "first_lower": "bakkaboi"
+      }
+    },
+    {
+      "character_id": "5428019223851531729",
+      "name": {
+        "first": "Blarghfuzz",
+        "first_lower": "blarghfuzz"
+      }
+    },
+    {
+      "character_id": "5428019223852098657",
+      "name": {
+        "first": "DE1",
+        "first_lower": "de1"
+      }
+    },
+    {
+      "character_id": "5428019223852593297",
+      "name": {
+        "first": "Stormtamer",
+        "first_lower": "stormtamer"
+      }
+    },
+    {
+      "character_id": "5428019223853298657",
+      "name": {
+        "first": "IK0",
+        "first_lower": "ik0"
+      }
+    },
+    {
+      "character_id": "5428019223853991649",
+      "name": {
+        "first": "Snolarin",
+        "first_lower": "snolarin"
+      }
+    },
+    {
+      "character_id": "5428019223856167729",
+      "name": {
+        "first": "Feralstorm",
+        "first_lower": "feralstorm"
+      }
+    },
+    {
+      "character_id": "5428021124291258785",
+      "name": {
+        "first": "Masterofcouscous",
+        "first_lower": "masterofcouscous"
+      }
+    },
+    {
+      "character_id": "5428021124294894369",
+      "name": {
+        "first": "Dani98",
+        "first_lower": "dani98"
+      }
+    },
+    {
+      "character_id": "5428021124298140865",
+      "name": {
+        "first": "Bloodfrost",
+        "first_lower": "bloodfrost"
+      }
+    },
+    {
+      "character_id": "5428021124298294609",
+      "name": {
+        "first": "Konux",
+        "first_lower": "konux"
+      }
+    },
+    {
+      "character_id": "5428021124298544865",
+      "name": {
+        "first": "Ryvann",
+        "first_lower": "ryvann"
+      }
+    },
+    {
+      "character_id": "5428021759033857937",
+      "name": {
+        "first": "OceanOfOne",
+        "first_lower": "oceanofone"
+      }
+    },
+    {
+      "character_id": "5428021759043904641",
+      "name": {
+        "first": "DejvidosPL",
+        "first_lower": "dejvidospl"
+      }
+    },
+    {
+      "character_id": "5428021759044292385",
+      "name": {
+        "first": "D4rkS0ldi3r",
+        "first_lower": "d4rks0ldi3r"
+      }
+    },
+    {
+      "character_id": "5428021759048409105",
+      "name": {
+        "first": "Snowfired",
+        "first_lower": "snowfired"
+      }
+    },
+    {
+      "character_id": "5428021759054502305",
+      "name": {
+        "first": "brianbp4f",
+        "first_lower": "brianbp4f"
+      }
+    },
+    {
+      "character_id": "5428021759057998801",
+      "name": {
+        "first": "thechoosen",
+        "first_lower": "thechoosen"
+      }
+    },
+    {
+      "character_id": "5428021759059938977",
+      "name": {
+        "first": "TRislameVS4LIFE",
+        "first_lower": "trislamevs4life"
+      }
+    },
+    {
+      "character_id": "5428021759060435457",
+      "name": {
+        "first": "boterkoek",
+        "first_lower": "boterkoek"
+      }
+    },
+    {
+      "character_id": "5428021759061006833",
+      "name": {
+        "first": "AvengerK",
+        "first_lower": "avengerk"
+      }
+    },
+    {
+      "character_id": "5428021759062134017",
+      "name": {
+        "first": "ExoDave",
+        "first_lower": "exodave"
+      }
+    },
+    {
+      "character_id": "5428021759062503361",
+      "name": {
+        "first": "KanoRainxTR",
+        "first_lower": "kanorainxtr"
+      }
+    },
+    {
+      "character_id": "5428021759064514977",
+      "name": {
+        "first": "LUFactorized",
+        "first_lower": "lufactorized"
+      }
+    },
+    {
+      "character_id": "5428021759064656481",
+      "name": {
+        "first": "Zombines",
+        "first_lower": "zombines"
+      }
+    },
+    {
+      "character_id": "5428021759068427489",
+      "name": {
+        "first": "SgtCarter07",
+        "first_lower": "sgtcarter07"
+      }
+    },
+    {
+      "character_id": "5428021759070148561",
+      "name": {
+        "first": "Sceem",
+        "first_lower": "sceem"
+      }
+    },
+    {
+      "character_id": "5428021759070641825",
+      "name": {
+        "first": "grauda58",
+        "first_lower": "grauda58"
+      }
+    },
+    {
+      "character_id": "5428021759072438545",
+      "name": {
+        "first": "Kletrupin",
+        "first_lower": "kletrupin"
+      }
+    },
+    {
+      "character_id": "5428021759072890401",
+      "name": {
+        "first": "Br0kenArr0w",
+        "first_lower": "br0kenarr0w"
+      }
+    },
+    {
+      "character_id": "5428021759072971009",
+      "name": {
+        "first": "StreetSoldier21",
+        "first_lower": "streetsoldier21"
+      }
+    },
+    {
+      "character_id": "5428021759074932529",
+      "name": {
+        "first": "SarahV",
+        "first_lower": "sarahv"
+      }
+    },
+    {
+      "character_id": "5428021759081105713",
+      "name": {
+        "first": "Caboose34",
+        "first_lower": "caboose34"
+      }
+    },
+    {
+      "character_id": "5428021759083240097",
+      "name": {
+        "first": "ninjamelonhead",
+        "first_lower": "ninjamelonhead"
+      }
+    },
+    {
+      "character_id": "5428021759083630273",
+      "name": {
+        "first": "downtownSTANK",
+        "first_lower": "downtownstank"
+      }
+    },
+    {
+      "character_id": "5428021759084156577",
+      "name": {
+        "first": "Xoracks",
+        "first_lower": "xoracks"
+      }
+    },
+    {
+      "character_id": "5428021759084604897",
+      "name": {
+        "first": "Kalindril",
+        "first_lower": "kalindril"
+      }
+    },
+    {
+      "character_id": "5428021759085978481",
+      "name": {
+        "first": "DragonTheSlayer",
+        "first_lower": "dragontheslayer"
+      }
+    },
+    {
+      "character_id": "5428021759086109585",
+      "name": {
+        "first": "Tolja",
+        "first_lower": "tolja"
+      }
+    },
+    {
+      "character_id": "5428021759087505569",
+      "name": {
+        "first": "Daruu",
+        "first_lower": "daruu"
+      }
+    },
+    {
+      "character_id": "5428021759087910081",
+      "name": {
+        "first": "nosey99999",
+        "first_lower": "nosey99999"
+      }
+    },
+    {
+      "character_id": "5428021759088103057",
+      "name": {
+        "first": "Stripyfish",
+        "first_lower": "stripyfish"
+      }
+    },
+    {
+      "character_id": "5428021759088174657",
+      "name": {
+        "first": "Galgaro",
+        "first_lower": "galgaro"
+      }
+    },
+    {
+      "character_id": "5428021759088932945",
+      "name": {
+        "first": "Xtone",
+        "first_lower": "xtone"
+      }
+    },
+    {
+      "character_id": "5428026242692231457",
+      "name": {
+        "first": "TwistedObsidian",
+        "first_lower": "twistedobsidian"
+      }
+    },
+    {
+      "character_id": "5428026242698768337",
+      "name": {
+        "first": "sheepyhair",
+        "first_lower": "sheepyhair"
+      }
+    },
+    {
+      "character_id": "5428026242699041665",
+      "name": {
+        "first": "LELFv1",
+        "first_lower": "lelfv1"
+      }
+    },
+    {
+      "character_id": "5428026242700425521",
+      "name": {
+        "first": "PHATCAWK",
+        "first_lower": "phatcawk"
+      }
+    },
+    {
+      "character_id": "5428026242700834145",
+      "name": {
+        "first": "Kalamora",
+        "first_lower": "kalamora"
+      }
+    },
+    {
+      "character_id": "5428026242701845153",
+      "name": {
+        "first": "BlackyBro",
+        "first_lower": "blackybro"
+      }
+    },
+    {
+      "character_id": "5428026242702323953",
+      "name": {
+        "first": "monnotman",
+        "first_lower": "monnotman"
+      }
+    },
+    {
+      "character_id": "5428026242702729697",
+      "name": {
+        "first": "Jllygreen33",
+        "first_lower": "jllygreen33"
+      }
+    },
+    {
+      "character_id": "5428026242707905057",
+      "name": {
+        "first": "Sknypimp",
+        "first_lower": "sknypimp"
+      }
+    },
+    {
+      "character_id": "5428026242708790961",
+      "name": {
+        "first": "OroAra",
+        "first_lower": "oroara"
+      }
+    },
+    {
+      "character_id": "5428026242711731937",
+      "name": {
+        "first": "One9One",
+        "first_lower": "one9one"
+      }
+    },
+    {
+      "character_id": "5428028648493119617",
+      "name": {
+        "first": "Khrox",
+        "first_lower": "khrox"
+      }
+    },
+    {
+      "character_id": "5428028648518378449",
+      "name": {
+        "first": "Assguardian",
+        "first_lower": "assguardian"
+      }
+    },
+    {
+      "character_id": "5428028648518650465",
+      "name": {
+        "first": "iN10City420",
+        "first_lower": "in10city420"
+      }
+    },
+    {
+      "character_id": "5428029729494628033",
+      "name": {
+        "first": "Spacemarine1843",
+        "first_lower": "spacemarine1843"
+      }
+    },
+    {
+      "character_id": "5428029729502828353",
+      "name": {
+        "first": "edwarb",
+        "first_lower": "edwarb"
+      }
+    },
+    {
+      "character_id": "5428029729510603265",
+      "name": {
+        "first": "Ewokbait",
+        "first_lower": "ewokbait"
+      }
+    },
+    {
+      "character_id": "5428029729513638881",
+      "name": {
+        "first": "alexthecanadian",
+        "first_lower": "alexthecanadian"
+      }
+    },
+    {
+      "character_id": "5428029729514186369",
+      "name": {
+        "first": "ThePaid",
+        "first_lower": "thepaid"
+      }
+    },
+    {
+      "character_id": "5428029729515583377",
+      "name": {
+        "first": "D3ATHMACH1N3",
+        "first_lower": "d3athmach1n3"
+      }
+    },
+    {
+      "character_id": "5428031585331254497",
+      "name": {
+        "first": "Darkenfang",
+        "first_lower": "darkenfang"
+      }
+    },
+    {
+      "character_id": "5428031585351331793",
+      "name": {
+        "first": "Cyborg24687",
+        "first_lower": "cyborg24687"
+      }
+    },
+    {
+      "character_id": "5428031585352700161",
+      "name": {
+        "first": "ZyroFalcon",
+        "first_lower": "zyrofalcon"
+      }
+    },
+    {
+      "character_id": "5428031585357488513",
+      "name": {
+        "first": "FlofyWTF",
+        "first_lower": "flofywtf"
+      }
+    },
+    {
+      "character_id": "5428033621812898081",
+      "name": {
+        "first": "binhonoia",
+        "first_lower": "binhonoia"
+      }
+    },
+    {
+      "character_id": "5428033621834124513",
+      "name": {
+        "first": "Darklord117",
+        "first_lower": "darklord117"
+      }
+    },
+    {
+      "character_id": "5428034085660951185",
+      "name": {
+        "first": "Synyx",
+        "first_lower": "synyx"
+      }
+    },
+    {
+      "character_id": "5428034441440459409",
+      "name": {
+        "first": "Kirga",
+        "first_lower": "kirga"
+      }
+    },
+    {
+      "character_id": "5428034441447221297",
+      "name": {
+        "first": "SynXIII",
+        "first_lower": "synxiii"
+      }
+    },
+    {
+      "character_id": "5428035526954045777",
+      "name": {
+        "first": "HazeBR",
+        "first_lower": "hazebr"
+      }
+    },
+    {
+      "character_id": "5428035526954521089",
+      "name": {
+        "first": "Maceonic",
+        "first_lower": "maceonic"
+      }
+    },
+    {
+      "character_id": "5428035526965768609",
+      "name": {
+        "first": "denethemean",
+        "first_lower": "denethemean"
+      }
+    },
+    {
+      "character_id": "5428035526966575441",
+      "name": {
+        "first": "MystikPanda",
+        "first_lower": "mystikpanda"
+      }
+    },
+    {
+      "character_id": "5428035526967396881",
+      "name": {
+        "first": "Diplomercer",
+        "first_lower": "diplomercer"
+      }
+    },
+    {
+      "character_id": "5428035526968634545",
+      "name": {
+        "first": "bigggggg",
+        "first_lower": "bigggggg"
+      }
+    },
+    {
+      "character_id": "5428037660464469441",
+      "name": {
+        "first": "ComanderLULU",
+        "first_lower": "comanderlulu"
+      }
+    },
+    {
+      "character_id": "5428037660464852945",
+      "name": {
+        "first": "Dani198",
+        "first_lower": "dani198"
+      }
+    },
+    {
+      "character_id": "5428037660469966801",
+      "name": {
+        "first": "lolmo",
+        "first_lower": "lolmo"
+      }
+    },
+    {
+      "character_id": "5428039149541211569",
+      "name": {
+        "first": "yasyune",
+        "first_lower": "yasyune"
+      }
+    },
+    {
+      "character_id": "5428039607185477921",
+      "name": {
+        "first": "Pro99",
+        "first_lower": "pro99"
+      }
+    },
+    {
+      "character_id": "5428039607189739633",
+      "name": {
+        "first": "zuzubaron74",
+        "first_lower": "zuzubaron74"
+      }
+    },
+    {
+      "character_id": "5428039961784252721",
+      "name": {
+        "first": "Xerrome",
+        "first_lower": "xerrome"
+      }
+    },
+    {
+      "character_id": "5428039961790434641",
+      "name": {
+        "first": "Arcaduis214",
+        "first_lower": "arcaduis214"
+      }
+    },
+    {
+      "character_id": "5428039961796422657",
+      "name": {
+        "first": "Boquet",
+        "first_lower": "boquet"
+      }
+    },
+    {
+      "character_id": "5428039961797574625",
+      "name": {
+        "first": "Ch4otix",
+        "first_lower": "ch4otix"
+      }
+    },
+    {
+      "character_id": "5428041429981943249",
+      "name": {
+        "first": "OwnedKThxHi",
+        "first_lower": "ownedkthxhi"
+      }
+    },
+    {
+      "character_id": "5428041429983122481",
+      "name": {
+        "first": "Cheeky01",
+        "first_lower": "cheeky01"
+      }
+    },
+    {
+      "character_id": "5428041429985766449",
+      "name": {
+        "first": "lovec7",
+        "first_lower": "lovec7"
+      }
+    },
+    {
+      "character_id": "5428041429985770753",
+      "name": {
+        "first": "ninothemonster",
+        "first_lower": "ninothemonster"
+      }
+    },
+    {
+      "character_id": "5428041429995301697",
+      "name": {
+        "first": "JohnnyDeppsHat",
+        "first_lower": "johnnydeppshat"
+      }
+    },
+    {
+      "character_id": "5428041429995454849",
+      "name": {
+        "first": "Exossc",
+        "first_lower": "exossc"
+      }
+    },
+    {
+      "character_id": "5428044317825184289",
+      "name": {
+        "first": "Zilles",
+        "first_lower": "zilles"
+      }
+    },
+    {
+      "character_id": "5428044677951837025",
+      "name": {
+        "first": "LoadedCircleUlrich",
+        "first_lower": "loadedcircleulrich"
+      }
+    },
+    {
+      "character_id": "5428044677964881265",
+      "name": {
+        "first": "FriskyD",
+        "first_lower": "friskyd"
+      }
+    },
+    {
+      "character_id": "5428044677969330257",
+      "name": {
+        "first": "lovec36",
+        "first_lower": "lovec36"
+      }
+    },
+    {
+      "character_id": "5428044677979406273",
+      "name": {
+        "first": "Myndira",
+        "first_lower": "myndira"
+      }
+    },
+    {
+      "character_id": "5428044677979420849",
+      "name": {
+        "first": "ErzaTitanium",
+        "first_lower": "erzatitanium"
+      }
+    },
+    {
+      "character_id": "5428047126270228433",
+      "name": {
+        "first": "Ayasegawa",
+        "first_lower": "ayasegawa"
+      }
+    },
+    {
+      "character_id": "5428047126271715025",
+      "name": {
+        "first": "HumanTooMan",
+        "first_lower": "humantooman"
+      }
+    },
+    {
+      "character_id": "5428047126272214817",
+      "name": {
+        "first": "iStrangerDanger",
+        "first_lower": "istrangerdanger"
+      }
+    },
+    {
+      "character_id": "5428047126272800817",
+      "name": {
+        "first": "ArchnemesisV1",
+        "first_lower": "archnemesisv1"
+      }
+    },
+    {
+      "character_id": "5428047126276829361",
+      "name": {
+        "first": "feckhole",
+        "first_lower": "feckhole"
+      }
+    },
+    {
+      "character_id": "5428047126282388321",
+      "name": {
+        "first": "Hashmood",
+        "first_lower": "hashmood"
+      }
+    },
+    {
+      "character_id": "5428051581857718305",
+      "name": {
+        "first": "radi255",
+        "first_lower": "radi255"
+      }
+    },
+    {
+      "character_id": "5428051581857747841",
+      "name": {
+        "first": "NEOA2",
+        "first_lower": "neoa2"
+      }
+    },
+    {
+      "character_id": "5428052273451225825",
+      "name": {
+        "first": "Comander101",
+        "first_lower": "comander101"
+      }
+    },
+    {
+      "character_id": "5428052273456102081",
+      "name": {
+        "first": "Jalapo",
+        "first_lower": "jalapo"
+      }
+    },
+    {
+      "character_id": "5428053362663937649",
+      "name": {
+        "first": "TheDSCS31",
+        "first_lower": "thedscs31"
+      }
+    },
+    {
+      "character_id": "5428055175438531713",
+      "name": {
+        "first": "Semioriginalname",
+        "first_lower": "semioriginalname"
+      }
+    },
+    {
+      "character_id": "5428055175457840161",
+      "name": {
+        "first": "Relliath",
+        "first_lower": "relliath"
+      }
+    },
+    {
+      "character_id": "5428055175458057201",
+      "name": {
+        "first": "troll849",
+        "first_lower": "troll849"
+      }
+    },
+    {
+      "character_id": "5428055175458621329",
+      "name": {
+        "first": "BlackScreenOfDoom",
+        "first_lower": "blackscreenofdoom"
+      }
+    },
+    {
+      "character_id": "5428055175459235361",
+      "name": {
+        "first": "DalekZerg",
+        "first_lower": "dalekzerg"
+      }
+    },
+    {
+      "character_id": "5428057349734102513",
+      "name": {
+        "first": "PIGPWNER",
+        "first_lower": "pigpwner"
+      }
+    },
+    {
+      "character_id": "5428057349736311537",
+      "name": {
+        "first": "Popyp",
+        "first_lower": "popyp"
+      }
+    },
+    {
+      "character_id": "5428057349736477137",
+      "name": {
+        "first": "Hamishisahamster",
+        "first_lower": "hamishisahamster"
+      }
+    },
+    {
+      "character_id": "5428057349737300433",
+      "name": {
+        "first": "dezen",
+        "first_lower": "dezen"
+      }
+    },
+    {
+      "character_id": "5428059527762394353",
+      "name": {
+        "first": "BoomBoomasfig",
+        "first_lower": "boomboomasfig"
+      }
+    },
+    {
+      "character_id": "5428059527764471921",
+      "name": {
+        "first": "Shraven",
+        "first_lower": "shraven"
+      }
+    },
+    {
+      "character_id": "5428059527814319793",
+      "name": {
+        "first": "ShinigamiJack",
+        "first_lower": "shinigamijack"
+      }
+    },
+    {
+      "character_id": "5428059527818126689",
+      "name": {
+        "first": "LiLiPoney",
+        "first_lower": "liliponey"
+      }
+    },
+    {
+      "character_id": "5428061686695314145",
+      "name": {
+        "first": "Razziib",
+        "first_lower": "razziib"
+      }
+    },
+    {
+      "character_id": "5428061686734345665",
+      "name": {
+        "first": "Tandormido",
+        "first_lower": "tandormido"
+      }
+    },
+    {
+      "character_id": "5428061686734564113",
+      "name": {
+        "first": "ganzaglo",
+        "first_lower": "ganzaglo"
+      }
+    },
+    {
+      "character_id": "5428064957364230209",
+      "name": {
+        "first": "EkarusRyndren",
+        "first_lower": "ekarusryndren"
+      }
+    },
+    {
+      "character_id": "5428064957364985265",
+      "name": {
+        "first": "Khaozzkilla",
+        "first_lower": "khaozzkilla"
+      }
+    },
+    {
+      "character_id": "5428064957369091937",
+      "name": {
+        "first": "Phalnaxx",
+        "first_lower": "phalnaxx"
+      }
+    },
+    {
+      "character_id": "5428069961296903553",
+      "name": {
+        "first": "Hannibalito",
+        "first_lower": "hannibalito"
+      }
+    },
+    {
+      "character_id": "5428069961297485633",
+      "name": {
+        "first": "Deathbringer123",
+        "first_lower": "deathbringer123"
+      }
+    },
+    {
+      "character_id": "5428069961298379713",
+      "name": {
+        "first": "spike701",
+        "first_lower": "spike701"
+      }
+    },
+    {
+      "character_id": "5428069961309510577",
+      "name": {
+        "first": "MatthiasV",
+        "first_lower": "matthiasv"
+      }
+    },
+    {
+      "character_id": "5428072203496172273",
+      "name": {
+        "first": "iLoveEisTee",
+        "first_lower": "iloveeistee"
+      }
+    },
+    {
+      "character_id": "5428072203496765313",
+      "name": {
+        "first": "jogador0071",
+        "first_lower": "jogador0071"
+      }
+    },
+    {
+      "character_id": "5428072203497238369",
+      "name": {
+        "first": "13teen",
+        "first_lower": "13teen"
+      }
+    },
+    {
+      "character_id": "5428072203497281217",
+      "name": {
+        "first": "jogador22222222222222",
+        "first_lower": "jogador22222222222222"
+      }
+    },
+    {
+      "character_id": "5428072203501360273",
+      "name": {
+        "first": "krizz223",
+        "first_lower": "krizz223"
+      }
+    },
+    {
+      "character_id": "5428092146549191361",
+      "name": {
+        "first": "Notrspieshere",
+        "first_lower": "notrspieshere"
+      }
+    },
+    {
+      "character_id": "5428092146549191393",
+      "name": {
+        "first": "Kylianor",
+        "first_lower": "kylianor"
+      }
+    },
+    {
+      "character_id": "5428092146858365489",
+      "name": {
+        "first": "Wasserhexler",
+        "first_lower": "wasserhexler"
+      }
+    },
+    {
+      "character_id": "5428092146858365585",
+      "name": {
+        "first": "xuxixxix",
+        "first_lower": "xuxixxix"
+      }
+    },
+    {
+      "character_id": "5428092147255872593",
+      "name": {
+        "first": "zoytey",
+        "first_lower": "zoytey"
+      }
+    },
+    {
+      "character_id": "5428092148538978785",
+      "name": {
+        "first": "McWinters",
+        "first_lower": "mcwinters"
+      }
+    },
+    {
+      "character_id": "5428092148538979649",
+      "name": {
+        "first": "Maronu",
+        "first_lower": "maronu"
+      }
+    },
+    {
+      "character_id": "5428092148538980849",
+      "name": {
+        "first": "ChristopherLambert",
+        "first_lower": "christopherlambert"
+      }
+    },
+    {
+      "character_id": "5428092148538980945",
+      "name": {
+        "first": "GrayTitan",
+        "first_lower": "graytitan"
+      }
+    },
+    {
+      "character_id": "5428092148538981073",
+      "name": {
+        "first": "ninjaguns",
+        "first_lower": "ninjaguns"
+      }
+    },
+    {
+      "character_id": "5428092148538981489",
+      "name": {
+        "first": "Krimpof",
+        "first_lower": "krimpof"
+      }
+    },
+    {
+      "character_id": "5428092148538981809",
+      "name": {
+        "first": "ValiantRaiden",
+        "first_lower": "valiantraiden"
+      }
+    },
+    {
+      "character_id": "5428092148538982129",
+      "name": {
+        "first": "Ironswan",
+        "first_lower": "ironswan"
+      }
+    },
+    {
+      "character_id": "5428092148538983057",
+      "name": {
+        "first": "ColeCola12",
+        "first_lower": "colecola12"
+      }
+    },
+    {
+      "character_id": "5428092148538983169",
+      "name": {
+        "first": "GloriousMarMar",
+        "first_lower": "gloriousmarmar"
+      }
+    },
+    {
+      "character_id": "5428092148538983521",
+      "name": {
+        "first": "DraxTheAxe",
+        "first_lower": "draxtheaxe"
+      }
+    },
+    {
+      "character_id": "5428092148538984657",
+      "name": {
+        "first": "Lenmaz",
+        "first_lower": "lenmaz"
+      }
+    },
+    {
+      "character_id": "5428092148538985105",
+      "name": {
+        "first": "wtbsomeskillz",
+        "first_lower": "wtbsomeskillz"
+      }
+    },
+    {
+      "character_id": "5428092148538985441",
+      "name": {
+        "first": "YuriNFL",
+        "first_lower": "yurinfl"
+      }
+    },
+    {
+      "character_id": "5428092148538986161",
+      "name": {
+        "first": "PleaseKickMyShinsRear",
+        "first_lower": "pleasekickmyshinsrear"
+      }
+    },
+    {
+      "character_id": "5428092148538986241",
+      "name": {
+        "first": "Chaulkie",
+        "first_lower": "chaulkie"
+      }
+    },
+    {
+      "character_id": "5428092148538986801",
+      "name": {
+        "first": "maclar1",
+        "first_lower": "maclar1"
+      }
+    },
+    {
+      "character_id": "5428092148538986913",
+      "name": {
+        "first": "smutt0n",
+        "first_lower": "smutt0n"
+      }
+    },
+    {
+      "character_id": "5428092150355742545",
+      "name": {
+        "first": "Grimmwhisper",
+        "first_lower": "grimmwhisper"
+      }
+    },
+    {
+      "character_id": "5428092150355744561",
+      "name": {
+        "first": "NZDinosaur38",
+        "first_lower": "nzdinosaur38"
+      }
+    },
+    {
+      "character_id": "5428092150355744929",
+      "name": {
+        "first": "GrapesGrapes",
+        "first_lower": "grapesgrapes"
+      }
+    },
+    {
+      "character_id": "5428092150355744993",
+      "name": {
+        "first": "Jam109",
+        "first_lower": "jam109"
+      }
+    },
+    {
+      "character_id": "5428092150355745233",
+      "name": {
+        "first": "clarkopolo",
+        "first_lower": "clarkopolo"
+      }
+    },
+    {
+      "character_id": "5428092150355745265",
+      "name": {
+        "first": "Evoniann",
+        "first_lower": "evoniann"
+      }
+    },
+    {
+      "character_id": "5428092150355745985",
+      "name": {
+        "first": "WarlordB0B",
+        "first_lower": "warlordb0b"
+      }
+    },
+    {
+      "character_id": "5428092150355746097",
+      "name": {
+        "first": "SomeUnoriginalName",
+        "first_lower": "someunoriginalname"
+      }
+    },
+    {
+      "character_id": "5428092150355746161",
+      "name": {
+        "first": "alteris2",
+        "first_lower": "alteris2"
+      }
+    },
+    {
+      "character_id": "5428092150355746241",
+      "name": {
+        "first": "Truefury69",
+        "first_lower": "truefury69"
+      }
+    },
+    {
+      "character_id": "5428092150355747153",
+      "name": {
+        "first": "WTFJJ",
+        "first_lower": "wtfjj"
+      }
+    },
+    {
+      "character_id": "5428092150355747249",
+      "name": {
+        "first": "GordonFrost",
+        "first_lower": "gordonfrost"
+      }
+    },
+    {
+      "character_id": "5428092150355747441",
+      "name": {
+        "first": "BarbarianAttack",
+        "first_lower": "barbarianattack"
+      }
+    },
+    {
+      "character_id": "5428092150355748625",
+      "name": {
+        "first": "towerhawk",
+        "first_lower": "towerhawk"
+      }
+    },
+    {
+      "character_id": "5428092150355748705",
+      "name": {
+        "first": "LethalOrigin",
+        "first_lower": "lethalorigin"
+      }
+    },
+    {
+      "character_id": "5428092150355748961",
+      "name": {
+        "first": "Manuzet",
+        "first_lower": "manuzet"
+      }
+    },
+    {
+      "character_id": "5428092150355749073",
+      "name": {
+        "first": "Sollder",
+        "first_lower": "sollder"
+      }
+    },
+    {
+      "character_id": "5428092150355749393",
+      "name": {
+        "first": "Demokon",
+        "first_lower": "demokon"
+      }
+    },
+    {
+      "character_id": "5428092150355749665",
+      "name": {
+        "first": "Zeonidaz",
+        "first_lower": "zeonidaz"
+      }
+    },
+    {
+      "character_id": "5428092150355750321",
+      "name": {
+        "first": "Sloth6",
+        "first_lower": "sloth6"
+      }
+    },
+    {
+      "character_id": "5428092150355750833",
+      "name": {
+        "first": "pvtsnowball17",
+        "first_lower": "pvtsnowball17"
+      }
+    },
+    {
+      "character_id": "5428092150355752385",
+      "name": {
+        "first": "RavenReaper",
+        "first_lower": "ravenreaper"
+      }
+    },
+    {
+      "character_id": "5428092150355752737",
+      "name": {
+        "first": "JeeRaffe",
+        "first_lower": "jeeraffe"
+      }
+    },
+    {
+      "character_id": "5428092150355752945",
+      "name": {
+        "first": "xllFanDanDosllx",
+        "first_lower": "xllfandandosllx"
+      }
+    },
+    {
+      "character_id": "5428092150355753057",
+      "name": {
+        "first": "Xykard",
+        "first_lower": "xykard"
+      }
+    },
+    {
+      "character_id": "5428092150355753441",
+      "name": {
+        "first": "Diopsis",
+        "first_lower": "diopsis"
+      }
+    },
+    {
+      "character_id": "5428092150355753745",
+      "name": {
+        "first": "MR1AZYOP",
+        "first_lower": "mr1azyop"
+      }
+    },
+    {
+      "character_id": "5428092150355754017",
+      "name": {
+        "first": "markmellow1",
+        "first_lower": "markmellow1"
+      }
+    },
+    {
+      "character_id": "5428092150355754289",
+      "name": {
+        "first": "Phantomatron",
+        "first_lower": "phantomatron"
+      }
+    },
+    {
+      "character_id": "5428092150355754433",
+      "name": {
+        "first": "Aeroyo",
+        "first_lower": "aeroyo"
+      }
+    },
+    {
+      "character_id": "5428092150355754465",
+      "name": {
+        "first": "Zayll",
+        "first_lower": "zayll"
+      }
+    },
+    {
+      "character_id": "5428092150355754513",
+      "name": {
+        "first": "dinosaurfan2034",
+        "first_lower": "dinosaurfan2034"
+      }
+    },
+    {
+      "character_id": "5428092150355754929",
+      "name": {
+        "first": "NCWworld",
+        "first_lower": "ncwworld"
+      }
+    },
+    {
+      "character_id": "5428092150355755041",
+      "name": {
+        "first": "beastsniper12999",
+        "first_lower": "beastsniper12999"
+      }
+    },
+    {
+      "character_id": "5428092150355755265",
+      "name": {
+        "first": "Lanc3t",
+        "first_lower": "lanc3t"
+      }
+    },
+    {
+      "character_id": "5428092150355755297",
+      "name": {
+        "first": "MolotovCockteez",
+        "first_lower": "molotovcockteez"
+      }
+    },
+    {
+      "character_id": "5428092150355755793",
+      "name": {
+        "first": "Clufooooot",
+        "first_lower": "clufooooot"
+      }
+    },
+    {
+      "character_id": "5428092150355756065",
+      "name": {
+        "first": "SurrealRaziel",
+        "first_lower": "surrealraziel"
+      }
+    },
+    {
+      "character_id": "5428092150355757233",
+      "name": {
+        "first": "minimonXI",
+        "first_lower": "minimonxi"
+      }
+    },
+    {
+      "character_id": "5428092150355757473",
+      "name": {
+        "first": "DubxStepper",
+        "first_lower": "dubxstepper"
+      }
+    },
+    {
+      "character_id": "5428092150355757649",
+      "name": {
+        "first": "RobTheDefiler",
+        "first_lower": "robthedefiler"
+      }
+    },
+    {
+      "character_id": "5428092150355757745",
+      "name": {
+        "first": "ZeroDrakyr",
+        "first_lower": "zerodrakyr"
+      }
+    },
+    {
+      "character_id": "5428092150355757841",
+      "name": {
+        "first": "CreepZorz",
+        "first_lower": "creepzorz"
+      }
+    },
+    {
+      "character_id": "5428092150355758385",
+      "name": {
+        "first": "HossTheBoss",
+        "first_lower": "hosstheboss"
+      }
+    },
+    {
+      "character_id": "5428092150355758417",
+      "name": {
+        "first": "jockles",
+        "first_lower": "jockles"
+      }
+    },
+    {
+      "character_id": "5428092150355758449",
+      "name": {
+        "first": "caitfitz1003",
+        "first_lower": "caitfitz1003"
+      }
+    },
+    {
+      "character_id": "5428092150355758753",
+      "name": {
+        "first": "IMASPANKINU",
+        "first_lower": "imaspankinu"
+      }
+    },
+    {
+      "character_id": "5428092150355759073",
+      "name": {
+        "first": "PhxZiffy",
+        "first_lower": "phxziffy"
+      }
+    },
+    {
+      "character_id": "5428092150355759153",
+      "name": {
+        "first": "jtmcginty",
+        "first_lower": "jtmcginty"
+      }
+    },
+    {
+      "character_id": "5428092150355760161",
+      "name": {
+        "first": "Gmax9291",
+        "first_lower": "gmax9291"
+      }
+    },
+    {
+      "character_id": "5428092150355760209",
+      "name": {
+        "first": "Uhbvcxzz",
+        "first_lower": "uhbvcxzz"
+      }
+    },
+    {
+      "character_id": "5428092150355761377",
+      "name": {
+        "first": "FailedAbortionV2",
+        "first_lower": "failedabortionv2"
+      }
+    },
+    {
+      "character_id": "5428092150355765361",
+      "name": {
+        "first": "Manb1rd",
+        "first_lower": "manb1rd"
+      }
+    },
+    {
+      "character_id": "5428092150401724401",
+      "name": {
+        "first": "Vanjaungo",
+        "first_lower": "vanjaungo"
+      }
+    },
+    {
+      "character_id": "5428092150401724977",
+      "name": {
+        "first": "Holaqease",
+        "first_lower": "holaqease"
+      }
+    },
+    {
+      "character_id": "5428092150401725137",
+      "name": {
+        "first": "AngerOrk",
+        "first_lower": "angerork"
+      }
+    },
+    {
+      "character_id": "5428092150401725265",
+      "name": {
+        "first": "lopar10",
+        "first_lower": "lopar10"
+      }
+    },
+    {
+      "character_id": "5428092150401725297",
+      "name": {
+        "first": "SilverHawk777",
+        "first_lower": "silverhawk777"
+      }
+    },
+    {
+      "character_id": "5428092150401725329",
+      "name": {
+        "first": "Deathskara",
+        "first_lower": "deathskara"
+      }
+    },
+    {
+      "character_id": "5428092150401725393",
+      "name": {
+        "first": "Lutinmoizi",
+        "first_lower": "lutinmoizi"
+      }
+    },
+    {
+      "character_id": "5428092150401725521",
+      "name": {
+        "first": "Bottocks",
+        "first_lower": "bottocks"
+      }
+    },
+    {
+      "character_id": "5428092150401725633",
+      "name": {
+        "first": "riki652",
+        "first_lower": "riki652"
+      }
+    },
+    {
+      "character_id": "5428092150401725857",
+      "name": {
+        "first": "CommanderSilly",
+        "first_lower": "commandersilly"
+      }
+    },
+    {
+      "character_id": "5428092150401725953",
+      "name": {
+        "first": "eSMaestros",
+        "first_lower": "esmaestros"
+      }
+    },
+    {
+      "character_id": "5428092150401726049",
+      "name": {
+        "first": "KingConquer6",
+        "first_lower": "kingconquer6"
+      }
+    },
+    {
+      "character_id": "5428092150401726113",
+      "name": {
+        "first": "ZOMB1EK1LLERZz",
+        "first_lower": "zomb1ek1llerzz"
+      }
+    },
+    {
+      "character_id": "5428092150401726305",
+      "name": {
+        "first": "Kanjaah",
+        "first_lower": "kanjaah"
+      }
+    },
+    {
+      "character_id": "5428092150401726401",
+      "name": {
+        "first": "Dazhok",
+        "first_lower": "dazhok"
+      }
+    },
+    {
+      "character_id": "5428092150401726465",
+      "name": {
+        "first": "Nikitaee",
+        "first_lower": "nikitaee"
+      }
+    },
+    {
+      "character_id": "5428092150401726785",
+      "name": {
+        "first": "LuxProjekt",
+        "first_lower": "luxprojekt"
+      }
+    },
+    {
+      "character_id": "5428092150401726977",
+      "name": {
+        "first": "tongpoe",
+        "first_lower": "tongpoe"
+      }
+    },
+    {
+      "character_id": "5428092150401727249",
+      "name": {
+        "first": "neFox",
+        "first_lower": "nefox"
+      }
+    },
+    {
+      "character_id": "5428092150401727953",
+      "name": {
+        "first": "Tandonto",
+        "first_lower": "tandonto"
+      }
+    },
+    {
+      "character_id": "5428092150610020449",
+      "name": {
+        "first": "Forrist",
+        "first_lower": "forrist"
+      }
+    },
+    {
+      "character_id": "5428092150610020641",
+      "name": {
+        "first": "AsianInvasi0n",
+        "first_lower": "asianinvasi0n"
+      }
+    },
+    {
+      "character_id": "5428092150610021041",
+      "name": {
+        "first": "Sikm",
+        "first_lower": "sikm"
+      }
+    },
+    {
+      "character_id": "5428092150610021057",
+      "name": {
+        "first": "Koven88",
+        "first_lower": "koven88"
+      }
+    },
+    {
+      "character_id": "5428092150610021473",
+      "name": {
+        "first": "jdoggie",
+        "first_lower": "jdoggie"
+      }
+    },
+    {
+      "character_id": "5428092150610021585",
+      "name": {
+        "first": "bakdaman",
+        "first_lower": "bakdaman"
+      }
+    },
+    {
+      "character_id": "5428092150610022769",
+      "name": {
+        "first": "yaooitsbrett",
+        "first_lower": "yaooitsbrett"
+      }
+    },
+    {
+      "character_id": "5428092150610022833",
+      "name": {
+        "first": "banksta4",
+        "first_lower": "banksta4"
+      }
+    },
+    {
+      "character_id": "5428092150610022897",
+      "name": {
+        "first": "MartinsGt",
+        "first_lower": "martinsgt"
+      }
+    },
+    {
+      "character_id": "5428092150610023009",
+      "name": {
+        "first": "Rayorn",
+        "first_lower": "rayorn"
+      }
+    },
+    {
+      "character_id": "5428092150610023169",
+      "name": {
+        "first": "pendeviejo",
+        "first_lower": "pendeviejo"
+      }
+    },
+    {
+      "character_id": "5428092150610023345",
+      "name": {
+        "first": "Darthphaigus",
+        "first_lower": "darthphaigus"
+      }
+    },
+    {
+      "character_id": "5428092150610023377",
+      "name": {
+        "first": "Harper09",
+        "first_lower": "harper09"
+      }
+    },
+    {
+      "character_id": "5428092150610023553",
+      "name": {
+        "first": "chocolatemilk00",
+        "first_lower": "chocolatemilk00"
+      }
+    },
+    {
+      "character_id": "5428092150610023745",
+      "name": {
+        "first": "Odanrot",
+        "first_lower": "odanrot"
+      }
+    },
+    {
+      "character_id": "5428092150610024033",
+      "name": {
+        "first": "Kaethros",
+        "first_lower": "kaethros"
+      }
+    },
+    {
+      "character_id": "5428092150610024385",
+      "name": {
+        "first": "xOGxVELx",
+        "first_lower": "xogxvelx"
+      }
+    },
+    {
+      "character_id": "5428092150610024561",
+      "name": {
+        "first": "Bloudawn",
+        "first_lower": "bloudawn"
+      }
+    },
+    {
+      "character_id": "5428092150610024641",
+      "name": {
+        "first": "deskpop21",
+        "first_lower": "deskpop21"
+      }
+    },
+    {
+      "character_id": "5428092150610024817",
+      "name": {
+        "first": "EchoingAngel",
+        "first_lower": "echoingangel"
+      }
+    },
+    {
+      "character_id": "5428092150610024913",
+      "name": {
+        "first": "MaterAssassin",
+        "first_lower": "materassassin"
+      }
+    },
+    {
+      "character_id": "5428092150610025025",
+      "name": {
+        "first": "Neeroshima3",
+        "first_lower": "neeroshima3"
+      }
+    },
+    {
+      "character_id": "5428092150610025393",
+      "name": {
+        "first": "ChaosUndivided134",
+        "first_lower": "chaosundivided134"
+      }
+    },
+    {
+      "character_id": "5428092150610025489",
+      "name": {
+        "first": "Signuz",
+        "first_lower": "signuz"
+      }
+    },
+    {
+      "character_id": "5428092150610026097",
+      "name": {
+        "first": "TooHotforTV",
+        "first_lower": "toohotfortv"
+      }
+    },
+    {
+      "character_id": "5428092150610026289",
+      "name": {
+        "first": "CurbStompBunnies",
+        "first_lower": "curbstompbunnies"
+      }
+    },
+    {
+      "character_id": "5428092150610026737",
+      "name": {
+        "first": "Lukkus",
+        "first_lower": "lukkus"
+      }
+    },
+    {
+      "character_id": "5428092150610027025",
+      "name": {
+        "first": "ThisGameSucksNuts",
+        "first_lower": "thisgamesucksnuts"
+      }
+    },
+    {
+      "character_id": "5428092150610027057",
+      "name": {
+        "first": "SoundEffekts110",
+        "first_lower": "soundeffekts110"
+      }
+    },
+    {
+      "character_id": "5428092150610027089",
+      "name": {
+        "first": "Aequis",
+        "first_lower": "aequis"
+      }
+    },
+    {
+      "character_id": "5428092150610027105",
+      "name": {
+        "first": "battlefreak4",
+        "first_lower": "battlefreak4"
+      }
+    },
+    {
+      "character_id": "5428092150610027185",
+      "name": {
+        "first": "SnipeNCelly",
+        "first_lower": "snipencelly"
+      }
+    },
+    {
+      "character_id": "5428092150610027217",
+      "name": {
+        "first": "R4g3Dude",
+        "first_lower": "r4g3dude"
+      }
+    },
+    {
+      "character_id": "5428092150610027681",
+      "name": {
+        "first": "RaiseYourD0ngers",
+        "first_lower": "raiseyourd0ngers"
+      }
+    },
+    {
+      "character_id": "5428092150610028033",
+      "name": {
+        "first": "JericZanius",
+        "first_lower": "jericzanius"
+      }
+    },
+    {
+      "character_id": "5428092150610028545",
+      "name": {
+        "first": "RTBrian75",
+        "first_lower": "rtbrian75"
+      }
+    },
+    {
+      "character_id": "5428092150610028673",
+      "name": {
+        "first": "WingmanAnyday",
+        "first_lower": "wingmananyday"
+      }
+    },
+    {
+      "character_id": "5428092150610029057",
+      "name": {
+        "first": "Mirwais",
+        "first_lower": "mirwais"
+      }
+    },
+    {
+      "character_id": "5428092150610029905",
+      "name": {
+        "first": "LaserMarine",
+        "first_lower": "lasermarine"
+      }
+    },
+    {
+      "character_id": "5428092150610029937",
+      "name": {
+        "first": "benjiman3",
+        "first_lower": "benjiman3"
+      }
+    },
+    {
+      "character_id": "5428092150610029969",
+      "name": {
+        "first": "Crumpmaketheboysgoloco",
+        "first_lower": "crumpmaketheboysgoloco"
+      }
+    },
+    {
+      "character_id": "5428092150610030609",
+      "name": {
+        "first": "TheAceOfTheRace",
+        "first_lower": "theaceoftherace"
+      }
+    },
+    {
+      "character_id": "5428092150610030897",
+      "name": {
+        "first": "Chetra",
+        "first_lower": "chetra"
+      }
+    },
+    {
+      "character_id": "5428092150610030929",
+      "name": {
+        "first": "Eveskar",
+        "first_lower": "eveskar"
+      }
+    },
+    {
+      "character_id": "5428092150610031105",
+      "name": {
+        "first": "CrimsonTerra",
+        "first_lower": "crimsonterra"
+      }
+    },
+    {
+      "character_id": "5428092150610031345",
+      "name": {
+        "first": "Cwal6",
+        "first_lower": "cwal6"
+      }
+    },
+    {
+      "character_id": "5428092150610031665",
+      "name": {
+        "first": "tizzlexd",
+        "first_lower": "tizzlexd"
+      }
+    },
+    {
+      "character_id": "5428092150610031761",
+      "name": {
+        "first": "Anttor",
+        "first_lower": "anttor"
+      }
+    },
+    {
+      "character_id": "5428092150610031841",
+      "name": {
+        "first": "KRaZeeMoFo",
+        "first_lower": "krazeemofo"
+      }
+    },
+    {
+      "character_id": "5428092150610032081",
+      "name": {
+        "first": "mGhostm",
+        "first_lower": "mghostm"
+      }
+    },
+    {
+      "character_id": "5428092150610032545",
+      "name": {
+        "first": "DrakeK",
+        "first_lower": "drakek"
+      }
+    },
+    {
+      "character_id": "5428092150610032785",
+      "name": {
+        "first": "TheMutatedMan",
+        "first_lower": "themutatedman"
+      }
+    },
+    {
+      "character_id": "5428092150610032961",
+      "name": {
+        "first": "gmncoastguard",
+        "first_lower": "gmncoastguard"
+      }
+    },
+    {
+      "character_id": "5428092150610033233",
+      "name": {
+        "first": "2edgy4antichrist666",
+        "first_lower": "2edgy4antichrist666"
+      }
+    },
+    {
+      "character_id": "5428092150610033329",
+      "name": {
+        "first": "LOLshield",
+        "first_lower": "lolshield"
+      }
+    },
+    {
+      "character_id": "5428092150610034353",
+      "name": {
+        "first": "Punkun",
+        "first_lower": "punkun"
+      }
+    },
+    {
+      "character_id": "5428092150610034465",
+      "name": {
+        "first": "Vreayner",
+        "first_lower": "vreayner"
+      }
+    },
+    {
+      "character_id": "5428092150610035841",
+      "name": {
+        "first": "ALIENSBEAMEDMEUP",
+        "first_lower": "aliensbeamedmeup"
+      }
+    },
+    {
+      "character_id": "5428092150610036385",
+      "name": {
+        "first": "GAFToddYeah",
+        "first_lower": "gaftoddyeah"
+      }
+    },
+    {
+      "character_id": "5428092150610036545",
+      "name": {
+        "first": "Kevlen",
+        "first_lower": "kevlen"
+      }
+    },
+    {
+      "character_id": "5428092150610037025",
+      "name": {
+        "first": "CuddlebombMcGeeGax",
+        "first_lower": "cuddlebombmcgeegax"
+      }
+    },
+    {
+      "character_id": "5428092151227241665",
+      "name": {
+        "first": "Buttertubs",
+        "first_lower": "buttertubs"
+      }
+    },
+    {
+      "character_id": "5428092151227241729",
+      "name": {
+        "first": "KapitanDrewniak",
+        "first_lower": "kapitandrewniak"
+      }
+    },
+    {
+      "character_id": "5428092151498999169",
+      "name": {
+        "first": "GlamorousLlama",
+        "first_lower": "glamorousllama"
+      }
+    },
+    {
+      "character_id": "5428092151498999233",
+      "name": {
+        "first": "Nilya",
+        "first_lower": "nilya"
+      }
+    },
+    {
+      "character_id": "5428092151498999329",
+      "name": {
+        "first": "tbagswell",
+        "first_lower": "tbagswell"
+      }
+    },
+    {
+      "character_id": "5428092151498999649",
+      "name": {
+        "first": "CritterAU",
+        "first_lower": "critterau"
+      }
+    },
+    {
+      "character_id": "5428092151498999905",
+      "name": {
+        "first": "StealthySeale",
+        "first_lower": "stealthyseale"
+      }
+    },
+    {
+      "character_id": "5428092151499000241",
+      "name": {
+        "first": "RunFastRunFaster",
+        "first_lower": "runfastrunfaster"
+      }
+    },
+    {
+      "character_id": "5428092151499000881",
+      "name": {
+        "first": "SeanJean",
+        "first_lower": "seanjean"
+      }
+    },
+    {
+      "character_id": "5428092151499001009",
+      "name": {
+        "first": "Mlup",
+        "first_lower": "mlup"
+      }
+    },
+    {
+      "character_id": "5428092151499001729",
+      "name": {
+        "first": "EXIGESV6",
+        "first_lower": "exigesv6"
+      }
+    },
+    {
+      "character_id": "5428092151499001969",
+      "name": {
+        "first": "DeathByDonutss",
+        "first_lower": "deathbydonutss"
+      }
+    },
+    {
+      "character_id": "5428092151499002225",
+      "name": {
+        "first": "graaaaaaaaaaaa",
+        "first_lower": "graaaaaaaaaaaa"
+      }
+    },
+    {
+      "character_id": "5428092151499002289",
+      "name": {
+        "first": "evanBlade",
+        "first_lower": "evanblade"
+      }
+    },
+    {
+      "character_id": "5428092151499002481",
+      "name": {
+        "first": "yeayeayeah",
+        "first_lower": "yeayeayeah"
+      }
+    },
+    {
+      "character_id": "5428092151499002673",
+      "name": {
+        "first": "Hooseth",
+        "first_lower": "hooseth"
+      }
+    },
+    {
+      "character_id": "5428092151499002721",
+      "name": {
+        "first": "MoistCowLicker",
+        "first_lower": "moistcowlicker"
+      }
+    },
+    {
+      "character_id": "5428092151499003041",
+      "name": {
+        "first": "louisurface",
+        "first_lower": "louisurface"
+      }
+    },
+    {
+      "character_id": "5428092151499003089",
+      "name": {
+        "first": "MarinaBay",
+        "first_lower": "marinabay"
+      }
+    },
+    {
+      "character_id": "5428092151499003425",
+      "name": {
+        "first": "Valuccar",
+        "first_lower": "valuccar"
+      }
+    },
+    {
+      "character_id": "5428092151499003601",
+      "name": {
+        "first": "Podargus",
+        "first_lower": "podargus"
+      }
+    },
+    {
+      "character_id": "5428092151499003905",
+      "name": {
+        "first": "kane6",
+        "first_lower": "kane6"
+      }
+    },
+    {
+      "character_id": "5428092151499004625",
+      "name": {
+        "first": "xsloom",
+        "first_lower": "xsloom"
+      }
+    },
+    {
+      "character_id": "5428092151499004897",
+      "name": {
+        "first": "Katnippy",
+        "first_lower": "katnippy"
+      }
+    },
+    {
+      "character_id": "5428092151499004993",
+      "name": {
+        "first": "eNVijp",
+        "first_lower": "envijp"
+      }
+    },
+    {
+      "character_id": "5428092151499005217",
+      "name": {
+        "first": "grunkrasten",
+        "first_lower": "grunkrasten"
+      }
+    },
+    {
+      "character_id": "5428092151499005473",
+      "name": {
+        "first": "BlackWulfus",
+        "first_lower": "blackwulfus"
+      }
+    },
+    {
+      "character_id": "5428092151900779761",
+      "name": {
+        "first": "chechu75",
+        "first_lower": "chechu75"
+      }
+    },
+    {
+      "character_id": "5428092152941060769",
+      "name": {
+        "first": "steelix342",
+        "first_lower": "steelix342"
+      }
+    },
+    {
+      "character_id": "5428092152941060849",
+      "name": {
+        "first": "Warhead644",
+        "first_lower": "warhead644"
+      }
+    },
+    {
+      "character_id": "5428092152941061169",
+      "name": {
+        "first": "Serosus",
+        "first_lower": "serosus"
+      }
+    },
+    {
+      "character_id": "5428092154637984177",
+      "name": {
+        "first": "xXDemonica69Xx",
+        "first_lower": "xxdemonica69xx"
+      }
+    },
+    {
+      "character_id": "5428092155485205921",
+      "name": {
+        "first": "TheElectroGhost",
+        "first_lower": "theelectroghost"
+      }
+    },
+    {
+      "character_id": "5428092155485206129",
+      "name": {
+        "first": "korea12",
+        "first_lower": "korea12"
+      }
+    },
+    {
+      "character_id": "5428092155485206161",
+      "name": {
+        "first": "BilboGabbins",
+        "first_lower": "bilbogabbins"
+      }
+    },
+    {
+      "character_id": "5428092155485206577",
+      "name": {
+        "first": "BigSting",
+        "first_lower": "bigsting"
+      }
+    },
+    {
+      "character_id": "5428092155485206817",
+      "name": {
+        "first": "dadpulllllll",
+        "first_lower": "dadpulllllll"
+      }
+    },
+    {
+      "character_id": "5428092155485207153",
+      "name": {
+        "first": "eMka1",
+        "first_lower": "emka1"
+      }
+    },
+    {
+      "character_id": "5428092155485207185",
+      "name": {
+        "first": "NewOreos",
+        "first_lower": "neworeos"
+      }
+    },
+    {
+      "character_id": "5428092155485207361",
+      "name": {
+        "first": "gday1010",
+        "first_lower": "gday1010"
+      }
+    },
+    {
+      "character_id": "5428092155485207537",
+      "name": {
+        "first": "Comandillos",
+        "first_lower": "comandillos"
+      }
+    },
+    {
+      "character_id": "5428092155485208097",
+      "name": {
+        "first": "shoobadoobaa",
+        "first_lower": "shoobadoobaa"
+      }
+    },
+    {
+      "character_id": "5428092155485208241",
+      "name": {
+        "first": "John175011",
+        "first_lower": "john175011"
+      }
+    },
+    {
+      "character_id": "5428092155485208369",
+      "name": {
+        "first": "Okiexka",
+        "first_lower": "okiexka"
+      }
+    },
+    {
+      "character_id": "5428092155485208705",
+      "name": {
+        "first": "RieKantonez",
+        "first_lower": "riekantonez"
+      }
+    },
+    {
+      "character_id": "5428092155485209201",
+      "name": {
+        "first": "OgsnGltkn2",
+        "first_lower": "ogsngltkn2"
+      }
+    },
+    {
+      "character_id": "5428092155485209521",
+      "name": {
+        "first": "cptDiomodes",
+        "first_lower": "cptdiomodes"
+      }
+    },
+    {
+      "character_id": "5428092155485209585",
+      "name": {
+        "first": "Pablito0808",
+        "first_lower": "pablito0808"
+      }
+    },
+    {
+      "character_id": "5428092155652994049",
+      "name": {
+        "first": "gregerzeil",
+        "first_lower": "gregerzeil"
+      }
+    },
+    {
+      "character_id": "5428092155652994081",
+      "name": {
+        "first": "MrHayha",
+        "first_lower": "mrhayha"
+      }
+    },
+    {
+      "character_id": "5428092155652994321",
+      "name": {
+        "first": "Razzlemilly",
+        "first_lower": "razzlemilly"
+      }
+    },
+    {
+      "character_id": "5428092155652994961",
+      "name": {
+        "first": "Neutralizetheop",
+        "first_lower": "neutralizetheop"
+      }
+    },
+    {
+      "character_id": "5428092155652994993",
+      "name": {
+        "first": "Teomonkey",
+        "first_lower": "teomonkey"
+      }
+    },
+    {
+      "character_id": "5428092155652995025",
+      "name": {
+        "first": "PevtHaXxX",
+        "first_lower": "pevthaxxx"
+      }
+    },
+    {
+      "character_id": "5428092155652995089",
+      "name": {
+        "first": "StiivBrule",
+        "first_lower": "stiivbrule"
+      }
+    },
+    {
+      "character_id": "5428092155652995217",
+      "name": {
+        "first": "Jotarro",
+        "first_lower": "jotarro"
+      }
+    },
+    {
+      "character_id": "5428092155652995409",
+      "name": {
+        "first": "SgtCriid",
+        "first_lower": "sgtcriid"
+      }
+    },
+    {
+      "character_id": "5428092155652995553",
+      "name": {
+        "first": "gHQgoombo",
+        "first_lower": "ghqgoombo"
+      }
+    },
+    {
+      "character_id": "5428092155652995761",
+      "name": {
+        "first": "HotChocolateo",
+        "first_lower": "hotchocolateo"
+      }
+    },
+    {
+      "character_id": "5428092155652996209",
+      "name": {
+        "first": "DDR1123456789",
+        "first_lower": "ddr1123456789"
+      }
+    },
+    {
+      "character_id": "5428092155652996337",
+      "name": {
+        "first": "Mowbeeus2",
+        "first_lower": "mowbeeus2"
+      }
+    },
+    {
+      "character_id": "5428092155652996401",
+      "name": {
+        "first": "Meexy",
+        "first_lower": "meexy"
+      }
+    },
+    {
+      "character_id": "5428092155652996913",
+      "name": {
+        "first": "RA1NB0WDA5H69",
+        "first_lower": "ra1nb0wda5h69"
+      }
+    },
+    {
+      "character_id": "5428092156752956641",
+      "name": {
+        "first": "Vikkhalifa",
+        "first_lower": "vikkhalifa"
+      }
+    },
+    {
+      "character_id": "5428092156752956673",
+      "name": {
+        "first": "LiquidRaiden127",
+        "first_lower": "liquidraiden127"
+      }
+    },
+    {
+      "character_id": "5428092156752957041",
+      "name": {
+        "first": "EzraMiller",
+        "first_lower": "ezramiller"
+      }
+    },
+    {
+      "character_id": "5428092156752957649",
+      "name": {
+        "first": "spartika3",
+        "first_lower": "spartika3"
+      }
+    },
+    {
+      "character_id": "5428092156752958257",
+      "name": {
+        "first": "Follan",
+        "first_lower": "follan"
+      }
+    },
+    {
+      "character_id": "5428092156752958289",
+      "name": {
+        "first": "Totokinoo105",
+        "first_lower": "totokinoo105"
+      }
+    },
+    {
+      "character_id": "5428092156752958353",
+      "name": {
+        "first": "tuttomania",
+        "first_lower": "tuttomania"
+      }
+    },
+    {
+      "character_id": "5428092156752958481",
+      "name": {
+        "first": "NoiStRul",
+        "first_lower": "noistrul"
+      }
+    },
+    {
+      "character_id": "5428092156752958673",
+      "name": {
+        "first": "ChrisLi111",
+        "first_lower": "chrisli111"
+      }
+    },
+    {
+      "character_id": "5428092156752958785",
+      "name": {
+        "first": "kkalhomara",
+        "first_lower": "kkalhomara"
+      }
+    },
+    {
+      "character_id": "5428092156752958993",
+      "name": {
+        "first": "YoungMacG",
+        "first_lower": "youngmacg"
+      }
+    },
+    {
+      "character_id": "5428092156752959377",
+      "name": {
+        "first": "Leopart100",
+        "first_lower": "leopart100"
+      }
+    },
+    {
+      "character_id": "5428092156752959537",
+      "name": {
+        "first": "bloodcarnivor",
+        "first_lower": "bloodcarnivor"
+      }
+    },
+    {
+      "character_id": "5428092156752959569",
+      "name": {
+        "first": "CaptainJacob",
+        "first_lower": "captainjacob"
+      }
+    },
+    {
+      "character_id": "5428092156752959617",
+      "name": {
+        "first": "titopurroy",
+        "first_lower": "titopurroy"
+      }
+    },
+    {
+      "character_id": "5428092156752959809",
+      "name": {
+        "first": "HAndex",
+        "first_lower": "handex"
+      }
+    },
+    {
+      "character_id": "5428092156752960049",
+      "name": {
+        "first": "sinnitarra",
+        "first_lower": "sinnitarra"
+      }
+    },
+    {
+      "character_id": "5428092156752960129",
+      "name": {
+        "first": "IronHideCrusher",
+        "first_lower": "ironhidecrusher"
+      }
+    },
+    {
+      "character_id": "5428092156752960209",
+      "name": {
+        "first": "airoo7",
+        "first_lower": "airoo7"
+      }
+    },
+    {
+      "character_id": "5428092156752960305",
+      "name": {
+        "first": "Kostecky",
+        "first_lower": "kostecky"
+      }
+    },
+    {
+      "character_id": "5428092156752960337",
+      "name": {
+        "first": "HunSanya",
+        "first_lower": "hunsanya"
+      }
+    },
+    {
+      "character_id": "5428092156752960705",
+      "name": {
+        "first": "CzechZMRD",
+        "first_lower": "czechzmrd"
+      }
+    },
+    {
+      "character_id": "5428092156752962625",
+      "name": {
+        "first": "VoodooKillerARG",
+        "first_lower": "voodookillerarg"
+      }
+    },
+    {
+      "character_id": "5428092156752962689",
+      "name": {
+        "first": "paterlexx",
+        "first_lower": "paterlexx"
+      }
+    },
+    {
+      "character_id": "5428092156752963041",
+      "name": {
+        "first": "Karjolen",
+        "first_lower": "karjolen"
+      }
+    },
+    {
+      "character_id": "5428092156752963361",
+      "name": {
+        "first": "SLuggyslugslug",
+        "first_lower": "sluggyslugslug"
+      }
+    },
+    {
+      "character_id": "5428092156752963425",
+      "name": {
+        "first": "xChromeXx",
+        "first_lower": "xchromexx"
+      }
+    },
+    {
+      "character_id": "5428092156948518017",
+      "name": {
+        "first": "cake300",
+        "first_lower": "cake300"
+      }
+    },
+    {
+      "character_id": "5428092156948518081",
+      "name": {
+        "first": "PCLoadL3tter",
+        "first_lower": "pcloadl3tter"
+      }
+    },
+    {
+      "character_id": "5428092156948518225",
+      "name": {
+        "first": "poonaji",
+        "first_lower": "poonaji"
+      }
+    },
+    {
+      "character_id": "5428092156948518353",
+      "name": {
+        "first": "LouisDenonnain",
+        "first_lower": "louisdenonnain"
+      }
+    },
+    {
+      "character_id": "5428092156948519185",
+      "name": {
+        "first": "SpiritSoulTGs",
+        "first_lower": "spiritsoultgs"
+      }
+    },
+    {
+      "character_id": "5428092156948519361",
+      "name": {
+        "first": "gtptitan1136",
+        "first_lower": "gtptitan1136"
+      }
+    },
+    {
+      "character_id": "5428092157071393009",
+      "name": {
+        "first": "SlaveProtection",
+        "first_lower": "slaveprotection"
+      }
+    },
+    {
+      "character_id": "5428092157071393537",
+      "name": {
+        "first": "EuphoricKnave",
+        "first_lower": "euphoricknave"
+      }
+    },
+    {
+      "character_id": "5428095401427550497",
+      "name": {
+        "first": "ThirdShadowOps3",
+        "first_lower": "thirdshadowops3"
+      }
+    },
+    {
+      "character_id": "5428095401427550529",
+      "name": {
+        "first": "Jinerin",
+        "first_lower": "jinerin"
+      }
+    },
+    {
+      "character_id": "5428095401429664353",
+      "name": {
+        "first": "Mastermeat",
+        "first_lower": "mastermeat"
+      }
+    },
+    {
+      "character_id": "5428095401429664417",
+      "name": {
+        "first": "ChronicSw",
+        "first_lower": "chronicsw"
+      }
+    },
+    {
+      "character_id": "5428095401429664481",
+      "name": {
+        "first": "Ironhide75",
+        "first_lower": "ironhide75"
+      }
+    },
+    {
+      "character_id": "5428095401429665201",
+      "name": {
+        "first": "agax12",
+        "first_lower": "agax12"
+      }
+    },
+    {
+      "character_id": "5428095401429665265",
+      "name": {
+        "first": "Jiveng",
+        "first_lower": "jiveng"
+      }
+    },
+    {
+      "character_id": "5428095401429665361",
+      "name": {
+        "first": "BlueEyeZTR",
+        "first_lower": "blueeyeztr"
+      }
+    },
+    {
+      "character_id": "5428095401429665585",
+      "name": {
+        "first": "ElPeterWTF",
+        "first_lower": "elpeterwtf"
+      }
+    },
+    {
+      "character_id": "5428095401431705137",
+      "name": {
+        "first": "SnooZeBR",
+        "first_lower": "snoozebr"
+      }
+    },
+    {
+      "character_id": "5428095401432790273",
+      "name": {
+        "first": "DerZoowerter",
+        "first_lower": "derzoowerter"
+      }
+    },
+    {
+      "character_id": "5428095401432790369",
+      "name": {
+        "first": "SgtCrosskill",
+        "first_lower": "sgtcrosskill"
+      }
+    },
+    {
+      "character_id": "5428095401432790737",
+      "name": {
+        "first": "SuVaRiTR",
+        "first_lower": "suvaritr"
+      }
+    },
+    {
+      "character_id": "5428095401432790849",
+      "name": {
+        "first": "IcECooP",
+        "first_lower": "icecoop"
+      }
+    },
+    {
+      "character_id": "5428095401432791201",
+      "name": {
+        "first": "JoshGaara",
+        "first_lower": "joshgaara"
+      }
+    },
+    {
+      "character_id": "5428095401432886737",
+      "name": {
+        "first": "Darknessatnoon",
+        "first_lower": "darknessatnoon"
+      }
+    },
+    {
+      "character_id": "5428095401432886881",
+      "name": {
+        "first": "KBryant",
+        "first_lower": "kbryant"
+      }
+    },
+    {
+      "character_id": "5428095401432886961",
+      "name": {
+        "first": "Deepbloxx",
+        "first_lower": "deepbloxx"
+      }
+    },
+    {
+      "character_id": "5428095401432887009",
+      "name": {
+        "first": "maxdome1998",
+        "first_lower": "maxdome1998"
+      }
+    },
+    {
+      "character_id": "5428095401437016081",
+      "name": {
+        "first": "Argon2013",
+        "first_lower": "argon2013"
+      }
+    },
+    {
+      "character_id": "5428095401437016113",
+      "name": {
+        "first": "celine09",
+        "first_lower": "celine09"
+      }
+    },
+    {
+      "character_id": "5428095401437016225",
+      "name": {
+        "first": "AMIGO7",
+        "first_lower": "amigo7"
+      }
+    },
+    {
+      "character_id": "5428095401437016673",
+      "name": {
+        "first": "Monneke",
+        "first_lower": "monneke"
+      }
+    },
+    {
+      "character_id": "5428095401437016721",
+      "name": {
+        "first": "MathWR",
+        "first_lower": "mathwr"
+      }
+    },
+    {
+      "character_id": "5428095401437016881",
+      "name": {
+        "first": "Bigmatzel",
+        "first_lower": "bigmatzel"
+      }
+    },
+    {
+      "character_id": "5428095401437016945",
+      "name": {
+        "first": "zegraca",
+        "first_lower": "zegraca"
+      }
+    },
+    {
+      "character_id": "5428095401437017041",
+      "name": {
+        "first": "Sterninator",
+        "first_lower": "sterninator"
+      }
+    },
+    {
+      "character_id": "5428095401437017361",
+      "name": {
+        "first": "herohunter273",
+        "first_lower": "herohunter273"
+      }
+    },
+    {
+      "character_id": "5428095401437017425",
+      "name": {
+        "first": "SEBRENAG",
+        "first_lower": "sebrenag"
+      }
+    },
+    {
+      "character_id": "5428095401437017697",
+      "name": {
+        "first": "joyin",
+        "first_lower": "joyin"
+      }
+    },
+    {
+      "character_id": "5428095401437060657",
+      "name": {
+        "first": "Zacka1998",
+        "first_lower": "zacka1998"
+      }
+    },
+    {
+      "character_id": "5428095401437061665",
+      "name": {
+        "first": "GriffyBobby",
+        "first_lower": "griffybobby"
+      }
+    },
+    {
+      "character_id": "5428095401437307937",
+      "name": {
+        "first": "fearlesshater",
+        "first_lower": "fearlesshater"
+      }
+    },
+    {
+      "character_id": "5428095401437307969",
+      "name": {
+        "first": "psykonz",
+        "first_lower": "psykonz"
+      }
+    },
+    {
+      "character_id": "5428095401437308481",
+      "name": {
+        "first": "Xoooter",
+        "first_lower": "xoooter"
+      }
+    },
+    {
+      "character_id": "5428095401437308657",
+      "name": {
+        "first": "Uldoen",
+        "first_lower": "uldoen"
+      }
+    },
+    {
+      "character_id": "5428095401437309345",
+      "name": {
+        "first": "Molikusa",
+        "first_lower": "molikusa"
+      }
+    },
+    {
+      "character_id": "5428095401437309825",
+      "name": {
+        "first": "kingstonxy",
+        "first_lower": "kingstonxy"
+      }
+    },
+    {
+      "character_id": "5428095401437310241",
+      "name": {
+        "first": "Foltersequenz",
+        "first_lower": "foltersequenz"
+      }
+    },
+    {
+      "character_id": "5428095401437311169",
+      "name": {
+        "first": "DemmDemm",
+        "first_lower": "demmdemm"
+      }
+    },
+    {
+      "character_id": "5428095401438515729",
+      "name": {
+        "first": "FrozenFire98",
+        "first_lower": "frozenfire98"
+      }
+    },
+    {
+      "character_id": "5428095401439064801",
+      "name": {
+        "first": "GatheredAlarm",
+        "first_lower": "gatheredalarm"
+      }
+    },
+    {
+      "character_id": "5428095401444472465",
+      "name": {
+        "first": "EPICREILLYZ",
+        "first_lower": "epicreillyz"
+      }
+    },
+    {
+      "character_id": "5428095401444472641",
+      "name": {
+        "first": "doomzday1008",
+        "first_lower": "doomzday1008"
+      }
+    },
+    {
+      "character_id": "5428095401444473121",
+      "name": {
+        "first": "Naphtalia",
+        "first_lower": "naphtalia"
+      }
+    },
+    {
+      "character_id": "5428095401444473345",
+      "name": {
+        "first": "Kitimer",
+        "first_lower": "kitimer"
+      }
+    },
+    {
+      "character_id": "5428095401444473473",
+      "name": {
+        "first": "Aquilaguard",
+        "first_lower": "aquilaguard"
+      }
+    },
+    {
+      "character_id": "5428095401444474065",
+      "name": {
+        "first": "Zeelott",
+        "first_lower": "zeelott"
+      }
+    },
+    {
+      "character_id": "5428095401444474209",
+      "name": {
+        "first": "Inerro",
+        "first_lower": "inerro"
+      }
+    },
+    {
+      "character_id": "5428095401444475521",
+      "name": {
+        "first": "MrDoctorOctagon",
+        "first_lower": "mrdoctoroctagon"
+      }
+    },
+    {
+      "character_id": "5428095401444704641",
+      "name": {
+        "first": "Fungorth",
+        "first_lower": "fungorth"
+      }
+    },
+    {
+      "character_id": "5428095401444704705",
+      "name": {
+        "first": "DerpShoter",
+        "first_lower": "derpshoter"
+      }
+    },
+    {
+      "character_id": "5428095401444793009",
+      "name": {
+        "first": "AdamKeenan",
+        "first_lower": "adamkeenan"
+      }
+    },
+    {
+      "character_id": "5428095401444793073",
+      "name": {
+        "first": "iRealmz",
+        "first_lower": "irealmz"
+      }
+    },
+    {
+      "character_id": "5428095401451801793",
+      "name": {
+        "first": "Rickybobby5458",
+        "first_lower": "rickybobby5458"
+      }
+    },
+    {
+      "character_id": "5428095401451948017",
+      "name": {
+        "first": "CaptainRagtag",
+        "first_lower": "captainragtag"
+      }
+    },
+    {
+      "character_id": "5428095401452102465",
+      "name": {
+        "first": "DJoKerPT",
+        "first_lower": "djokerpt"
+      }
+    },
+    {
+      "character_id": "5428095401452102673",
+      "name": {
+        "first": "StyleX321",
+        "first_lower": "stylex321"
+      }
+    },
+    {
+      "character_id": "5428095401452102721",
+      "name": {
+        "first": "JacobTHeBau5",
+        "first_lower": "jacobthebau5"
+      }
+    },
+    {
+      "character_id": "5428095401452318593",
+      "name": {
+        "first": "SrPato",
+        "first_lower": "srpato"
+      }
+    },
+    {
+      "character_id": "5428095401452318849",
+      "name": {
+        "first": "PantheonNinja",
+        "first_lower": "pantheonninja"
+      }
+    },
+    {
+      "character_id": "5428095401452319233",
+      "name": {
+        "first": "Nailz24",
+        "first_lower": "nailz24"
+      }
+    },
+    {
+      "character_id": "5428095401452411521",
+      "name": {
+        "first": "hamzawi",
+        "first_lower": "hamzawi"
+      }
+    },
+    {
+      "character_id": "5428095401452412065",
+      "name": {
+        "first": "BiGrSwNm",
+        "first_lower": "bigrswnm"
+      }
+    },
+    {
+      "character_id": "5428095401457769633",
+      "name": {
+        "first": "Sepi69",
+        "first_lower": "sepi69"
+      }
+    },
+    {
+      "character_id": "5428095401457769729",
+      "name": {
+        "first": "Salinger21",
+        "first_lower": "salinger21"
+      }
+    },
+    {
+      "character_id": "5428095401457875969",
+      "name": {
+        "first": "Fuleee",
+        "first_lower": "fuleee"
+      }
+    },
+    {
+      "character_id": "5428095401457876017",
+      "name": {
+        "first": "evgeniiii",
+        "first_lower": "evgeniiii"
+      }
+    },
+    {
+      "character_id": "5428095401457876209",
+      "name": {
+        "first": "voltekbeast",
+        "first_lower": "voltekbeast"
+      }
+    },
+    {
+      "character_id": "5428095401465231553",
+      "name": {
+        "first": "aigle118",
+        "first_lower": "aigle118"
+      }
+    },
+    {
+      "character_id": "5428095401468238641",
+      "name": {
+        "first": "mattiouu",
+        "first_lower": "mattiouu"
+      }
+    },
+    {
+      "character_id": "5428100110501400993",
+      "name": {
+        "first": "Sky465",
+        "first_lower": "sky465"
+      }
+    },
+    {
+      "character_id": "5428100110510420305",
+      "name": {
+        "first": "ImYourMotherBeach",
+        "first_lower": "imyourmotherbeach"
+      }
+    },
+    {
+      "character_id": "5428100110514798913",
+      "name": {
+        "first": "LOLDONTKILLME",
+        "first_lower": "loldontkillme"
+      }
+    },
+    {
+      "character_id": "5428100110517785009",
+      "name": {
+        "first": "Johny10pint",
+        "first_lower": "johny10pint"
+      }
+    },
+    {
+      "character_id": "5428100110522281953",
+      "name": {
+        "first": "kingkong31",
+        "first_lower": "kingkong31"
+      }
+    },
+    {
+      "character_id": "5428102290034038385",
+      "name": {
+        "first": "Ricario",
+        "first_lower": "ricario"
+      }
+    },
+    {
+      "character_id": "5428102290039852497",
+      "name": {
+        "first": "DiscoPandah",
+        "first_lower": "discopandah"
+      }
+    },
+    {
+      "character_id": "5428102290039852513",
+      "name": {
+        "first": "petrac",
+        "first_lower": "petrac"
+      }
+    },
+    {
+      "character_id": "5428105192780848209",
+      "name": {
+        "first": "breizhbzh22",
+        "first_lower": "breizhbzh22"
+      }
+    },
+    {
+      "character_id": "5428105192781090785",
+      "name": {
+        "first": "Samatedi",
+        "first_lower": "samatedi"
+      }
+    },
+    {
+      "character_id": "5428105192781090849",
+      "name": {
+        "first": "Mabel86",
+        "first_lower": "mabel86"
+      }
+    },
+    {
+      "character_id": "5428105192781367537",
+      "name": {
+        "first": "leidotcom",
+        "first_lower": "leidotcom"
+      }
+    },
+    {
+      "character_id": "5428105192788075409",
+      "name": {
+        "first": "MeatPuppetPro",
+        "first_lower": "meatpuppetpro"
+      }
+    },
+    {
+      "character_id": "5428106629448845793",
+      "name": {
+        "first": "BubbaFruit",
+        "first_lower": "bubbafruit"
+      }
+    },
+    {
+      "character_id": "5428106629455760481",
+      "name": {
+        "first": "CR34TUR3",
+        "first_lower": "cr34tur3"
+      }
+    },
+    {
+      "character_id": "5428106629455845681",
+      "name": {
+        "first": "BlackAffairs",
+        "first_lower": "blackaffairs"
+      }
+    },
+    {
+      "character_id": "5428109895933556721",
+      "name": {
+        "first": "Cerberus960",
+        "first_lower": "cerberus960"
+      }
+    },
+    {
+      "character_id": "5428117870055368993",
+      "name": {
+        "first": "MARTIAL6767",
+        "first_lower": "martial6767"
+      }
+    },
+    {
+      "character_id": "5428123302630133425",
+      "name": {
+        "first": "Osya",
+        "first_lower": "osya"
+      }
+    },
+    {
+      "character_id": "5428123302631101697",
+      "name": {
+        "first": "Laatho",
+        "first_lower": "laatho"
+      }
+    },
+    {
+      "character_id": "5428123302631205105",
+      "name": {
+        "first": "Mojiee",
+        "first_lower": "mojiee"
+      }
+    },
+    {
+      "character_id": "5428123302631703569",
+      "name": {
+        "first": "Jafexk",
+        "first_lower": "jafexk"
+      }
+    },
+    {
+      "character_id": "5428123302641560337",
+      "name": {
+        "first": "XR4MB0",
+        "first_lower": "xr4mb0"
+      }
+    },
+    {
+      "character_id": "5428123302641560369",
+      "name": {
+        "first": "LinseyHodgins",
+        "first_lower": "linseyhodgins"
+      }
+    },
+    {
+      "character_id": "5428130184544283345",
+      "name": {
+        "first": "eberl",
+        "first_lower": "eberl"
+      }
+    },
+    {
+      "character_id": "5428130184547319233",
+      "name": {
+        "first": "Devil2wantsome",
+        "first_lower": "devil2wantsome"
+      }
+    },
+    {
+      "character_id": "5428130184558779137",
+      "name": {
+        "first": "Dannuz",
+        "first_lower": "dannuz"
+      }
+    },
+    {
+      "character_id": "5428142524600420161",
+      "name": {
+        "first": "Oogieduke",
+        "first_lower": "oogieduke"
+      }
+    },
+    {
+      "character_id": "5428144714697596849",
+      "name": {
+        "first": "mango616",
+        "first_lower": "mango616"
+      }
+    },
+    {
+      "character_id": "5428144714698113249",
+      "name": {
+        "first": "raghniiel",
+        "first_lower": "raghniiel"
+      }
+    },
+    {
+      "character_id": "5428153774078345281",
+      "name": {
+        "first": "SukmanVS",
+        "first_lower": "sukmanvs"
+      }
+    },
+    {
+      "character_id": "5428153774130496721",
+      "name": {
+        "first": "RuffeDenTuffe",
+        "first_lower": "ruffedentuffe"
+      }
+    },
+    {
+      "character_id": "5428153774131057905",
+      "name": {
+        "first": "ApolloNightmare",
+        "first_lower": "apollonightmare"
+      }
+    },
+    {
+      "character_id": "5428153774132365185",
+      "name": {
+        "first": "GamingPepsi",
+        "first_lower": "gamingpepsi"
+      }
+    },
+    {
+      "character_id": "5428161003946946737",
+      "name": {
+        "first": "djcesc92",
+        "first_lower": "djcesc92"
+      }
+    },
+    {
+      "character_id": "5428161003961534033",
+      "name": {
+        "first": "ssssssssssssssssssssdd",
+        "first_lower": "ssssssssssssssssssssdd"
+      }
+    },
+    {
+      "character_id": "5428163811558286225",
+      "name": {
+        "first": "RetroBliss",
+        "first_lower": "retrobliss"
+      }
+    },
+    {
+      "character_id": "5428163811598305585",
+      "name": {
+        "first": "SnorlaxtheCat",
+        "first_lower": "snorlaxthecat"
+      }
+    },
+    {
+      "character_id": "5428168624804476337",
+      "name": {
+        "first": "HeartBreakerjp",
+        "first_lower": "heartbreakerjp"
+      }
+    },
+    {
+      "character_id": "5428168624839462897",
+      "name": {
+        "first": "Kaidin123",
+        "first_lower": "kaidin123"
+      }
+    },
+    {
+      "character_id": "5428174054407047089",
+      "name": {
+        "first": "BeastyGitto",
+        "first_lower": "beastygitto"
+      }
+    },
+    {
+      "character_id": "5428292913159795601",
+      "name": {
+        "first": "deesehairynuts",
+        "first_lower": "deesehairynuts"
+      }
+    },
+    {
+      "character_id": "5428292913159796193",
+      "name": {
+        "first": "Butths",
+        "first_lower": "butths"
+      }
+    },
+    {
+      "character_id": "5428292913159796337",
+      "name": {
+        "first": "Monsterzero335",
+        "first_lower": "monsterzero335"
+      }
+    },
+    {
+      "character_id": "5428292913159796721",
+      "name": {
+        "first": "Omegathehusky",
+        "first_lower": "omegathehusky"
+      }
+    },
+    {
+      "character_id": "5428292913159796945",
+      "name": {
+        "first": "Bandelon",
+        "first_lower": "bandelon"
+      }
+    },
+    {
+      "character_id": "5428292913159797217",
+      "name": {
+        "first": "LmaoSistaMoma",
+        "first_lower": "lmaosistamoma"
+      }
+    },
+    {
+      "character_id": "5428292913159797297",
+      "name": {
+        "first": "AURORASTORM",
+        "first_lower": "aurorastorm"
+      }
+    },
+    {
+      "character_id": "5428292913159797329",
+      "name": {
+        "first": "Crabu",
+        "first_lower": "crabu"
+      }
+    },
+    {
+      "character_id": "5428292913159797409",
+      "name": {
+        "first": "anidharaf",
+        "first_lower": "anidharaf"
+      }
+    },
+    {
+      "character_id": "5428292913159797537",
+      "name": {
+        "first": "Forton",
+        "first_lower": "forton"
+      }
+    },
+    {
+      "character_id": "5428292913159797617",
+      "name": {
+        "first": "AustraliasNextTopModel",
+        "first_lower": "australiasnexttopmodel"
+      }
+    },
+    {
+      "character_id": "5428292913159797777",
+      "name": {
+        "first": "K0INCIDENCE",
+        "first_lower": "k0incidence"
+      }
+    },
+    {
+      "character_id": "5428292913159798449",
+      "name": {
+        "first": "Rillithian",
+        "first_lower": "rillithian"
+      }
+    },
+    {
+      "character_id": "5428292913159798753",
+      "name": {
+        "first": "vMilesanator",
+        "first_lower": "vmilesanator"
+      }
+    },
+    {
+      "character_id": "5428292913159903889",
+      "name": {
+        "first": "CommanderFall",
+        "first_lower": "commanderfall"
+      }
+    },
+    {
+      "character_id": "5428292913159904017",
+      "name": {
+        "first": "ISISimamTodd",
+        "first_lower": "isisimamtodd"
+      }
+    },
+    {
+      "character_id": "5428292913159904193",
+      "name": {
+        "first": "Jailsun",
+        "first_lower": "jailsun"
+      }
+    },
+    {
+      "character_id": "5428292913159904577",
+      "name": {
+        "first": "LumanShot",
+        "first_lower": "lumanshot"
+      }
+    },
+    {
+      "character_id": "5428292913159904689",
+      "name": {
+        "first": "Finkx123",
+        "first_lower": "finkx123"
+      }
+    },
+    {
+      "character_id": "5428292913159904737",
+      "name": {
+        "first": "GarpD",
+        "first_lower": "garpd"
+      }
+    },
+    {
+      "character_id": "5428292913159904817",
+      "name": {
+        "first": "ZewBee1",
+        "first_lower": "zewbee1"
+      }
+    },
+    {
+      "character_id": "5428292913159904929",
+      "name": {
+        "first": "FIRECROTC",
+        "first_lower": "firecrotc"
+      }
+    },
+    {
+      "character_id": "5428292913159905121",
+      "name": {
+        "first": "Designful",
+        "first_lower": "designful"
+      }
+    },
+    {
+      "character_id": "5428292913159905329",
+      "name": {
+        "first": "BaconFilms",
+        "first_lower": "baconfilms"
+      }
+    },
+    {
+      "character_id": "5428292913159905441",
+      "name": {
+        "first": "Trooperjess",
+        "first_lower": "trooperjess"
+      }
+    },
+    {
+      "character_id": "5428292913159905697",
+      "name": {
+        "first": "TRUCIFIAL",
+        "first_lower": "trucifial"
+      }
+    },
+    {
+      "character_id": "5428292913159906241",
+      "name": {
+        "first": "NotDoge420",
+        "first_lower": "notdoge420"
+      }
+    },
+    {
+      "character_id": "5428292913159906321",
+      "name": {
+        "first": "IAmDivine777",
+        "first_lower": "iamdivine777"
+      }
+    },
+    {
+      "character_id": "5428292913159906561",
+      "name": {
+        "first": "Woodcleaner",
+        "first_lower": "woodcleaner"
+      }
+    },
+    {
+      "character_id": "5428292913159906801",
+      "name": {
+        "first": "Khaizerd",
+        "first_lower": "khaizerd"
+      }
+    },
+    {
+      "character_id": "5428292913159906897",
+      "name": {
+        "first": "PicklesLettuceTomato",
+        "first_lower": "pickleslettucetomato"
+      }
+    },
+    {
+      "character_id": "5428292913159906961",
+      "name": {
+        "first": "bninja",
+        "first_lower": "bninja"
+      }
+    },
+    {
+      "character_id": "5428292913159907585",
+      "name": {
+        "first": "Astronomiclly",
+        "first_lower": "astronomiclly"
+      }
+    },
+    {
+      "character_id": "5428292913159907697",
+      "name": {
+        "first": "Eliathanis",
+        "first_lower": "eliathanis"
+      }
+    },
+    {
+      "character_id": "5428292913159907937",
+      "name": {
+        "first": "FalconDrago",
+        "first_lower": "falcondrago"
+      }
+    },
+    {
+      "character_id": "5428292913159908081",
+      "name": {
+        "first": "PewsPewsPews",
+        "first_lower": "pewspewspews"
+      }
+    },
+    {
+      "character_id": "5428292913159908177",
+      "name": {
+        "first": "JohnChaserBlade",
+        "first_lower": "johnchaserblade"
+      }
+    },
+    {
+      "character_id": "5428292913159908385",
+      "name": {
+        "first": "Tabeeee",
+        "first_lower": "tabeeee"
+      }
+    },
+    {
+      "character_id": "5428292913159908497",
+      "name": {
+        "first": "CasterlyCock",
+        "first_lower": "casterlycock"
+      }
+    },
+    {
+      "character_id": "5428292913159908577",
+      "name": {
+        "first": "WarWyrm",
+        "first_lower": "warwyrm"
+      }
+    },
+    {
+      "character_id": "5428292913159908657",
+      "name": {
+        "first": "trollface010",
+        "first_lower": "trollface010"
+      }
+    },
+    {
+      "character_id": "5428292913159908833",
+      "name": {
+        "first": "thizhead",
+        "first_lower": "thizhead"
+      }
+    },
+    {
+      "character_id": "5428292913159909073",
+      "name": {
+        "first": "JimmytheDuke",
+        "first_lower": "jimmytheduke"
+      }
+    },
+    {
+      "character_id": "5428292913159909521",
+      "name": {
+        "first": "MadMaus",
+        "first_lower": "madmaus"
+      }
+    },
+    {
+      "character_id": "5428292913159909713",
+      "name": {
+        "first": "SquaredX",
+        "first_lower": "squaredx"
+      }
+    },
+    {
+      "character_id": "5428292913159909905",
+      "name": {
+        "first": "ReyJr618",
+        "first_lower": "reyjr618"
+      }
+    },
+    {
+      "character_id": "5428292913159910305",
+      "name": {
+        "first": "xDensex",
+        "first_lower": "xdensex"
+      }
+    },
+    {
+      "character_id": "5428292913159910337",
+      "name": {
+        "first": "Scottlegend35",
+        "first_lower": "scottlegend35"
+      }
+    },
+    {
+      "character_id": "5428292913159910721",
+      "name": {
+        "first": "StasConstantine",
+        "first_lower": "stasconstantine"
+      }
+    },
+    {
+      "character_id": "5428292913159911009",
+      "name": {
+        "first": "CommanderChodeFarts",
+        "first_lower": "commanderchodefarts"
+      }
+    },
+    {
+      "character_id": "5428292913159911057",
+      "name": {
+        "first": "DeliciaBR",
+        "first_lower": "deliciabr"
+      }
+    },
+    {
+      "character_id": "5428292913159911201",
+      "name": {
+        "first": "TEAMLOUDPACK93",
+        "first_lower": "teamloudpack93"
+      }
+    },
+    {
+      "character_id": "5428292913159911313",
+      "name": {
+        "first": "Beandip1",
+        "first_lower": "beandip1"
+      }
+    },
+    {
+      "character_id": "5428292913159911425",
+      "name": {
+        "first": "naraku13",
+        "first_lower": "naraku13"
+      }
+    },
+    {
+      "character_id": "5428292913159911585",
+      "name": {
+        "first": "MuffinLovinTubman",
+        "first_lower": "muffinlovintubman"
+      }
+    },
+    {
+      "character_id": "5428292913159911841",
+      "name": {
+        "first": "kbj1",
+        "first_lower": "kbj1"
+      }
+    },
+    {
+      "character_id": "5428292913159911905",
+      "name": {
+        "first": "Sinoxx",
+        "first_lower": "sinoxx"
+      }
+    },
+    {
+      "character_id": "5428292913159911937",
+      "name": {
+        "first": "natipoo",
+        "first_lower": "natipoo"
+      }
+    },
+    {
+      "character_id": "5428292913159912001",
+      "name": {
+        "first": "TheFoxLoaf",
+        "first_lower": "thefoxloaf"
+      }
+    },
+    {
+      "character_id": "5428292913159912321",
+      "name": {
+        "first": "aznboi589",
+        "first_lower": "aznboi589"
+      }
+    },
+    {
+      "character_id": "5428292913159912369",
+      "name": {
+        "first": "St0rm1n",
+        "first_lower": "st0rm1n"
+      }
+    },
+    {
+      "character_id": "5428292913159912401",
+      "name": {
+        "first": "Riyce",
+        "first_lower": "riyce"
+      }
+    },
+    {
+      "character_id": "5428292913159912433",
+      "name": {
+        "first": "MasterSgtSergeantDude",
+        "first_lower": "mastersgtsergeantdude"
+      }
+    },
+    {
+      "character_id": "5428292913159912561",
+      "name": {
+        "first": "deathcowbot1",
+        "first_lower": "deathcowbot1"
+      }
+    },
+    {
+      "character_id": "5428292913159912673",
+      "name": {
+        "first": "kantbeatdis",
+        "first_lower": "kantbeatdis"
+      }
+    },
+    {
+      "character_id": "5428292913159912945",
+      "name": {
+        "first": "N0O0OB",
+        "first_lower": "n0o0ob"
+      }
+    },
+    {
+      "character_id": "5428292913159913169",
+      "name": {
+        "first": "IIndridCold",
+        "first_lower": "iindridcold"
+      }
+    },
+    {
+      "character_id": "5428292913159913233",
+      "name": {
+        "first": "P4j4m4s",
+        "first_lower": "p4j4m4s"
+      }
+    },
+    {
+      "character_id": "5428292913159913425",
+      "name": {
+        "first": "BigBrown69",
+        "first_lower": "bigbrown69"
+      }
+    },
+    {
+      "character_id": "5428292913159913457",
+      "name": {
+        "first": "Chavyyy",
+        "first_lower": "chavyyy"
+      }
+    },
+    {
+      "character_id": "5428292913159913537",
+      "name": {
+        "first": "CoonPaw",
+        "first_lower": "coonpaw"
+      }
+    },
+    {
+      "character_id": "5428292913159913825",
+      "name": {
+        "first": "Izodn0",
+        "first_lower": "izodn0"
+      }
+    },
+    {
+      "character_id": "5428292913159913905",
+      "name": {
+        "first": "voidopolis2",
+        "first_lower": "voidopolis2"
+      }
+    },
+    {
+      "character_id": "5428292913159913953",
+      "name": {
+        "first": "DaveOsJr",
+        "first_lower": "daveosjr"
+      }
+    },
+    {
+      "character_id": "5428292913159914209",
+      "name": {
+        "first": "ThraxAmundar",
+        "first_lower": "thraxamundar"
+      }
+    },
+    {
+      "character_id": "5428292913159914881",
+      "name": {
+        "first": "ChiefMamba",
+        "first_lower": "chiefmamba"
+      }
+    },
+    {
+      "character_id": "5428292913159915057",
+      "name": {
+        "first": "rylak09",
+        "first_lower": "rylak09"
+      }
+    },
+    {
+      "character_id": "5428292913159915089",
+      "name": {
+        "first": "Thunndder",
+        "first_lower": "thunndder"
+      }
+    },
+    {
+      "character_id": "5428292913159915265",
+      "name": {
+        "first": "Fail2listen",
+        "first_lower": "fail2listen"
+      }
+    },
+    {
+      "character_id": "5428292913159915393",
+      "name": {
+        "first": "DcWuld",
+        "first_lower": "dcwuld"
+      }
+    },
+    {
+      "character_id": "5428292913159915441",
+      "name": {
+        "first": "Taggster86",
+        "first_lower": "taggster86"
+      }
+    },
+    {
+      "character_id": "5428292913159915601",
+      "name": {
+        "first": "GeeOhD",
+        "first_lower": "geeohd"
+      }
+    },
+    {
+      "character_id": "5428292913159915793",
+      "name": {
+        "first": "PokeNerd",
+        "first_lower": "pokenerd"
+      }
+    },
+    {
+      "character_id": "5428292913159915937",
+      "name": {
+        "first": "RevanRyder",
+        "first_lower": "revanryder"
+      }
+    },
+    {
+      "character_id": "5428292913159916241",
+      "name": {
+        "first": "reb21794",
+        "first_lower": "reb21794"
+      }
+    },
+    {
+      "character_id": "5428292913159916385",
+      "name": {
+        "first": "TookableCup",
+        "first_lower": "tookablecup"
+      }
+    },
+    {
+      "character_id": "5428292913159916593",
+      "name": {
+        "first": "KillyMcKillface",
+        "first_lower": "killymckillface"
+      }
+    },
+    {
+      "character_id": "5428292913159916833",
+      "name": {
+        "first": "lifeispeachy",
+        "first_lower": "lifeispeachy"
+      }
+    },
+    {
+      "character_id": "5428292913159916897",
+      "name": {
+        "first": "Herison",
+        "first_lower": "herison"
+      }
+    },
+    {
+      "character_id": "5428292913159917249",
+      "name": {
+        "first": "SPEEDVEL0X",
+        "first_lower": "speedvel0x"
+      }
+    },
+    {
+      "character_id": "5428292913159917409",
+      "name": {
+        "first": "Rogyr",
+        "first_lower": "rogyr"
+      }
+    },
+    {
+      "character_id": "5428292913159917425",
+      "name": {
+        "first": "Grizer",
+        "first_lower": "grizer"
+      }
+    },
+    {
+      "character_id": "5428292913159917537",
+      "name": {
+        "first": "mistfit104",
+        "first_lower": "mistfit104"
+      }
+    },
+    {
+      "character_id": "5428292913159917569",
+      "name": {
+        "first": "Vladimi",
+        "first_lower": "vladimi"
+      }
+    },
+    {
+      "character_id": "5428292913159917601",
+      "name": {
+        "first": "TomStrongDong",
+        "first_lower": "tomstrongdong"
+      }
+    },
+    {
+      "character_id": "5428292913159917649",
+      "name": {
+        "first": "Hellzsniper",
+        "first_lower": "hellzsniper"
+      }
+    },
+    {
+      "character_id": "5428292913159917729",
+      "name": {
+        "first": "Argahal",
+        "first_lower": "argahal"
+      }
+    },
+    {
+      "character_id": "5428292913159918017",
+      "name": {
+        "first": "nigllllknocker",
+        "first_lower": "nigllllknocker"
+      }
+    },
+    {
+      "character_id": "5428292913159918849",
+      "name": {
+        "first": "StargazerIx",
+        "first_lower": "stargazerix"
+      }
+    },
+    {
+      "character_id": "5428292913159919041",
+      "name": {
+        "first": "tomdu100",
+        "first_lower": "tomdu100"
+      }
+    },
+    {
+      "character_id": "5428292913159919521",
+      "name": {
+        "first": "LordDio",
+        "first_lower": "lorddio"
+      }
+    },
+    {
+      "character_id": "5428292913159921121",
+      "name": {
+        "first": "purpledongwithbomb",
+        "first_lower": "purpledongwithbomb"
+      }
+    },
+    {
+      "character_id": "5428292913159930001",
+      "name": {
+        "first": "DonnieChan",
+        "first_lower": "donniechan"
+      }
+    },
+    {
+      "character_id": "5428292913159930257",
+      "name": {
+        "first": "Ellissurvivor97",
+        "first_lower": "ellissurvivor97"
+      }
+    },
+    {
+      "character_id": "5428292913159930321",
+      "name": {
+        "first": "CitizenRebel",
+        "first_lower": "citizenrebel"
+      }
+    },
+    {
+      "character_id": "5428292913159930497",
+      "name": {
+        "first": "burnttoast7271",
+        "first_lower": "burnttoast7271"
+      }
+    },
+    {
+      "character_id": "5428292913159930769",
+      "name": {
+        "first": "Yelonet",
+        "first_lower": "yelonet"
+      }
+    },
+    {
+      "character_id": "5428292913159930849",
+      "name": {
+        "first": "Iglehart",
+        "first_lower": "iglehart"
+      }
+    },
+    {
+      "character_id": "5428292913159931137",
+      "name": {
+        "first": "Dargle",
+        "first_lower": "dargle"
+      }
+    },
+    {
+      "character_id": "5428292913159931265",
+      "name": {
+        "first": "RyuuEye",
+        "first_lower": "ryuueye"
+      }
+    },
+    {
+      "character_id": "5428292913159931313",
+      "name": {
+        "first": "DocDocChang",
+        "first_lower": "docdocchang"
+      }
+    },
+    {
+      "character_id": "5428292913159931425",
+      "name": {
+        "first": "XxXxXxXxXZ",
+        "first_lower": "xxxxxxxxxz"
+      }
+    },
+    {
+      "character_id": "5428292913159931457",
+      "name": {
+        "first": "Aleritus",
+        "first_lower": "aleritus"
+      }
+    },
+    {
+      "character_id": "5428292913159931505",
+      "name": {
+        "first": "LuLuChewy",
+        "first_lower": "luluchewy"
+      }
+    },
+    {
+      "character_id": "5428292913159931633",
+      "name": {
+        "first": "Generalespp",
+        "first_lower": "generalespp"
+      }
+    },
+    {
+      "character_id": "5428292913159931777",
+      "name": {
+        "first": "vardal",
+        "first_lower": "vardal"
+      }
+    },
+    {
+      "character_id": "5428292913159931841",
+      "name": {
+        "first": "Titan2923",
+        "first_lower": "titan2923"
+      }
+    },
+    {
+      "character_id": "5428292913159931873",
+      "name": {
+        "first": "shopealope1",
+        "first_lower": "shopealope1"
+      }
+    },
+    {
+      "character_id": "5428292913159932001",
+      "name": {
+        "first": "nutwracker",
+        "first_lower": "nutwracker"
+      }
+    },
+    {
+      "character_id": "5428292913159932241",
+      "name": {
+        "first": "Ukille",
+        "first_lower": "ukille"
+      }
+    },
+    {
+      "character_id": "5428292913159932273",
+      "name": {
+        "first": "Mismist4774",
+        "first_lower": "mismist4774"
+      }
+    },
+    {
+      "character_id": "5428292913159932433",
+      "name": {
+        "first": "CrunchyRisotto",
+        "first_lower": "crunchyrisotto"
+      }
+    },
+    {
+      "character_id": "5428292913159932465",
+      "name": {
+        "first": "Poltergeiser",
+        "first_lower": "poltergeiser"
+      }
+    },
+    {
+      "character_id": "5428292913159932497",
+      "name": {
+        "first": "nighthawk757",
+        "first_lower": "nighthawk757"
+      }
+    },
+    {
+      "character_id": "5428292913159932561",
+      "name": {
+        "first": "ThunderBirdie",
+        "first_lower": "thunderbirdie"
+      }
+    },
+    {
+      "character_id": "5428292913159932593",
+      "name": {
+        "first": "Hyperos",
+        "first_lower": "hyperos"
+      }
+    },
+    {
+      "character_id": "5428292913159932673",
+      "name": {
+        "first": "lol039472",
+        "first_lower": "lol039472"
+      }
+    },
+    {
+      "character_id": "5428292913159932753",
+      "name": {
+        "first": "Yukinaaaaaa",
+        "first_lower": "yukinaaaaaa"
+      }
+    },
+    {
+      "character_id": "5428292913159932849",
+      "name": {
+        "first": "TheOmen16",
+        "first_lower": "theomen16"
+      }
+    },
+    {
+      "character_id": "5428292913159933025",
+      "name": {
+        "first": "MONSTERTRUCKEXPLOSION",
+        "first_lower": "monstertruckexplosion"
+      }
+    },
+    {
+      "character_id": "5428292913159933089",
+      "name": {
+        "first": "Stormietk421",
+        "first_lower": "stormietk421"
+      }
+    },
+    {
+      "character_id": "5428292913159933281",
+      "name": {
+        "first": "NarutoUsuCrack",
+        "first_lower": "narutousucrack"
+      }
+    },
+    {
+      "character_id": "5428292913159933377",
+      "name": {
+        "first": "NomeansNo12",
+        "first_lower": "nomeansno12"
+      }
+    },
+    {
+      "character_id": "5428292913159933425",
+      "name": {
+        "first": "Pullok",
+        "first_lower": "pullok"
+      }
+    },
+    {
+      "character_id": "5428292913159933585",
+      "name": {
+        "first": "ICallTheHaxs",
+        "first_lower": "icallthehaxs"
+      }
+    },
+    {
+      "character_id": "5428292913159933793",
+      "name": {
+        "first": "Uplink32",
+        "first_lower": "uplink32"
+      }
+    },
+    {
+      "character_id": "5428292913159933889",
+      "name": {
+        "first": "dandA00",
+        "first_lower": "danda00"
+      }
+    },
+    {
+      "character_id": "5428292913159934017",
+      "name": {
+        "first": "Claym23",
+        "first_lower": "claym23"
+      }
+    },
+    {
+      "character_id": "5428292913159934049",
+      "name": {
+        "first": "NosdraThomas",
+        "first_lower": "nosdrathomas"
+      }
+    },
+    {
+      "character_id": "5428292913159934369",
+      "name": {
+        "first": "Blindjustice",
+        "first_lower": "blindjustice"
+      }
+    },
+    {
+      "character_id": "5428292913159934481",
+      "name": {
+        "first": "Untouchable2g4u",
+        "first_lower": "untouchable2g4u"
+      }
+    },
+    {
+      "character_id": "5428292913159934673",
+      "name": {
+        "first": "Landwardrake",
+        "first_lower": "landwardrake"
+      }
+    },
+    {
+      "character_id": "5428292913159934737",
+      "name": {
+        "first": "coldheartedxx",
+        "first_lower": "coldheartedxx"
+      }
+    },
+    {
+      "character_id": "5428292913159934801",
+      "name": {
+        "first": "Tempurabread",
+        "first_lower": "tempurabread"
+      }
+    },
+    {
+      "character_id": "5428292913159935105",
+      "name": {
+        "first": "Yellowlegacy",
+        "first_lower": "yellowlegacy"
+      }
+    },
+    {
+      "character_id": "5428292913159935345",
+      "name": {
+        "first": "Nekkld",
+        "first_lower": "nekkld"
+      }
+    },
+    {
+      "character_id": "5428292913159935489",
+      "name": {
+        "first": "ChoppyShip",
+        "first_lower": "choppyship"
+      }
+    },
+    {
+      "character_id": "5428292913159935857",
+      "name": {
+        "first": "RileyWinters",
+        "first_lower": "rileywinters"
+      }
+    },
+    {
+      "character_id": "5428292913159936897",
+      "name": {
+        "first": "KevBott",
+        "first_lower": "kevbott"
+      }
+    },
+    {
+      "character_id": "5428292913159937105",
+      "name": {
+        "first": "SKEETinyaEYE",
+        "first_lower": "skeetinyaeye"
+      }
+    },
+    {
+      "character_id": "5428292913159937441",
+      "name": {
+        "first": "Alebbb",
+        "first_lower": "alebbb"
+      }
+    },
+    {
+      "character_id": "5428292913159937729",
+      "name": {
+        "first": "Thonasurus",
+        "first_lower": "thonasurus"
+      }
+    },
+    {
+      "character_id": "5428292913159938097",
+      "name": {
+        "first": "YeungJin",
+        "first_lower": "yeungjin"
+      }
+    },
+    {
+      "character_id": "5428292913159939041",
+      "name": {
+        "first": "PhoenixDownsy",
+        "first_lower": "phoenixdownsy"
+      }
+    },
+    {
+      "character_id": "5428292913159939153",
+      "name": {
+        "first": "SkillShieldActivate",
+        "first_lower": "skillshieldactivate"
+      }
+    },
+    {
+      "character_id": "5428292913159939425",
+      "name": {
+        "first": "SurrealX1",
+        "first_lower": "surrealx1"
+      }
+    },
+    {
+      "character_id": "5428292913159939921",
+      "name": {
+        "first": "romilly",
+        "first_lower": "romilly"
+      }
+    },
+    {
+      "character_id": "5428292913159940177",
+      "name": {
+        "first": "raura3710",
+        "first_lower": "raura3710"
+      }
+    },
+    {
+      "character_id": "5428292913159940289",
+      "name": {
+        "first": "ShineWarlord",
+        "first_lower": "shinewarlord"
+      }
+    },
+    {
+      "character_id": "5428292913159940353",
+      "name": {
+        "first": "GreggleField4",
+        "first_lower": "gregglefield4"
+      }
+    },
+    {
+      "character_id": "5428292913159940497",
+      "name": {
+        "first": "n3ro1",
+        "first_lower": "n3ro1"
+      }
+    },
+    {
+      "character_id": "5428292913159941617",
+      "name": {
+        "first": "Dylanisbig22",
+        "first_lower": "dylanisbig22"
+      }
+    },
+    {
+      "character_id": "5428292913159943153",
+      "name": {
+        "first": "Tempest52",
+        "first_lower": "tempest52"
+      }
+    },
+    {
+      "character_id": "5428292913159943953",
+      "name": {
+        "first": "Ezajo",
+        "first_lower": "ezajo"
+      }
+    },
+    {
+      "character_id": "5428292913159944113",
+      "name": {
+        "first": "oookerdoooker",
+        "first_lower": "oookerdoooker"
+      }
+    },
+    {
+      "character_id": "5428292913159944337",
+      "name": {
+        "first": "EchoShisky",
+        "first_lower": "echoshisky"
+      }
+    },
+    {
+      "character_id": "5428292913159944369",
+      "name": {
+        "first": "CCCCCCCCCCCCCCCCCCC",
+        "first_lower": "ccccccccccccccccccc"
+      }
+    },
+    {
+      "character_id": "5428292913159944513",
+      "name": {
+        "first": "AlexMEX",
+        "first_lower": "alexmex"
+      }
+    },
+    {
+      "character_id": "5428292913159945169",
+      "name": {
+        "first": "Niclroy",
+        "first_lower": "niclroy"
+      }
+    },
+    {
+      "character_id": "5428292913159946017",
+      "name": {
+        "first": "Puleo55",
+        "first_lower": "puleo55"
+      }
+    },
+    {
+      "character_id": "5428292913159946049",
+      "name": {
+        "first": "SteezeMeister",
+        "first_lower": "steezemeister"
+      }
+    },
+    {
+      "character_id": "5428292913159946993",
+      "name": {
+        "first": "Gantherogue",
+        "first_lower": "gantherogue"
+      }
+    },
+    {
+      "character_id": "5428292913159976257",
+      "name": {
+        "first": "jackson716",
+        "first_lower": "jackson716"
+      }
+    },
+    {
+      "character_id": "5428292913159976289",
+      "name": {
+        "first": "deathcatkk",
+        "first_lower": "deathcatkk"
+      }
+    },
+    {
+      "character_id": "5428292913160031025",
+      "name": {
+        "first": "mcshootygunman",
+        "first_lower": "mcshootygunman"
+      }
+    },
+    {
+      "character_id": "5428292913160031201",
+      "name": {
+        "first": "Rayden630",
+        "first_lower": "rayden630"
+      }
+    },
+    {
+      "character_id": "5428292913160031393",
+      "name": {
+        "first": "LordMeat",
+        "first_lower": "lordmeat"
+      }
+    },
+    {
+      "character_id": "5428292913160032321",
+      "name": {
+        "first": "MidnightLyric",
+        "first_lower": "midnightlyric"
+      }
+    },
+    {
+      "character_id": "5428292913160032881",
+      "name": {
+        "first": "Northington",
+        "first_lower": "northington"
+      }
+    },
+    {
+      "character_id": "5428292913161020369",
+      "name": {
+        "first": "TrannyManny",
+        "first_lower": "trannymanny"
+      }
+    },
+    {
+      "character_id": "5428292913161020689",
+      "name": {
+        "first": "hibyeme",
+        "first_lower": "hibyeme"
+      }
+    },
+    {
+      "character_id": "5428292913161083281",
+      "name": {
+        "first": "Moonmiror",
+        "first_lower": "moonmiror"
+      }
+    },
+    {
+      "character_id": "5428292913161083489",
+      "name": {
+        "first": "ThePelvicThruster",
+        "first_lower": "thepelvicthruster"
+      }
+    },
+    {
+      "character_id": "5428292913161083553",
+      "name": {
+        "first": "UncleRain",
+        "first_lower": "unclerain"
+      }
+    },
+    {
+      "character_id": "5428292913161083681",
+      "name": {
+        "first": "MichaelLM",
+        "first_lower": "michaellm"
+      }
+    },
+    {
+      "character_id": "5428292913161083713",
+      "name": {
+        "first": "MingSwang",
+        "first_lower": "mingswang"
+      }
+    },
+    {
+      "character_id": "5428292913161084305",
+      "name": {
+        "first": "Tcarullo",
+        "first_lower": "tcarullo"
+      }
+    },
+    {
+      "character_id": "5428292913161084705",
+      "name": {
+        "first": "bosscod1",
+        "first_lower": "bosscod1"
+      }
+    },
+    {
+      "character_id": "5428292913161085041",
+      "name": {
+        "first": "justepiic2",
+        "first_lower": "justepiic2"
+      }
+    },
+    {
+      "character_id": "5428292913161085121",
+      "name": {
+        "first": "caloricash",
+        "first_lower": "caloricash"
+      }
+    },
+    {
+      "character_id": "5428292913161085889",
+      "name": {
+        "first": "RakmanHDD",
+        "first_lower": "rakmanhdd"
+      }
+    },
+    {
+      "character_id": "5428292913161085921",
+      "name": {
+        "first": "Unijackal",
+        "first_lower": "unijackal"
+      }
+    },
+    {
+      "character_id": "5428292913161086721",
+      "name": {
+        "first": "QOURY",
+        "first_lower": "qoury"
+      }
+    },
+    {
+      "character_id": "5428292913161087153",
+      "name": {
+        "first": "rektoplasm",
+        "first_lower": "rektoplasm"
+      }
+    },
+    {
+      "character_id": "5428292913161087969",
+      "name": {
+        "first": "Hunt4u2",
+        "first_lower": "hunt4u2"
+      }
+    },
+    {
+      "character_id": "5428292913161415265",
+      "name": {
+        "first": "HeeroSensei",
+        "first_lower": "heerosensei"
+      }
+    },
+    {
+      "character_id": "5428292913161415473",
+      "name": {
+        "first": "parazitit13",
+        "first_lower": "parazitit13"
+      }
+    },
+    {
+      "character_id": "5428292913161415585",
+      "name": {
+        "first": "Honours",
+        "first_lower": "honours"
+      }
+    },
+    {
+      "character_id": "5428297991999404241",
+      "name": {
+        "first": "LePutaindeTueur",
+        "first_lower": "leputaindetueur"
+      }
+    },
+    {
+      "character_id": "5428297992006023169",
+      "name": {
+        "first": "nubhands4",
+        "first_lower": "nubhands4"
+      }
+    },
+    {
+      "character_id": "5428297992006023249",
+      "name": {
+        "first": "Loxowski",
+        "first_lower": "loxowski"
+      }
+    },
+    {
+      "character_id": "5428297992006986737",
+      "name": {
+        "first": "Nightfury111",
+        "first_lower": "nightfury111"
+      }
+    },
+    {
+      "character_id": "5428308138476903249",
+      "name": {
+        "first": "Adusko",
+        "first_lower": "adusko"
+      }
+    },
+    {
+      "character_id": "5428316104358826769",
+      "name": {
+        "first": "Kelly502",
+        "first_lower": "kelly502"
+      }
+    },
+    {
+      "character_id": "5428359100723552929",
+      "name": {
+        "first": "DoctahD387",
+        "first_lower": "doctahd387"
+      }
+    },
+    {
+      "character_id": "5428359100731990593",
+      "name": {
+        "first": "Katchadorian",
+        "first_lower": "katchadorian"
+      }
+    },
+    {
+      "character_id": "5428359100732965521",
+      "name": {
+        "first": "riverbuddha",
+        "first_lower": "riverbuddha"
+      }
+    },
+    {
+      "character_id": "5428364078407586113",
+      "name": {
+        "first": "GTNxDLC",
+        "first_lower": "gtnxdlc"
+      }
+    },
+    {
+      "character_id": "5428419750177586865",
+      "name": {
+        "first": "TGmarus",
+        "first_lower": "tgmarus"
+      }
+    },
+    {
+      "character_id": "5428419750190961041",
+      "name": {
+        "first": "Mudigkeit",
+        "first_lower": "mudigkeit"
+      }
+    },
+    {
+      "character_id": "5428436427522282497",
+      "name": {
+        "first": "dslkfcjlwke",
+        "first_lower": "dslkfcjlwke"
+      }
+    },
+    {
+      "character_id": "5428444757385602097",
+      "name": {
+        "first": "hardy21",
+        "first_lower": "hardy21"
+      }
+    },
+    {
+      "character_id": "5428472652646302001",
+      "name": {
+        "first": "LemonLoli",
+        "first_lower": "lemonloli"
+      }
+    },
+    {
+      "character_id": "5428478452356756897",
+      "name": {
+        "first": "marryn12345678",
+        "first_lower": "marryn12345678"
+      }
+    },
+    {
+      "character_id": "5428478453410009841",
+      "name": {
+        "first": "Nepheli",
+        "first_lower": "nepheli"
+      }
+    },
+    {
+      "character_id": "5428491127573604577",
+      "name": {
+        "first": "Smellmytriggerfinger",
+        "first_lower": "smellmytriggerfinger"
+      }
+    },
+    {
+      "character_id": "5428614696950411233",
+      "name": {
+        "first": "SznajSz1",
+        "first_lower": "sznajsz1"
+      }
+    },
+    {
+      "character_id": "5428614696950603761",
+      "name": {
+        "first": "CatGenji",
+        "first_lower": "catgenji"
+      }
+    },
+    {
+      "character_id": "5428631729584724289",
+      "name": {
+        "first": "khazxczxc123",
+        "first_lower": "khazxczxc123"
+      }
+    },
+    {
+      "character_id": "5428673058317918257",
+      "name": {
+        "first": "Reprisal87",
+        "first_lower": "reprisal87"
+      }
+    },
+    {
+      "character_id": "5428779225267804177",
+      "name": {
+        "first": "Horggrim",
+        "first_lower": "horggrim"
+      }
+    },
+    {
+      "character_id": "5428804606012608273",
+      "name": {
+        "first": "KrisXIX1",
+        "first_lower": "krisxix1"
+      }
+    },
+    {
+      "character_id": "5428851341662625873",
+      "name": {
+        "first": "idkanymore21",
+        "first_lower": "idkanymore21"
+      }
+    },
+    {
+      "character_id": "5428870188932405713",
+      "name": {
+        "first": "Fussmatte88",
+        "first_lower": "fussmatte88"
+      }
+    },
+    {
+      "character_id": "5428962001682290193",
+      "name": {
+        "first": "CodenameHowitzer",
+        "first_lower": "codenamehowitzer"
+      }
+    },
+    {
+      "character_id": "5428977504198155761",
+      "name": {
+        "first": "ChinoCORONAVIRUS",
+        "first_lower": "chinocoronavirus"
+      }
+    },
+    {
+      "character_id": "5428977504250903489",
+      "name": {
+        "first": "Hypioon",
+        "first_lower": "hypioon"
+      }
+    },
+    {
+      "character_id": "5428985062298888177",
+      "name": {
+        "first": "joratik",
+        "first_lower": "joratik"
+      }
+    },
+    {
+      "character_id": "5428998138700314849",
+      "name": {
+        "first": "RunniN9Fr0mHims3lf",
+        "first_lower": "runnin9fr0mhims3lf"
+      }
+    },
+    {
+      "character_id": "5428998138736856529",
+      "name": {
+        "first": "lolek190PL",
+        "first_lower": "lolek190pl"
+      }
+    },
+    {
+      "character_id": "5429023480595775617",
+      "name": {
+        "first": "flyboard",
+        "first_lower": "flyboard"
+      }
+    },
+    {
+      "character_id": "5429038329374810353",
+      "name": {
+        "first": "CoolGuyCorpse",
+        "first_lower": "coolguycorpse"
+      }
+    },
+    {
+      "character_id": "5429051377841378145",
+      "name": {
+        "first": "Oleg47",
+        "first_lower": "oleg47"
+      }
+    },
+    {
+      "character_id": "5429058275791755857",
+      "name": {
+        "first": "kotnascherboy",
+        "first_lower": "kotnascherboy"
+      }
+    },
+    {
+      "character_id": "7680631063789437057",
+      "name": {
+        "first": "AFGAR",
+        "first_lower": "afgar"
+      }
+    },
+    {
+      "character_id": "7680631063789437601",
+      "name": {
+        "first": "HyakuMan",
+        "first_lower": "hyakuman"
+      }
+    },
+    {
+      "character_id": "7680631063789438897",
+      "name": {
+        "first": "W1zardofDoom92",
+        "first_lower": "w1zardofdoom92"
+      }
+    },
+    {
+      "character_id": "7680631063789464865",
+      "name": {
+        "first": "Satellight",
+        "first_lower": "satellight"
+      }
+    },
+    {
+      "character_id": "7680631063789464961",
+      "name": {
+        "first": "Destroiermagui",
+        "first_lower": "destroiermagui"
+      }
+    },
+    {
+      "character_id": "7680631063789465057",
+      "name": {
+        "first": "vj9rocks",
+        "first_lower": "vj9rocks"
+      }
+    },
+    {
+      "character_id": "7680631063789465249",
+      "name": {
+        "first": "EmceeSexy",
+        "first_lower": "emceesexy"
+      }
+    },
+    {
+      "character_id": "7680631063789465393",
+      "name": {
+        "first": "nemma",
+        "first_lower": "nemma"
+      }
+    },
+    {
+      "character_id": "7680631063790820001",
+      "name": {
+        "first": "dadsaqi",
+        "first_lower": "dadsaqi"
+      }
+    },
+    {
+      "character_id": "7680631063790820065",
+      "name": {
+        "first": "MilkInAbag",
+        "first_lower": "milkinabag"
+      }
+    },
+    {
+      "character_id": "7680631063790820161",
+      "name": {
+        "first": "SirStevie",
+        "first_lower": "sirstevie"
+      }
+    },
+    {
+      "character_id": "7680631063790820257",
+      "name": {
+        "first": "JLfalcon08",
+        "first_lower": "jlfalcon08"
+      }
+    },
+    {
+      "character_id": "7680631063790904705",
+      "name": {
+        "first": "Pofle",
+        "first_lower": "pofle"
+      }
+    },
+    {
+      "character_id": "7680926244008285601",
+      "name": {
+        "first": "ravasa",
+        "first_lower": "ravasa"
+      }
+    },
+    {
+      "character_id": "7681267165627617073",
+      "name": {
+        "first": "SadakoTeiko",
+        "first_lower": "sadakoteiko"
+      }
+    },
+    {
+      "character_id": "7682004691504411361",
+      "name": {
+        "first": "misteurkebab",
+        "first_lower": "misteurkebab"
+      }
+    },
+    {
+      "character_id": "7683244787612257169",
+      "name": {
+        "first": "Novezyy",
+        "first_lower": "novezyy"
+      }
+    },
+    {
+      "character_id": "7684820025388503297",
+      "name": {
+        "first": "Skryla",
+        "first_lower": "skryla"
+      }
+    },
+    {
+      "character_id": "7692242705442668753",
+      "name": {
+        "first": "maxthekiller909",
+        "first_lower": "maxthekiller909"
+      }
+    },
+    {
+      "character_id": "7692334824441471025",
+      "name": {
+        "first": "TeronHacks",
+        "first_lower": "teronhacks"
+      }
+    },
+    {
+      "character_id": "7692334824441471057",
+      "name": {
+        "first": "nigealwalkabout2",
+        "first_lower": "nigealwalkabout2"
+      }
+    },
+    {
+      "character_id": "7703282270873881201",
+      "name": {
+        "first": "UnknownArcher",
+        "first_lower": "unknownarcher"
+      }
+    },
+    {
+      "character_id": "8256737736845214241",
+      "name": {
+        "first": "SirMiggoh",
+        "first_lower": "sirmiggoh"
+      }
+    },
+    {
+      "character_id": "8256737736845214417",
+      "name": {
+        "first": "johnjohnjack",
+        "first_lower": "johnjohnjack"
+      }
+    },
+    {
+      "character_id": "8256737736845214625",
+      "name": {
+        "first": "DaFeK",
+        "first_lower": "dafek"
+      }
+    },
+    {
+      "character_id": "8256737736845214881",
+      "name": {
+        "first": "PhazonDash",
+        "first_lower": "phazondash"
+      }
+    },
+    {
+      "character_id": "8256737736845214945",
+      "name": {
+        "first": "notascoolkid",
+        "first_lower": "notascoolkid"
+      }
+    },
+    {
+      "character_id": "8256737736845215073",
+      "name": {
+        "first": "SaintJacky",
+        "first_lower": "saintjacky"
+      }
+    },
+    {
+      "character_id": "8256737736845215169",
+      "name": {
+        "first": "Pryne21",
+        "first_lower": "pryne21"
+      }
+    },
+    {
+      "character_id": "8256737736845215473",
+      "name": {
+        "first": "Meeeww",
+        "first_lower": "meeeww"
+      }
+    },
+    {
+      "character_id": "8256737736845215681",
+      "name": {
+        "first": "SukyL0wStylEe",
+        "first_lower": "sukyl0wstylee"
+      }
+    },
+    {
+      "character_id": "8256737736845215793",
+      "name": {
+        "first": "Anime3838",
+        "first_lower": "anime3838"
+      }
+    },
+    {
+      "character_id": "8256737736845215857",
+      "name": {
+        "first": "picklejuice102",
+        "first_lower": "picklejuice102"
+      }
+    },
+    {
+      "character_id": "8256737736845215889",
+      "name": {
+        "first": "Crawldoom35",
+        "first_lower": "crawldoom35"
+      }
+    },
+    {
+      "character_id": "8256737736845216129",
+      "name": {
+        "first": "PewePeweP",
+        "first_lower": "pewepewep"
+      }
+    },
+    {
+      "character_id": "8256737736845216161",
+      "name": {
+        "first": "PewePewePew",
+        "first_lower": "pewepewepew"
+      }
+    },
+    {
+      "character_id": "8256737736845216273",
+      "name": {
+        "first": "Mk127",
+        "first_lower": "mk127"
+      }
+    },
+    {
+      "character_id": "8256737736845216369",
+      "name": {
+        "first": "LeonSkiller",
+        "first_lower": "leonskiller"
+      }
+    },
+    {
+      "character_id": "8256737736845216513",
+      "name": {
+        "first": "Zanatus",
+        "first_lower": "zanatus"
+      }
+    },
+    {
+      "character_id": "8256737736845216753",
+      "name": {
+        "first": "MFZub",
+        "first_lower": "mfzub"
+      }
+    },
+    {
+      "character_id": "8256737736845216849",
+      "name": {
+        "first": "BoteaBogdan99",
+        "first_lower": "boteabogdan99"
+      }
+    },
+    {
+      "character_id": "8256737736845216881",
+      "name": {
+        "first": "DriveByWithBobbyCar",
+        "first_lower": "drivebywithbobbycar"
+      }
+    },
+    {
+      "character_id": "8256737736845217393",
+      "name": {
+        "first": "JonnyMac",
+        "first_lower": "jonnymac"
+      }
+    },
+    {
+      "character_id": "8256737736845218529",
+      "name": {
+        "first": "rage62",
+        "first_lower": "rage62"
+      }
+    },
+    {
+      "character_id": "8256737736845245745",
+      "name": {
+        "first": "HoochNoxio",
+        "first_lower": "hoochnoxio"
+      }
+    },
+    {
+      "character_id": "8256737736845245825",
+      "name": {
+        "first": "BOBFM1",
+        "first_lower": "bobfm1"
+      }
+    },
+    {
+      "character_id": "8256737736845245873",
+      "name": {
+        "first": "MrBlueSkull",
+        "first_lower": "mrblueskull"
+      }
+    },
+    {
+      "character_id": "8256737736845246161",
+      "name": {
+        "first": "jessica343",
+        "first_lower": "jessica343"
+      }
+    },
+    {
+      "character_id": "8256737736845246433",
+      "name": {
+        "first": "Infaltry",
+        "first_lower": "infaltry"
+      }
+    },
+    {
+      "character_id": "8256737736845246721",
+      "name": {
+        "first": "bk0101",
+        "first_lower": "bk0101"
+      }
+    },
+    {
+      "character_id": "8256737736845246753",
+      "name": {
+        "first": "ZOMBIEshootER183",
+        "first_lower": "zombieshooter183"
+      }
+    },
+    {
+      "character_id": "8256737736845246881",
+      "name": {
+        "first": "TheSoulJuicer",
+        "first_lower": "thesouljuicer"
+      }
+    },
+    {
+      "character_id": "8256737736845247073",
+      "name": {
+        "first": "lupuscerberus",
+        "first_lower": "lupuscerberus"
+      }
+    },
+    {
+      "character_id": "8256737736845247137",
+      "name": {
+        "first": "Hasasel",
+        "first_lower": "hasasel"
+      }
+    },
+    {
+      "character_id": "8256737736845247217",
+      "name": {
+        "first": "Teydho",
+        "first_lower": "teydho"
+      }
+    },
+    {
+      "character_id": "8256737736845247841",
+      "name": {
+        "first": "rubberdubber",
+        "first_lower": "rubberdubber"
+      }
+    },
+    {
+      "character_id": "8256737736845248049",
+      "name": {
+        "first": "IhaveNoidea12",
+        "first_lower": "ihavenoidea12"
+      }
+    },
+    {
+      "character_id": "8256737736845248449",
+      "name": {
+        "first": "xtrafanatyx",
+        "first_lower": "xtrafanatyx"
+      }
+    },
+    {
+      "character_id": "8256737736845382033",
+      "name": {
+        "first": "Walladaner",
+        "first_lower": "walladaner"
+      }
+    },
+    {
+      "character_id": "8256737736845382433",
+      "name": {
+        "first": "Grayart",
+        "first_lower": "grayart"
+      }
+    },
+    {
+      "character_id": "8256737736845382497",
+      "name": {
+        "first": "dsadasdsa",
+        "first_lower": "dsadasdsa"
+      }
+    },
+    {
+      "character_id": "8256737736845382529",
+      "name": {
+        "first": "Ladigne",
+        "first_lower": "ladigne"
+      }
+    },
+    {
+      "character_id": "8256737736845382737",
+      "name": {
+        "first": "ParaDragon22",
+        "first_lower": "paradragon22"
+      }
+    },
+    {
+      "character_id": "8256737736845382769",
+      "name": {
+        "first": "ProfNerpiolini",
+        "first_lower": "profnerpiolini"
+      }
+    },
+    {
+      "character_id": "8256737736845382801",
+      "name": {
+        "first": "Otis97",
+        "first_lower": "otis97"
+      }
+    },
+    {
+      "character_id": "8256737736845382833",
+      "name": {
+        "first": "RustlingJimmies",
+        "first_lower": "rustlingjimmies"
+      }
+    },
+    {
+      "character_id": "8256737736845383313",
+      "name": {
+        "first": "Bladess",
+        "first_lower": "bladess"
+      }
+    },
+    {
+      "character_id": "8256737736845383665",
+      "name": {
+        "first": "YesSensei",
+        "first_lower": "yessensei"
+      }
+    },
+    {
+      "character_id": "8256737736845383809",
+      "name": {
+        "first": "Sugen",
+        "first_lower": "sugen"
+      }
+    },
+    {
+      "character_id": "8256737736845383921",
+      "name": {
+        "first": "MrSwanSonn",
+        "first_lower": "mrswansonn"
+      }
+    },
+    {
+      "character_id": "8256737736845384017",
+      "name": {
+        "first": "carlito0o",
+        "first_lower": "carlito0o"
+      }
+    },
+    {
+      "character_id": "8256737736845384209",
+      "name": {
+        "first": "attcker",
+        "first_lower": "attcker"
+      }
+    },
+    {
+      "character_id": "8256737736845384833",
+      "name": {
+        "first": "Fearssis",
+        "first_lower": "fearssis"
+      }
+    },
+    {
+      "character_id": "8256737736845385393",
+      "name": {
+        "first": "Mattman007",
+        "first_lower": "mattman007"
+      }
+    },
+    {
+      "character_id": "8256737736845386321",
+      "name": {
+        "first": "Jorgeman",
+        "first_lower": "jorgeman"
+      }
+    },
+    {
+      "character_id": "8256737736845427201",
+      "name": {
+        "first": "Lordofchatons",
+        "first_lower": "lordofchatons"
+      }
+    },
+    {
+      "character_id": "8256737736845427329",
+      "name": {
+        "first": "Noxrocks",
+        "first_lower": "noxrocks"
+      }
+    },
+    {
+      "character_id": "8256737736846319521",
+      "name": {
+        "first": "Dirgia",
+        "first_lower": "dirgia"
+      }
+    },
+    {
+      "character_id": "8256737736846319713",
+      "name": {
+        "first": "RockinVortex2835",
+        "first_lower": "rockinvortex2835"
+      }
+    },
+    {
+      "character_id": "8256737736846319857",
+      "name": {
+        "first": "Charly209",
+        "first_lower": "charly209"
+      }
+    },
+    {
+      "character_id": "8256737736846320129",
+      "name": {
+        "first": "Mobiana",
+        "first_lower": "mobiana"
+      }
+    },
+    {
+      "character_id": "8256737736846320481",
+      "name": {
+        "first": "Enkaras",
+        "first_lower": "enkaras"
+      }
+    },
+    {
+      "character_id": "8256737736846320513",
+      "name": {
+        "first": "Manehs",
+        "first_lower": "manehs"
+      }
+    },
+    {
+      "character_id": "8256737736846355841",
+      "name": {
+        "first": "b0ringalis",
+        "first_lower": "b0ringalis"
+      }
+    },
+    {
+      "character_id": "8256737736846590593",
+      "name": {
+        "first": "Aeyris",
+        "first_lower": "aeyris"
+      }
+    },
+    {
+      "character_id": "8256737736846590673",
+      "name": {
+        "first": "GandalfsBeard123",
+        "first_lower": "gandalfsbeard123"
+      }
+    },
+    {
+      "character_id": "8256737736846590705",
+      "name": {
+        "first": "Murto385",
+        "first_lower": "murto385"
+      }
+    },
+    {
+      "character_id": "8256737736846590737",
+      "name": {
+        "first": "Bl00dAndF1re",
+        "first_lower": "bl00dandf1re"
+      }
+    },
+    {
+      "character_id": "8256737736846590769",
+      "name": {
+        "first": "Pecador",
+        "first_lower": "pecador"
+      }
+    },
+    {
+      "character_id": "8256737736846591201",
+      "name": {
+        "first": "CelciusTR",
+        "first_lower": "celciustr"
+      }
+    },
+    {
+      "character_id": "8256737736846637041",
+      "name": {
+        "first": "UnknownZeroK",
+        "first_lower": "unknownzerok"
+      }
+    },
+    {
+      "character_id": "8257390235789404145",
+      "name": {
+        "first": "CaptainSakamoto",
+        "first_lower": "captainsakamoto"
+      }
+    },
+    {
+      "character_id": "8257461498426557265",
+      "name": {
+        "first": "HaiZZyCZ",
+        "first_lower": "haizzycz"
+      }
+    },
+    {
+      "character_id": "8257461498426557345",
+      "name": {
+        "first": "K1owN",
+        "first_lower": "k1own"
+      }
+    },
+    {
+      "character_id": "8257461498426828625",
+      "name": {
+        "first": "CarolShini",
+        "first_lower": "carolshini"
+      }
+    },
+    {
+      "character_id": "8257461498427300689",
+      "name": {
+        "first": "UchihaHisoka",
+        "first_lower": "uchihahisoka"
+      }
+    },
+    {
+      "character_id": "8257461498430417089",
+      "name": {
+        "first": "skyloriginal",
+        "first_lower": "skyloriginal"
+      }
+    },
+    {
+      "character_id": "8257461498430417121",
+      "name": {
+        "first": "KerimM",
+        "first_lower": "kerimm"
+      }
+    },
+    {
+      "character_id": "8257461498432290097",
+      "name": {
+        "first": "Pulwerizer",
+        "first_lower": "pulwerizer"
+      }
+    },
+    {
+      "character_id": "8257461498436228337",
+      "name": {
+        "first": "NitNatsNok487",
+        "first_lower": "nitnatsnok487"
+      }
+    },
+    {
+      "character_id": "8257461498436395105",
+      "name": {
+        "first": "GilletteDeniz",
+        "first_lower": "gillettedeniz"
+      }
+    },
+    {
+      "character_id": "8257461498436811985",
+      "name": {
+        "first": "kokolo69",
+        "first_lower": "kokolo69"
+      }
+    },
+    {
+      "character_id": "8257461498437240705",
+      "name": {
+        "first": "Melethor",
+        "first_lower": "melethor"
+      }
+    },
+    {
+      "character_id": "8257461498437352641",
+      "name": {
+        "first": "Grathryd",
+        "first_lower": "grathryd"
+      }
+    },
+    {
+      "character_id": "8258984096545330449",
+      "name": {
+        "first": "NY0180",
+        "first_lower": "ny0180"
+      }
+    },
+    {
+      "character_id": "8259705530252138433",
+      "name": {
+        "first": "SCHACHMATTNUTTE",
+        "first_lower": "schachmattnutte"
+      }
+    },
+    {
+      "character_id": "8259705530255862145",
+      "name": {
+        "first": "Kuro64",
+        "first_lower": "kuro64"
+      }
+    },
+    {
+      "character_id": "8260571419281367937",
+      "name": {
+        "first": "Jesuisunepatate",
+        "first_lower": "jesuisunepatate"
+      }
+    },
+    {
+      "character_id": "8260571419281367985",
+      "name": {
+        "first": "Derlef",
+        "first_lower": "derlef"
+      }
+    },
+    {
+      "character_id": "8260571419284642561",
+      "name": {
+        "first": "MattikillSininen",
+        "first_lower": "mattikillsininen"
+      }
+    },
+    {
+      "character_id": "8260956820658377937",
+      "name": {
+        "first": "Czarnaplodzicielka",
+        "first_lower": "czarnaplodzicielka"
+      }
+    },
+    {
+      "character_id": "8261280742797479073",
+      "name": {
+        "first": "CadenceBR",
+        "first_lower": "cadencebr"
+      }
+    },
+    {
+      "character_id": "8261280742798303953",
+      "name": {
+        "first": "Rikrarour",
+        "first_lower": "rikrarour"
+      }
+    },
+    {
+      "character_id": "8261280742800041729",
+      "name": {
+        "first": "Bueggse",
+        "first_lower": "bueggse"
+      }
+    },
+    {
+      "character_id": "8263461174213573185",
+      "name": {
+        "first": "MatsSebastian",
+        "first_lower": "matssebastian"
+      }
+    },
+    {
+      "character_id": "8264249680818494961",
+      "name": {
+        "first": "Guindy115",
+        "first_lower": "guindy115"
+      }
+    },
+    {
+      "character_id": "8268099297584633153",
+      "name": {
+        "first": "G3AR3ASY",
+        "first_lower": "g3ar3asy"
+      }
+    },
+    {
+      "character_id": "8268703451303642513",
+      "name": {
+        "first": "Albin27",
+        "first_lower": "albin27"
+      }
+    },
+    {
+      "character_id": "8269398591223683089",
+      "name": {
+        "first": "Timos70",
+        "first_lower": "timos70"
+      }
+    },
+    {
+      "character_id": "8269444733671075569",
+      "name": {
+        "first": "En3rgyHD",
+        "first_lower": "en3rgyhd"
+      }
+    },
+    {
+      "character_id": "8270606523399222465",
+      "name": {
+        "first": "baddragen",
+        "first_lower": "baddragen"
+      }
+    },
+    {
+      "character_id": "8274010520671646289",
+      "name": {
+        "first": "MrSchnitzelbrot",
+        "first_lower": "mrschnitzelbrot"
+      }
+    },
+    {
+      "character_id": "8275894399083264641",
+      "name": {
+        "first": "Firebreaker99",
+        "first_lower": "firebreaker99"
+      }
+    },
+    {
+      "character_id": "8275894399083387537",
+      "name": {
+        "first": "Curocks",
+        "first_lower": "curocks"
+      }
+    },
+    {
+      "character_id": "8276172967447538337",
+      "name": {
+        "first": "helexG2",
+        "first_lower": "helexg2"
+      }
+    },
+    {
+      "character_id": "8281692390597805921",
+      "name": {
+        "first": "Tyapk",
+        "first_lower": "tyapk"
+      }
+    },
+    {
+      "character_id": "8282108246642884705",
+      "name": {
+        "first": "szado7",
+        "first_lower": "szado7"
+      }
+    },
+    {
+      "character_id": "8285633714711862961",
+      "name": {
+        "first": "blobnorv",
+        "first_lower": "blobnorv"
+      }
+    },
+    {
+      "character_id": "8286283014982828401",
+      "name": {
+        "first": "arhitector1",
+        "first_lower": "arhitector1"
+      }
+    },
+    {
+      "character_id": "8288279587974815825",
+      "name": {
+        "first": "FelicitySparkles",
+        "first_lower": "felicitysparkles"
+      }
+    },
+    {
+      "character_id": "8288279587989872273",
+      "name": {
+        "first": "MaxMicKey",
+        "first_lower": "maxmickey"
+      }
+    }
+  ],
+  "returned": 1000
+}

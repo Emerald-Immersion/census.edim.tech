@@ -1,0 +1,7005 @@
+{
+  "characters_currency_list": [
+    {
+      "character_id": "5428010618013876561",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "255",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618013876865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "255",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014007649",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014007953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014007985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014008081",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "350",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014138705",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139265",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "636",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139361",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "350",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "519",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139553",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "313",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139825",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "255",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014139969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140001",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140257",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140449",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "268",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140609",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140673",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014140977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141073",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141265",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141297",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "718",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141441",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "324",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "21",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141537",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "470",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "1"
+    },
+    {
+      "character_id": "5428010618014141905",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014141969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014142033",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014142065",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014142129",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "738",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014142273",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014142625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014142657",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014142801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014142849",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143073",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143105",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143185",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143281",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143313",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "198",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143521",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "735",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143553",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "731",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143729",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "707",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143761",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143921",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "407",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014143985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144241",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "396",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144529",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "400",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144689",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144753",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144833",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "382",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144961",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014144977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145105",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145185",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "554",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "218",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "671",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145425",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "46",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "620",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145729",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145761",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145905",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014145969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146097",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146289",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146577",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "413",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146609",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146689",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146833",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014146977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "533",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147073",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "90",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "580",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "427",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "125",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147665",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147697",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147761",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147825",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "694",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014147985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148081",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "525",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148209",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148273",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148353",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "292",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148449",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148593",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "711",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148753",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148833",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148929",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014148961",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "250",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149105",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149185",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "473",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149297",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "572",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "68",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "450",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149521",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "305",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149633",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "706",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014149985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "616",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150049",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150065",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150193",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150609",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150785",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "262",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014150897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "725",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151073",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "425",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151185",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151281",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "500",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151361",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "134",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151521",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "290",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151553",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "683",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151633",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "713",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151649",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "323",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151697",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151761",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151825",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014151937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152289",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "707",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152401",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152529",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "597",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152561",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "5"
+    },
+    {
+      "character_id": "5428010618014152577",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152657",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "651",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152705",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "525",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "657",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152833",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "525",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014152897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153073",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "464",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "408",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153265",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153361",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "262",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153537",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153569",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "300",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014153985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154193",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154289",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154449",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154753",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154817",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014154961",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155105",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "496",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155297",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155409",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155425",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155537",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155633",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "226",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "300",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "390",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155921",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014155985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156081",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "709",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156209",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156353",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156705",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156961",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "479",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014156993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157025",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "665",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157313",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157425",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "150",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157505",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "675",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "452",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014157985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "672",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "605",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158241",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "743",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158353",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158369",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "639",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158577",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158673",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "460",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158785",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014158945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "616",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159281",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "350",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159425",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159521",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "500",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "585",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159649",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014159905",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160097",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160497",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "340",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160577",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "608",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160609",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160689",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "453",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160929",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014160961",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161057",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "652",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161281",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161537",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161649",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "500",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014161905",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162209",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162273",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "515",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162609",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "603",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014162945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163105",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163185",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163297",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163441",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163825",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "460",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163921",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014163969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164049",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164193",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164353",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164753",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "475",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "577",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164833",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "670",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164929",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "454",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014164977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "738",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165057",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165089",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "380",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "119",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165409",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165633",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "490",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165729",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "525",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165905",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "343",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014165969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166001",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166049",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166193",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166289",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166353",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "365",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166433",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "400",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166561",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166593",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "166",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014166993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167073",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "636",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "401",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "130",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "450",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167521",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "258",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167633",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167697",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014167969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168001",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "676",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "495",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168273",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "205",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168305",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168433",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168529",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "389",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168577",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168849",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168881",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014168961",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "3"
+    },
+    {
+      "character_id": "5428010618014168993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169025",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "455",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169105",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "573",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169313",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "671",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169441",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "269",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169505",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "522",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169633",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169761",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "550",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "100",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "303",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169921",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014169985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "322",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170209",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170257",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170305",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170433",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170529",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170561",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170593",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "92",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "316",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170817",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170881",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014170977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171073",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171105",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "293",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171313",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "613",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171521",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171729",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171809",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "187",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171905",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "500",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "204",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014171969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172049",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "625",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172097",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172369",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "580",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172401",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "589",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172593",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "294",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014172993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "475",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "726",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173537",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "691",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173665",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "412",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173697",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173729",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173761",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014173953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "50",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174209",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174529",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "655",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "472",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174673",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174881",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014174961",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "121",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175185",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175313",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "596",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175409",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175809",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "502",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014175953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176129",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176305",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176337",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "450",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176369",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176401",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "400",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "663",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176529",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176561",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "500",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176673",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176929",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014176961",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177089",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "474",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "706",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177425",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "221",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "622",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177521",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177569",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "725",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "318",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177649",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177825",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014177953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "687",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178065",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178209",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "1",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178577",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178833",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "117",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014178945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "550",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179057",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "550",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179313",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "745",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179441",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "2",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179697",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "655",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179921",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014179953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "220",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180065",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180129",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180161",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180257",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180369",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "687",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180529",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "452",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180657",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "47",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180785",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "675",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014180993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181281",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "612",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181297",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "400",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181409",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "663",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "350",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "664",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181729",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "375",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181809",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014181905",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182033",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "709",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182273",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182305",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182369",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "749",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182401",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "250",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182881",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014182945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183665",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "250",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183729",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "203",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014183985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184193",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184289",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184353",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "544",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "732",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184497",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184689",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184753",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184849",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014184993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "106",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "410",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185201",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185265",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "660",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185633",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185665",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185697",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "726",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185921",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014185953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186081",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186145",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186289",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "555",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "276",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186561",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186689",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "739",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186817",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "529",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "662",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014186945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "554",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187025",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "450",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187233",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "712",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187649",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "251",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "410",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187761",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187809",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014187969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014188097",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014188177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014188209",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014188401",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014188641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014188721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014188753",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014188865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "550",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "275",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "725",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189409",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189665",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189921",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014189985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190017",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190257",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "730",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "179",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190673",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "725",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014190977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191057",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191089",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191265",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "426",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191313",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191361",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191505",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191569",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "359",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014191601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192129",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192289",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192353",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "563",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192689",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192705",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192817",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014192929",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193025",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "621",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193281",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193313",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "117",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193521",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "261",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193553",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "708",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "265",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "450",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014193969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194033",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194305",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194337",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194369",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "600",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194401",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194449",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194529",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194561",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194593",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "295",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014194977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195025",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "550",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195265",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195425",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "302",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195649",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "12",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "565",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "250",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014195985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "564",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014196097",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "370",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014196321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014196481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014196545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014196641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014196769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "402",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014196801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "376",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014196993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197025",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "400",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197169",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197297",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197441",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197505",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "393",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197537",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "680",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197569",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "502",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197809",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014197953",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "550",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198049",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198289",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198593",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "200",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198849",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014198977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199361",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199457",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199489",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199617",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "494",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014199809",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "617",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200001",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200049",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200273",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200321",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200337",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "420",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200449",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200577",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200609",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "638",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200673",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200705",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014200913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014201025",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014201217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014201297",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014201681",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014201713",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "560",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014201825",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "218",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014201857",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202001",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "722",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202369",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202433",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202497",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "262",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202561",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202593",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202673",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202705",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "300",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "380",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "190",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202833",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014202977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014203041",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014203153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014203297",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "604",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014203393",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "645",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014203585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014203761",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014203985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204033",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "180",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "668",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204209",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "718",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204577",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204609",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "599",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204641",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204753",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014204977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205009",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205057",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205121",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205153",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "550",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205185",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205249",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205345",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205377",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205441",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205473",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205505",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205553",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205665",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "660",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "290",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205905",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014205969",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206065",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "650",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206113",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206161",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "489",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206193",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "708",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "455",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206481",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206513",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206785",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206817",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206945",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014206977",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207073",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207137",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207185",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207217",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "637",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207601",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207633",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "175",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207665",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207745",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207777",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "712",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207841",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "616",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207873",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "285",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "732",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014207937",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208001",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208033",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "367",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208129",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "230",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208161",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208193",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "225",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208225",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208305",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "675",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208385",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "300",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208433",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208593",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208625",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208689",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208737",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "717",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208769",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208833",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208897",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208929",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014208993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209025",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209089",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "415",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209409",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209585",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209649",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209793",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "286",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209889",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014209985",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210081",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210129",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "677",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210177",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210257",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210369",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "700",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210401",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "500",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210417",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210465",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210545",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210689",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210721",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210785",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210801",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210865",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "371",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210913",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014210993",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014211089",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014211265",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "750",
+      "prestige_currency": "0"
+    },
+    {
+      "character_id": "5428010618014211329",
+      "currency_id": "4",
+      "currency_name": "nanites",
+      "quantity": "720",
+      "prestige_currency": "0"
+    }
+  ],
+  "returned": 1000
+}

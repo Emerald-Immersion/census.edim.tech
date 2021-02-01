@@ -1,3 +1,825 @@
 {
-    
+  "/ps2_v2": {},
+  "/ps2_v2_example": {
+    "/ability": {
+      "1000.json": {
+        "Length": 101317,
+        "LastWriteTimeUtc": 1611688347862
+      },
+      "10000.json": {
+        "Length": 1883954,
+        "LastWriteTimeUtc": 1612026543953
+      }
+    },
+    "/ability_type": {
+      "1000.json": {
+        "Length": 971,
+        "LastWriteTimeUtc": 1611688880910
+      },
+      "10000.json": {
+        "Length": 4562,
+        "LastWriteTimeUtc": 1612026544126
+      }
+    },
+    "/achievement": {
+      "1000.json": {
+        "Length": 755530,
+        "LastWriteTimeUtc": 1611689025850
+      },
+      "10000.json": {
+        "Length": 16979596,
+        "LastWriteTimeUtc": 1612026553777
+      }
+    },
+    "/armor_facing": {
+      "1000.json": {
+        "Length": 581,
+        "LastWriteTimeUtc": 1611688349443
+      },
+      "10000.json": {
+        "Length": 2764,
+        "LastWriteTimeUtc": 1612026553952
+      }
+    },
+    "/armor_info": {
+      "1000.json": {
+        "Length": 42713,
+        "LastWriteTimeUtc": 1611688884777
+      },
+      "10000.json": {
+        "Length": 168788,
+        "LastWriteTimeUtc": 1612026554314
+      }
+    },
+    "/currency": {
+      "1000.json": {
+        "Length": 304,
+        "LastWriteTimeUtc": 1611689026356
+      },
+      "10000.json": {
+        "Length": 1376,
+        "LastWriteTimeUtc": 1612026554484
+      }
+    },
+    "/directive": {
+      "1000.json": {
+        "Length": 887501,
+        "LastWriteTimeUtc": 1611689030421
+      },
+      "10000.json": {
+        "Length": 9635980,
+        "LastWriteTimeUtc": 1612026560225
+      }
+    },
+    "/directive_tier": {
+      "1000.json": {
+        "Length": 109309,
+        "LastWriteTimeUtc": 1611689031306
+      },
+      "10000.json": {
+        "Length": 505154,
+        "LastWriteTimeUtc": 1612026562600
+      }
+    },
+    "/directive_tree": {
+      "1000.json": {
+        "Length": 29743,
+        "LastWriteTimeUtc": 1611689032069
+      },
+      "10000.json": {
+        "Length": 130992,
+        "LastWriteTimeUtc": 1612026562786
+      }
+    },
+    "/directive_tree_category": {
+      "1000.json": {
+        "Length": 2005,
+        "LastWriteTimeUtc": 1611689032577
+      },
+      "10000.json": {
+        "Length": 11888,
+        "LastWriteTimeUtc": 1612026562957
+      }
+    },
+    "/effect": {
+      "1000.json": {
+        "Length": 313457,
+        "LastWriteTimeUtc": 1611689152786
+      },
+      "10000.json": {
+        "Length": 2236080,
+        "LastWriteTimeUtc": 1612026564271
+      }
+    },
+    "/effect_type": {
+      "1000.json": {
+        "Length": 5359,
+        "LastWriteTimeUtc": 1611689041879
+      },
+      "10000.json": {
+        "Length": 20770,
+        "LastWriteTimeUtc": 1612026564447
+      }
+    },
+    "/empire_scores": {
+      "1000.json": {
+        "Length": 5050,
+        "LastWriteTimeUtc": 1611689042442
+      },
+      "10000.json": {
+        "Length": 19838,
+        "LastWriteTimeUtc": 1612026564630
+      }
+    },
+    "/experience": {
+      "1000.json": {
+        "Length": 128336,
+        "LastWriteTimeUtc": 1611689045541
+      },
+      "10000.json": {
+        "Length": 607294,
+        "LastWriteTimeUtc": 1612026565035
+      }
+    },
+    "/experience_rank": {
+      "1000.json": {
+        "Length": 255466,
+        "LastWriteTimeUtc": 1611689046995
+      },
+      "10000.json": {
+        "Length": 1308774,
+        "LastWriteTimeUtc": 1612026565680
+      }
+    },
+    "/facility_link": {
+      "1000.json": {
+        "Length": 73963,
+        "LastWriteTimeUtc": 1611689049038
+      },
+      "10000.json": {
+        "Length": 315934,
+        "LastWriteTimeUtc": 1612026567246
+      }
+    },
+    "/facility_type": {
+      "1000.json": {
+        "Length": 910,
+        "LastWriteTimeUtc": 1611689049614
+      },
+      "10000.json": {
+        "Length": 4164,
+        "LastWriteTimeUtc": 1612026567417
+      }
+    },
+    "/faction": {
+      "1000.json": {
+        "Length": 1978,
+        "LastWriteTimeUtc": 1611689050191
+      },
+      "10000.json": {
+        "Length": 8190,
+        "LastWriteTimeUtc": 1612026567591
+      }
+    },
+    "/fire_group": {
+      "1000.json": {
+        "Length": 58098,
+        "LastWriteTimeUtc": 1611689050995
+      },
+      "10000.json": {
+        "Length": 280420,
+        "LastWriteTimeUtc": 1612026567807
+      }
+    },
+    "/fire_group_to_fire_mode": {
+      "1000.json": {
+        "Length": 107415,
+        "LastWriteTimeUtc": 1611689051921
+      },
+      "10000.json": {
+        "Length": 1039902,
+        "LastWriteTimeUtc": 1612026568270
+      }
+    },
+    "/fire_mode": {
+      "1000.json": {
+        "Length": 878029,
+        "LastWriteTimeUtc": 1611689055787
+      },
+      "10000.json": {
+        "Length": 15349036,
+        "LastWriteTimeUtc": 1612026577313
+      }
+    },
+    "/fire_mode_2": {
+      "1000.json": {
+        "Length": 1720813,
+        "LastWriteTimeUtc": 1611689158645
+      },
+      "10000.json": {
+        "Length": 9938558,
+        "LastWriteTimeUtc": 1612026583337
+      }
+    },
+    "/fire_mode_to_projectile": {
+      "1000.json": {
+        "Length": 76512,
+        "LastWriteTimeUtc": 1611689159615
+      },
+      "10000.json": {
+        "Length": 665382,
+        "LastWriteTimeUtc": 1612026583821
+      }
+    },
+    "/fire_mode_type": {
+      "1000.json": {
+        "Length": 472,
+        "LastWriteTimeUtc": 1611689160115
+      },
+      "10000.json": {
+        "Length": 2190,
+        "LastWriteTimeUtc": 1612026583996
+      }
+    },
+    "/image": {
+      "1000.json": {
+        "Length": 91063,
+        "LastWriteTimeUtc": 1611689161013
+      },
+      "10000.json": {
+        "Length": 1748732,
+        "LastWriteTimeUtc": 1612026585072
+      }
+    },
+    "/image_set": {
+      "1000.json": {
+        "Length": 255295,
+        "LastWriteTimeUtc": 1611689162574
+      },
+      "10000.json": {
+        "Length": 4655988,
+        "LastWriteTimeUtc": 1612026588177
+      }
+    },
+    "/image_set_default": {
+      "1000.json": {
+        "Length": 263884,
+        "LastWriteTimeUtc": 1611689164120
+      },
+      "10000.json": {
+        "Length": 5329568,
+        "LastWriteTimeUtc": 1612026591298
+      }
+    },
+    "/item": {
+      "1000.json": {
+        "Length": 1483801,
+        "LastWriteTimeUtc": 1611689169715
+      },
+      "10000.json": {
+        "Length": 18442324,
+        "LastWriteTimeUtc": 1612026606116
+      }
+    },
+    "/item_attachment": {
+      "1000.json": {
+        "Length": 76349,
+        "LastWriteTimeUtc": 1611689170601
+      },
+      "10000.json": {
+        "Length": 1996538,
+        "LastWriteTimeUtc": 1612026607335
+      }
+    },
+    "/item_category": {
+      "1000.json": {
+        "Length": 23736,
+        "LastWriteTimeUtc": 1611689171280
+      },
+      "10000.json": {
+        "Length": 111286,
+        "LastWriteTimeUtc": 1612026607522
+      }
+    },
+    "/item_profile": {
+      "1000.json": {
+        "Length": 66273,
+        "LastWriteTimeUtc": 1611689172058
+      },
+      "10000.json": {
+        "Length": 1774748,
+        "LastWriteTimeUtc": 1612026608286
+      }
+    },
+    "/item_to_weapon": {
+      "1000.json": {
+        "Length": 68764,
+        "LastWriteTimeUtc": 1611689172773
+      },
+      "10000.json": {
+        "Length": 534410,
+        "LastWriteTimeUtc": 1612026609674
+      }
+    },
+    "/item_type": {
+      "1000.json": {
+        "Length": 3745,
+        "LastWriteTimeUtc": 1611689173275
+      },
+      "10000.json": {
+        "Length": 16226,
+        "LastWriteTimeUtc": 1612026609848
+      }
+    },
+    "/loadout": {
+      "1000.json": {
+        "Length": 2374,
+        "LastWriteTimeUtc": 1611689173830
+      },
+      "10000.json": {
+        "Length": 9768,
+        "LastWriteTimeUtc": 1612026610027
+      }
+    },
+    "/map_hex": {
+      "1000.json": {
+        "Length": 172088,
+        "LastWriteTimeUtc": 1611689175026
+      },
+      "10000.json": {
+        "Length": 3015530,
+        "LastWriteTimeUtc": 1612026611705
+      }
+    },
+    "/map_region": {
+      "1000.json": {
+        "Length": 97875,
+        "LastWriteTimeUtc": 1611689177009
+      },
+      "10000.json": {
+        "Length": 374640,
+        "LastWriteTimeUtc": 1612026612085
+      }
+    },
+    "/marketing_bundle": {
+      "1000.json": {
+        "Length": 1432903,
+        "LastWriteTimeUtc": 1611689315568
+      },
+      "10000.json": {
+        "Length": 21906834,
+        "LastWriteTimeUtc": 1612026627907
+      }
+    },
+    "/marketing_bundle_item": {
+      "1000.json": {
+        "Length": 138960,
+        "LastWriteTimeUtc": 1611689319612
+      },
+      "10000.json": {
+        "Length": 3615252,
+        "LastWriteTimeUtc": 1612026629883
+      }
+    },
+    "/marketing_bundle_with_1_item": {
+      "1000.json": {
+        "Length": 186728,
+        "LastWriteTimeUtc": 1611689193173
+      },
+      "10000.json": {
+        "Length": 5209662,
+        "LastWriteTimeUtc": 1612026633637
+      }
+    },
+    "/metagame_event": {
+      "1000.json": {
+        "Length": 56254,
+        "LastWriteTimeUtc": 1611689320320
+      },
+      "10000.json": {
+        "Length": 237544,
+        "LastWriteTimeUtc": 1612026633876
+      }
+    },
+    "/metagame_event_state": {
+      "1000.json": {
+        "Length": 477,
+        "LastWriteTimeUtc": 1611689199296
+      },
+      "10000.json": {
+        "Length": 2452,
+        "LastWriteTimeUtc": 1612026635224
+      }
+    },
+    "/objective": {
+      "1000.json": {
+        "Length": 208485,
+        "LastWriteTimeUtc": 1611689321588
+      },
+      "10000.json": {
+        "Length": 4110884,
+        "LastWriteTimeUtc": 1612026637844
+      }
+    },
+    "/objective_set_to_objective": {
+      "1000.json": {
+        "Length": 87071,
+        "LastWriteTimeUtc": 1611689322486
+      },
+      "10000.json": {
+        "Length": 1377058,
+        "LastWriteTimeUtc": 1612026638476
+      }
+    },
+    "/objective_type": {
+      "1000.json": {
+        "Length": 5624,
+        "LastWriteTimeUtc": 1611689323044
+      },
+      "10000.json": {
+        "Length": 23426,
+        "LastWriteTimeUtc": 1612026638650
+      }
+    },
+    "/player_state": {
+      "1000.json": {
+        "Length": 700,
+        "LastWriteTimeUtc": 1611689323547
+      },
+      "10000.json": {
+        "Length": 3222,
+        "LastWriteTimeUtc": 1612026638821
+      }
+    },
+    "/player_state_group": {
+      "1000.json": {
+        "Length": 123247,
+        "LastWriteTimeUtc": 1611689324744
+      },
+      "10000.json": {
+        "Length": 2323812,
+        "LastWriteTimeUtc": 1612026640092
+      }
+    },
+    "/player_state_group_2": {
+      "1000.json": {
+        "Length": 377606,
+        "LastWriteTimeUtc": 1611689228920
+      },
+      "10000.json": {
+        "Length": 4414840,
+        "LastWriteTimeUtc": 1612026642429
+      }
+    },
+    "/profile": {
+      "1000.json": {
+        "Length": 19923,
+        "LastWriteTimeUtc": 1611689325495
+      },
+      "10000.json": {
+        "Length": 82144,
+        "LastWriteTimeUtc": 1612026643772
+      }
+    },
+    "/profile_2": {
+      "1000.json": {
+        "Length": 18729,
+        "LastWriteTimeUtc": 1611689235111
+      },
+      "10000.json": {
+        "Length": 78086,
+        "LastWriteTimeUtc": 1612026643954
+      }
+    },
+    "/profile_armor_map": {
+      "1000.json": {
+        "Length": 8446,
+        "LastWriteTimeUtc": 1611689235629
+      },
+      "10000.json": {
+        "Length": 46812,
+        "LastWriteTimeUtc": 1612026644131
+      }
+    },
+    "/profile_resist_map": {
+      "1000.json": {
+        "Length": 93455,
+        "LastWriteTimeUtc": 1611697587406
+      },
+      "10000.json": {
+        "Length": 2636282,
+        "LastWriteTimeUtc": 1612026645428
+      }
+    },
+    "/projectile": {
+      "1000.json": {
+        "Length": 110537,
+        "LastWriteTimeUtc": 1611689237599
+      },
+      "10000.json": {
+        "Length": 467486,
+        "LastWriteTimeUtc": 1612026645833
+      }
+    },
+    "/projectile_flight_type": {
+      "1000.json": {
+        "Length": 456,
+        "LastWriteTimeUtc": 1611689325997
+      },
+      "10000.json": {
+        "Length": 2194,
+        "LastWriteTimeUtc": 1612026646005
+      }
+    },
+    "/region": {
+      "1000.json": {
+        "Length": 102860,
+        "LastWriteTimeUtc": 1611689244004
+      },
+      "10000.json": {
+        "Length": 428666,
+        "LastWriteTimeUtc": 1612026646390
+      }
+    },
+    "/resist_info": {
+      "1000.json": {
+        "Length": 215759,
+        "LastWriteTimeUtc": 1611689245558
+      },
+      "10000.json": {
+        "Length": 3057610,
+        "LastWriteTimeUtc": 1612026649178
+      }
+    },
+    "/resist_type": {
+      "1000.json": {
+        "Length": 1566,
+        "LastWriteTimeUtc": 1611689246062
+      },
+      "10000.json": {
+        "Length": 6584,
+        "LastWriteTimeUtc": 1612026649354
+      }
+    },
+    "/resource_type": {
+      "1000.json": {
+        "Length": 1404,
+        "LastWriteTimeUtc": 1611689246564
+      },
+      "10000.json": {
+        "Length": 6292,
+        "LastWriteTimeUtc": 1612026649536
+      }
+    },
+    "/reward": {
+      "1000.json": {
+        "Length": 68093,
+        "LastWriteTimeUtc": 1611689247365
+      },
+      "10000.json": {
+        "Length": 278130,
+        "LastWriteTimeUtc": 1612026649749
+      }
+    },
+    "/reward_group_to_reward": {
+      "1000.json": {
+        "Length": 25414,
+        "LastWriteTimeUtc": 1611689248049
+      },
+      "10000.json": {
+        "Length": 149310,
+        "LastWriteTimeUtc": 1612026649936
+      }
+    },
+    "/reward_set_to_reward_group": {
+      "1000.json": {
+        "Length": 9684,
+        "LastWriteTimeUtc": 1611689250257
+      },
+      "10000.json": {
+        "Length": 58634,
+        "LastWriteTimeUtc": 1612026650114
+      }
+    },
+    "/reward_type": {
+      "1000.json": {
+        "Length": 729,
+        "LastWriteTimeUtc": 1611689326567
+      },
+      "10000.json": {
+        "Length": 2826,
+        "LastWriteTimeUtc": 1612026650285
+      }
+    },
+    "/skill": {
+      "1000.json": {
+        "Length": 958740,
+        "LastWriteTimeUtc": 1611689335291
+      },
+      "10000.json": {
+        "Length": 17904882,
+        "LastWriteTimeUtc": 1612026664268
+      }
+    },
+    "/skill_category": {
+      "1000.json": {
+        "Length": 504068,
+        "LastWriteTimeUtc": 1611689338636
+      },
+      "10000.json": {
+        "Length": 6033272,
+        "LastWriteTimeUtc": 1612026667470
+      }
+    },
+    "/skill_line": {
+      "1000.json": {
+        "Length": 1144649,
+        "LastWriteTimeUtc": 1611689344546
+      },
+      "10000.json": {
+        "Length": 22823890,
+        "LastWriteTimeUtc": 1612026684922
+      }
+    },
+    "/skill_set": {
+      "1000.json": {
+        "Length": 1441005,
+        "LastWriteTimeUtc": 1611689383859
+      },
+      "10000.json": {
+        "Length": 4356572,
+        "LastWriteTimeUtc": 1612026688739
+      }
+    },
+    "/target_type": {
+      "1000.json": {
+        "Length": 349,
+        "LastWriteTimeUtc": 1611689389924
+      },
+      "10000.json": {
+        "Length": 1606,
+        "LastWriteTimeUtc": 1612026688910
+      }
+    },
+    "/title": {
+      "1000.json": {
+        "Length": 57272,
+        "LastWriteTimeUtc": 1611689390656
+      },
+      "10000.json": {
+        "Length": 268846,
+        "LastWriteTimeUtc": 1612026689214
+      }
+    },
+    "/vehicle": {
+      "1000.json": {
+        "Length": 83135,
+        "LastWriteTimeUtc": 1611689391547
+      },
+      "10000.json": {
+        "Length": 242438,
+        "LastWriteTimeUtc": 1612026689582
+      }
+    },
+    "/vehicle_attachment": {
+      "1000.json": {
+        "Length": 152928,
+        "LastWriteTimeUtc": 1611689392844
+      },
+      "10000.json": {
+        "Length": 3913764,
+        "LastWriteTimeUtc": 1612026691381
+      }
+    },
+    "/vehicle_faction": {
+      "1000.json": {
+        "Length": 10471,
+        "LastWriteTimeUtc": 1611689393396
+      },
+      "10000.json": {
+        "Length": 58342,
+        "LastWriteTimeUtc": 1612026692287
+      }
+    },
+    "/vehicle_skill_set": {
+      "1000.json": {
+        "Length": 63474,
+        "LastWriteTimeUtc": 1611689457100
+      },
+      "10000.json": {
+        "Length": 326208,
+        "LastWriteTimeUtc": 1612026692687
+      }
+    },
+    "/weapon": {
+      "1000.json": {
+        "Length": 227059,
+        "LastWriteTimeUtc": 1611689458430
+      },
+      "10000.json": {
+        "Length": 896632,
+        "LastWriteTimeUtc": 1612026693312
+      }
+    },
+    "/weapon_ammo_slot": {
+      "1000.json": {
+        "Length": 160218,
+        "LastWriteTimeUtc": 1611689459590
+      },
+      "10000.json": {
+        "Length": 942248,
+        "LastWriteTimeUtc": 1612026693792
+      }
+    },
+    "/weapon_datasheet": {
+      "1000.json": {
+        "Length": 653733,
+        "LastWriteTimeUtc": 1611689462314
+      },
+      "10000.json": {
+        "Length": 3430248,
+        "LastWriteTimeUtc": 1612026695522
+      }
+    },
+    "/weapon_to_attachment": {
+      "1000.json": {
+        "Length": 104443,
+        "LastWriteTimeUtc": 1611689463385
+      },
+      "10000.json": {
+        "Length": 2847758,
+        "LastWriteTimeUtc": 1612026696800
+      }
+    },
+    "/weapon_to_fire_group": {
+      "1000.json": {
+        "Length": 102976,
+        "LastWriteTimeUtc": 1611689464464
+      },
+      "10000.json": {
+        "Length": 656914,
+        "LastWriteTimeUtc": 1612026700045
+      }
+    },
+    "/world": {
+      "1000.json": {
+        "Length": 2148,
+        "LastWriteTimeUtc": 1611689498019
+      },
+      "10000.json": {
+        "Length": 10254,
+        "LastWriteTimeUtc": 1612026703729
+      }
+    },
+    "/world_event": {
+      "1000.json": {
+        "Length": 353240,
+        "LastWriteTimeUtc": 1611689667592
+      }
+    },
+    "/world_stat_history": {
+      "1000.json": {
+        "Length": 377280,
+        "LastWriteTimeUtc": 1611689022390
+      },
+      "10000.json": {
+        "Length": 2259434,
+        "LastWriteTimeUtc": 1612026542599
+      }
+    },
+    "/zone": {
+      "1000.json": {
+        "Length": 7978,
+        "LastWriteTimeUtc": 1611689465052
+      },
+      "10000.json": {
+        "Length": 24958,
+        "LastWriteTimeUtc": 1612026700429
+      }
+    },
+    "/zone_effect": {
+      "1000.json": {
+        "Length": 222876,
+        "LastWriteTimeUtc": 1611689466393
+      },
+      "10000.json": {
+        "Length": 4679006,
+        "LastWriteTimeUtc": 1612026703319
+      }
+    },
+    "/zone_effect_type": {
+      "1000.json": {
+        "Length": 11387,
+        "LastWriteTimeUtc": 1611689466925
+      },
+      "10000.json": {
+        "Length": 47310,
+        "LastWriteTimeUtc": 1612026703499
+      }
+    },
+    "collections.json": {
+      "Length": 51816,
+      "LastWriteTimeUtc": 1612142931259
+    }
+  }
 }

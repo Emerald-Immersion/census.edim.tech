@@ -1,0 +1,6005 @@
+{
+  "outfit_rank_list": [
+    {
+      "outfit_id": "37515580154314765",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291826982",
+      "ordinal": "1",
+      "name": "Titan",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189462728",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291826982",
+      "ordinal": "2",
+      "name": "Warlock",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189445142",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189445142",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291826982",
+      "ordinal": "3",
+      "name": "Hunter",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291826982",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37553935861163905",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291826982",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37515580154314765",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37515580154314765",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291826982",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291826982",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291826982",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37572613688542625",
+      "ordinal": "1",
+      "name": "Captain",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37572613688542625",
+      "ordinal": "2",
+      "name": "Lieutenant",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37572613688542625",
+      "ordinal": "3",
+      "name": "Sergeant",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37571208657534639",
+      "ordinal": "1",
+      "name": "Grand Marshal",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189450783",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37571208657534639",
+      "ordinal": "2",
+      "name": "Field Marshal",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189450783",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189450783",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37572950468884405",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37571208657601518",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189462728",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189462728",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291876713",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291876713",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291876713",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291876713",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291876713",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291876713",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291876713",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291876713",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37557526595131740",
+      "ordinal": "2",
+      "name": "A1A",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37542533773413958",
+      "ordinal": "7",
+      "name": "Test1",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37572950468884405",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37509507321463983",
+      "ordinal": "5",
+      "name": "Specialist",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37519063208958005",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37519063208958005",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37568950690944810",
+      "ordinal": "8",
+      "name": "Legionary",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37571025666595116",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37519063208958005",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37519063208958005",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37555042536916059",
+      "ordinal": "4",
+      "name": "Recruit",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37577057273653628",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37555042536916059",
+      "ordinal": "6",
+      "name": "Free Slot1",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291868940",
+      "ordinal": "1",
+      "name": "General",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37544413450520856",
+      "ordinal": "7",
+      "name": "Knob Polisher",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37529803738343042",
+      "ordinal": "6",
+      "name": "Dakka Dakka",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37539000145419507",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37539000145419507",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524549151247654",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189457407",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189457407",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189457407",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680544754",
+      "ordinal": "8",
+      "name": "Warrior",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37571025666590987",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37557526595131740",
+      "ordinal": "3",
+      "name": "B1B",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37574673174378848",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690959661",
+      "ordinal": "1",
+      "name": "Alpha",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690959661",
+      "ordinal": "2",
+      "name": "Beta",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37568950690959661",
+      "ordinal": "3",
+      "name": "Delta",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37568950690959661",
+      "ordinal": "6",
+      "name": "Hunter",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37568950690959661",
+      "ordinal": "7",
+      "name": "Omega",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37519364038351428",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690959661",
+      "ordinal": "8",
+      "name": "Pup",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37519364038351428",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37519364038351428",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37571025666595116",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37526656648289624",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37572613688542625",
+      "ordinal": "5",
+      "name": "Private",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37526656648289624",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37523190173406461",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37572792529468151",
+      "ordinal": "3",
+      "name": "Son of DHaD",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37573720558834128",
+      "ordinal": "1",
+      "name": "Ancient",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37523983191513733",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37577057273653628",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37577057273653628",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37577057273653628",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37573720558834128",
+      "ordinal": "2",
+      "name": "Elder",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189463885",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37548058996122606",
+      "ordinal": "1",
+      "name": "Autismo Supreme",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37523983191513733",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37565159127648792",
+      "ordinal": "1",
+      "name": "Chapter Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680566329",
+      "ordinal": "1",
+      "name": "Dictator",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37555042536916059",
+      "ordinal": "5",
+      "name": "Free Slot2",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37526022285718491",
+      "ordinal": "5",
+      "name": "Indar",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37548308103467029",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37548308103467029",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37548308103467029",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37568950690950807",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524843656120028",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37540434320685962",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690950807",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37520133547884553",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690950807",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524843656120028",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524843656120028",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568950690950807",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568950690950807",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37568950690950807",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37568950690950807",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37568950690950807",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37521582920045715",
+      "ordinal": "1",
+      "name": "Paragon",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37523983191517486",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37521582920045715",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37521582920045715",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37521582920045715",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37521582920045715",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37521582920045715",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37521582920045715",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37540434320685962",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37521582920045715",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291761020",
+      "ordinal": "4",
+      "name": "Salame",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189450235",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189450235",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37544413450505840",
+      "ordinal": "1",
+      "name": "Outfit Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37544413450505840",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37544413450505840",
+      "ordinal": "3",
+      "name": "Unit Leader",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37544413450505840",
+      "ordinal": "4",
+      "name": "Commando",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189450258",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37544413450505840",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37544413450505840",
+      "ordinal": "6",
+      "name": "Trialist",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524142189450258",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291799497",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37544413450505840",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37544413450505840",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37509488620602381",
+      "ordinal": "5",
+      "name": "EU Marine",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680543159",
+      "ordinal": "1",
+      "name": "Admiral",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680543159",
+      "ordinal": "2",
+      "name": "First Mate",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37515580154314765",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680547853",
+      "ordinal": "1",
+      "name": "Geno",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680543159",
+      "ordinal": "4",
+      "name": "Sailor",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680543159",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680543159",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680543159",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680543159",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291881637",
+      "ordinal": "5",
+      "name": "Schutze",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37563211806745675",
+      "ordinal": "1",
+      "name": "MASTER",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37522986297751207",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680547853",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37563211806745675",
+      "ordinal": "2",
+      "name": "GENERAL OF THE ARMY",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680547853",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680547853",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680547853",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680547853",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680547853",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37571208657596106",
+      "ordinal": "1",
+      "name": "MeJcStOoRm",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680547853",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291872097",
+      "ordinal": "3",
+      "name": "Driver",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291829545",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291829545",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291791651",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291829545",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291829545",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291829545",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291829545",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291829545",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37523665941178345",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291829545",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37509488620601757",
+      "ordinal": "6",
+      "name": "Trial",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524549151247654",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523665941178345",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37571208657534639",
+      "ordinal": "3",
+      "name": "Major",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37536622336561711",
+      "ordinal": "2",
+      "name": "Commissar",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37571208657596106",
+      "ordinal": "2",
+      "name": "SpEpAn",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291831692",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37572135281236014",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291831692",
+      "ordinal": "2",
+      "name": "General",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524549151247654",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291831692",
+      "ordinal": "3",
+      "name": "Commander",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291831692",
+      "ordinal": "4",
+      "name": "Kapitan",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189447493",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189447493",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189447493",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680557548",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680557548",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37523665941178345",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680557548",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37513337704313290",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37571208657596106",
+      "ordinal": "3",
+      "name": "ZoRzIk",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37568651088632716",
+      "ordinal": "1",
+      "name": "First Law",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568651088632716",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189445801",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189445801",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37568651088632716",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189445801",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568651088632716",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568651088632716",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37568651088632716",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524549151252139",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568651088632716",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37520766762502119",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37520766762502119",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37520766762502119",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37520766762502119",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37520766762488848",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568651088632716",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291770366",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189450971",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37535059393443870",
+      "ordinal": "1",
+      "name": "String Bikini",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37535059393443870",
+      "ordinal": "2",
+      "name": "Super String",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189450971",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37535059393443870",
+      "ordinal": "3",
+      "name": "STRING",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37535059393443870",
+      "ordinal": "4",
+      "name": "Apprenti String",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189450971",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37535059393443870",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37521582920040788",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37535059393443870",
+      "ordinal": "6",
+      "name": "Culotte de cheval",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37521582920040788",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37521582920040788",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37535059393443870",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37521582920040860",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37535059393443870",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37526656648289624",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680547970",
+      "ordinal": "1",
+      "name": "Geno",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680547970",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680545253",
+      "ordinal": "2",
+      "name": "R18 Bastion bot",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680547970",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37568950690933354",
+      "ordinal": "5",
+      "name": "NAN",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37562651025770161",
+      "ordinal": "3",
+      "name": "Sworn Praetorian",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37562651025770161",
+      "ordinal": "4",
+      "name": "Praetorian",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291780416",
+      "ordinal": "2",
+      "name": "Commandant",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680547970",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680547970",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680547970",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680547970",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291757196",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291791651",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37526656648289624",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37522172388350640",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37512680413348309",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291757196",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680547970",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37524390589266857",
+      "ordinal": "1",
+      "name": "Sometimes in Charge",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524390589266857",
+      "ordinal": "3",
+      "name": "Flunkie",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189460010",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524390589266857",
+      "ordinal": "4",
+      "name": "Schlub",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189460010",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189460010",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291757196",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37524390589266857",
+      "ordinal": "5",
+      "name": "Paid Intern",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37524390589266857",
+      "ordinal": "6",
+      "name": "Janitor",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524390589266857",
+      "ordinal": "7",
+      "name": "Intern",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37524390589266857",
+      "ordinal": "8",
+      "name": "Wannabe",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291831692",
+      "ordinal": "5",
+      "name": "Sergant",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291831692",
+      "ordinal": "6",
+      "name": "Commando",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291831692",
+      "ordinal": "7",
+      "name": "Vojak",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291831692",
+      "ordinal": "8",
+      "name": "Zelenac",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37524142189464557",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291757196",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37538071103410547",
+      "ordinal": "2",
+      "name": "STAR PLATINUM",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680583805",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291757196",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680583805",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680583805",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291757196",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37509528949368362",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680553647",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680553647",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680553647",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523326665003083",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680553647",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37509528949368362",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37509528949368362",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37518887744965319",
+      "ordinal": "6",
+      "name": "Trial",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680553647",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680553647",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37536328187578177",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37536328187578177",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680553647",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680553647",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37521582920044530",
+      "ordinal": "1",
+      "name": "Rdordposter",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37521582920044530",
+      "ordinal": "2",
+      "name": "Giggily",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37521582920044530",
+      "ordinal": "3",
+      "name": "Memester",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37521582920044530",
+      "ordinal": "4",
+      "name": "VS UP",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37521582920044530",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37529803738347512",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37515399536313503",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37529803738347512",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291791651",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189466387",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37521582920044530",
+      "ordinal": "6",
+      "name": "TRay",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37521582920044530",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37521582920044530",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570718551013309",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189466387",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291791651",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680537305",
+      "ordinal": "2",
+      "name": "BigBoyMax",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680537305",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680537305",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680537305",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37524142189452492",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189452492",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680537305",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680537305",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680537305",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37518435864354507",
+      "ordinal": "6",
+      "name": "HOKR",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680537661",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680580801",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37572950468884405",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680537661",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37525251359788304",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680537661",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680537661",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680537661",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680537661",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291878758",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37521899348837056",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291878758",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291878758",
+      "ordinal": "3",
+      "name": "VIP",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291878758",
+      "ordinal": "4",
+      "name": "Member",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291878758",
+      "ordinal": "5",
+      "name": "Newbie",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291878758",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291878758",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37524549151252139",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37521899348837056",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291878758",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680541861",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680541861",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37553615804301351",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680541861",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680541861",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680541861",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680541861",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680541861",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680541861",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37509488620603451",
+      "ordinal": "8",
+      "name": "Iniciado",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37520766762516968",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291851080",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291851080",
+      "ordinal": "2",
+      "name": "General",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291851080",
+      "ordinal": "3",
+      "name": "Officer",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291851080",
+      "ordinal": "4",
+      "name": "Soldier",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37521899348837056",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291851080",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291851080",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37519063208970627",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524866145716922",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291851080",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37557391423967532",
+      "ordinal": "8",
+      "name": "Blanker",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37571208657560329",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570391403486053",
+      "ordinal": "5",
+      "name": "Fud",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570391403486053",
+      "ordinal": "6",
+      "name": "Faz",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291875597",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291875597",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291875597",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524142189471642",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189471642",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189471642",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291875597",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291875597",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680546530",
+      "ordinal": "1",
+      "name": "Shadow Master",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37509507321437247",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37513337704313290",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37509507321437247",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37519364038361628",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680546530",
+      "ordinal": "2",
+      "name": "Evil Enforcer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37540434320685962",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680546530",
+      "ordinal": "3",
+      "name": "Malicious Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680546530",
+      "ordinal": "4",
+      "name": "Petty Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680546530",
+      "ordinal": "5",
+      "name": "Enlisted Evil",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680546530",
+      "ordinal": "6",
+      "name": "Ratty Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680546530",
+      "ordinal": "7",
+      "name": "Shunned",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37567362753105164",
+      "ordinal": "1",
+      "name": "LeaderBot",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680580801",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680580801",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37563913548334792",
+      "ordinal": "5",
+      "name": "Elite Member",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37509488620601577",
+      "ordinal": "5",
+      "name": "Quartermaster",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37509488620601757",
+      "ordinal": "7",
+      "name": "Nothing 1",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37548308103533427",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37548308103533427",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37548308103533427",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37509488620601757",
+      "ordinal": "8",
+      "name": "Nothing 2",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37571025666595116",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291759610",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37522986297722029",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37522986297722029",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37522986297722029",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37562787106694874",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291880831",
+      "ordinal": "7",
+      "name": "Opperations Command",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37525251359768728",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524549151230934",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37573720558821604",
+      "ordinal": "2",
+      "name": "Officer 2IC",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37571208657596106",
+      "ordinal": "4",
+      "name": "BeZfOuSaC",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37525251359768728",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291780416",
+      "ordinal": "3",
+      "name": "Officier",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37520631014368239",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37520631014368239",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37520631014368239",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568950690973408",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690973408",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189459206",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189459206",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189459206",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568950690973408",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37568950690973408",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568950690973408",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37568950690973408",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37568950690973408",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37540434320694706",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37568950690973408",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291854755",
+      "ordinal": "1",
+      "name": "Commander",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37572295516493837",
+      "ordinal": "8",
+      "name": "LSG",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291780416",
+      "ordinal": "4",
+      "name": "Soldat",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680545380",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189460832",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680545380",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680545380",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680545380",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680545380",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680545380",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37535852220388871",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680545380",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37535852220388871",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37535852220388871",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680545380",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291854755",
+      "ordinal": "2",
+      "name": "Fireteam Leader",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291854755",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37554876665575792",
+      "ordinal": "1",
+      "name": "GENERAL",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291854755",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291854755",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291854755",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291854755",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37546473546092145",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37554876665575792",
+      "ordinal": "2",
+      "name": "Colonel",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37554876665575792",
+      "ordinal": "3",
+      "name": "LIEUTENANT",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37554876665575792",
+      "ordinal": "4",
+      "name": "MAJOR",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291759610",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291759610",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37564894949681205",
+      "ordinal": "1",
+      "name": "Captain General",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37564894949681205",
+      "ordinal": "2",
+      "name": "Astartes",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37537459530132370",
+      "ordinal": "1",
+      "name": "Tryhard",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37537459530132370",
+      "ordinal": "2",
+      "name": "Casual",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37537459530132370",
+      "ordinal": "3",
+      "name": "What is this",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37537459530132370",
+      "ordinal": "4",
+      "name": "Never",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37537459530132370",
+      "ordinal": "5",
+      "name": "Nope",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570718551013309",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37518073168401121",
+      "ordinal": "1",
+      "name": "OUTFIT LEAD KP",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37554038458822141",
+      "ordinal": "1",
+      "name": "Ultra Guard",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37554038458822141",
+      "ordinal": "2",
+      "name": "The Royal Guard",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37554038458822141",
+      "ordinal": "3",
+      "name": "Guard",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37554038458822141",
+      "ordinal": "4",
+      "name": "Basic Guard",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37554038458822141",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37554038458822141",
+      "ordinal": "6",
+      "name": "L Plates",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570718551013309",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523756405028133",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570718551013309",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680568528",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680568528",
+      "ordinal": "6",
+      "name": "private",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291758855",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680568528",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37568950690914523",
+      "ordinal": "7",
+      "name": "Recrue",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37568950690914523",
+      "ordinal": "8",
+      "name": "Candidat",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680560398",
+      "ordinal": "3",
+      "name": "CommanderSimp",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37568950690933354",
+      "ordinal": "7",
+      "name": "NON",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37546473546084038",
+      "ordinal": "1",
+      "name": "Top Hat",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546473546084038",
+      "ordinal": "2",
+      "name": "The Monocle",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189450326",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546473546084038",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189450326",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189450326",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37566723466730658",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546473546084038",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37546473546084038",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37523190173416086",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523190173416086",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37546473546084038",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37531706651104886",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524390589238131",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546473546084038",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37546473546084038",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37571208657596106",
+      "ordinal": "5",
+      "name": "HuLiN",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37571208657596106",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37571208657596106",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37574536102152558",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291879075",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291879075",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291879075",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37555293719876797",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37555827732387673",
+      "ordinal": "2",
+      "name": "Vice",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37566723466730658",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37552793831869157",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37529350728888227",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189456966",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37562787106694874",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189456966",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189456966",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37552793831869157",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37562787106694874",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37562787106694874",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37562787106694874",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37562787106694874",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37571208657560329",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680538582",
+      "ordinal": "3",
+      "name": "Senior Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37528219818400478",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524390589238131",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189459807",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680538582",
+      "ordinal": "8",
+      "name": "Recruit",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680538582",
+      "ordinal": "5",
+      "name": "Not Used 1",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37524142189462841",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680580966",
+      "ordinal": "1",
+      "name": "Hades",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189462841",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189462841",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680543339",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37524390589238131",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680543339",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524142189468351",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189468351",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189468351",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37525251359768728",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680543339",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37528219818400478",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37523983191529618",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37523983191529618",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37568950690980272",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37523983191529618",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680543339",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291752642",
+      "ordinal": "1",
+      "name": "Founder",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570718551013309",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37529350728888227",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37529350728888227",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570718551013309",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291752642",
+      "ordinal": "4",
+      "name": "Recruiter",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189465400",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189465400",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291752642",
+      "ordinal": "5",
+      "name": "Brigade Member",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37524142189465400",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291752642",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291881637",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291881637",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291881637",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291752642",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680580966",
+      "ordinal": "2",
+      "name": "Devil",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291881637",
+      "ordinal": "1",
+      "name": "General",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291881637",
+      "ordinal": "2",
+      "name": "Offizier",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291881637",
+      "ordinal": "3",
+      "name": "Unteroffizier",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189448232",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291881637",
+      "ordinal": "4",
+      "name": "Mannschafter",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37515693483364292",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37562787106694874",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37528083641404096",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37528083641404096",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291879075",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291879075",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291879075",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291879075",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291879075",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37528083641404096",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37549802960983936",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37523756404973986",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37549802960983936",
+      "ordinal": "2",
+      "name": "VS Boss",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37549802960983936",
+      "ordinal": "3",
+      "name": "Co Boss",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37549802960983936",
+      "ordinal": "4",
+      "name": "Tursted Soldier",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37549802960983936",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37549802960983936",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37549802960983936",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37566723466730658",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37549802960983936",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37515693483364292",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37515693483364292",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680580966",
+      "ordinal": "3",
+      "name": "Demon",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37519364038361628",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189448232",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680548500",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680548500",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680548500",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680548500",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37566723466730658",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680548500",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37567362753121297",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37534108107932334",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680538337",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680538337",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680538337",
+      "ordinal": "4",
+      "name": "Feldwebel",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680538337",
+      "ordinal": "6",
+      "name": "Rekrut",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37509675644735072",
+      "ordinal": "5",
+      "name": "OS Trial Basis",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37521582920055654",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189448232",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37509488620608765",
+      "ordinal": "2",
+      "name": "Cupper",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37509488620608765",
+      "ordinal": "3",
+      "name": "Stroker",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680548500",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37574536102169791",
+      "ordinal": "1",
+      "name": "Commanding Officer",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524390589238131",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37571953920067845",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680548500",
+      "ordinal": "8",
+      "name": "Wetboi",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37535990996231468",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680536009",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37535990996228281",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680536009",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680536009",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37528083641408759",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680536009",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680536009",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680536009",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37528083641408759",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680536009",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680536009",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37535990996231468",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37536622336561711",
+      "ordinal": "1",
+      "name": "Dispatch",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37536622336561711",
+      "ordinal": "3",
+      "name": "Crewman",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680580966",
+      "ordinal": "4",
+      "name": "Imp",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37531268781460123",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37571208657596106",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37531268781460123",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37531268781460123",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37531268781460123",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37531268781460123",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37531268781460123",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37531268781460123",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37571208657535729",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37557526595131740",
+      "ordinal": "4",
+      "name": "C1C",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680580966",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680551936",
+      "ordinal": "4",
+      "name": "The Bear",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524866145716922",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37525047953339817",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680559807",
+      "ordinal": "1",
+      "name": "Operations Commander",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37527132065265607",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37528378292045827",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680559807",
+      "ordinal": "2",
+      "name": "Executive Lieutenant",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37523983191528143",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37523983191528143",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523983191528143",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680559807",
+      "ordinal": "3",
+      "name": "Mercenary Trooper",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523983191528622",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680559807",
+      "ordinal": "4",
+      "name": "00000000000000000000",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680559807",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680559807",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680559807",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680559807",
+      "ordinal": "8",
+      "name": "New Hire",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570718551004042",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37537459530132370",
+      "ordinal": "6",
+      "name": "Noway",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680539342",
+      "ordinal": "6",
+      "name": "Nothing",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37538365565856837",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291863017",
+      "ordinal": "5",
+      "name": "Praefectus Castrorum",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37569919291863017",
+      "ordinal": "6",
+      "name": "Aqualifer",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291863017",
+      "ordinal": "7",
+      "name": "Primus Pilus",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570718551004042",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37571208657530518",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680537111",
+      "ordinal": "1",
+      "name": "Patient Zero",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680537111",
+      "ordinal": "2",
+      "name": "Survivors",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570391403451958",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680537111",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680537111",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680537111",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680537111",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680537111",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37562787106694874",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680538852",
+      "ordinal": "4",
+      "name": "not need ed",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680538852",
+      "ordinal": "5",
+      "name": "no no",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37576869817353510",
+      "ordinal": "1",
+      "name": "comendant",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37521899348847858",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37521899348847858",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37521899348847858",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37567362753121609",
+      "ordinal": "8",
+      "name": "GRUNT",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291875597",
+      "ordinal": "1",
+      "name": "Commissar",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291875597",
+      "ordinal": "2",
+      "name": "Captain",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291875597",
+      "ordinal": "3",
+      "name": "Jungle Fighter",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37538365565856837",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37538365565856837",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680544943",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37527449492050530",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37527449492050530",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680544943",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37527449492050530",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37576869817353510",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680546100",
+      "ordinal": "1",
+      "name": "Commander",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680546100",
+      "ordinal": "3",
+      "name": "NCO",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291763177",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37544413450497149",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680554146",
+      "ordinal": "3",
+      "name": "Born To Lead",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37530800324392650",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37518073168437547",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570391403451958",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680543305",
+      "ordinal": "2",
+      "name": "Officier Alpha",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680542729",
+      "ordinal": "2",
+      "name": "BAGGED MILK",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680542729",
+      "ordinal": "7",
+      "name": "CAN I GET UUUHHHHH",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680542729",
+      "ordinal": "8",
+      "name": "EMOTIONAL BAGGAGE",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570391403451958",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37555042536916059",
+      "ordinal": "7",
+      "name": "Planetman",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37523983191515844",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680583041",
+      "ordinal": "1",
+      "name": "Overlord",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680543305",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680583041",
+      "ordinal": "2",
+      "name": "Overseer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680583041",
+      "ordinal": "3",
+      "name": "Agent",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680583041",
+      "ordinal": "4",
+      "name": "Operative",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680583041",
+      "ordinal": "5",
+      "name": "Airborne",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680583041",
+      "ordinal": "6",
+      "name": "Motorist",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570391403451958",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570391403451958",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570391403451958",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570391403451958",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37516961520120084",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37530800324392650",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189468770",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37560724049897843",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37530800324392650",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37560724049897843",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37560724049897843",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37540434320578593",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37523326664985193",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37560724049897843",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37560724049897843",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37560724049897843",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37560724049897843",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37524142189468770",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189468770",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37560724049897843",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37530800324392650",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570391403451958",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570391403475543",
+      "ordinal": "1",
+      "name": "Grand Inquisitor",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37540434320578593",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37544413450525359",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37526363020753952",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37544413450525359",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37520426991880982",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37520426991880982",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37522172388350640",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37525183393693947",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680568356",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680568356",
+      "ordinal": "2",
+      "name": "Resident",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680568356",
+      "ordinal": "3",
+      "name": "Intern",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680568356",
+      "ordinal": "4",
+      "name": "FRESHMAN",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680568356",
+      "ordinal": "5",
+      "name": "PRE MED",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680568356",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680568356",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680568356",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680573485",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680573485",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680573485",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680573485",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680537111",
+      "ordinal": "3",
+      "name": "Infected",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37525183393693947",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37525183393693947",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524549151247677",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680543339",
+      "ordinal": "1",
+      "name": "PS2CLAN LEADER",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37523983191508126",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680543339",
+      "ordinal": "2",
+      "name": "2ND COMMAND",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680543339",
+      "ordinal": "3",
+      "name": "MEMBER",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680543339",
+      "ordinal": "4",
+      "name": "RECRUIT",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37561049332850089",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37561049332850089",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680545045",
+      "ordinal": "6",
+      "name": "Sergeant",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37561049332850089",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37561049332850089",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37561049332850089",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37522172388350640",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37520133547904266",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37561049332850089",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37561049332850089",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37561049332850089",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37552793831900678",
+      "ordinal": "1",
+      "name": "CHAD",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37552793831900678",
+      "ordinal": "2",
+      "name": "STACY",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37552793831900678",
+      "ordinal": "3",
+      "name": "VIRGIN",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37519845085168835",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37552793831900678",
+      "ordinal": "4",
+      "name": "BECKY",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37567362753111864",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37519845085168835",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37536288424970582",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37552793831900678",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37552793831900678",
+      "ordinal": "6",
+      "name": "dead weight",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524142189456205",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37552793831900678",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37524142189456205",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189456205",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37552793831900678",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37567362753111864",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37539520469334510",
+      "ordinal": "2",
+      "name": "Arch inquisitor",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189452051",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37564894949681980",
+      "ordinal": "1",
+      "name": "GEN",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37524142189452051",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37567362753111864",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37564894949681980",
+      "ordinal": "2",
+      "name": "COL",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37564894949681980",
+      "ordinal": "3",
+      "name": "MAJ",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37568950690914523",
+      "ordinal": "1",
+      "name": "Fondateur",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37509507321431796",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37540434320686010",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690914523",
+      "ordinal": "3",
+      "name": "Soldat",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524549151247677",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680580966",
+      "ordinal": "8",
+      "name": "Ghost",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291763177",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291763177",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291763177",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37567362753111864",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680583326",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680583326",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37568950690914523",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37557231981434550",
+      "ordinal": "1",
+      "name": "xxxxx",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37509507321431796",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37567362753111864",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37557231981434550",
+      "ordinal": "2",
+      "name": "xxxx",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37509507321431796",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37557231981434550",
+      "ordinal": "3",
+      "name": "xxx",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37513677696705369",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37557231981434550",
+      "ordinal": "4",
+      "name": "xxd",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37557231981434550",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37557231981434550",
+      "ordinal": "6",
+      "name": "THE BOTTOM LOL",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37567362753111864",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37523756405031747",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37557231981434550",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37557231981434550",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37509507321431796",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37567362753111864",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37521582920076494",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570391403471580",
+      "ordinal": "1",
+      "name": "Sheriff",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37519364038333656",
+      "ordinal": "5",
+      "name": "Novice",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37572295516487878",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570391403461274",
+      "ordinal": "3",
+      "name": "Czlonek",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37515218115399292",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37576869817353510",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37520314124994327",
+      "ordinal": "5",
+      "name": "Centurio",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37520314124994327",
+      "ordinal": "6",
+      "name": "Legionarius",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570391403471580",
+      "ordinal": "2",
+      "name": "Cowboy",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37565159127658712",
+      "ordinal": "2",
+      "name": "Manager Lounge Chair",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680583326",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680583326",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680583326",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680583326",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680583326",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680583326",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570391403471580",
+      "ordinal": "3",
+      "name": "Deputy",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523665941177935",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291851080",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680535556",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680535556",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37515218115399292",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37521582920076695",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37573426357235437",
+      "ordinal": "1",
+      "name": "Kapitan Lis",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37575965015036497",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680535556",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37523756404978937",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523756404978937",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680535556",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37515218115399292",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680535556",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680535556",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37530415388954715",
+      "ordinal": "5",
+      "name": "Outfit Engineer",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37573720558839983",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37524142189459414",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37542533773413958",
+      "ordinal": "8",
+      "name": "Test2",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680542006",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680542006",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680542006",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680542006",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680542006",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680542006",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680542006",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680542006",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37569919291868940",
+      "ordinal": "2",
+      "name": "Colonel",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37540434320580135",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291868940",
+      "ordinal": "3",
+      "name": "Major",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37564894949681205",
+      "ordinal": "5",
+      "name": "Guardsman",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37571208657535729",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37538728207980776",
+      "ordinal": "2",
+      "name": "Red Elite Knight",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570391403485537",
+      "ordinal": "8",
+      "name": "Grunt",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37509488620602682",
+      "ordinal": "3",
+      "name": "Commandant",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37512998641489954",
+      "ordinal": "8",
+      "name": "Rekrut",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680564646",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37526022285703960",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37526022285703960",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37509488620602103",
+      "ordinal": "6",
+      "name": "fertile woman",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37570233680541848",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680541848",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37525251359775516",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37525251359775516",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37525251359775516",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680541848",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37568950690933354",
+      "ordinal": "6",
+      "name": "NUN",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37523665941173627",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37516961520120084",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680564646",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37509488620602103",
+      "ordinal": "5",
+      "name": "Coat Concierge",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37523665941173627",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37523665941173627",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37509488620602103",
+      "ordinal": "7",
+      "name": "infertile woman",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37524142189471820",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37576258294149637",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37529803738329399",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37529803738329399",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37529803738329399",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37529803738329399",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37529803738329399",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37529803738329399",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37529803738329399",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37574536102169791",
+      "ordinal": "2",
+      "name": "Officer in Command",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37573426357215787",
+      "ordinal": "8",
+      "name": "member",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37509528949400364",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291777210",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570391403516707",
+      "ordinal": "1",
+      "name": "001",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37509488620612489",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189446033",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570391403516707",
+      "ordinal": "2",
+      "name": "002",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524142189446033",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189446033",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570391403516707",
+      "ordinal": "3",
+      "name": "003",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189445142",
+      "ordinal": "2",
+      "name": "Myself",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37555042536935586",
+      "ordinal": "1",
+      "name": "2KD Sweaty Heavy",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37555042536935586",
+      "ordinal": "2",
+      "name": "XP Medic Slut",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37555042536935586",
+      "ordinal": "3",
+      "name": "Chad Engi Main",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37525251359788304",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37555042536935586",
+      "ordinal": "4",
+      "name": "Virgin LA Hero",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680568528",
+      "ordinal": "5",
+      "name": "corporal",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570391403480756",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690933354",
+      "ordinal": "8",
+      "name": "Newbie",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37558537335620708",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37571208657512850",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37571208657512850",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680541848",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37521582920076695",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680541848",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570391403480756",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680537309",
+      "ordinal": "1",
+      "name": "Roses",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680541848",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37518435864364727",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37576869817353510",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680541848",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37531706651104886",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37576869817353510",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37576869817353510",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37523756404975215",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680537309",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680541848",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37568950691012540",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680537309",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680537309",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524142189450267",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291761020",
+      "ordinal": "8",
+      "name": "Eldrad",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37524142189450267",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680546100",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37547877826039820",
+      "ordinal": "2",
+      "name": "GREAT WHITE",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37547877826039820",
+      "ordinal": "3",
+      "name": "BULL SHARK",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524390589264786",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37547877826039820",
+      "ordinal": "4",
+      "name": "STING RAY",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524390589264786",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37570233680545253",
+      "ordinal": "4",
+      "name": "R18 Colossus Bot",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37572453308826308",
+      "ordinal": "1",
+      "name": "Boss",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37572295516487878",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37547877826039820",
+      "ordinal": "7",
+      "name": "GOLD FISH",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37524390589264786",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37570233680546100",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37524142189466462",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570233680546100",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37570233680546100",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37569919291877364",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37568950691012540",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37570233680546100",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37546178010472352",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680546100",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37546178010472352",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37555339673995048",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546178009717853",
+      "ordinal": "1",
+      "name": "LEADER",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546178009717853",
+      "ordinal": "2",
+      "name": "OFFICER",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291872097",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568950690932805",
+      "ordinal": "1",
+      "name": "Director",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37563087357235594",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291872097",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568950691012540",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37526656648289400",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37569919291872097",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37568950691012540",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37569919291872097",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37569919291872097",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37526022285732226",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37569919291872097",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37524549151236231",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37524549151236231",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37518887744970869",
+      "ordinal": "1",
+      "name": "Tribun",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37570718551013309",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37546178009717853",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37569919291870380",
+      "ordinal": "8",
+      "name": "Applican",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37568950691012540",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37570233680544754",
+      "ordinal": "1",
+      "name": "Ronin James",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546178009717853",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37546178009717853",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37528581508477107",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546178009717853",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37546178009717853",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37509507321436105",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189446054",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37576869817353510",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37524142189446054",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37524142189446054",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568651088635162",
+      "ordinal": "1",
+      "name": "Shikikan",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37525251359769004",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37568651088635162",
+      "ordinal": "2",
+      "name": "Squadron Command",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37568651088635162",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    },
+    {
+      "outfit_id": "37536288424970610",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568651088635162",
+      "ordinal": "4",
+      "name": "Private",
+      "description": "Outfit Private"
+    },
+    {
+      "outfit_id": "37524142189448710",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37568651088635162",
+      "ordinal": "5",
+      "name": "Enlisted",
+      "description": "Outfit Enlisted"
+    },
+    {
+      "outfit_id": "37568651088635162",
+      "ordinal": "6",
+      "name": "Recruit",
+      "description": "Outfit Recruit"
+    },
+    {
+      "outfit_id": "37568651088635162",
+      "ordinal": "7",
+      "name": "Considered",
+      "description": "Outfit Considered"
+    },
+    {
+      "outfit_id": "37568950691012725",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37546178009717853",
+      "ordinal": "8",
+      "name": "Applicant",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37523983191515633",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37570233680554146",
+      "ordinal": "8",
+      "name": "On Course",
+      "description": "Outfit Applicant"
+    },
+    {
+      "outfit_id": "37543149155131922",
+      "ordinal": "1",
+      "name": "Leader",
+      "description": "Outfit Leader"
+    },
+    {
+      "outfit_id": "37543149155131922",
+      "ordinal": "2",
+      "name": "Officer",
+      "description": "Outfit Officer"
+    },
+    {
+      "outfit_id": "37543149155131922",
+      "ordinal": "3",
+      "name": "Member",
+      "description": "Outfit Member"
+    }
+  ],
+  "returned": 1000
+}

@@ -1,2 +1,4 @@
-docs/example/character*
-docs/example/outfit*
+docs/data/example/character*
+docs/data/example/outfit*
+tmp/
+/settings.json

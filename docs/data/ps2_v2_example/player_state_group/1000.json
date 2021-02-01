@@ -1,0 +1,5005 @@
+{
+  "player_state_group_list": [
+    {
+      "player_state_group_id": "1",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "1",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "1",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "1",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "1",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "1",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "3",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "3",
+      "player_state": "Standing",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "3",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "3",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "3",
+      "player_state": "Running",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "3",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "12"
+    },
+    {
+      "player_state_group_id": "4",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "4",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "4",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "12"
+    },
+    {
+      "player_state_group_id": "4",
+      "player_state": "Running",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "4",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "4",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "5",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "5",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "5",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.55"
+    },
+    {
+      "player_state_group_id": "5",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "5",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "5",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "6",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "6",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "6",
+      "player_state": "Running",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "6",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "6",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "6",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "7",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "7",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "7",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "7",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "7",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.9"
+    },
+    {
+      "player_state_group_id": "7",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "8",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "8",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "8",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "8",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "8",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "8",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "9",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.75"
+    },
+    {
+      "player_state_group_id": "9",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "9",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "9",
+      "player_state": "Running",
+      "min_cone_of_fire": "3.25"
+    },
+    {
+      "player_state_group_id": "9",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "9",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.75"
+    },
+    {
+      "player_state_group_id": "10",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "10",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "10",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "10",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "10",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "10",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "11",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "11",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "11",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "11",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "11",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "11",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "12",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "12",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "12",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "12",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "12",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "12",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "13",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "13",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "13",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "13",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "13",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "13",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "14",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "14",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "14",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "14",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "14",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.7"
+    },
+    {
+      "player_state_group_id": "14",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "15",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "15",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "15",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "15",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "15",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "15",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "16",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "16",
+      "player_state": "Running",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "16",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "16",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "16",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "16",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "20",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "20",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "20",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "20",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "20",
+      "player_state": "Running",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "20",
+      "player_state": "Standing",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "21",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "21",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "21",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "21",
+      "player_state": "Running",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "21",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "21",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "22",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "22",
+      "player_state": "Standing",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "22",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "22",
+      "player_state": "Running",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "22",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "22",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "23",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "23",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "23",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4.5"
+    },
+    {
+      "player_state_group_id": "23",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "23",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "23",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "24",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "24",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "24",
+      "player_state": "Running",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "24",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "24",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "24",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "25",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "25",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "25",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "25",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "25",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "25",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "29",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "32",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "32",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "32",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "32",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "32",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "32",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "33",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "33",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "33",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "33",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "33",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "33",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "36",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "36",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "36",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "36",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "36",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "36",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "37",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "37",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "37",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "37",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "37",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "37",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "38",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "38",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "38",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "38",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "38",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "38",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "42",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "42",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "42",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "42",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "42",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "42",
+      "player_state": "Running",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "43",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "44",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "44",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "44",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "44",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "44",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "44",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "45",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "45",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "45",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "45",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "45",
+      "player_state": "Running",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "45",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "49",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "49",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "49",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "49",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "49",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "49",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "101",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "101",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "101",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "101",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "101",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "101",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "108",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "108",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "108",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "108",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "108",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "108",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "200",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "200",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "200",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "200",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "200",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "200",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "201",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "201",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "201",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "201",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "201",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "201",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "202",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "202",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "202",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "202",
+      "player_state": "Running",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "202",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "8"
+    },
+    {
+      "player_state_group_id": "202",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "210",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "210",
+      "player_state": "Standing",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "210",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "210",
+      "player_state": "Running",
+      "min_cone_of_fire": "4.5"
+    },
+    {
+      "player_state_group_id": "210",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "210",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "211",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "211",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "211",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "211",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "211",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "211",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "300",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "301",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.9"
+    },
+    {
+      "player_state_group_id": "302",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "303",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "304",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.75"
+    },
+    {
+      "player_state_group_id": "305",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "306",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "307",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.55"
+    },
+    {
+      "player_state_group_id": "308",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.65"
+    },
+    {
+      "player_state_group_id": "309",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.75"
+    },
+    {
+      "player_state_group_id": "310",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "311",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "313",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "314",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "315",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "316",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "317",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "318",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "319",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "320",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "321",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "322",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "323",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "324",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "325",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "326",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "327",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "328",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "329",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "330",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "331",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "332",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "333",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "334",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "335",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "336",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "337",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "338",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "339",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "340",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "341",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.65"
+    },
+    {
+      "player_state_group_id": "342",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "343",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "344",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "345",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "346",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "347",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "348",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "349",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "378",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "378",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "378",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "378",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "378",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "378",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "650",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "650",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "650",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "650",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "650",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "650",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "651",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "651",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "651",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "651",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "651",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "651",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "652",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "652",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "652",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "652",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "652",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "652",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.5"
+    },
+    {
+      "player_state_group_id": "653",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "653",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "653",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.125"
+    },
+    {
+      "player_state_group_id": "653",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "653",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "653",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "654",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "654",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "654",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "654",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "654",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "654",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "655",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "655",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "655",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "655",
+      "player_state": "Running",
+      "min_cone_of_fire": "3.25"
+    },
+    {
+      "player_state_group_id": "655",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "655",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.75"
+    },
+    {
+      "player_state_group_id": "656",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "656",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "656",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "656",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "656",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "656",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2000",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2000",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2000",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2000",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2000",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2000",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2001",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2001",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2001",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2001",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2001",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2001",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2002",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2002",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2002",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2002",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2002",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2002",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2003",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2003",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2003",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2003",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2003",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2003",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2004",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2004",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2004",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2004",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2004",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2004",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2005",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2005",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2005",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2005",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2005",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2005",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2006",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2006",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2006",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2006",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2006",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2006",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2007",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2007",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2007",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2007",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2007",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2007",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2008",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2008",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2008",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2008",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2008",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2008",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2009",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2009",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2009",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2009",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2009",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2009",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2010",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2010",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2010",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2010",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2010",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2010",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2011",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2011",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2011",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2011",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2011",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2011",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2012",
+      "player_state": "Standing",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2012",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "4.5"
+    },
+    {
+      "player_state_group_id": "2012",
+      "player_state": "Running",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "2012",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "2012",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2012",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2013",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2013",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2013",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.55"
+    },
+    {
+      "player_state_group_id": "2013",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2013",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2013",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2014",
+      "player_state": "Standing",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "2014",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "5.5"
+    },
+    {
+      "player_state_group_id": "2014",
+      "player_state": "Running",
+      "min_cone_of_fire": "6.5"
+    },
+    {
+      "player_state_group_id": "2014",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2014",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2014",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "2015",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2015",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2015",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.55"
+    },
+    {
+      "player_state_group_id": "2015",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2015",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2015",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2016",
+      "player_state": "Standing",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "2016",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "5.5"
+    },
+    {
+      "player_state_group_id": "2016",
+      "player_state": "Running",
+      "min_cone_of_fire": "6.5"
+    },
+    {
+      "player_state_group_id": "2016",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2016",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2016",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "6"
+    },
+    {
+      "player_state_group_id": "2017",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2017",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2017",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.55"
+    },
+    {
+      "player_state_group_id": "2017",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2017",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2017",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2018",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "2018",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "2018",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "2018",
+      "player_state": "Running",
+      "min_cone_of_fire": "4.5"
+    },
+    {
+      "player_state_group_id": "2018",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2018",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2019",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2019",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2019",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2019",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.4"
+    },
+    {
+      "player_state_group_id": "2019",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2019",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2020",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "2020",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2020",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2020",
+      "player_state": "Running",
+      "min_cone_of_fire": "4.5"
+    },
+    {
+      "player_state_group_id": "2020",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "3.5"
+    },
+    {
+      "player_state_group_id": "2020",
+      "player_state": "Standing",
+      "min_cone_of_fire": "4"
+    },
+    {
+      "player_state_group_id": "2021",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2021",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2021",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2021",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.4"
+    },
+    {
+      "player_state_group_id": "2021",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2021",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2022",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2022",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2022",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2022",
+      "player_state": "Running",
+      "min_cone_of_fire": "3.25"
+    },
+    {
+      "player_state_group_id": "2022",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2022",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2023",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2023",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2023",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.4"
+    },
+    {
+      "player_state_group_id": "2023",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2023",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2023",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2024",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2024",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2024",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2024",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2024",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2024",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2025",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2025",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2025",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2025",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2025",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2025",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2026",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2026",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2026",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2026",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2026",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2026",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2027",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.8"
+    },
+    {
+      "player_state_group_id": "2027",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.8"
+    },
+    {
+      "player_state_group_id": "2027",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.8"
+    },
+    {
+      "player_state_group_id": "2027",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2027",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2027",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.8"
+    },
+    {
+      "player_state_group_id": "2028",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2028",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2028",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2028",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2028",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2028",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2029",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2029",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2029",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2029",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2029",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2029",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2030",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2030",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2030",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2030",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2030",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2030",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2031",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2031",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2031",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2031",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2031",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2031",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2032",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2032",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2032",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2032",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2032",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2032",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2033",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2033",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2033",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2033",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2033",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2033",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2034",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2034",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2034",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2034",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2034",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2034",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2035",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2035",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2035",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2035",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2035",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2035",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2036",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2036",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.05"
+    },
+    {
+      "player_state_group_id": "2036",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.05"
+    },
+    {
+      "player_state_group_id": "2036",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.05"
+    },
+    {
+      "player_state_group_id": "2036",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2036",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.05"
+    },
+    {
+      "player_state_group_id": "2037",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2037",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2037",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2037",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2037",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2037",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2038",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2038",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2038",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2038",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2038",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2038",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2039",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2039",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2039",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2039",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2039",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2039",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2040",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2040",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2040",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2040",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2040",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2040",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2041",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2041",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2041",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2041",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2041",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2041",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2042",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2042",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2042",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2042",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2042",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2042",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2043",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2043",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2043",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2043",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2043",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2043",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2044",
+      "player_state": "Running",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2044",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2044",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.25"
+    },
+    {
+      "player_state_group_id": "2044",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2044",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2044",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2045",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2045",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.125"
+    },
+    {
+      "player_state_group_id": "2045",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2045",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2045",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2045",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2046",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2046",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2046",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2046",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2046",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2046",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "2047",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2047",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2047",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2047",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2047",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2047",
+      "player_state": "Running",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2048",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2048",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2048",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2048",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "2048",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2048",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2049",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2049",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2049",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.125"
+    },
+    {
+      "player_state_group_id": "2049",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2049",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2049",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2050",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "2050",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2050",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2050",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2050",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2050",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2051",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2051",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2051",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2051",
+      "player_state": "Running",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2051",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2051",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2052",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2052",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2052",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.075"
+    },
+    {
+      "player_state_group_id": "2052",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.0125"
+    },
+    {
+      "player_state_group_id": "2052",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.0125"
+    },
+    {
+      "player_state_group_id": "2052",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2053",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2053",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2053",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2053",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2053",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2053",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2054",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2054",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2054",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2054",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2054",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2054",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2055",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2055",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2055",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.125"
+    },
+    {
+      "player_state_group_id": "2055",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2055",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2055",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2056",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2056",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "2056",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2056",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2056",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2056",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2057",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2057",
+      "player_state": "Running",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2057",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2057",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2057",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2057",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2058",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2058",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2058",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2058",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.32"
+    },
+    {
+      "player_state_group_id": "2058",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2058",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.17"
+    },
+    {
+      "player_state_group_id": "2059",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2059",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2059",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2059",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2059",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2059",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2060",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2060",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2060",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "2060",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2060",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2060",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "2061",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2061",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2061",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2061",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2061",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2061",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2062",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2062",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2062",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "2062",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2062",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2062",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "2063",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2063",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2063",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2063",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2063",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2063",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2064",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2064",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2064",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "2064",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2064",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2064",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "2065",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2065",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2065",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2065",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2065",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2065",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2066",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2066",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "2066",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2066",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2066",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "2066",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2067",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2067",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2067",
+      "player_state": "Running",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2067",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2067",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2067",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2068",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.06"
+    },
+    {
+      "player_state_group_id": "2068",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.06"
+    },
+    {
+      "player_state_group_id": "2068",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2068",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2068",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2068",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2069",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2069",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2069",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2069",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2069",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2069",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2070",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2070",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2070",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2070",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2070",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2070",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2071",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2071",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.125"
+    },
+    {
+      "player_state_group_id": "2071",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2071",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2071",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2071",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2072",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2072",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2072",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "2072",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2072",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2072",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2073",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2073",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2073",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2073",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2073",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2073",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2074",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2074",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2074",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2074",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2074",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2074",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2075",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2075",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2075",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2075",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2075",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2075",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2076",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2076",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2076",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "2076",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2076",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2076",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "2077",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2077",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2077",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2077",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2077",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2077",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2078",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2078",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2078",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "2078",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2078",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2078",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "2079",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2079",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2079",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2079",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2079",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2079",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2080",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2080",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "2080",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2080",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2080",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "2080",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2081",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2081",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2081",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2081",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2081",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2081",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2082",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2082",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.45"
+    },
+    {
+      "player_state_group_id": "2082",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2082",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2082",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.225"
+    },
+    {
+      "player_state_group_id": "2082",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2083",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2083",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2083",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2083",
+      "player_state": "Running",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2083",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2083",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2084",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.125"
+    },
+    {
+      "player_state_group_id": "2084",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.06"
+    },
+    {
+      "player_state_group_id": "2084",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2084",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.06"
+    },
+    {
+      "player_state_group_id": "2084",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2084",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.075"
+    },
+    {
+      "player_state_group_id": "2085",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2085",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2085",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2085",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2085",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2085",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2086",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2086",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2086",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2086",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2086",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2086",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2087",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2087",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2087",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2087",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2087",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2087",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2088",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2088",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2088",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2088",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2088",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2088",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2089",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2089",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2089",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2089",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2089",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2089",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2090",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2090",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2090",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.3"
+    },
+    {
+      "player_state_group_id": "2090",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2090",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2090",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2091",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2091",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2091",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2091",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2091",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2091",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2092",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2092",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2092",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2092",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2092",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2092",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2093",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2093",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2093",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2093",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2093",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2093",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2094",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2094",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2094",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2094",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2094",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2094",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2095",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2095",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2095",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2095",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2095",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2095",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2096",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.03"
+    },
+    {
+      "player_state_group_id": "2096",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2096",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2096",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2096",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2096",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.06"
+    },
+    {
+      "player_state_group_id": "2097",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2097",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2097",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2097",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2097",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2097",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2098",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2098",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2098",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2098",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2098",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2098",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2099",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2099",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2099",
+      "player_state": "Running",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2099",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2099",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2099",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2100",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2100",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2100",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.32"
+    },
+    {
+      "player_state_group_id": "2100",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2100",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2100",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.17"
+    },
+    {
+      "player_state_group_id": "2101",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2101",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2101",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2101",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2101",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2101",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2102",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.015"
+    },
+    {
+      "player_state_group_id": "2102",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.015"
+    },
+    {
+      "player_state_group_id": "2102",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2102",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2102",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2102",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.075"
+    },
+    {
+      "player_state_group_id": "2103",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2103",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2103",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.5"
+    },
+    {
+      "player_state_group_id": "2103",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2103",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2103",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "7"
+    },
+    {
+      "player_state_group_id": "2104",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2104",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2104",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2104",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2104",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2104",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2105",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2105",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2105",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2105",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2105",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2105",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2106",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2106",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.35"
+    },
+    {
+      "player_state_group_id": "2106",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2106",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2106",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.2"
+    },
+    {
+      "player_state_group_id": "2106",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2107",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2107",
+      "player_state": "Running",
+      "min_cone_of_fire": "2.75"
+    },
+    {
+      "player_state_group_id": "2107",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1.75"
+    },
+    {
+      "player_state_group_id": "2107",
+      "player_state": "Standing",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2107",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2107",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2.75"
+    },
+    {
+      "player_state_group_id": "2108",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2108",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.32"
+    },
+    {
+      "player_state_group_id": "2108",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2108",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0"
+    },
+    {
+      "player_state_group_id": "2108",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.17"
+    },
+    {
+      "player_state_group_id": "2108",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2109",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2.25"
+    },
+    {
+      "player_state_group_id": "2109",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2109",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2109",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2109",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2109",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2110",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "3"
+    },
+    {
+      "player_state_group_id": "2110",
+      "player_state": "Running",
+      "min_cone_of_fire": "0.25"
+    },
+    {
+      "player_state_group_id": "2110",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2110",
+      "player_state": "Standing",
+      "min_cone_of_fire": "0.1"
+    },
+    {
+      "player_state_group_id": "2110",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "0.15"
+    },
+    {
+      "player_state_group_id": "2110",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2111",
+      "player_state": "Standing",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2111",
+      "player_state": "CrouchWalking",
+      "min_cone_of_fire": "1.5"
+    },
+    {
+      "player_state_group_id": "2111",
+      "player_state": "Falling Long",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2111",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "5"
+    },
+    {
+      "player_state_group_id": "2111",
+      "player_state": "Running",
+      "min_cone_of_fire": "2"
+    },
+    {
+      "player_state_group_id": "2111",
+      "player_state": "Crouching",
+      "min_cone_of_fire": "1"
+    },
+    {
+      "player_state_group_id": "2112",
+      "player_state": "Sprinting",
+      "min_cone_of_fire": "2"
+    }
+  ],
+  "returned": 1000
+}
