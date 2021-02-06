@@ -84,6 +84,7 @@ Function Invoke-DBApi {
         }
     }
 }
+
 <#
 
 #>
@@ -130,8 +131,12 @@ Perform a Count query to only return the count for the given query, does not wor
 .PARAMETER Query
 The query string, with or without the ? prefix.
 
+This will precede QueryProperties, if defined.
+
 .PARAMETER QueryProperties
 The query but with a hash table of Key/Value pairs.
+
+This will follow Query, if defined.
 
 .PARAMETER NameSpace
 Alternative namespace can be provided, default: ps2:v2
@@ -170,9 +175,25 @@ Function New-DBApiUrl {
         $uri = [uri]::new($uri, [Uri]::EscapeDataString($Collection) + "/")
     }
 
+    $queryString = ''
+
+    if ($Query) {
+        if ($Query[0] -ne '?') {
+            $queryString = '?'
+        } 
+        
+        $queryString += $Query
+    }
+    
     if ($QueryProperties) {
         $sb = [System.Text.StringBuilder]::new()
-        $suffix = '?'
+        $suffix = ''
+
+        if (-not $queryString) {
+            $suffix = '?'
+        } else {
+            $suffix = "$queryString&"
+        }
 
         $QueryProperties.Keys | ForEach-Object {
             [void]$sb.Append($suffix)
@@ -182,14 +203,8 @@ Function New-DBApiUrl {
             $suffix = '&'
         }
 
-        $Query = $sb.ToString()
+        $queryString = $sb.ToString()
     }
     
-    if ($Query) {
-        if ($Query[0] -ne '?') {
-            $Query = "?$Query"
-        }
-    }
-    
-    [uri]::new($uri, $Query)
+    [uri]::new($uri, $queryString)
 }

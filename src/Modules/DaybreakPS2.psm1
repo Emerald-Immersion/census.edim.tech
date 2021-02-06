@@ -39,8 +39,6 @@ $collections = Get-DBPS2_Collection
 Function Get-DBPS2_Collection {
     $url = New-DBPS2_ApiUrl
 
-    $InformationPreference = 'Continue'
-
     $result = Invoke-DBApi -Url $url
 
     if (-not $result -or -not $result.returned) {
