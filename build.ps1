@@ -15,7 +15,7 @@ Function Invoke-Build {
         }
     }
     
-    Sync-ExampleCensusData -Destination './docs/data/ps2_v2_example'
+    Sync-ExampleCensusData -Destination './docs/data'
 }
 
 if (-not $psISE -and -not $psEditor) {

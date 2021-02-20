@@ -1,4 +1,4 @@
-Import-Module ./src/PSDayBreak.psm1
+Import-Module ./src/EdimCensus.psm1
 
 <#
 
@@ -11,7 +11,7 @@ Function Invoke-Update {
     
     # Get-JsonIndex -Path './docs/data' | ConvertTo-Json -Depth 10 | Out-File './docs/data/index.json'
     
-    Sync-ExampleCensusData -Path './docs/data/ps2_v2_example'
+    # Sync-ExampleCensusData -Path './docs/data/ps2_v2'
 
     Get-JsonIndex -Path './docs/data' | ConvertTo-Json -Depth 10 | Out-File './docs/data/index.json'
 }

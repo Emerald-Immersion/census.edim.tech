@@ -188,7 +188,7 @@ Function Get-DBPS2_PlayerItemDetails ([string]$PlayerName) {
 
 .EXAMPLE
 
-Get-Outfit -Tag 'EDIM'
+$outfit = Get-Outfit -Tag 'EDIM'
 
 #>
 Function Get-Outfit {
@@ -226,5 +226,31 @@ Function Get-PlayerStats {
         [Parameter(ValueFromPipelineByPropertyName='character_id')][string[]]$CharacterId
     )
     
+
+}
+<#
+
+.DESCRIPTION
+
+
+#>
+Function Get-PlayerWeaponStats {
+    param (
+        [Parameter(ValueFromPipelineByPropertyName='character_id')][string[]]$CharacterId
+    )
+
     
+}
+<#
+
+.DESCRIPTION
+
+
+#>
+Function Get-PlayerWeaponStatsByFaction {
+    param (
+        [Parameter(ValueFromPipelineByPropertyName='character_id')][string[]]$CharacterId
+    )
+
+
 }

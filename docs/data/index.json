@@ -1,825 +1,2228 @@
 {
-  "/ps2_v2": {},
-  "/ps2_v2_example": {
+  "/ps2_v2": {
     "/ability": {
       "1000.json": {
+        "Length": 15623,
+        "LastWriteTimeUtc": 1613183467657
+      },
+      "1112000.json": {
+        "Length": 26926,
+        "LastWriteTimeUtc": 1613183468051
+      },
+      "1113000.json": {
+        "Length": 31593,
+        "LastWriteTimeUtc": 1613183468126
+      },
+      "1114000.json": {
+        "Length": 15908,
+        "LastWriteTimeUtc": 1613183468157
+      },
+      "1115000.json": {
+        "Length": 4410,
+        "LastWriteTimeUtc": 1613183468168
+      },
+      "1116000.json": {
+        "Length": 20705,
+        "LastWriteTimeUtc": 1613183468203
+      },
+      "21000.json": {
+        "Length": 599,
+        "LastWriteTimeUtc": 1613183467660
+      },
+      "22000.json": {
+        "Length": 3344,
+        "LastWriteTimeUtc": 1613183467668
+      },
+      "23000.json": {
+        "Length": 113,
+        "LastWriteTimeUtc": 1613183467669
+      },
+      "26000.json": {
+        "Length": 4776,
+        "LastWriteTimeUtc": 1613183467684
+      },
+      "27000.json": {
+        "Length": 11251,
+        "LastWriteTimeUtc": 1613183467712
+      },
+      "28000.json": {
+        "Length": 43259,
+        "LastWriteTimeUtc": 1613183467880
+      },
+      "29000.json": {
+        "Length": 599,
+        "LastWriteTimeUtc": 1613183467885
+      },
+      "30000.json": {
+        "Length": 1388,
+        "LastWriteTimeUtc": 1613183467891
+      },
+      "51000.json": {
+        "Length": 1160,
+        "LastWriteTimeUtc": 1613183467900
+      },
+      "71000.json": {
+        "Length": 19864,
+        "LastWriteTimeUtc": 1613183467966
+      },
+      "76000.json": {
+        "Length": 621,
+        "LastWriteTimeUtc": 1613183467971
+      },
+      "81000.json": {
+        "Length": 2188,
+        "LastWriteTimeUtc": 1613183467979
+      },
+      "sample.json": {
         "Length": 101317,
         "LastWriteTimeUtc": 1611688347862
-      },
-      "10000.json": {
-        "Length": 1883954,
-        "LastWriteTimeUtc": 1612026543953
       }
     },
     "/ability_type": {
       "1000.json": {
+        "Length": 661,
+        "LastWriteTimeUtc": 1613183468215
+      },
+      "sample.json": {
         "Length": 971,
         "LastWriteTimeUtc": 1611688880910
-      },
-      "10000.json": {
-        "Length": 4562,
-        "LastWriteTimeUtc": 1612026544126
       }
     },
     "/achievement": {
       "1000.json": {
+        "Length": 467724,
+        "LastWriteTimeUtc": 1613183469598
+      },
+      "11000.json": {
+        "Length": 4485,
+        "LastWriteTimeUtc": 1613183470407
+      },
+      "12000.json": {
+        "Length": 2810,
+        "LastWriteTimeUtc": 1613183470410
+      },
+      "13000.json": {
+        "Length": 77433,
+        "LastWriteTimeUtc": 1613183470457
+      },
+      "2000.json": {
+        "Length": 484271,
+        "LastWriteTimeUtc": 1613183469963
+      },
+      "3000.json": {
+        "Length": 118568,
+        "LastWriteTimeUtc": 1613183470040
+      },
+      "4000.json": {
+        "Length": 484449,
+        "LastWriteTimeUtc": 1613183470263
+      },
+      "5000.json": {
+        "Length": 272314,
+        "LastWriteTimeUtc": 1613183470402
+      },
+      "91000.json": {
+        "Length": 294913,
+        "LastWriteTimeUtc": 1613183470623
+      },
+      "92000.json": {
+        "Length": 457447,
+        "LastWriteTimeUtc": 1613183470867
+      },
+      "93000.json": {
+        "Length": 343618,
+        "LastWriteTimeUtc": 1613183471034
+      },
+      "sample.json": {
         "Length": 755530,
         "LastWriteTimeUtc": 1611689025850
-      },
-      "10000.json": {
-        "Length": 16979596,
-        "LastWriteTimeUtc": 1612026553777
       }
     },
     "/armor_facing": {
       "1000.json": {
+        "Length": 306,
+        "LastWriteTimeUtc": 1613183471061
+      },
+      "sample.json": {
         "Length": 581,
         "LastWriteTimeUtc": 1611688349443
-      },
-      "10000.json": {
-        "Length": 2764,
-        "LastWriteTimeUtc": 1612026553952
       }
     },
     "/armor_info": {
       "1000.json": {
+        "Length": 11690,
+        "LastWriteTimeUtc": 1613183471128
+      },
+      "2000.json": {
+        "Length": 20167,
+        "LastWriteTimeUtc": 1613183471175
+      },
+      "sample.json": {
         "Length": 42713,
         "LastWriteTimeUtc": 1611688884777
-      },
-      "10000.json": {
-        "Length": 168788,
-        "LastWriteTimeUtc": 1612026554314
       }
     },
     "/currency": {
       "1000.json": {
+        "Length": 153,
+        "LastWriteTimeUtc": 1613183471182
+      },
+      "sample.json": {
         "Length": 304,
         "LastWriteTimeUtc": 1611689026356
-      },
-      "10000.json": {
-        "Length": 1376,
-        "LastWriteTimeUtc": 1612026554484
       }
     },
     "/directive": {
       "1000.json": {
+        "Length": 436705,
+        "LastWriteTimeUtc": 1613183472023
+      },
+      "2000.json": {
+        "Length": 473973,
+        "LastWriteTimeUtc": 1613183472231
+      },
+      "3000.json": {
+        "Length": 335068,
+        "LastWriteTimeUtc": 1613183472374
+      },
+      "4000.json": {
+        "Length": 410426,
+        "LastWriteTimeUtc": 1613183472563
+      },
+      "5000.json": {
+        "Length": 73783,
+        "LastWriteTimeUtc": 1613183472602
+      },
+      "sample.json": {
         "Length": 887501,
         "LastWriteTimeUtc": 1611689030421
-      },
-      "10000.json": {
-        "Length": 9635980,
-        "LastWriteTimeUtc": 1612026560225
       }
     },
     "/directive_tier": {
-      "1000.json": {
+      "sample.json": {
         "Length": 109309,
         "LastWriteTimeUtc": 1611689031306
-      },
-      "10000.json": {
-        "Length": 505154,
-        "LastWriteTimeUtc": 1612026562600
       }
     },
     "/directive_tree": {
       "1000.json": {
+        "Length": 21216,
+        "LastWriteTimeUtc": 1613183472736
+      },
+      "sample.json": {
         "Length": 29743,
         "LastWriteTimeUtc": 1611689032069
-      },
-      "10000.json": {
-        "Length": 130992,
-        "LastWriteTimeUtc": 1612026562786
       }
     },
     "/directive_tree_category": {
       "1000.json": {
+        "Length": 1188,
+        "LastWriteTimeUtc": 1613183472747
+      },
+      "sample.json": {
         "Length": 2005,
         "LastWriteTimeUtc": 1611689032577
-      },
-      "10000.json": {
-        "Length": 11888,
-        "LastWriteTimeUtc": 1612026562957
       }
     },
     "/effect": {
       "1000.json": {
-        "Length": 313457,
-        "LastWriteTimeUtc": 1611689152786
+        "Length": 46248,
+        "LastWriteTimeUtc": 1613183473011
       },
       "10000.json": {
-        "Length": 2236080,
-        "LastWriteTimeUtc": 1612026564271
+        "Length": 747,
+        "LastWriteTimeUtc": 1613183473282
+      },
+      "16000.json": {
+        "Length": 429,
+        "LastWriteTimeUtc": 1613183473283
+      },
+      "17000.json": {
+        "Length": 1339,
+        "LastWriteTimeUtc": 1613183473295
+      },
+      "18000.json": {
+        "Length": 429,
+        "LastWriteTimeUtc": 1613183473296
+      },
+      "2000.json": {
+        "Length": 37760,
+        "LastWriteTimeUtc": 1613183473046
+      },
+      "20000.json": {
+        "Length": 210,
+        "LastWriteTimeUtc": 1613183473297
+      },
+      "21000.json": {
+        "Length": 210,
+        "LastWriteTimeUtc": 1613183473298
+      },
+      "22000.json": {
+        "Length": 1611,
+        "LastWriteTimeUtc": 1613183473302
+      },
+      "25000.json": {
+        "Length": 1444,
+        "LastWriteTimeUtc": 1613183473306
+      },
+      "26000.json": {
+        "Length": 1444,
+        "LastWriteTimeUtc": 1613183473310
+      },
+      "27000.json": {
+        "Length": 1444,
+        "LastWriteTimeUtc": 1613183473314
+      },
+      "28000.json": {
+        "Length": 412,
+        "LastWriteTimeUtc": 1613183473315
+      },
+      "29000.json": {
+        "Length": 411,
+        "LastWriteTimeUtc": 1613183473318
+      },
+      "3000.json": {
+        "Length": 22503,
+        "LastWriteTimeUtc": 1613183473070
+      },
+      "30000.json": {
+        "Length": 412,
+        "LastWriteTimeUtc": 1613183473319
+      },
+      "34000.json": {
+        "Length": 565,
+        "LastWriteTimeUtc": 1613183473320
+      },
+      "35000.json": {
+        "Length": 181,
+        "LastWriteTimeUtc": 1613183473321
+      },
+      "4000.json": {
+        "Length": 168559,
+        "LastWriteTimeUtc": 1613183473250
+      },
+      "40000.json": {
+        "Length": 411,
+        "LastWriteTimeUtc": 1613183473322
+      },
+      "41000.json": {
+        "Length": 411,
+        "LastWriteTimeUtc": 1613183473323
+      },
+      "42000.json": {
+        "Length": 411,
+        "LastWriteTimeUtc": 1613183473324
+      },
+      "45000.json": {
+        "Length": 15554,
+        "LastWriteTimeUtc": 1613183473338
+      },
+      "7000.json": {
+        "Length": 1754,
+        "LastWriteTimeUtc": 1613183473254
+      },
+      "71000.json": {
+        "Length": 4122,
+        "LastWriteTimeUtc": 1613183473348
+      },
+      "8000.json": {
+        "Length": 24239,
+        "LastWriteTimeUtc": 1613183473273
+      },
+      "9000.json": {
+        "Length": 3275,
+        "LastWriteTimeUtc": 1613183473279
+      },
+      "91000.json": {
+        "Length": 2825,
+        "LastWriteTimeUtc": 1613183473353
+      },
+      "92000.json": {
+        "Length": 33163,
+        "LastWriteTimeUtc": 1613183473387
+      },
+      "sample.json": {
+        "Length": 313457,
+        "LastWriteTimeUtc": 1611689152786
       }
     },
     "/effect_type": {
       "1000.json": {
+        "Length": 3964,
+        "LastWriteTimeUtc": 1613183473405
+      },
+      "sample.json": {
         "Length": 5359,
         "LastWriteTimeUtc": 1611689041879
-      },
-      "10000.json": {
-        "Length": 20770,
-        "LastWriteTimeUtc": 1612026564447
       }
     },
     "/empire_scores": {
-      "1000.json": {
+      "sample.json": {
         "Length": 5050,
         "LastWriteTimeUtc": 1611689042442
-      },
-      "10000.json": {
-        "Length": 19838,
-        "LastWriteTimeUtc": 1612026564630
       }
     },
     "/experience": {
       "1000.json": {
+        "Length": 64484,
+        "LastWriteTimeUtc": 1613183473659
+      },
+      "2000.json": {
+        "Length": 49685,
+        "LastWriteTimeUtc": 1613183473753
+      },
+      "sample.json": {
         "Length": 128336,
         "LastWriteTimeUtc": 1611689045541
-      },
-      "10000.json": {
-        "Length": 607294,
-        "LastWriteTimeUtc": 1612026565035
       }
     },
     "/experience_rank": {
-      "1000.json": {
+      "sample.json": {
         "Length": 255466,
         "LastWriteTimeUtc": 1611689046995
-      },
-      "10000.json": {
-        "Length": 1308774,
-        "LastWriteTimeUtc": 1612026565680
       }
     },
     "/facility_link": {
-      "1000.json": {
+      "sample.json": {
         "Length": 73963,
         "LastWriteTimeUtc": 1611689049038
-      },
-      "10000.json": {
-        "Length": 315934,
-        "LastWriteTimeUtc": 1612026567246
       }
     },
     "/facility_type": {
       "1000.json": {
+        "Length": 610,
+        "LastWriteTimeUtc": 1613183473762
+      },
+      "sample.json": {
         "Length": 910,
         "LastWriteTimeUtc": 1611689049614
-      },
-      "10000.json": {
-        "Length": 4164,
-        "LastWriteTimeUtc": 1612026567417
       }
     },
     "/faction": {
       "1000.json": {
+        "Length": 1118,
+        "LastWriteTimeUtc": 1613183473777
+      },
+      "sample.json": {
         "Length": 1978,
         "LastWriteTimeUtc": 1611689050191
-      },
-      "10000.json": {
-        "Length": 8190,
-        "LastWriteTimeUtc": 1612026567591
       }
     },
     "/fire_group": {
       "1000.json": {
+        "Length": 10293,
+        "LastWriteTimeUtc": 1613183473916
+      },
+      "16000.json": {
+        "Length": 110,
+        "LastWriteTimeUtc": 1613183473940
+      },
+      "17000.json": {
+        "Length": 215,
+        "LastWriteTimeUtc": 1613183473942
+      },
+      "18000.json": {
+        "Length": 770,
+        "LastWriteTimeUtc": 1613183473947
+      },
+      "19000.json": {
+        "Length": 1624,
+        "LastWriteTimeUtc": 1613183473956
+      },
+      "2000.json": {
+        "Length": 517,
+        "LastWriteTimeUtc": 1613183473918
+      },
+      "20000.json": {
+        "Length": 137,
+        "LastWriteTimeUtc": 1613183473957
+      },
+      "21000.json": {
+        "Length": 71,
+        "LastWriteTimeUtc": 1613183473958
+      },
+      "22000.json": {
+        "Length": 203,
+        "LastWriteTimeUtc": 1613183473959
+      },
+      "25000.json": {
+        "Length": 337,
+        "LastWriteTimeUtc": 1613183473961
+      },
+      "26000.json": {
+        "Length": 366,
+        "LastWriteTimeUtc": 1613183473962
+      },
+      "27000.json": {
+        "Length": 366,
+        "LastWriteTimeUtc": 1613183473964
+      },
+      "28000.json": {
+        "Length": 110,
+        "LastWriteTimeUtc": 1613183473965
+      },
+      "29000.json": {
+        "Length": 110,
+        "LastWriteTimeUtc": 1613183473967
+      },
+      "30000.json": {
+        "Length": 110,
+        "LastWriteTimeUtc": 1613183473968
+      },
+      "34000.json": {
+        "Length": 141,
+        "LastWriteTimeUtc": 1613183473969
+      },
+      "35000.json": {
+        "Length": 139,
+        "LastWriteTimeUtc": 1613183473972
+      },
+      "36000.json": {
+        "Length": 110,
+        "LastWriteTimeUtc": 1613183473974
+      },
+      "40000.json": {
+        "Length": 224,
+        "LastWriteTimeUtc": 1613183473975
+      },
+      "41000.json": {
+        "Length": 224,
+        "LastWriteTimeUtc": 1613183473976
+      },
+      "42000.json": {
+        "Length": 224,
+        "LastWriteTimeUtc": 1613183473977
+      },
+      "43000.json": {
+        "Length": 75,
+        "LastWriteTimeUtc": 1613183473978
+      },
+      "51000.json": {
+        "Length": 40,
+        "LastWriteTimeUtc": 1613183473979
+      },
+      "7000.json": {
+        "Length": 38,
+        "LastWriteTimeUtc": 1613183473919
+      },
+      "71000.json": {
+        "Length": 1241,
+        "LastWriteTimeUtc": 1613183473988
+      },
+      "76000.json": {
+        "Length": 145,
+        "LastWriteTimeUtc": 1613183473990
+      },
+      "8000.json": {
+        "Length": 6318,
+        "LastWriteTimeUtc": 1613183473939
+      },
+      "81000.json": {
+        "Length": 18629,
+        "LastWriteTimeUtc": 1613183474071
+      },
+      "sample.json": {
         "Length": 58098,
         "LastWriteTimeUtc": 1611689050995
-      },
-      "10000.json": {
-        "Length": 280420,
-        "LastWriteTimeUtc": 1612026567807
       }
     },
     "/fire_group_to_fire_mode": {
-      "1000.json": {
+      "sample.json": {
         "Length": 107415,
         "LastWriteTimeUtc": 1611689051921
-      },
-      "10000.json": {
-        "Length": 1039902,
-        "LastWriteTimeUtc": 1612026568270
       }
     },
     "/fire_mode": {
       "1000.json": {
+        "Length": 923673,
+        "LastWriteTimeUtc": 1613183475414
+      },
+      "16000.json": {
+        "Length": 10907,
+        "LastWriteTimeUtc": 1613183475714
+      },
+      "17000.json": {
+        "Length": 15107,
+        "LastWriteTimeUtc": 1613183475721
+      },
+      "18000.json": {
+        "Length": 38539,
+        "LastWriteTimeUtc": 1613183475740
+      },
+      "2000.json": {
+        "Length": 180085,
+        "LastWriteTimeUtc": 1613183475508
+      },
+      "20000.json": {
+        "Length": 7877,
+        "LastWriteTimeUtc": 1613183475745
+      },
+      "21000.json": {
+        "Length": 1285,
+        "LastWriteTimeUtc": 1613183475749
+      },
+      "22000.json": {
+        "Length": 1341,
+        "LastWriteTimeUtc": 1613183475752
+      },
+      "25000.json": {
+        "Length": 12116,
+        "LastWriteTimeUtc": 1613183475758
+      },
+      "26000.json": {
+        "Length": 12211,
+        "LastWriteTimeUtc": 1613183475765
+      },
+      "27000.json": {
+        "Length": 12143,
+        "LastWriteTimeUtc": 1613183475776
+      },
+      "28000.json": {
+        "Length": 6554,
+        "LastWriteTimeUtc": 1613183475783
+      },
+      "29000.json": {
+        "Length": 6536,
+        "LastWriteTimeUtc": 1613183475792
+      },
+      "3000.json": {
+        "Length": 20661,
+        "LastWriteTimeUtc": 1613183475518
+      },
+      "30000.json": {
+        "Length": 6384,
+        "LastWriteTimeUtc": 1613183475798
+      },
+      "34000.json": {
+        "Length": 4926,
+        "LastWriteTimeUtc": 1613183475802
+      },
+      "35000.json": {
+        "Length": 5054,
+        "LastWriteTimeUtc": 1613183475809
+      },
+      "36000.json": {
+        "Length": 4660,
+        "LastWriteTimeUtc": 1613183475813
+      },
+      "40000.json": {
+        "Length": 3940,
+        "LastWriteTimeUtc": 1613183475817
+      },
+      "41000.json": {
+        "Length": 5167,
+        "LastWriteTimeUtc": 1613183475822
+      },
+      "42000.json": {
+        "Length": 3884,
+        "LastWriteTimeUtc": 1613183475826
+      },
+      "43000.json": {
+        "Length": 16852,
+        "LastWriteTimeUtc": 1613183475834
+      },
+      "71000.json": {
+        "Length": 100188,
+        "LastWriteTimeUtc": 1613183475882
+      },
+      "76000.json": {
+        "Length": 4461,
+        "LastWriteTimeUtc": 1613183475887
+      },
+      "8000.json": {
+        "Length": 192381,
+        "LastWriteTimeUtc": 1613183475637
+      },
+      "81000.json": {
+        "Length": 960715,
+        "LastWriteTimeUtc": 1613183476322
+      },
+      "9000.json": {
+        "Length": 130660,
+        "LastWriteTimeUtc": 1613183475708
+      },
+      "sample.json": {
         "Length": 878029,
         "LastWriteTimeUtc": 1611689055787
-      },
-      "10000.json": {
-        "Length": 15349036,
-        "LastWriteTimeUtc": 1612026577313
       }
     },
     "/fire_mode_2": {
-      "1000.json": {
+      "sample.json": {
         "Length": 1720813,
         "LastWriteTimeUtc": 1611689158645
-      },
-      "10000.json": {
-        "Length": 9938558,
-        "LastWriteTimeUtc": 1612026583337
       }
     },
     "/fire_mode_to_projectile": {
-      "1000.json": {
+      "sample.json": {
         "Length": 76512,
         "LastWriteTimeUtc": 1611689159615
-      },
-      "10000.json": {
-        "Length": 665382,
-        "LastWriteTimeUtc": 1612026583821
       }
     },
     "/fire_mode_type": {
       "1000.json": {
+        "Length": 239,
+        "LastWriteTimeUtc": 1613183476332
+      },
+      "sample.json": {
         "Length": 472,
         "LastWriteTimeUtc": 1611689160115
-      },
-      "10000.json": {
-        "Length": 2190,
-        "LastWriteTimeUtc": 1612026583996
       }
     },
     "/image": {
-      "1000.json": {
+      "sample.json": {
         "Length": 91063,
         "LastWriteTimeUtc": 1611689161013
-      },
-      "10000.json": {
-        "Length": 1748732,
-        "LastWriteTimeUtc": 1612026585072
       }
     },
     "/image_set": {
-      "1000.json": {
+      "sample.json": {
         "Length": 255295,
         "LastWriteTimeUtc": 1611689162574
-      },
-      "10000.json": {
-        "Length": 4655988,
-        "LastWriteTimeUtc": 1612026588177
       }
     },
     "/image_set_default": {
-      "1000.json": {
+      "sample.json": {
         "Length": 263884,
         "LastWriteTimeUtc": 1611689164120
-      },
-      "10000.json": {
-        "Length": 5329568,
-        "LastWriteTimeUtc": 1612026591298
       }
     },
     "/item": {
       "1000.json": {
-        "Length": 1483801,
-        "LastWriteTimeUtc": 1611689169715
+        "Length": 622123,
+        "LastWriteTimeUtc": 1613183480964
       },
       "10000.json": {
-        "Length": 18442324,
-        "LastWriteTimeUtc": 1612026606116
+        "Length": 604964,
+        "LastWriteTimeUtc": 1613183482405
+      },
+      "11000.json": {
+        "Length": 391562,
+        "LastWriteTimeUtc": 1613183482483
+      },
+      "12000.json": {
+        "Length": 352307,
+        "LastWriteTimeUtc": 1613183482553
+      },
+      "13000.json": {
+        "Length": 314004,
+        "LastWriteTimeUtc": 1613183482620
+      },
+      "14000.json": {
+        "Length": 831323,
+        "LastWriteTimeUtc": 1613183482896
+      },
+      "15000.json": {
+        "Length": 846392,
+        "LastWriteTimeUtc": 1613183483199
+      },
+      "16000.json": {
+        "Length": 616935,
+        "LastWriteTimeUtc": 1613183483406
+      },
+      "17000.json": {
+        "Length": 21945,
+        "LastWriteTimeUtc": 1613183483413
+      },
+      "18000.json": {
+        "Length": 13873,
+        "LastWriteTimeUtc": 1613183483418
+      },
+      "19000.json": {
+        "Length": 856,
+        "LastWriteTimeUtc": 1613183483421
+      },
+      "2000.json": {
+        "Length": 950919,
+        "LastWriteTimeUtc": 1613183481178
+      },
+      "20000.json": {
+        "Length": 1572,
+        "LastWriteTimeUtc": 1613183483424
+      },
+      "201000.json": {
+        "Length": 4727,
+        "LastWriteTimeUtc": 1613183484883
+      },
+      "21000.json": {
+        "Length": 631474,
+        "LastWriteTimeUtc": 1613183483633
+      },
+      "22000.json": {
+        "Length": 2907,
+        "LastWriteTimeUtc": 1613183483636
+      },
+      "23000.json": {
+        "Length": 3047,
+        "LastWriteTimeUtc": 1613183483639
+      },
+      "24000.json": {
+        "Length": 2871,
+        "LastWriteTimeUtc": 1613183483643
+      },
+      "25000.json": {
+        "Length": 11326,
+        "LastWriteTimeUtc": 1613183483647
+      },
+      "26000.json": {
+        "Length": 10040,
+        "LastWriteTimeUtc": 1613183483656
+      },
+      "27000.json": {
+        "Length": 10266,
+        "LastWriteTimeUtc": 1613183483660
+      },
+      "28000.json": {
+        "Length": 4027,
+        "LastWriteTimeUtc": 1613183483663
+      },
+      "29000.json": {
+        "Length": 3886,
+        "LastWriteTimeUtc": 1613183483669
+      },
+      "3000.json": {
+        "Length": 413863,
+        "LastWriteTimeUtc": 1613183481362
+      },
+      "30000.json": {
+        "Length": 3675,
+        "LastWriteTimeUtc": 1613183483672
+      },
+      "31000.json": {
+        "Length": 11421,
+        "LastWriteTimeUtc": 1613183483677
+      },
+      "33000.json": {
+        "Length": 1588,
+        "LastWriteTimeUtc": 1613183483680
+      },
+      "34000.json": {
+        "Length": 5555,
+        "LastWriteTimeUtc": 1613183483683
+      },
+      "35000.json": {
+        "Length": 6024,
+        "LastWriteTimeUtc": 1613183483687
+      },
+      "36000.json": {
+        "Length": 6088,
+        "LastWriteTimeUtc": 1613183483690
+      },
+      "4000.json": {
+        "Length": 477560,
+        "LastWriteTimeUtc": 1613183481577
+      },
+      "40000.json": {
+        "Length": 9583,
+        "LastWriteTimeUtc": 1613183483695
+      },
+      "41000.json": {
+        "Length": 4780,
+        "LastWriteTimeUtc": 1613183483698
+      },
+      "42000.json": {
+        "Length": 4399,
+        "LastWriteTimeUtc": 1613183483702
+      },
+      "45000.json": {
+        "Length": 4325,
+        "LastWriteTimeUtc": 1613183483707
+      },
+      "46000.json": {
+        "Length": 251751,
+        "LastWriteTimeUtc": 1613183483752
+      },
+      "47000.json": {
+        "Length": 159096,
+        "LastWriteTimeUtc": 1613183483815
+      },
+      "5000.json": {
+        "Length": 468293,
+        "LastWriteTimeUtc": 1613183481791
+      },
+      "50000.json": {
+        "Length": 3949,
+        "LastWriteTimeUtc": 1613183483818
+      },
+      "51000.json": {
+        "Length": 156178,
+        "LastWriteTimeUtc": 1613183483862
+      },
+      "6000.json": {
+        "Length": 667609,
+        "LastWriteTimeUtc": 1613183482014
+      },
+      "6003000.json": {
+        "Length": 1007852,
+        "LastWriteTimeUtc": 1613183486431
+      },
+      "6004000.json": {
+        "Length": 873480,
+        "LastWriteTimeUtc": 1613183486683
+      },
+      "6005000.json": {
+        "Length": 774283,
+        "LastWriteTimeUtc": 1613183486876
+      },
+      "6006000.json": {
+        "Length": 779117,
+        "LastWriteTimeUtc": 1613183487080
+      },
+      "6007000.json": {
+        "Length": 405043,
+        "LastWriteTimeUtc": 1613183487177
+      },
+      "6008000.json": {
+        "Length": 61767,
+        "LastWriteTimeUtc": 1613183487200
+      },
+      "6009000.json": {
+        "Length": 470555,
+        "LastWriteTimeUtc": 1613183487320
+      },
+      "6010000.json": {
+        "Length": 831336,
+        "LastWriteTimeUtc": 1613183487537
+      },
+      "61000.json": {
+        "Length": 95777,
+        "LastWriteTimeUtc": 1613183483880
+      },
+      "63000.json": {
+        "Length": 199647,
+        "LastWriteTimeUtc": 1613183483960
+      },
+      "7000.json": {
+        "Length": 432980,
+        "LastWriteTimeUtc": 1613183482117
+      },
+      "70000.json": {
+        "Length": 1634,
+        "LastWriteTimeUtc": 1613183483963
+      },
+      "71000.json": {
+        "Length": 587260,
+        "LastWriteTimeUtc": 1613183484198
+      },
+      "72000.json": {
+        "Length": 408445,
+        "LastWriteTimeUtc": 1613183484281
+      },
+      "752000.json": {
+        "Length": 1311,
+        "LastWriteTimeUtc": 1613183484886
+      },
+      "76000.json": {
+        "Length": 469605,
+        "LastWriteTimeUtc": 1613183484400
+      },
+      "77000.json": {
+        "Length": 435584,
+        "LastWriteTimeUtc": 1613183484516
+      },
+      "78000.json": {
+        "Length": 841178,
+        "LastWriteTimeUtc": 1613183484786
+      },
+      "79000.json": {
+        "Length": 233422,
+        "LastWriteTimeUtc": 1613183484879
+      },
+      "8000.json": {
+        "Length": 318402,
+        "LastWriteTimeUtc": 1613183482191
+      },
+      "801000.json": {
+        "Length": 551939,
+        "LastWriteTimeUtc": 1613183485001
+      },
+      "802000.json": {
+        "Length": 1482945,
+        "LastWriteTimeUtc": 1613183485302
+      },
+      "803000.json": {
+        "Length": 1060414,
+        "LastWriteTimeUtc": 1613183485566
+      },
+      "804000.json": {
+        "Length": 954481,
+        "LastWriteTimeUtc": 1613183485842
+      },
+      "805000.json": {
+        "Length": 827839,
+        "LastWriteTimeUtc": 1613183486084
+      },
+      "9000.json": {
+        "Length": 434471,
+        "LastWriteTimeUtc": 1613183482288
+      },
+      "sample.json": {
+        "Length": 1483801,
+        "LastWriteTimeUtc": 1611689169715
       }
     },
     "/item_attachment": {
-      "1000.json": {
+      "sample.json": {
         "Length": 76349,
         "LastWriteTimeUtc": 1611689170601
-      },
-      "10000.json": {
-        "Length": 1996538,
-        "LastWriteTimeUtc": 1612026607335
       }
     },
     "/item_category": {
       "1000.json": {
+        "Length": 15897,
+        "LastWriteTimeUtc": 1613183487571
+      },
+      "sample.json": {
         "Length": 23736,
         "LastWriteTimeUtc": 1611689171280
-      },
-      "10000.json": {
-        "Length": 111286,
-        "LastWriteTimeUtc": 1612026607522
       }
     },
     "/item_profile": {
-      "1000.json": {
+      "sample.json": {
         "Length": 66273,
         "LastWriteTimeUtc": 1611689172058
-      },
-      "10000.json": {
-        "Length": 1774748,
-        "LastWriteTimeUtc": 1612026608286
       }
     },
     "/item_to_weapon": {
-      "1000.json": {
+      "sample.json": {
         "Length": 68764,
         "LastWriteTimeUtc": 1611689172773
-      },
-      "10000.json": {
-        "Length": 534410,
-        "LastWriteTimeUtc": 1612026609674
       }
     },
     "/item_type": {
       "1000.json": {
+        "Length": 2537,
+        "LastWriteTimeUtc": 1613183487589
+      },
+      "sample.json": {
         "Length": 3745,
         "LastWriteTimeUtc": 1611689173275
-      },
-      "10000.json": {
-        "Length": 16226,
-        "LastWriteTimeUtc": 1612026609848
       }
     },
     "/loadout": {
       "1000.json": {
+        "Length": 1566,
+        "LastWriteTimeUtc": 1613183487605
+      },
+      "sample.json": {
         "Length": 2374,
         "LastWriteTimeUtc": 1611689173830
-      },
-      "10000.json": {
-        "Length": 9768,
-        "LastWriteTimeUtc": 1612026610027
       }
     },
     "/map_hex": {
-      "1000.json": {
+      "sample.json": {
         "Length": 172088,
         "LastWriteTimeUtc": 1611689175026
-      },
-      "10000.json": {
-        "Length": 3015530,
-        "LastWriteTimeUtc": 1612026611705
       }
     },
     "/map_region": {
-      "1000.json": {
+      "19000.json": {
+        "Length": 11724,
+        "LastWriteTimeUtc": 1613183487733
+      },
+      "3000.json": {
+        "Length": 19632,
+        "LastWriteTimeUtc": 1613183487672
+      },
+      "5000.json": {
+        "Length": 21099,
+        "LastWriteTimeUtc": 1613183487698
+      },
+      "7000.json": {
+        "Length": 19305,
+        "LastWriteTimeUtc": 1613183487721
+      },
+      "sample.json": {
         "Length": 97875,
         "LastWriteTimeUtc": 1611689177009
-      },
-      "10000.json": {
-        "Length": 374640,
-        "LastWriteTimeUtc": 1612026612085
       }
     },
     "/marketing_bundle": {
       "1000.json": {
-        "Length": 1432903,
-        "LastWriteTimeUtc": 1611689315568
+        "Length": 347791,
+        "LastWriteTimeUtc": 1613183490386
       },
       "10000.json": {
-        "Length": 21906834,
-        "LastWriteTimeUtc": 1612026627907
+        "Length": 1283419,
+        "LastWriteTimeUtc": 1613183492064
+      },
+      "11000.json": {
+        "Length": 1292075,
+        "LastWriteTimeUtc": 1613183492357
+      },
+      "12000.json": {
+        "Length": 257191,
+        "LastWriteTimeUtc": 1613183492421
+      },
+      "13000.json": {
+        "Length": 829210,
+        "LastWriteTimeUtc": 1613183492668
+      },
+      "14000.json": {
+        "Length": 555283,
+        "LastWriteTimeUtc": 1613183492938
+      },
+      "15000.json": {
+        "Length": 258599,
+        "LastWriteTimeUtc": 1613183493043
+      },
+      "16000.json": {
+        "Length": 414106,
+        "LastWriteTimeUtc": 1613183493169
+      },
+      "2000.json": {
+        "Length": 198314,
+        "LastWriteTimeUtc": 1613183490438
+      },
+      "3000.json": {
+        "Length": 786363,
+        "LastWriteTimeUtc": 1613183490631
+      },
+      "4000.json": {
+        "Length": 770894,
+        "LastWriteTimeUtc": 1613183490808
+      },
+      "5000.json": {
+        "Length": 522906,
+        "LastWriteTimeUtc": 1613183490984
+      },
+      "6000.json": {
+        "Length": 320005,
+        "LastWriteTimeUtc": 1613183491085
+      },
+      "7000.json": {
+        "Length": 914025,
+        "LastWriteTimeUtc": 1613183491423
+      },
+      "8000.json": {
+        "Length": 595622,
+        "LastWriteTimeUtc": 1613183491546
+      },
+      "806000.json": {
+        "Length": 551835,
+        "LastWriteTimeUtc": 1613183493348
+      },
+      "807000.json": {
+        "Length": 858521,
+        "LastWriteTimeUtc": 1613183493670
+      },
+      "808000.json": {
+        "Length": 950861,
+        "LastWriteTimeUtc": 1613183493905
+      },
+      "809000.json": {
+        "Length": 795770,
+        "LastWriteTimeUtc": 1613183494106
+      },
+      "810000.json": {
+        "Length": 89480,
+        "LastWriteTimeUtc": 1613183494129
+      },
+      "811000.json": {
+        "Length": 476717,
+        "LastWriteTimeUtc": 1613183494249
+      },
+      "9000.json": {
+        "Length": 854142,
+        "LastWriteTimeUtc": 1613183491783
+      },
+      "sample.json": {
+        "Length": 1432903,
+        "LastWriteTimeUtc": 1611689315568
       }
     },
     "/marketing_bundle_item": {
-      "1000.json": {
+      "sample.json": {
         "Length": 138960,
         "LastWriteTimeUtc": 1611689319612
-      },
-      "10000.json": {
-        "Length": 3615252,
-        "LastWriteTimeUtc": 1612026629883
       }
     },
     "/marketing_bundle_with_1_item": {
-      "1000.json": {
+      "sample.json": {
         "Length": 186728,
         "LastWriteTimeUtc": 1611689193173
-      },
-      "10000.json": {
-        "Length": 5209662,
-        "LastWriteTimeUtc": 1612026633637
       }
     },
     "/metagame_event": {
       "1000.json": {
+        "Length": 41580,
+        "LastWriteTimeUtc": 1613183494288
+      },
+      "sample.json": {
         "Length": 56254,
         "LastWriteTimeUtc": 1611689320320
-      },
-      "10000.json": {
-        "Length": 237544,
-        "LastWriteTimeUtc": 1612026633876
       }
     },
     "/metagame_event_state": {
       "1000.json": {
+        "Length": 305,
+        "LastWriteTimeUtc": 1613183494295
+      },
+      "sample.json": {
         "Length": 477,
         "LastWriteTimeUtc": 1611689199296
-      },
-      "10000.json": {
-        "Length": 2452,
-        "LastWriteTimeUtc": 1612026635224
       }
     },
     "/objective": {
       "1000.json": {
+        "Length": 124594,
+        "LastWriteTimeUtc": 1613183495356
+      },
+      "11000.json": {
+        "Length": 55355,
+        "LastWriteTimeUtc": 1613183495931
+      },
+      "12000.json": {
+        "Length": 31560,
+        "LastWriteTimeUtc": 1613183495998
+      },
+      "13000.json": {
+        "Length": 62171,
+        "LastWriteTimeUtc": 1613183496097
+      },
+      "14000.json": {
+        "Length": 82814,
+        "LastWriteTimeUtc": 1613183496216
+      },
+      "15000.json": {
+        "Length": 64461,
+        "LastWriteTimeUtc": 1613183496309
+      },
+      "16000.json": {
+        "Length": 109391,
+        "LastWriteTimeUtc": 1613183496460
+      },
+      "17000.json": {
+        "Length": 96317,
+        "LastWriteTimeUtc": 1613183496608
+      },
+      "18000.json": {
+        "Length": 88187,
+        "LastWriteTimeUtc": 1613183496730
+      },
+      "19000.json": {
+        "Length": 53933,
+        "LastWriteTimeUtc": 1613183496810
+      },
+      "2000.json": {
+        "Length": 133653,
+        "LastWriteTimeUtc": 1613183495544
+      },
+      "20000.json": {
+        "Length": 9171,
+        "LastWriteTimeUtc": 1613183496825
+      },
+      "3000.json": {
+        "Length": 31858,
+        "LastWriteTimeUtc": 1613183495595
+      },
+      "4000.json": {
+        "Length": 98564,
+        "LastWriteTimeUtc": 1613183495728
+      },
+      "5000.json": {
+        "Length": 67074,
+        "LastWriteTimeUtc": 1613183495821
+      },
+      "sample.json": {
         "Length": 208485,
         "LastWriteTimeUtc": 1611689321588
-      },
-      "10000.json": {
-        "Length": 4110884,
-        "LastWriteTimeUtc": 1612026637844
       }
     },
     "/objective_set_to_objective": {
-      "1000.json": {
+      "sample.json": {
         "Length": 87071,
         "LastWriteTimeUtc": 1611689322486
-      },
-      "10000.json": {
-        "Length": 1377058,
-        "LastWriteTimeUtc": 1612026638476
       }
     },
     "/objective_type": {
       "1000.json": {
+        "Length": 4472,
+        "LastWriteTimeUtc": 1613183496841
+      },
+      "sample.json": {
         "Length": 5624,
         "LastWriteTimeUtc": 1611689323044
-      },
-      "10000.json": {
-        "Length": 23426,
-        "LastWriteTimeUtc": 1612026638650
       }
     },
     "/player_state": {
       "1000.json": {
+        "Length": 397,
+        "LastWriteTimeUtc": 1613183496854
+      },
+      "sample.json": {
         "Length": 700,
         "LastWriteTimeUtc": 1611689323547
-      },
-      "10000.json": {
-        "Length": 3222,
-        "LastWriteTimeUtc": 1612026638821
       }
     },
     "/player_state_group": {
       "1000.json": {
+        "Length": 29087,
+        "LastWriteTimeUtc": 1613183497278
+      },
+      "16000.json": {
+        "Length": 5670,
+        "LastWriteTimeUtc": 1613183498027
+      },
+      "17000.json": {
+        "Length": 3991,
+        "LastWriteTimeUtc": 1613183498036
+      },
+      "3000.json": {
+        "Length": 278376,
+        "LastWriteTimeUtc": 1613183498015
+      },
+      "71000.json": {
+        "Length": 1141,
+        "LastWriteTimeUtc": 1613183498041
+      },
+      "76000.json": {
+        "Length": 49932,
+        "LastWriteTimeUtc": 1613183498142
+      },
+      "sample.json": {
         "Length": 123247,
         "LastWriteTimeUtc": 1611689324744
-      },
-      "10000.json": {
-        "Length": 2323812,
-        "LastWriteTimeUtc": 1612026640092
       }
     },
     "/player_state_group_2": {
-      "1000.json": {
+      "sample.json": {
         "Length": 377606,
         "LastWriteTimeUtc": 1611689228920
-      },
-      "10000.json": {
-        "Length": 4414840,
-        "LastWriteTimeUtc": 1612026642429
       }
     },
     "/profile": {
       "1000.json": {
+        "Length": 13396,
+        "LastWriteTimeUtc": 1613183498159
+      },
+      "sample.json": {
         "Length": 19923,
         "LastWriteTimeUtc": 1611689325495
-      },
-      "10000.json": {
-        "Length": 82144,
-        "LastWriteTimeUtc": 1612026643772
       }
     },
     "/profile_2": {
-      "1000.json": {
+      "sample.json": {
         "Length": 18729,
         "LastWriteTimeUtc": 1611689235111
-      },
-      "10000.json": {
-        "Length": 78086,
-        "LastWriteTimeUtc": 1612026643954
       }
     },
     "/profile_armor_map": {
-      "1000.json": {
+      "sample.json": {
         "Length": 8446,
         "LastWriteTimeUtc": 1611689235629
-      },
-      "10000.json": {
-        "Length": 46812,
-        "LastWriteTimeUtc": 1612026644131
       }
     },
     "/profile_resist_map": {
-      "1000.json": {
+      "sample.json": {
         "Length": 93455,
         "LastWriteTimeUtc": 1611697587406
-      },
-      "10000.json": {
-        "Length": 2636282,
-        "LastWriteTimeUtc": 1612026645428
       }
     },
     "/projectile": {
       "1000.json": {
+        "Length": 23857,
+        "LastWriteTimeUtc": 1613183498280
+      },
+      "11000.json": {
+        "Length": 1067,
+        "LastWriteTimeUtc": 1613183498293
+      },
+      "16000.json": {
+        "Length": 554,
+        "LastWriteTimeUtc": 1613183498297
+      },
+      "17000.json": {
+        "Length": 1053,
+        "LastWriteTimeUtc": 1613183498301
+      },
+      "18000.json": {
+        "Length": 532,
+        "LastWriteTimeUtc": 1613183498303
+      },
+      "19000.json": {
+        "Length": 361,
+        "LastWriteTimeUtc": 1613183498305
+      },
+      "2000.json": {
+        "Length": 654,
+        "LastWriteTimeUtc": 1613183498287
+      },
+      "20000.json": {
+        "Length": 361,
+        "LastWriteTimeUtc": 1613183498306
+      },
+      "21000.json": {
+        "Length": 180,
+        "LastWriteTimeUtc": 1613183498307
+      },
+      "25000.json": {
+        "Length": 340,
+        "LastWriteTimeUtc": 1613183498311
+      },
+      "26000.json": {
+        "Length": 340,
+        "LastWriteTimeUtc": 1613183498312
+      },
+      "27000.json": {
+        "Length": 634,
+        "LastWriteTimeUtc": 1613183498315
+      },
+      "28000.json": {
+        "Length": 183,
+        "LastWriteTimeUtc": 1613183498317
+      },
+      "29000.json": {
+        "Length": 183,
+        "LastWriteTimeUtc": 1613183498321
+      },
+      "30000.json": {
+        "Length": 179,
+        "LastWriteTimeUtc": 1613183498322
+      },
+      "31000.json": {
+        "Length": 183,
+        "LastWriteTimeUtc": 1613183498323
+      },
+      "32000.json": {
+        "Length": 297,
+        "LastWriteTimeUtc": 1613183498330
+      },
+      "33000.json": {
+        "Length": 323,
+        "LastWriteTimeUtc": 1613183498331
+      },
+      "34000.json": {
+        "Length": 710,
+        "LastWriteTimeUtc": 1613183498334
+      },
+      "35000.json": {
+        "Length": 831,
+        "LastWriteTimeUtc": 1613183498338
+      },
+      "36000.json": {
+        "Length": 829,
+        "LastWriteTimeUtc": 1613183498341
+      },
+      "43000.json": {
+        "Length": 151,
+        "LastWriteTimeUtc": 1613183498342
+      },
+      "44000.json": {
+        "Length": 151,
+        "LastWriteTimeUtc": 1613183498343
+      },
+      "45000.json": {
+        "Length": 143,
+        "LastWriteTimeUtc": 1613183498344
+      },
+      "51000.json": {
+        "Length": 217,
+        "LastWriteTimeUtc": 1613183498345
+      },
+      "7000.json": {
+        "Length": 141,
+        "LastWriteTimeUtc": 1613183498288
+      },
+      "71000.json": {
+        "Length": 8593,
+        "LastWriteTimeUtc": 1613183498356
+      },
+      "81000.json": {
+        "Length": 32219,
+        "LastWriteTimeUtc": 1613183498399
+      },
+      "9000.json": {
+        "Length": 181,
+        "LastWriteTimeUtc": 1613183498289
+      },
+      "sample.json": {
         "Length": 110537,
         "LastWriteTimeUtc": 1611689237599
-      },
-      "10000.json": {
-        "Length": 467486,
-        "LastWriteTimeUtc": 1612026645833
       }
     },
     "/projectile_flight_type": {
       "1000.json": {
+        "Length": 298,
+        "LastWriteTimeUtc": 1613183498407
+      },
+      "sample.json": {
         "Length": 456,
         "LastWriteTimeUtc": 1611689325997
-      },
-      "10000.json": {
-        "Length": 2194,
-        "LastWriteTimeUtc": 1612026646005
       }
     },
     "/region": {
-      "1000.json": {
+      "19000.json": {
+        "Length": 11155,
+        "LastWriteTimeUtc": 1613183498527
+      },
+      "3000.json": {
+        "Length": 19116,
+        "LastWriteTimeUtc": 1613183498470
+      },
+      "5000.json": {
+        "Length": 19780,
+        "LastWriteTimeUtc": 1613183498491
+      },
+      "7000.json": {
+        "Length": 18291,
+        "LastWriteTimeUtc": 1613183498515
+      },
+      "sample.json": {
         "Length": 102860,
         "LastWriteTimeUtc": 1611689244004
-      },
-      "10000.json": {
-        "Length": 428666,
-        "LastWriteTimeUtc": 1612026646390
       }
     },
     "/resist_info": {
       "1000.json": {
+        "Length": 84783,
+        "LastWriteTimeUtc": 1613183499249
+      },
+      "2000.json": {
+        "Length": 109335,
+        "LastWriteTimeUtc": 1613183499374
+      },
+      "3000.json": {
+        "Length": 147338,
+        "LastWriteTimeUtc": 1613183499562
+      },
+      "4000.json": {
+        "Length": 132805,
+        "LastWriteTimeUtc": 1613183499734
+      },
+      "5000.json": {
+        "Length": 116130,
+        "LastWriteTimeUtc": 1613183499879
+      },
+      "6000.json": {
+        "Length": 55110,
+        "LastWriteTimeUtc": 1613183499952
+      },
+      "sample.json": {
         "Length": 215759,
         "LastWriteTimeUtc": 1611689245558
-      },
-      "10000.json": {
-        "Length": 3057610,
-        "LastWriteTimeUtc": 1612026649178
       }
     },
     "/resist_type": {
       "1000.json": {
+        "Length": 1130,
+        "LastWriteTimeUtc": 1613183499967
+      },
+      "sample.json": {
         "Length": 1566,
         "LastWriteTimeUtc": 1611689246062
-      },
-      "10000.json": {
-        "Length": 6584,
-        "LastWriteTimeUtc": 1612026649354
       }
     },
     "/resource_type": {
       "1000.json": {
+        "Length": 994,
+        "LastWriteTimeUtc": 1613183499978
+      },
+      "sample.json": {
         "Length": 1404,
         "LastWriteTimeUtc": 1611689246564
-      },
-      "10000.json": {
-        "Length": 6292,
-        "LastWriteTimeUtc": 1612026649536
       }
     },
     "/reward": {
       "1000.json": {
-        "Length": 68093,
-        "LastWriteTimeUtc": 1611689247365
+        "Length": 639,
+        "LastWriteTimeUtc": 1613183500030
       },
       "10000.json": {
-        "Length": 278130,
-        "LastWriteTimeUtc": 1612026649749
+        "Length": 5860,
+        "LastWriteTimeUtc": 1613183500110
+      },
+      "4000.json": {
+        "Length": 366,
+        "LastWriteTimeUtc": 1613183500031
+      },
+      "5000.json": {
+        "Length": 22101,
+        "LastWriteTimeUtc": 1613183500066
+      },
+      "6000.json": {
+        "Length": 5932,
+        "LastWriteTimeUtc": 1613183500080
+      },
+      "7000.json": {
+        "Length": 7632,
+        "LastWriteTimeUtc": 1613183500092
+      },
+      "9000.json": {
+        "Length": 2426,
+        "LastWriteTimeUtc": 1613183500097
+      },
+      "sample.json": {
+        "Length": 68093,
+        "LastWriteTimeUtc": 1611689247365
       }
     },
     "/reward_group_to_reward": {
-      "1000.json": {
+      "sample.json": {
         "Length": 25414,
         "LastWriteTimeUtc": 1611689248049
-      },
-      "10000.json": {
-        "Length": 149310,
-        "LastWriteTimeUtc": 1612026649936
       }
     },
     "/reward_set_to_reward_group": {
-      "1000.json": {
+      "sample.json": {
         "Length": 9684,
         "LastWriteTimeUtc": 1611689250257
-      },
-      "10000.json": {
-        "Length": 58634,
-        "LastWriteTimeUtc": 1612026650114
       }
     },
     "/reward_type": {
       "1000.json": {
+        "Length": 498,
+        "LastWriteTimeUtc": 1613183500117
+      },
+      "sample.json": {
         "Length": 729,
         "LastWriteTimeUtc": 1611689326567
-      },
-      "10000.json": {
-        "Length": 2826,
-        "LastWriteTimeUtc": 1612026650285
       }
     },
     "/skill": {
       "1000.json": {
-        "Length": 958740,
-        "LastWriteTimeUtc": 1611689335291
+        "Length": 598012,
+        "LastWriteTimeUtc": 1613183503725
       },
       "10000.json": {
-        "Length": 17904882,
-        "LastWriteTimeUtc": 1612026664268
+        "Length": 1048102,
+        "LastWriteTimeUtc": 1613183506266
+      },
+      "11000.json": {
+        "Length": 880326,
+        "LastWriteTimeUtc": 1613183506508
+      },
+      "12000.json": {
+        "Length": 704268,
+        "LastWriteTimeUtc": 1613183506762
+      },
+      "13000.json": {
+        "Length": 717868,
+        "LastWriteTimeUtc": 1613183507088
+      },
+      "14000.json": {
+        "Length": 215356,
+        "LastWriteTimeUtc": 1613183507178
+      },
+      "16000.json": {
+        "Length": 61820,
+        "LastWriteTimeUtc": 1613183507203
+      },
+      "17000.json": {
+        "Length": 359661,
+        "LastWriteTimeUtc": 1613183507312
+      },
+      "2000.json": {
+        "Length": 499455,
+        "LastWriteTimeUtc": 1613183503931
+      },
+      "22000.json": {
+        "Length": 231624,
+        "LastWriteTimeUtc": 1613183507390
+      },
+      "23000.json": {
+        "Length": 812679,
+        "LastWriteTimeUtc": 1613183507764
+      },
+      "24000.json": {
+        "Length": 650529,
+        "LastWriteTimeUtc": 1613183508065
+      },
+      "25000.json": {
+        "Length": 797880,
+        "LastWriteTimeUtc": 1613183508322
+      },
+      "26000.json": {
+        "Length": 761849,
+        "LastWriteTimeUtc": 1613183508612
+      },
+      "27000.json": {
+        "Length": 551439,
+        "LastWriteTimeUtc": 1613183508793
+      },
+      "3000.json": {
+        "Length": 706800,
+        "LastWriteTimeUtc": 1613183504193
+      },
+      "4000.json": {
+        "Length": 641639,
+        "LastWriteTimeUtc": 1613183504423
+      },
+      "5000.json": {
+        "Length": 736912,
+        "LastWriteTimeUtc": 1613183504668
+      },
+      "6000.json": {
+        "Length": 977020,
+        "LastWriteTimeUtc": 1613183504996
+      },
+      "7000.json": {
+        "Length": 699711,
+        "LastWriteTimeUtc": 1613183505269
+      },
+      "8000.json": {
+        "Length": 692537,
+        "LastWriteTimeUtc": 1613183505663
+      },
+      "9000.json": {
+        "Length": 720568,
+        "LastWriteTimeUtc": 1613183505960
+      },
+      "sample.json": {
+        "Length": 958740,
+        "LastWriteTimeUtc": 1611689335291
       }
     },
     "/skill_category": {
       "1000.json": {
+        "Length": 301012,
+        "LastWriteTimeUtc": 1613183509425
+      },
+      "17000.json": {
+        "Length": 217125,
+        "LastWriteTimeUtc": 1613183509873
+      },
+      "2000.json": {
+        "Length": 1820,
+        "LastWriteTimeUtc": 1613183509429
+      },
+      "3000.json": {
+        "Length": 9442,
+        "LastWriteTimeUtc": 1613183509436
+      },
+      "5000.json": {
+        "Length": 125690,
+        "LastWriteTimeUtc": 1613183509524
+      },
+      "7000.json": {
+        "Length": 5836,
+        "LastWriteTimeUtc": 1613183509535
+      },
+      "8000.json": {
+        "Length": 131293,
+        "LastWriteTimeUtc": 1613183509622
+      },
+      "9000.json": {
+        "Length": 69481,
+        "LastWriteTimeUtc": 1613183509671
+      },
+      "sample.json": {
         "Length": 504068,
         "LastWriteTimeUtc": 1611689338636
-      },
-      "10000.json": {
-        "Length": 6033272,
-        "LastWriteTimeUtc": 1612026667470
       }
     },
     "/skill_line": {
       "1000.json": {
-        "Length": 1144649,
-        "LastWriteTimeUtc": 1611689344546
+        "Length": 798127,
+        "LastWriteTimeUtc": 1613183511681
       },
       "10000.json": {
-        "Length": 22823890,
-        "LastWriteTimeUtc": 1612026684922
+        "Length": 495284,
+        "LastWriteTimeUtc": 1613183513019
+      },
+      "12000.json": {
+        "Length": 745,
+        "LastWriteTimeUtc": 1613183513022
+      },
+      "16000.json": {
+        "Length": 56087,
+        "LastWriteTimeUtc": 1613183513033
+      },
+      "17000.json": {
+        "Length": 1131764,
+        "LastWriteTimeUtc": 1613183513304
+      },
+      "18000.json": {
+        "Length": 691239,
+        "LastWriteTimeUtc": 1613183513515
+      },
+      "2000.json": {
+        "Length": 422027,
+        "LastWriteTimeUtc": 1613183511808
+      },
+      "3000.json": {
+        "Length": 966614,
+        "LastWriteTimeUtc": 1613183512070
+      },
+      "5000.json": {
+        "Length": 432380,
+        "LastWriteTimeUtc": 1613183512161
+      },
+      "6000.json": {
+        "Length": 729934,
+        "LastWriteTimeUtc": 1613183512328
+      },
+      "7000.json": {
+        "Length": 302005,
+        "LastWriteTimeUtc": 1613183512405
+      },
+      "8000.json": {
+        "Length": 1250128,
+        "LastWriteTimeUtc": 1613183512696
+      },
+      "9000.json": {
+        "Length": 991678,
+        "LastWriteTimeUtc": 1613183512908
+      },
+      "sample.json": {
+        "Length": 1144649,
+        "LastWriteTimeUtc": 1611689344546
       }
     },
     "/skill_set": {
       "1000.json": {
+        "Length": 727341,
+        "LastWriteTimeUtc": 1613183513938
+      },
+      "2000.json": {
+        "Length": 510244,
+        "LastWriteTimeUtc": 1613183514059
+      },
+      "sample.json": {
         "Length": 1441005,
         "LastWriteTimeUtc": 1611689383859
-      },
-      "10000.json": {
-        "Length": 4356572,
-        "LastWriteTimeUtc": 1612026688739
       }
     },
     "/target_type": {
       "1000.json": {
+        "Length": 201,
+        "LastWriteTimeUtc": 1613183514074
+      },
+      "sample.json": {
         "Length": 349,
         "LastWriteTimeUtc": 1611689389924
-      },
-      "10000.json": {
-        "Length": 1606,
-        "LastWriteTimeUtc": 1612026688910
       }
     },
     "/title": {
       "1000.json": {
+        "Length": 33749,
+        "LastWriteTimeUtc": 1613183514202
+      },
+      "sample.json": {
         "Length": 57272,
         "LastWriteTimeUtc": 1611689390656
-      },
-      "10000.json": {
-        "Length": 268846,
-        "LastWriteTimeUtc": 1612026689214
       }
     },
     "/vehicle": {
       "1000.json": {
+        "Length": 39192,
+        "LastWriteTimeUtc": 1613183514227
+      },
+      "2000.json": {
+        "Length": 900,
+        "LastWriteTimeUtc": 1613183514231
+      },
+      "3000.json": {
+        "Length": 31447,
+        "LastWriteTimeUtc": 1613183514241
+      },
+      "sample.json": {
         "Length": 83135,
         "LastWriteTimeUtc": 1611689391547
-      },
-      "10000.json": {
-        "Length": 242438,
-        "LastWriteTimeUtc": 1612026689582
       }
     },
     "/vehicle_attachment": {
-      "1000.json": {
+      "sample.json": {
         "Length": 152928,
         "LastWriteTimeUtc": 1611689392844
-      },
-      "10000.json": {
-        "Length": 3913764,
-        "LastWriteTimeUtc": 1612026691381
       }
     },
     "/vehicle_faction": {
-      "1000.json": {
+      "sample.json": {
         "Length": 10471,
         "LastWriteTimeUtc": 1611689393396
-      },
-      "10000.json": {
-        "Length": 58342,
-        "LastWriteTimeUtc": 1612026692287
       }
     },
     "/vehicle_skill_set": {
-      "1000.json": {
+      "sample.json": {
         "Length": 63474,
         "LastWriteTimeUtc": 1611689457100
-      },
-      "10000.json": {
-        "Length": 326208,
-        "LastWriteTimeUtc": 1612026692687
       }
     },
     "/weapon": {
       "1000.json": {
+        "Length": 44066,
+        "LastWriteTimeUtc": 1613183514449
+      },
+      "16000.json": {
+        "Length": 482,
+        "LastWriteTimeUtc": 1613183514475
+      },
+      "17000.json": {
+        "Length": 959,
+        "LastWriteTimeUtc": 1613183514479
+      },
+      "18000.json": {
+        "Length": 482,
+        "LastWriteTimeUtc": 1613183514481
+      },
+      "20000.json": {
+        "Length": 216,
+        "LastWriteTimeUtc": 1613183514482
+      },
+      "21000.json": {
+        "Length": 216,
+        "LastWriteTimeUtc": 1613183514483
+      },
+      "25000.json": {
+        "Length": 1487,
+        "LastWriteTimeUtc": 1613183514487
+      },
+      "26000.json": {
+        "Length": 1489,
+        "LastWriteTimeUtc": 1613183514491
+      },
+      "27000.json": {
+        "Length": 1489,
+        "LastWriteTimeUtc": 1613183514495
+      },
+      "28000.json": {
+        "Length": 640,
+        "LastWriteTimeUtc": 1613183514499
+      },
+      "29000.json": {
+        "Length": 641,
+        "LastWriteTimeUtc": 1613183514502
+      },
+      "30000.json": {
+        "Length": 3953,
+        "LastWriteTimeUtc": 1613183514508
+      },
+      "34000.json": {
+        "Length": 644,
+        "LastWriteTimeUtc": 1613183514512
+      },
+      "35000.json": {
+        "Length": 643,
+        "LastWriteTimeUtc": 1613183514518
+      },
+      "36000.json": {
+        "Length": 644,
+        "LastWriteTimeUtc": 1613183514521
+      },
+      "40000.json": {
+        "Length": 641,
+        "LastWriteTimeUtc": 1613183514525
+      },
+      "41000.json": {
+        "Length": 641,
+        "LastWriteTimeUtc": 1613183514530
+      },
+      "42000.json": {
+        "Length": 641,
+        "LastWriteTimeUtc": 1613183514534
+      },
+      "43000.json": {
+        "Length": 907,
+        "LastWriteTimeUtc": 1613183514537
+      },
+      "51000.json": {
+        "Length": 406,
+        "LastWriteTimeUtc": 1613183514538
+      },
+      "7000.json": {
+        "Length": 191,
+        "LastWriteTimeUtc": 1613183514450
+      },
+      "71000.json": {
+        "Length": 6640,
+        "LastWriteTimeUtc": 1613183514546
+      },
+      "76000.json": {
+        "Length": 857,
+        "LastWriteTimeUtc": 1613183514550
+      },
+      "78000.json": {
+        "Length": 21956,
+        "LastWriteTimeUtc": 1613183514576
+      },
+      "79000.json": {
+        "Length": 59929,
+        "LastWriteTimeUtc": 1613183514652
+      },
+      "8000.json": {
+        "Length": 19981,
+        "LastWriteTimeUtc": 1613183514473
+      },
+      "sample.json": {
         "Length": 227059,
         "LastWriteTimeUtc": 1611689458430
-      },
-      "10000.json": {
-        "Length": 896632,
-        "LastWriteTimeUtc": 1612026693312
       }
     },
     "/weapon_ammo_slot": {
-      "1000.json": {
+      "sample.json": {
         "Length": 160218,
         "LastWriteTimeUtc": 1611689459590
-      },
-      "10000.json": {
-        "Length": 942248,
-        "LastWriteTimeUtc": 1612026693792
       }
     },
     "/weapon_datasheet": {
-      "1000.json": {
+      "sample.json": {
         "Length": 653733,
         "LastWriteTimeUtc": 1611689462314
-      },
-      "10000.json": {
-        "Length": 3430248,
-        "LastWriteTimeUtc": 1612026695522
       }
     },
     "/weapon_to_attachment": {
-      "1000.json": {
+      "sample.json": {
         "Length": 104443,
         "LastWriteTimeUtc": 1611689463385
-      },
-      "10000.json": {
-        "Length": 2847758,
-        "LastWriteTimeUtc": 1612026696800
       }
     },
     "/weapon_to_fire_group": {
-      "1000.json": {
+      "sample.json": {
         "Length": 102976,
         "LastWriteTimeUtc": 1611689464464
-      },
-      "10000.json": {
-        "Length": 656914,
-        "LastWriteTimeUtc": 1612026700045
       }
     },
     "/world": {
       "1000.json": {
+        "Length": 1166,
+        "LastWriteTimeUtc": 1613183518608
+      },
+      "sample.json": {
         "Length": 2148,
         "LastWriteTimeUtc": 1611689498019
-      },
-      "10000.json": {
-        "Length": 10254,
-        "LastWriteTimeUtc": 1612026703729
       }
     },
     "/world_event": {
-      "1000.json": {
+      "sample.json": {
         "Length": 353240,
         "LastWriteTimeUtc": 1611689667592
       }
     },
     "/world_stat_history": {
-      "1000.json": {
+      "sample.json": {
         "Length": 377280,
         "LastWriteTimeUtc": 1611689022390
-      },
-      "10000.json": {
-        "Length": 2259434,
-        "LastWriteTimeUtc": 1612026542599
       }
     },
     "/zone": {
       "1000.json": {
+        "Length": 6540,
+        "LastWriteTimeUtc": 1613183514665
+      },
+      "sample.json": {
         "Length": 7978,
         "LastWriteTimeUtc": 1611689465052
-      },
-      "10000.json": {
-        "Length": 24958,
-        "LastWriteTimeUtc": 1612026700429
       }
     },
     "/zone_effect": {
       "1000.json": {
-        "Length": 222876,
-        "LastWriteTimeUtc": 1611689466393
+        "Length": 26364,
+        "LastWriteTimeUtc": 1613183516112
       },
       "10000.json": {
-        "Length": 4679006,
-        "LastWriteTimeUtc": 1612026703319
+        "Length": 650,
+        "LastWriteTimeUtc": 1613183516593
+      },
+      "11000.json": {
+        "Length": 60504,
+        "LastWriteTimeUtc": 1613183516668
+      },
+      "12000.json": {
+        "Length": 3345,
+        "LastWriteTimeUtc": 1613183516676
+      },
+      "17000.json": {
+        "Length": 6455,
+        "LastWriteTimeUtc": 1613183516686
+      },
+      "18000.json": {
+        "Length": 3843,
+        "LastWriteTimeUtc": 1613183516691
+      },
+      "19000.json": {
+        "Length": 1049,
+        "LastWriteTimeUtc": 1613183516698
+      },
+      "2000.json": {
+        "Length": 45884,
+        "LastWriteTimeUtc": 1613183516172
+      },
+      "21000.json": {
+        "Length": 673,
+        "LastWriteTimeUtc": 1613183516701
+      },
+      "22000.json": {
+        "Length": 115019,
+        "LastWriteTimeUtc": 1613183516850
+      },
+      "23000.json": {
+        "Length": 52506,
+        "LastWriteTimeUtc": 1613183516921
+      },
+      "24000.json": {
+        "Length": 14411,
+        "LastWriteTimeUtc": 1613183516942
+      },
+      "25000.json": {
+        "Length": 7386,
+        "LastWriteTimeUtc": 1613183516955
+      },
+      "26000.json": {
+        "Length": 10027,
+        "LastWriteTimeUtc": 1613183516974
+      },
+      "27000.json": {
+        "Length": 5129,
+        "LastWriteTimeUtc": 1613183516986
+      },
+      "28000.json": {
+        "Length": 52111,
+        "LastWriteTimeUtc": 1613183517050
+      },
+      "29000.json": {
+        "Length": 26765,
+        "LastWriteTimeUtc": 1613183517083
+      },
+      "3000.json": {
+        "Length": 39658,
+        "LastWriteTimeUtc": 1613183516229
+      },
+      "30000.json": {
+        "Length": 26858,
+        "LastWriteTimeUtc": 1613183517118
+      },
+      "36000.json": {
+        "Length": 164,
+        "LastWriteTimeUtc": 1613183517119
+      },
+      "4000.json": {
+        "Length": 137938,
+        "LastWriteTimeUtc": 1613183516415
+      },
+      "40000.json": {
+        "Length": 37893,
+        "LastWriteTimeUtc": 1613183517165
+      },
+      "45000.json": {
+        "Length": 21459,
+        "LastWriteTimeUtc": 1613183517195
+      },
+      "46000.json": {
+        "Length": 123157,
+        "LastWriteTimeUtc": 1613183517351
+      },
+      "47000.json": {
+        "Length": 13622,
+        "LastWriteTimeUtc": 1613183517376
+      },
+      "5000.json": {
+        "Length": 78035,
+        "LastWriteTimeUtc": 1613183516522
+      },
+      "51000.json": {
+        "Length": 11566,
+        "LastWriteTimeUtc": 1613183517396
+      },
+      "6000.json": {
+        "Length": 9887,
+        "LastWriteTimeUtc": 1613183516539
+      },
+      "7000.json": {
+        "Length": 4661,
+        "LastWriteTimeUtc": 1613183516547
+      },
+      "71000.json": {
+        "Length": 21211,
+        "LastWriteTimeUtc": 1613183517422
+      },
+      "72000.json": {
+        "Length": 11902,
+        "LastWriteTimeUtc": 1613183517439
+      },
+      "751000.json": {
+        "Length": 104087,
+        "LastWriteTimeUtc": 1613183517879
+      },
+      "752000.json": {
+        "Length": 60474,
+        "LastWriteTimeUtc": 1613183517969
+      },
+      "753000.json": {
+        "Length": 22137,
+        "LastWriteTimeUtc": 1613183518001
+      },
+      "754000.json": {
+        "Length": 63974,
+        "LastWriteTimeUtc": 1613183518070
+      },
+      "755000.json": {
+        "Length": 63689,
+        "LastWriteTimeUtc": 1613183518148
+      },
+      "756000.json": {
+        "Length": 97241,
+        "LastWriteTimeUtc": 1613183518257
+      },
+      "757000.json": {
+        "Length": 61297,
+        "LastWriteTimeUtc": 1613183518325
+      },
+      "758000.json": {
+        "Length": 56105,
+        "LastWriteTimeUtc": 1613183518374
+      },
+      "759000.json": {
+        "Length": 23044,
+        "LastWriteTimeUtc": 1613183518397
+      },
+      "76000.json": {
+        "Length": 4447,
+        "LastWriteTimeUtc": 1613183517452
+      },
+      "761000.json": {
+        "Length": 1209,
+        "LastWriteTimeUtc": 1613183518401
+      },
+      "762000.json": {
+        "Length": 68612,
+        "LastWriteTimeUtc": 1613183518476
+      },
+      "763000.json": {
+        "Length": 68909,
+        "LastWriteTimeUtc": 1613183518538
+      },
+      "764000.json": {
+        "Length": 32018,
+        "LastWriteTimeUtc": 1613183518575
+      },
+      "8000.json": {
+        "Length": 12325,
+        "LastWriteTimeUtc": 1613183516566
+      },
+      "81000.json": {
+        "Length": 92208,
+        "LastWriteTimeUtc": 1613183517579
+      },
+      "82000.json": {
+        "Length": 75256,
+        "LastWriteTimeUtc": 1613183517682
+      },
+      "9000.json": {
+        "Length": 9875,
+        "LastWriteTimeUtc": 1613183516589
+      },
+      "91000.json": {
+        "Length": 24129,
+        "LastWriteTimeUtc": 1613183517723
+      },
+      "sample.json": {
+        "Length": 222876,
+        "LastWriteTimeUtc": 1611689466393
       }
     },
     "/zone_effect_type": {
       "1000.json": {
+        "Length": 8542,
+        "LastWriteTimeUtc": 1613183518596
+      },
+      "sample.json": {
         "Length": 11387,
         "LastWriteTimeUtc": 1611689466925
-      },
-      "10000.json": {
-        "Length": 47310,
-        "LastWriteTimeUtc": 1612026703499
       }
     },
     "collections.json": {
-      "Length": 51816,
-      "LastWriteTimeUtc": 1612142931259
+      "Length": 90664,
+      "LastWriteTimeUtc": 1612746205003
     }
   }
 }
