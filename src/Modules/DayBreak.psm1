@@ -22,24 +22,13 @@ $result.error
 #>
 Function Invoke-DBApi {
     param (
-        [Parameter(ValueFromPipeline, Mandatory, ParameterSetName = 'pipe')]
-        [Uri]$InputObject,
-        [Parameter(ValueFromPipeline, Mandatory, ParameterSetName = 'once')]
-        [Uri]$Url,
+        [Parameter(ValueFromPipeline, ParameterSetName = 'pipe')]
+        [Uri[]]$Url,
         [int]$Retry = 10,
         [int]$RetryDelaySeconds = 5
     )
-    process {
-        $uri = if ($Url) {
-            $Url
-        } else {
-            $_
-        }
 
-        if (-not $uri) {
-            Write-Error 'No valid Url given'
-        }
-
+    foreach ($uri in $Url) {
         $result = $null
 
         $tries = 0
@@ -60,7 +49,7 @@ Function Invoke-DBApi {
 
                     $result = $null
 
-                    throw 'throttle'              
+                    throw 'throttle'
                 } else {
                     break
                 }
@@ -121,6 +110,9 @@ Function Connect-DBWebSocket {
 Creates a DayBreak API Url with the given parameters.
 
 Documentation here: https://census.daybreakgames.com/
+
+.SYNOPSIS
+https://census.daybreakgames.com/$ServiceID/[count|get]/$NameSpace/$Collection/?$Query
 
 .PARAMETER Collection
 The collection name, can be left empty to give the list of collections.

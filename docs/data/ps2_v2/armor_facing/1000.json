@@ -1,0 +1,8 @@
+{
+"1": {"armor_facing_id":1,"description":"Right"}
+,"2": {"armor_facing_id":2,"description":"Top"}
+,"3": {"armor_facing_id":3,"description":"Rear"}
+,"4": {"armor_facing_id":4,"description":"Left"}
+,"5": {"armor_facing_id":5,"description":"Bottom"}
+,"6": {"armor_facing_id":6,"description":"All"}
+}

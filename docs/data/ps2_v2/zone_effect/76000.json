@@ -1,0 +1,28 @@
+{
+"75001": {"zone_effect_id":75001,"zone_effect_type_id":"8","ability_id":"75001","param1":"-1","param2":"-1","param3":"70038","param5":"1","string1":"FireMode.ProjectileOverride"}
+,"75002": {"zone_effect_id":75002,"zone_effect_type_id":"8","ability_id":"75001","param1":"-1","param2":"-1","param3":"75","param5":"1","string1":"FireGroup.ProjectileSpeedOverride"}
+,"75003": {"zone_effect_id":75003,"zone_effect_type_id":"8","ability_id":"75001","param1":"-1","param2":"-1","param3":"44244","param5":"1","string1":"FireMode.DamageEffect"}
+,"75004": {"zone_effect_id":75004,"zone_effect_type_id":"8","ability_id":"75001","param1":"-1","param2":"-1","param3":"44245","param5":"1","string1":"FireMode.IndirectEffect"}
+,"75005": {"zone_effect_id":75005,"zone_effect_type_id":"8","ability_id":"75001","param1":"-1","param2":"-1","param3":"-1","string1":"AmmoSlot.ClipSize"}
+,"75007": {"zone_effect_id":75007,"zone_effect_type_id":"22","ability_id":"75002","param1":"40"}
+,"75008": {"zone_effect_id":75008,"zone_effect_type_id":"8","ability_id":"75003","param1":"-1","param2":"-1","param3":"70041","param5":"1","string1":"FireMode.ProjectileOverride"}
+,"75009": {"zone_effect_id":75009,"zone_effect_type_id":"8","ability_id":"75003","param1":"-1","param2":"-1","param3":"44246","param5":"1","string1":"FireMode.DamageEffect"}
+,"75010": {"zone_effect_id":75010,"zone_effect_type_id":"8","ability_id":"75004","param1":"-1","param2":"-1","param3":"70042","param5":"1","string1":"FireMode.ProjectileOverride"}
+,"75011": {"zone_effect_id":75011,"zone_effect_type_id":"8","ability_id":"75004","param1":"-1","param2":"-1","param3":"44246","param5":"1","string1":"FireMode.DamageEffect"}
+,"75012": {"zone_effect_id":75012,"zone_effect_type_id":"8","ability_id":"75005","param1":"-1","param2":"-1","param3":"70043","param5":"1","string1":"FireMode.ProjectileOverride"}
+,"75013": {"zone_effect_id":75013,"zone_effect_type_id":"8","ability_id":"75005","param1":"-1","param2":"-1","param3":"44246","param5":"1","string1":"FireMode.DamageEffect"}
+,"75014": {"zone_effect_id":75014,"zone_effect_type_id":"8","ability_id":"75006","param1":"-1","param2":"-1","param3":"70039","param5":"1","string1":"FireMode.ProjectileOverride"}
+,"75015": {"zone_effect_id":75015,"zone_effect_type_id":"8","ability_id":"75006","param1":"-1","param2":"-1","param3":"75","param5":"1","string1":"FireGroup.ProjectileSpeedOverride"}
+,"75016": {"zone_effect_id":75016,"zone_effect_type_id":"8","ability_id":"75006","param1":"-1","param2":"-1","param3":"44244","param5":"1","string1":"FireMode.DamageEffect"}
+,"75017": {"zone_effect_id":75017,"zone_effect_type_id":"8","ability_id":"75006","param1":"-1","param2":"-1","param3":"44245","param5":"1","string1":"FireMode.IndirectEffect"}
+,"75018": {"zone_effect_id":75018,"zone_effect_type_id":"8","ability_id":"75006","param1":"-1","param2":"-1","param3":"-1","string1":"AmmoSlot.ClipSize"}
+,"75020": {"zone_effect_id":75020,"zone_effect_type_id":"8","ability_id":"75007","param1":"-1","param2":"-1","param3":"70040","param5":"1","string1":"FireMode.ProjectileOverride"}
+,"75021": {"zone_effect_id":75021,"zone_effect_type_id":"8","ability_id":"75007","param1":"-1","param2":"-1","param3":"75","param5":"1","string1":"FireGroup.ProjectileSpeedOverride"}
+,"75022": {"zone_effect_id":75022,"zone_effect_type_id":"8","ability_id":"75007","param1":"-1","param2":"-1","param3":"44244","param5":"1","string1":"FireMode.DamageEffect"}
+,"75023": {"zone_effect_id":75023,"zone_effect_type_id":"8","ability_id":"75007","param1":"-1","param2":"-1","param3":"44245","param5":"1","string1":"FireMode.IndirectEffect"}
+,"75024": {"zone_effect_id":75024,"zone_effect_type_id":"8","ability_id":"75007","param1":"-1","param2":"-1","param3":"-1","string1":"AmmoSlot.ClipSize"}
+,"75035": {"zone_effect_id":75035,"zone_effect_type_id":"8","ability_id":"75003","param1":"-1","param2":"-1","param3":"20","param5":"1","string1":"AmmoSlot.Capacity"}
+,"75036": {"zone_effect_id":75036,"zone_effect_type_id":"8","ability_id":"75004","param1":"-1","param2":"-1","param3":"20","param5":"1","string1":"AmmoSlot.Capacity"}
+,"75037": {"zone_effect_id":75037,"zone_effect_type_id":"8","ability_id":"75005","param1":"-1","param2":"-1","param3":"20","param5":"1","string1":"AmmoSlot.Capacity"}
+,"75040": {"zone_effect_id":75040,"zone_effect_type_id":"8","ability_id":"75009","param1":"-1","param2":"1","param3":"6","string1":"FireMode.DefaultZoom"}
+}

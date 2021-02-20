@@ -1,0 +1,167 @@
+{
+"1000": {"armor_info_id":1000,"armor_facing_id":"5","armor_percent":"5","description":"Flash - Mine Guard - Bottom Buff 1"}
+,"1001": {"armor_info_id":1001,"armor_facing_id":"5","armor_percent":"10","description":"Flash - Mine Guard - Bottom Buff 2"}
+,"1002": {"armor_info_id":1002,"armor_facing_id":"5","armor_percent":"15","description":"Flash - Mine Guard - Bottom Buff 3"}
+,"1003": {"armor_info_id":1003,"armor_facing_id":"5","armor_percent":"20","description":"Flash - Mine Guard - Bottom Buff 4"}
+,"1004": {"armor_info_id":1004,"armor_facing_id":"4","armor_percent":"10","description":"Flash - Buff - Left"}
+,"1005": {"armor_info_id":1005,"armor_facing_id":"5","armor_percent":"50","description":"Flash - Buff - Bottom "}
+,"1007": {"armor_info_id":1007,"armor_facing_id":"0","armor_percent":"50","description":"Test Dummy Armor"}
+,"1008": {"armor_info_id":1008,"armor_facing_id":"1","armor_percent":"0","description":"Test Dummy Armor"}
+,"1009": {"armor_info_id":1009,"armor_facing_id":"2","armor_percent":"0","description":"Test Dummy Armor"}
+,"1010": {"armor_info_id":1010,"armor_facing_id":"3","armor_percent":"0","description":"Test Dummy Armor"}
+,"1011": {"armor_info_id":1011,"armor_facing_id":"4","armor_percent":"0","description":"Test Dummy Armor"}
+,"1012": {"armor_info_id":1012,"armor_facing_id":"5","armor_percent":"0","description":"Test Dummy Armor"}
+,"1014": {"armor_info_id":1014,"armor_facing_id":"0","armor_percent":"4","description":"Vanguard - Buff - Front "}
+,"1015": {"armor_info_id":1015,"armor_facing_id":"3","armor_percent":"0","description":"Vanguard - Buff - Rear "}
+,"1016": {"armor_info_id":1016,"armor_facing_id":"1","armor_percent":"5","description":"Vanguard - Buff - Right"}
+,"1017": {"armor_info_id":1017,"armor_facing_id":"4","armor_percent":"5","description":"Vanguard - Buff - Left"}
+,"1018": {"armor_info_id":1018,"armor_facing_id":"2","armor_percent":"5","description":"Vanguard - Buff - Top "}
+,"1019": {"armor_info_id":1019,"armor_facing_id":"0","armor_percent":"7","description":"Lightning - Buff - Front "}
+,"1020": {"armor_info_id":1020,"armor_facing_id":"1","armor_percent":"8","description":"Lightning - Buff - Right"}
+,"1021": {"armor_info_id":1021,"armor_facing_id":"4","armor_percent":"8","description":"Lightning - Buff - Left"}
+,"1022": {"armor_info_id":1022,"armor_facing_id":"2","armor_percent":"8","description":"Lightning - Buff - Top "}
+,"1023": {"armor_info_id":1023,"armor_facing_id":"5","armor_percent":"50","description":"Lightning - Buff - Bottom "}
+,"1024": {"armor_info_id":1024,"armor_facing_id":"5","armor_percent":"50","description":"Vanguard - Buff - Bottom "}
+,"1025": {"armor_info_id":1025,"armor_facing_id":"0","armor_percent":"5","description":"Magrider - Buff - Front "}
+,"1026": {"armor_info_id":1026,"armor_facing_id":"1","armor_percent":"8","description":"Magrider - Buff - Right"}
+,"1027": {"armor_info_id":1027,"armor_facing_id":"4","armor_percent":"8","description":"Magrider - Buff - Left"}
+,"1028": {"armor_info_id":1028,"armor_facing_id":"2","armor_percent":"8","description":"Magrider - Buff - Top "}
+,"1029": {"armor_info_id":1029,"armor_facing_id":"5","armor_percent":"50","description":"Magrider - Buff - Bottom "}
+,"1030": {"armor_info_id":1030,"armor_facing_id":"0","armor_percent":"5","description":"Prowler - Buff - Front "}
+,"1031": {"armor_info_id":1031,"armor_facing_id":"1","armor_percent":"8","description":"Prowler - Buff - Right"}
+,"1032": {"armor_info_id":1032,"armor_facing_id":"4","armor_percent":"8","description":"Prowler - Buff - Left"}
+,"1033": {"armor_info_id":1033,"armor_facing_id":"2","armor_percent":"8","description":"Prowler - Buff - Top "}
+,"1034": {"armor_info_id":1034,"armor_facing_id":"5","armor_percent":"50","description":"Prowler - Buff - Bottom"}
+,"1035": {"armor_info_id":1035,"armor_facing_id":"0","armor_percent":"3","description":"Sunderer - Blockade Armor Buff - Front 1"}
+,"1036": {"armor_info_id":1036,"armor_facing_id":"2","armor_percent":"3","description":"Sunderer - Blockade Armor Buff - Top 1"}
+,"1037": {"armor_info_id":1037,"armor_facing_id":"1","armor_percent":"3","description":"Sunderer - Blockade Armor Buff - Right 1"}
+,"1038": {"armor_info_id":1038,"armor_facing_id":"4","armor_percent":"3","description":"Sunderer - Blockade Armor Buff - Left 1"}
+,"1039": {"armor_info_id":1039,"armor_facing_id":"3","armor_percent":"3","description":"Sunderer - Blockade Armor Buff - Rear 1"}
+,"1040": {"armor_info_id":1040,"armor_facing_id":"0","armor_percent":"6","description":"Sunderer - Blockade Armor Buff - Front 2"}
+,"1041": {"armor_info_id":1041,"armor_facing_id":"2","armor_percent":"6","description":"Sunderer - Blockade Armor Buff - Top 2"}
+,"1042": {"armor_info_id":1042,"armor_facing_id":"1","armor_percent":"6","description":"Sunderer - Blockade Armor Buff - Right 2"}
+,"1043": {"armor_info_id":1043,"armor_facing_id":"4","armor_percent":"6","description":"Sunderer - Blockade Armor Buff - Left 2"}
+,"1044": {"armor_info_id":1044,"armor_facing_id":"3","armor_percent":"6","description":"Sunderer - Blockade Armor Buff - Rear 2"}
+,"1045": {"armor_info_id":1045,"armor_facing_id":"0","armor_percent":"9","description":"Sunderer - Blockade Armor Buff - Front 3"}
+,"1046": {"armor_info_id":1046,"armor_facing_id":"2","armor_percent":"9","description":"Sunderer - Blockade Armor Buff - Top 3"}
+,"1047": {"armor_info_id":1047,"armor_facing_id":"1","armor_percent":"9","description":"Sunderer - Blockade Armor Buff - Right 3"}
+,"1048": {"armor_info_id":1048,"armor_facing_id":"4","armor_percent":"9","description":"Sunderer - Blockade Armor Buff - Left 3"}
+,"1049": {"armor_info_id":1049,"armor_facing_id":"3","armor_percent":"9","description":"Sunderer - Blockade Armor Buff - Rear 3"}
+,"1050": {"armor_info_id":1050,"armor_facing_id":"0","armor_percent":"12","description":"Sunderer - Blockade Armor Buff - Front 4"}
+,"1051": {"armor_info_id":1051,"armor_facing_id":"2","armor_percent":"12","description":"Sunderer - Blockade Armor Buff - Top 4"}
+,"1052": {"armor_info_id":1052,"armor_facing_id":"1","armor_percent":"12","description":"Sunderer - Blockade Armor Buff - Right 4"}
+,"1053": {"armor_info_id":1053,"armor_facing_id":"4","armor_percent":"12","description":"Sunderer - Blockade Armor Buff - Left 4"}
+,"1054": {"armor_info_id":1054,"armor_facing_id":"3","armor_percent":"12","description":"Sunderer - Blockade Armor Buff - Rear 4"}
+,"1055": {"armor_info_id":1055,"armor_facing_id":"5","armor_percent":"10","description":"Vehicle - ANT - Mineguard 1"}
+,"1056": {"armor_info_id":1056,"armor_facing_id":"5","armor_percent":"20","description":"Vehicle - ANT - Mineguard 2"}
+,"1057": {"armor_info_id":1057,"armor_facing_id":"5","armor_percent":"30","description":"Vehicle - ANT - Mineguard 3"}
+,"1058": {"armor_info_id":1058,"armor_facing_id":"5","armor_percent":"40","description":"Vehicle - ANT - Mineguard 4"}
+,"1059": {"armor_info_id":1059,"armor_facing_id":"0","armor_percent":"10","description":"Vehicle - ANT - Reinforced Armor (Front)"}
+,"1060": {"armor_info_id":1060,"armor_facing_id":"3","armor_percent":"10","description":"Vehicle - ANT - Reinforced Armor (Rear)"}
+,"1061": {"armor_info_id":1061,"armor_facing_id":"4","armor_percent":"10","description":"Vehicle - ANT - Reinforced Armor (Left)"}
+,"1062": {"armor_info_id":1062,"armor_facing_id":"1","armor_percent":"10","description":"Vehicle - ANT - Reinforced Armor (Right)"}
+,"1063": {"armor_info_id":1063,"armor_facing_id":"2","armor_percent":"10","description":"Vehicle - ANT - Reinforced Armor (Top)"}
+,"1069": {"armor_info_id":1069,"armor_facing_id":"0","armor_percent":"0","description":"Vehicle - ANT - Front"}
+,"1070": {"armor_info_id":1070,"armor_facing_id":"3","armor_percent":"0","description":"Vehicle - ANT - Rear"}
+,"1071": {"armor_info_id":1071,"armor_facing_id":"4","armor_percent":"0","description":"Vehicle - ANT - Left"}
+,"1072": {"armor_info_id":1072,"armor_facing_id":"1","armor_percent":"0","description":"Vehicle - ANT - Right"}
+,"1073": {"armor_info_id":1073,"armor_facing_id":"2","armor_percent":"0","description":"Vehicle - ANT - Top"}
+,"1074": {"armor_info_id":1074,"armor_facing_id":"5","armor_percent":"0","description":"Vehicle - ANT - Bottom"}
+,"1075": {"armor_info_id":1075,"armor_facing_id":"5","armor_percent":"20","description":"Vehicle - ANT - Bottom (Shield Armor Reduction)"}
+,"1076": {"armor_info_id":1076,"armor_facing_id":"6","armor_percent":"20","description":"Vehicle - ANT - All (Shield Armor Reduction)"}
+,"1077": {"armor_info_id":1077,"armor_facing_id":"4","armor_percent":"20","description":"Vehicle - ANT - Left (Shield Armor Reduction)"}
+,"1078": {"armor_info_id":1078,"armor_facing_id":"1","armor_percent":"20","description":"Vehicle - ANT - Right (Shield Armor Reduction)"}
+,"1079": {"armor_info_id":1079,"armor_facing_id":"2","armor_percent":"20","description":"Vehicle - ANT - Top (Shield Armor Reduction)"}
+,"1080": {"armor_info_id":1080,"armor_facing_id":"0","armor_percent":"-20","description":"Zealot Overdrive - Debuff - Front (Old)"}
+,"1081": {"armor_info_id":1081,"armor_facing_id":"3","armor_percent":"-20","description":"Zealot Overdrive - Debuff - Rear (Old)"}
+,"1082": {"armor_info_id":1082,"armor_facing_id":"4","armor_percent":"-20","description":"Zealot Overdrive - Debuff - Left (Old)"}
+,"1083": {"armor_info_id":1083,"armor_facing_id":"1","armor_percent":"-20","description":"Zealot Overdrive - Debuff - Right (Old)"}
+,"1084": {"armor_info_id":1084,"armor_facing_id":"2","armor_percent":"-20","description":"Zealot Overdrive - Debuff - Top (Old)"}
+,"1085": {"armor_info_id":1085,"armor_facing_id":"5","armor_percent":"-20","description":"Zealot Overdrive - Debuff - Bottom (Old)"}
+,"1086": {"armor_info_id":1086,"armor_facing_id":"0","armor_percent":"10","description":"Robotics Technician 1 - Front"}
+,"1087": {"armor_info_id":1087,"armor_facing_id":"1","armor_percent":"10","description":"Robotics Technician 1 - Right"}
+,"1088": {"armor_info_id":1088,"armor_facing_id":"2","armor_percent":"10","description":"Robotics Technician 1 - Top"}
+,"1089": {"armor_info_id":1089,"armor_facing_id":"3","armor_percent":"10","description":"Robotics Technician 1 - Rear"}
+,"1090": {"armor_info_id":1090,"armor_facing_id":"4","armor_percent":"10","description":"Robotics Technician 1 - Left"}
+,"1091": {"armor_info_id":1091,"armor_facing_id":"5","armor_percent":"10","description":"Robotics Technician 1 - Bottom"}
+,"1092": {"armor_info_id":1092,"armor_facing_id":"0","armor_percent":"13","description":"Robotics Technician 2 - Front"}
+,"1093": {"armor_info_id":1093,"armor_facing_id":"1","armor_percent":"13","description":"Robotics Technician 2 - Right"}
+,"1094": {"armor_info_id":1094,"armor_facing_id":"2","armor_percent":"13","description":"Robotics Technician 2 - Top"}
+,"1095": {"armor_info_id":1095,"armor_facing_id":"3","armor_percent":"13","description":"Robotics Technician 2 - Rear"}
+,"1096": {"armor_info_id":1096,"armor_facing_id":"4","armor_percent":"13","description":"Robotics Technician 2 - Left"}
+,"1097": {"armor_info_id":1097,"armor_facing_id":"5","armor_percent":"13","description":"Robotics Technician 2 - Bottom"}
+,"1098": {"armor_info_id":1098,"armor_facing_id":"0","armor_percent":"18","description":"Robotics Technician 3 - Front"}
+,"1099": {"armor_info_id":1099,"armor_facing_id":"1","armor_percent":"18","description":"Robotics Technician 3 - Right"}
+,"1100": {"armor_info_id":1100,"armor_facing_id":"2","armor_percent":"18","description":"Robotics Technician 3 - Top"}
+,"1101": {"armor_info_id":1101,"armor_facing_id":"3","armor_percent":"18","description":"Robotics Technician 3 - Rear"}
+,"1102": {"armor_info_id":1102,"armor_facing_id":"4","armor_percent":"18","description":"Robotics Technician 3 - Left"}
+,"1103": {"armor_info_id":1103,"armor_facing_id":"5","armor_percent":"18","description":"Robotics Technician 3 - Bottom"}
+,"1104": {"armor_info_id":1104,"armor_facing_id":"0","armor_percent":"20","description":"Headstrong - Front"}
+,"1105": {"armor_info_id":1105,"armor_facing_id":"3","armor_percent":"20","description":"Headstrong - Rear"}
+,"1106": {"armor_info_id":1106,"armor_facing_id":"5","armor_percent":"20","description":"Headstrong - Bottom"}
+,"1107": {"armor_info_id":1107,"armor_facing_id":"2","armor_percent":"20","description":"Headstrong - Top"}
+,"1108": {"armor_info_id":1108,"armor_facing_id":"4","armor_percent":"20","description":"Headstrong - Left"}
+,"1109": {"armor_info_id":1109,"armor_facing_id":"1","armor_percent":"20","description":"Headstrong - Right"}
+,"1114": {"armor_info_id":1114,"armor_facing_id":"0","armor_percent":"50","description":"Vehicle - Vanguard - Forward Shield (Prototype)"}
+,"1115": {"armor_info_id":1115,"armor_facing_id":"0","armor_percent":"67","description":"Vanguard - Forward Shield - Front Bonus"}
+,"1116": {"armor_info_id":1116,"armor_facing_id":"2","armor_percent":"67","description":"Vanguard - Forward Shield - Top Bonus"}
+,"1117": {"armor_info_id":1117,"armor_facing_id":"1","armor_percent":"34","description":"Vanguard - Forward Shield - Right Bonus"}
+,"1118": {"armor_info_id":1118,"armor_facing_id":"4","armor_percent":"34","description":"Vanguard - Forward Shield - Left Bonus"}
+,"1125": {"armor_info_id":1125,"armor_facing_id":"5","armor_percent":"25","description":"Robotics Technician 4 - Bottom"}
+,"1126": {"armor_info_id":1126,"armor_facing_id":"0","armor_percent":"25","description":"Robotics Technician 4 - Front"}
+,"1127": {"armor_info_id":1127,"armor_facing_id":"4","armor_percent":"25","description":"Robotics Technician 4 - Left"}
+,"1128": {"armor_info_id":1128,"armor_facing_id":"3","armor_percent":"25","description":"Robotics Technician 4 - Rear"}
+,"1129": {"armor_info_id":1129,"armor_facing_id":"1","armor_percent":"25","description":"Robotics Technician 4 - Right"}
+,"1130": {"armor_info_id":1130,"armor_facing_id":"2","armor_percent":"25","description":"Robotics Technician 4 - Top"}
+,"1131": {"armor_info_id":1131,"armor_facing_id":"0","armor_percent":"95","description":"Bastion Fleet Carrier - Front"}
+,"1132": {"armor_info_id":1132,"armor_facing_id":"2","armor_percent":"95","description":"Bastion Fleet Carrier - Top"}
+,"1133": {"armor_info_id":1133,"armor_facing_id":"3","armor_percent":"95","description":"Bastion Fleet Carrier - Rear"}
+,"1134": {"armor_info_id":1134,"armor_facing_id":"4","armor_percent":"95","description":"Bastion Fleet Carrier - Left"}
+,"1135": {"armor_info_id":1135,"armor_facing_id":"1","armor_percent":"95","description":"Bastion Fleet Carrier - Right"}
+,"1136": {"armor_info_id":1136,"armor_facing_id":"5","armor_percent":"95","description":"Bastion Fleet Carrier - Bottom"}
+,"1137": {"armor_info_id":1137,"armor_facing_id":"3","armor_percent":"20","description":"Vehicle - ANT - Rear (Shield Armor Reduction)"}
+,"1139": {"armor_info_id":1139,"armor_facing_id":"3","armor_percent":"-10","description":"Cutpurse - Rank 1"}
+,"1140": {"armor_info_id":1140,"armor_facing_id":"3","armor_percent":"-15","description":"Cutpurse - Rank 2"}
+,"1141": {"armor_info_id":1141,"armor_facing_id":"3","armor_percent":"-18","description":"Cutpurse - Rank 3"}
+,"1142": {"armor_info_id":1142,"armor_facing_id":"3","armor_percent":"-20","description":"Cutpurse - Rank 4"}
+,"1148": {"armor_info_id":1148,"armor_facing_id":"0","armor_percent":"100","description":"Rampart Wall - Buff - Front"}
+,"1149": {"armor_info_id":1149,"armor_facing_id":"1","armor_percent":"100","description":"Rampart Wall - Buff - Right"}
+,"1150": {"armor_info_id":1150,"armor_facing_id":"4","armor_percent":"100","description":"Rampart Wall - Buff - Left"}
+,"1151": {"armor_info_id":1151,"armor_facing_id":"2","armor_percent":"100","description":"Rampart Wall - Buff - Top"}
+,"1152": {"armor_info_id":1152,"armor_facing_id":"3","armor_percent":"100","description":"Rampart Wall - Buff - Rear"}
+,"1153": {"armor_info_id":1153,"armor_facing_id":"5","armor_percent":"100","description":"Rampart Wall - Buff - Bottom"}
+,"1171": {"armor_info_id":1171,"armor_facing_id":"0","armor_percent":"10","description":"Prowler - Front (Defense Grid 1)"}
+,"1172": {"armor_info_id":1172,"armor_facing_id":"0","armor_percent":"15","description":"Prowler - Front (Defense Grid 2)"}
+,"1173": {"armor_info_id":1173,"armor_facing_id":"0","armor_percent":"17.5","description":"Prowler - Front (Defense Grid 3)"}
+,"1174": {"armor_info_id":1174,"armor_facing_id":"0","armor_percent":"20","description":"Prowler - Front (Defense Grid 4)"}
+,"1176": {"armor_info_id":1176,"armor_facing_id":"6","armor_percent":"20","description":"Safeguard - 20pct - All Directions"}
+,"1177": {"armor_info_id":1177,"armor_facing_id":"6","armor_percent":"25","description":"NSO: MAX: Time Bomb 1 (25% armor)"}
+,"1178": {"armor_info_id":1178,"armor_facing_id":"6","armor_percent":"32.5","description":"NSO: MAX: Time Bomb 2 (32.5% armor)"}
+,"1179": {"armor_info_id":1179,"armor_facing_id":"6","armor_percent":"37.5","description":"NSO: MAX: Time Bomb 3 (37.5% armor)"}
+,"1180": {"armor_info_id":1180,"armor_facing_id":"6","armor_percent":"40","description":"NSO: MAX: Time Bomb 4 (40% armor)"}
+,"1181": {"armor_info_id":1181,"armor_facing_id":"6","armor_percent":"60","description":"NSO: MAX: Seraph Shield (60% armor)"}
+,"1182": {"armor_info_id":1182,"armor_facing_id":"6","armor_percent":"100","description":"Bastion.All"}
+,"1183": {"armor_info_id":1183,"armor_facing_id":"1","armor_percent":"100","description":"Bastion.Right"}
+,"1184": {"armor_info_id":1184,"armor_facing_id":"2","armor_percent":"100","description":"Bastion.Top"}
+,"1185": {"armor_info_id":1185,"armor_facing_id":"3","armor_percent":"100","description":"Bastion.Rear"}
+,"1186": {"armor_info_id":1186,"armor_facing_id":"4","armor_percent":"100","description":"Bastion.Rear"}
+,"1187": {"armor_info_id":1187,"armor_facing_id":"5","armor_percent":"100","description":"Bastion.Rear"}
+,"1188": {"armor_info_id":1188,"armor_facing_id":"6","armor_percent":"37.5","description":"NSO: MAX: Time Bomb 1 (37.5% ABLATION MESH armor)"}
+,"1189": {"armor_info_id":1189,"armor_facing_id":"6","armor_percent":"48.75","description":"NSO: MAX: Time Bomb 2 (48.75% ABLATION MESH armor)"}
+,"1190": {"armor_info_id":1190,"armor_facing_id":"6","armor_percent":"56.25","description":"NSO: MAX: Time Bomb 3 (56.25% ABLATION MESH armor)"}
+,"1191": {"armor_info_id":1191,"armor_facing_id":"6","armor_percent":"60","description":"NSO: MAX: Time Bomb 4 (60% ABLATION MESH armor)"}
+,"1192": {"armor_info_id":1192,"armor_facing_id":"6","armor_percent":"90","description":"NSO: MAX: Seraph Shield (90% ABLATION MESH armor)"}
+,"1193": {"armor_info_id":1193,"armor_facing_id":"5","armor_percent":"-15","description":"Colossus - Bottom"}
+,"1194": {"armor_info_id":1194,"armor_facing_id":"0","armor_percent":"25","description":"Colossus - Front"}
+,"1195": {"armor_info_id":1195,"armor_facing_id":"1","armor_percent":"0","description":"Colossus - Right"}
+,"1196": {"armor_info_id":1196,"armor_facing_id":"2","armor_percent":"25","description":"Colossus - Top"}
+,"1197": {"armor_info_id":1197,"armor_facing_id":"3","armor_percent":"-15","description":"Colossus - Rear"}
+,"1198": {"armor_info_id":1198,"armor_facing_id":"4","armor_percent":"0","description":"Colossus - Left"}
+,"1200": {"armor_info_id":1200,"armor_facing_id":"6","armor_percent":"10","description":"Colossus Bombardmant Shield Buff 5"}
+,"1201": {"armor_info_id":1201,"armor_facing_id":"6","armor_percent":"5","description":"Colossus Bombardmant Shield Buff 1"}
+,"1202": {"armor_info_id":1202,"armor_facing_id":"6","armor_percent":"6","description":"Colossus Bombardmant Shield Buff 2"}
+,"1203": {"armor_info_id":1203,"armor_facing_id":"6","armor_percent":"7","description":"Colossus Bombardmant Shield Buff 3"}
+,"1204": {"armor_info_id":1204,"armor_facing_id":"6","armor_percent":"9","description":"Colossus Bombardmant Shield Buff 4"}
+,"1205": {"armor_info_id":1205,"armor_facing_id":"6","armor_percent":"-20","description":"Zealot Overdrive - Debuff - ALL"}
+,"1206": {"armor_info_id":1206,"armor_facing_id":"6","armor_percent":"50","description":"Colossus Deployment Shield"}
+}

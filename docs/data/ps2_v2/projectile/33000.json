@@ -1,0 +1,4 @@
+{
+"32000": {"projectile_id":32000,"projectile_flight_type_id":"1","speed":"615","acceleration":"0","turn_rate":"0","lifespan":"1.25","drag":"0","gravity":"0"}
+,"32001": {"projectile_id":32001,"projectile_flight_type_id":"1","speed":"665","acceleration":"0","turn_rate":"0","lifespan":"1.25","drag":"0","gravity":"0"}
+}

@@ -1,0 +1,8 @@
+{
+"16000": {"weapon_id":16000,"weapon_group_id":"41","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"1000"}
+,"16001": {"weapon_id":16001,"weapon_group_id":"43","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"1000"}
+,"16004": {"weapon_id":16004,"weapon_group_id":"161","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"1000"}
+,"16028": {"weapon_id":16028,"weapon_group_id":"1201","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"1000"}
+,"16029": {"weapon_id":16029,"weapon_group_id":"1200","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"1000"}
+,"16030": {"weapon_id":16030,"weapon_group_id":"1202","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"250"}
+}

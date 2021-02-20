@@ -79,7 +79,6 @@ Function Get-PlanetSideDataStream {
         }
     }
 }
-
 <#
 
 .DESCRIPTION
@@ -111,6 +110,7 @@ Function Get-PlanetSideTimeStream {
     param (
         [Parameter(Mandatory)][string]$Collection,
         [string]$Query,
+        [HashTable]$QueryProperties,
 
         [DateTime]$From,
         [DateTime]$To,
@@ -145,26 +145,34 @@ Function Get-PlanetSideTimeStream {
             QueryProperties = @{}
         }
 
+        if ($QueryProperties) {
+            $QueryProperties.Keys | ForEach-Object {
+                $splat.QueryProperties[$_] = $QueryProperties[$_]
+            }
+        }
+
+        $splat.QueryProperties['c:limit'] = $Limit
+    
         if ($TimeStampProperty) {
             $TimeStampProperty | ForEach-Object {
-                $splat.QueryProperties.$_ = "[$after"
-                $splat.QueryProperties.$_ = "]$before"
+                $splat.QueryProperties[$_] = "[$after"
+                $splat.QueryProperties[$_] = "]$before"
+            }
+            
+            $url = New-DBApiUrl @splat -Count
+        
+            $result = Invoke-DBApi -Url $url
+
+            if ($result.count -eq 0) {
+                Return
+            }
+            
+            if ($result.count -ge $Limit) {
+                throw $Limit
             }
         } else {
-            $splat.QueryProperties.before = $before
-            $splat.QueryProperties.after = $after
-        }
-
-        $url = New-DBApiUrl @splat -Count
-    
-        $result = Invoke-DBApi -Url $url
-
-        if ($result.count -eq 0) {
-            Return
-        }
-
-        if ($result.count -ge $Limit) {
-            throw $Limit
+            $splat.QueryProperties['before'] = $before
+            $splat.QueryProperties['after'] = $after
         }
 
         $url = New-DBApiUrl @splat
@@ -173,6 +181,88 @@ Function Get-PlanetSideTimeStream {
         
         if ($result -and $result.$listProperty) {
             $result.$listProperty
+        }
+    }
+}
+<#
+
+.DESCRIPTION
+Multiple searches can be done in one request, but it is sensible to limit the amount done
+in a single query.
+
+.EXAMPLE
+
+1..100 | Get-PlanetSideDataBatch -Collection 'character_name' -BatchProperty 'name.first_lower' -QueryProperties @{
+    'c:show' = 'character_id'
+} | Select -Expand character_id
+
+#>
+Function Get-PlanetSideDataBatch {
+    param (
+        [Parameter(ValueFromPipeline)][string[]]$InputObject,
+        [Parameter(Mandatory)][string]$Collection,
+        [string]$Query,
+        [HashTable]$QueryProperties,
+        [int]$From,
+        [int]$To = 20000,
+        [int]$Limit = 1000,
+        [string]$ListName,
+
+        [Parameter(Mandatory)][string]$BatchProperty,
+        [int]$BatchCount = 100,
+        [int]$BatchLength = 1KB
+    )
+    begin {
+        $batch = @()
+
+        $splat = @{
+            Collection = $Collection
+            Query = $Query
+            QueryProperties = @{}
+            From = $From
+            To = $To
+            ListName = $ListName
+        }
+        
+        if ($QueryProperties) {
+            $QueryProperties.Keys | ForEach-Object {
+                $splat.QueryProperties[$_] = $QueryProperties[$_]
+            }
+        }
+
+        $count = 0
+    }
+    process {
+        $batch += $_
+
+        $currentBatch = $batch -join ','
+
+        if ($batch.Count -lt $BatchCount -and $currentBatch.Length -lt $BatchLength) {
+            Return
+        }
+
+        $splat.QueryProperties.$BatchProperty = $currentBatch
+        
+        Get-PlanetSideDataStream @splat | ForEach-Object { $count += 1; $_ }
+
+        if ($count -gt 0) {
+            if ($From) {
+                $splat.From = 0
+            }
+        } elseif ($To) {
+            if ($count -gt $To) {
+                Write-Warning "To Limit reached: $To"
+                Break
+            } else {
+                $splat.To = $To - $count
+            }
+        }
+    }
+    end {
+        if ($batch.Count -gt 0) {
+            $splat.QueryProperties.$BatchProperty = $batch -join ','
+            
+            Get-PlanetSideDataStream @splat
         }
     }
 }

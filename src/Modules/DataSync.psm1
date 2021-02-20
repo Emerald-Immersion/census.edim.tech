@@ -182,18 +182,29 @@ Function Get-TimeStream  {
     if (-not $startTime) { $startTime = [DateTime]::UtcNow }
     if (-not $endTime) { $endTime = [DateTime]::UtcNow }
 
+    $reverse = $startTime -gt $endTime
+
+    $duration = if ($reverse) {
+        ($startTime - $endTime)
+    } else {
+        ($endTime - $startTime)
+    }
+    
+    if ($Interval -gt $duration) {
+        $Interval = $duration
+    }
+    
     $timeSpan = $Interval.Ticks
     $minSpan = $IntervalMin.Ticks
     $maxSpan = $IntervalMax.Ticks
 
     $rateChange = 1 - $IntervalRate
     
-    $reverse = $startTime -gt $endTime
-
     if ($reverse) {
         $timeSpan = -$timeSpan
         $minSpan = -$maxSpan
         $maxSpan = -$minSpan
+
     }
 
     $rangeTime = $startTime

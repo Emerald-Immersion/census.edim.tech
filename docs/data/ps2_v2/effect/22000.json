@@ -1,0 +1,11 @@
+{
+"21289": {"effect_id":21289,"effect_type_id":"52","ability_id":"19","resist_type_id":"0","param1":"10","param2":"100","param4":"DynamicsInfo.MaxVelocity","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"21290": {"effect_id":21290,"effect_type_id":"11","ability_id":"2054","resist_type_id":"0","param1":"7","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"21291": {"effect_id":21291,"effect_type_id":"11","ability_id":"2055","resist_type_id":"0","param1":"7","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"21292": {"effect_id":21292,"effect_type_id":"11","ability_id":"2056","resist_type_id":"0","param1":"7","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"21293": {"effect_id":21293,"effect_type_id":"11","ability_id":"2057","resist_type_id":"0","param1":"7","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"21294": {"effect_id":21294,"effect_type_id":"52","ability_id":"2054","resist_type_id":"0","param1":"101","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"21295": {"effect_id":21295,"effect_type_id":"52","ability_id":"2055","resist_type_id":"0","param1":"101","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"21296": {"effect_id":21296,"effect_type_id":"52","ability_id":"2056","resist_type_id":"0","param1":"101","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"21297": {"effect_id":21297,"effect_type_id":"52","ability_id":"2057","resist_type_id":"0","param1":"101","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+}

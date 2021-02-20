@@ -1,0 +1,8 @@
+{
+"100": {"reward_id":100,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"70361"}
+,"101": {"reward_id":101,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"70362"}
+,"102": {"reward_id":102,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"70363"}
+,"125": {"reward_id":125,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"62035","param2":"0","param3":"0"}
+,"126": {"reward_id":126,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"62038","param2":"0","param3":"0"}
+,"615": {"reward_id":615,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"70364"}
+}

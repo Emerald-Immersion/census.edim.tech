@@ -1,0 +1,6 @@
+{
+"20096": {"zone_effect_id":20096,"zone_effect_type_id":"8","ability_id":"20934","param1":"-1","param2":"-1","param3":"2","param5":"0","string1":"AmmoSlot.ClipSize"}
+,"20097": {"zone_effect_id":20097,"zone_effect_type_id":"8","ability_id":"20935","param1":"-1","param2":"-1","param3":"2","param5":"0","string1":"AmmoSlot.ClipSize"}
+,"20098": {"zone_effect_id":20098,"zone_effect_type_id":"8","ability_id":"20932","param1":"-1","param2":"-1","param3":"1","param5":"0","string1":"AmmoSlot.ClipSize"}
+,"20099": {"zone_effect_id":20099,"zone_effect_type_id":"8","ability_id":"20933","param1":"-1","param2":"-1","param3":"1","param5":"0","string1":"AmmoSlot.ClipSize"}
+}

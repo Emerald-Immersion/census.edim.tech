@@ -1,0 +1,5 @@
+{
+"33002": {"effect_id":33002,"effect_type_id":"40","target_type_id":"2","resist_type_id":"6","param1":"75","param2":"0.5","param3":"25","param5":"4","param7":"0","param8":"0"}
+,"33003": {"effect_id":33003,"effect_type_id":"40","target_type_id":"2","resist_type_id":"6","param1":"250","param2":"0.5","param3":"50","param5":"3","param7":"0","param8":"0","param10":"0"}
+,"33004": {"effect_id":33004,"effect_type_id":"40","target_type_id":"2","resist_type_id":"12","param1":"400","param2":"5","param3":"50","param5":"8","param7":"0","param8":"0","param10":"0"}
+}

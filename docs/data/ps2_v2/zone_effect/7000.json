@@ -1,0 +1,30 @@
+{
+"6300": {"zone_effect_id":6300,"zone_effect_type_id":"8","ability_id":"155","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6301": {"zone_effect_id":6301,"zone_effect_type_id":"8","ability_id":"168","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6302": {"zone_effect_id":6302,"zone_effect_type_id":"8","ability_id":"169","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6303": {"zone_effect_id":6303,"zone_effect_type_id":"8","ability_id":"875","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6304": {"zone_effect_id":6304,"zone_effect_type_id":"8","ability_id":"878","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6305": {"zone_effect_id":6305,"zone_effect_type_id":"8","ability_id":"872","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6306": {"zone_effect_id":6306,"zone_effect_type_id":"8","ability_id":"170","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6307": {"zone_effect_id":6307,"zone_effect_type_id":"8","ability_id":"172","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6308": {"zone_effect_id":6308,"zone_effect_type_id":"8","ability_id":"173","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6309": {"zone_effect_id":6309,"zone_effect_type_id":"8","ability_id":"174","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6311": {"zone_effect_id":6311,"zone_effect_type_id":"8","ability_id":"879","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6312": {"zone_effect_id":6312,"zone_effect_type_id":"8","ability_id":"873","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6313": {"zone_effect_id":6313,"zone_effect_type_id":"8","ability_id":"171","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6314": {"zone_effect_id":6314,"zone_effect_type_id":"8","ability_id":"176","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6315": {"zone_effect_id":6315,"zone_effect_type_id":"8","ability_id":"177","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6316": {"zone_effect_id":6316,"zone_effect_type_id":"8","ability_id":"178","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6317": {"zone_effect_id":6317,"zone_effect_type_id":"8","ability_id":"877","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6318": {"zone_effect_id":6318,"zone_effect_type_id":"8","ability_id":"880","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6319": {"zone_effect_id":6319,"zone_effect_type_id":"8","ability_id":"874","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6320": {"zone_effect_id":6320,"zone_effect_type_id":"8","ability_id":"175","param1":"-1","param2":"-1","param3":"0","param5":"1","string1":"FireMode.FireDetectRange"}
+,"6758": {"zone_effect_id":6758,"zone_effect_type_id":"12","ability_id":"6244","param1":"7","param3":"1","string1":"ItemClassSet.WeaponAmmoCapacityAddend"}
+,"6759": {"zone_effect_id":6759,"zone_effect_type_id":"12","ability_id":"6245","param1":"7","param3":"2","string1":"ItemClassSet.WeaponAmmoCapacityAddend"}
+,"6760": {"zone_effect_id":6760,"zone_effect_type_id":"12","ability_id":"6246","param1":"7","param3":"3","string1":"ItemClassSet.WeaponAmmoCapacityAddend"}
+,"6761": {"zone_effect_id":6761,"zone_effect_type_id":"12","ability_id":"6247","param1":"8","param3":"1","string1":"ItemClassSet.WeaponAmmoCapacityAddend"}
+,"6762": {"zone_effect_id":6762,"zone_effect_type_id":"12","ability_id":"6248","param1":"8","param3":"2","string1":"ItemClassSet.WeaponAmmoCapacityAddend"}
+,"6763": {"zone_effect_id":6763,"zone_effect_type_id":"12","ability_id":"6249","param1":"8","param3":"3","string1":"ItemClassSet.WeaponAmmoCapacityAddend"}
+,"6765": {"zone_effect_id":6765,"zone_effect_type_id":"12","ability_id":"6251","param1":"9","param3":"2","string1":"ItemClassSet.WeaponAmmoCapacityAddend"}
+,"6766": {"zone_effect_id":6766,"zone_effect_type_id":"12","ability_id":"6252","param1":"9","param3":"3","string1":"ItemClassSet.WeaponAmmoCapacityAddend"}
+}

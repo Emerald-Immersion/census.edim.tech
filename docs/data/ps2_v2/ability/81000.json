@@ -1,0 +1,23 @@
+{
+"80387": {"ability_id":80387,"ability_type_id":"3","radius_max":"0","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param7":"0","param8":"0","param9":"0","param11":"0","param12":"0","param13":"0","param14":"0","string1":"0","string2":"0","string3":"0","string4":"0"}
+,"80388": {"ability_id":80388,"ability_type_id":"3","radius_max":"0","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param7":"0","param8":"0","param9":"0","param11":"0","param12":"0","param13":"0","param14":"0","string1":"0","string2":"0","string3":"0","string4":"0"}
+,"80395": {"ability_id":80395,"ability_type_id":"3","distance_max":"1","radius_max":"10"}
+,"80397": {"ability_id":80397,"ability_type_id":"3"}
+,"80398": {"ability_id":80398,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"80399": {"ability_id":80399,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"80400": {"ability_id":80400,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"80401": {"ability_id":80401,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"80402": {"ability_id":80402,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"80403": {"ability_id":80403,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"80405": {"ability_id":80405,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"80410": {"ability_id":80410,"ability_type_id":"3"}
+,"80411": {"ability_id":80411,"ability_type_id":"3"}
+,"80412": {"ability_id":80412,"ability_type_id":"3"}
+,"80413": {"ability_id":80413,"ability_type_id":"3"}
+,"80416": {"ability_id":80416,"ability_type_id":"3","distance_max":"1","radius_max":"10"}
+,"80418": {"ability_id":80418,"ability_type_id":"3","distance_max":"1","radius_max":"10"}
+,"80420": {"ability_id":80420,"ability_type_id":"3","distance_max":"1","radius_max":"10"}
+,"80423": {"ability_id":80423,"ability_type_id":"3","radius_max":"0","flag_toggle":"0","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param7":"0","param8":"0","param9":"0","param11":"0","param12":"0","param13":"0","param14":"0","string1":"0","string2":"0","string3":"0","string4":"0"}
+,"80424": {"ability_id":80424,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"80426": {"ability_id":80426,"ability_type_id":"3"}
+}

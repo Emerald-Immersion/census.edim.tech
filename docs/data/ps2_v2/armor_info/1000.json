@@ -1,0 +1,104 @@
+{
+"20": {"armor_info_id":20,"armor_facing_id":"0","armor_percent":"0","description":"Sunderer - Front"}
+,"21": {"armor_info_id":21,"armor_facing_id":"1","armor_percent":"0","description":"Sunderer - Right"}
+,"22": {"armor_info_id":22,"armor_facing_id":"2","armor_percent":"0","description":"Sunderer - Top"}
+,"23": {"armor_info_id":23,"armor_facing_id":"3","armor_percent":"0","description":"Sunderer - Rear"}
+,"24": {"armor_info_id":24,"armor_facing_id":"4","armor_percent":"0","description":"Sunderer - Left"}
+,"25": {"armor_info_id":25,"armor_facing_id":"5","armor_percent":"0","description":"Sunderer - Bottom"}
+,"30": {"armor_info_id":30,"armor_facing_id":"0","armor_percent":"0","description":"Lightning - Front"}
+,"31": {"armor_info_id":31,"armor_facing_id":"1","armor_percent":"-15","description":"Lightning - Right"}
+,"32": {"armor_info_id":32,"armor_facing_id":"2","armor_percent":"0","description":"Lightning - Top"}
+,"33": {"armor_info_id":33,"armor_facing_id":"3","armor_percent":"-50","description":"Lightning - Rear"}
+,"34": {"armor_info_id":34,"armor_facing_id":"4","armor_percent":"-15","description":"Lightning - Left"}
+,"35": {"armor_info_id":35,"armor_facing_id":"5","armor_percent":"-100","description":"Lightning - Bottom"}
+,"40": {"armor_info_id":40,"armor_facing_id":"0","armor_percent":"0","description":"Magrider - Front"}
+,"41": {"armor_info_id":41,"armor_facing_id":"1","armor_percent":"-15","description":"Magrider - Right"}
+,"42": {"armor_info_id":42,"armor_facing_id":"2","armor_percent":"0","description":"Magrider - Top"}
+,"43": {"armor_info_id":43,"armor_facing_id":"3","armor_percent":"-50","description":"Magrider - Rear"}
+,"44": {"armor_info_id":44,"armor_facing_id":"4","armor_percent":"-15","description":"Magrider - Left"}
+,"45": {"armor_info_id":45,"armor_facing_id":"5","armor_percent":"-100","description":"Magrider - Bottom"}
+,"50": {"armor_info_id":50,"armor_facing_id":"0","armor_percent":"0","description":"Vanguard - Front"}
+,"51": {"armor_info_id":51,"armor_facing_id":"1","armor_percent":"-15","description":"Vanguard - Right"}
+,"52": {"armor_info_id":52,"armor_facing_id":"2","armor_percent":"0","description":"Vanguard - Top"}
+,"53": {"armor_info_id":53,"armor_facing_id":"3","armor_percent":"-50","description":"Vanguard - Rear"}
+,"54": {"armor_info_id":54,"armor_facing_id":"4","armor_percent":"-15","description":"Vanguard - Left"}
+,"55": {"armor_info_id":55,"armor_facing_id":"5","armor_percent":"-100","description":"Vanguard - Bottom"}
+,"60": {"armor_info_id":60,"armor_facing_id":"0","armor_percent":"0","description":"Prowler - Front"}
+,"61": {"armor_info_id":61,"armor_facing_id":"1","armor_percent":"-15","description":"Prowler - Right"}
+,"62": {"armor_info_id":62,"armor_facing_id":"2","armor_percent":"0","description":"Prowler - Top"}
+,"63": {"armor_info_id":63,"armor_facing_id":"3","armor_percent":"-50","description":"Prowler - Rear"}
+,"64": {"armor_info_id":64,"armor_facing_id":"4","armor_percent":"-15","description":"Prowler - Left"}
+,"65": {"armor_info_id":65,"armor_facing_id":"5","armor_percent":"-100","description":"Prowler - Bottom"}
+,"110": {"armor_info_id":110,"armor_facing_id":"0","armor_percent":"0","description":"Galaxy - Front"}
+,"111": {"armor_info_id":111,"armor_facing_id":"1","armor_percent":"0","description":"Galaxy - Right"}
+,"112": {"armor_info_id":112,"armor_facing_id":"2","armor_percent":"0","description":"Galaxy - Top"}
+,"113": {"armor_info_id":113,"armor_facing_id":"3","armor_percent":"0","description":"Galaxy - Rear"}
+,"114": {"armor_info_id":114,"armor_facing_id":"4","armor_percent":"0","description":"Galaxy - Left"}
+,"115": {"armor_info_id":115,"armor_facing_id":"5","armor_percent":"0","description":"Galaxy - Bottom"}
+,"120": {"armor_info_id":120,"armor_facing_id":"0","armor_percent":"0","description":"Harasser - Front"}
+,"121": {"armor_info_id":121,"armor_facing_id":"1","armor_percent":"0","description":"Harasser - Right"}
+,"122": {"armor_info_id":122,"armor_facing_id":"2","armor_percent":"0","description":"Harasser - Top"}
+,"123": {"armor_info_id":123,"armor_facing_id":"3","armor_percent":"0","description":"Harasser - Rear"}
+,"124": {"armor_info_id":124,"armor_facing_id":"4","armor_percent":"0","description":"Harasser - Left"}
+,"125": {"armor_info_id":125,"armor_facing_id":"5","armor_percent":"0","description":"Harasser - Bottom"}
+,"150": {"armor_info_id":150,"armor_facing_id":"0","armor_percent":"50","description":"Phalanx - Front"}
+,"151": {"armor_info_id":151,"armor_facing_id":"1","armor_percent":"50","description":"Phalanx - Right"}
+,"152": {"armor_info_id":152,"armor_facing_id":"2","armor_percent":"50","description":"Phalanx - Top"}
+,"153": {"armor_info_id":153,"armor_facing_id":"3","armor_percent":"0","description":"Phalanx - Rear"}
+,"154": {"armor_info_id":154,"armor_facing_id":"4","armor_percent":"50","description":"Phalanx - Left"}
+,"155": {"armor_info_id":155,"armor_facing_id":"5","armor_percent":"50","description":"Phalanx - Bottom"}
+,"160": {"armor_info_id":160,"armor_facing_id":"0","armor_percent":"0","description":"Valkyrie - Front"}
+,"161": {"armor_info_id":161,"armor_facing_id":"1","armor_percent":"0","description":"Valkyrie - Right"}
+,"162": {"armor_info_id":162,"armor_facing_id":"2","armor_percent":"0","description":"Valkyrie - Top"}
+,"163": {"armor_info_id":163,"armor_facing_id":"3","armor_percent":"0","description":"Valkyrie - Rear"}
+,"164": {"armor_info_id":164,"armor_facing_id":"4","armor_percent":"0","description":"Valkyrie - Left"}
+,"165": {"armor_info_id":165,"armor_facing_id":"5","armor_percent":"50","description":"Valkyrie - Bottom"}
+,"200": {"armor_info_id":200,"armor_facing_id":"5","armor_percent":"10","description":"Vehicle - Lightning - Mineguard 1"}
+,"201": {"armor_info_id":201,"armor_facing_id":"5","armor_percent":"20","description":"Vehicle - Lightning - Mineguard 2"}
+,"202": {"armor_info_id":202,"armor_facing_id":"5","armor_percent":"30","description":"Vehicle - Lightning - Mineguard 3"}
+,"203": {"armor_info_id":203,"armor_facing_id":"5","armor_percent":"40","description":"Vehicle - Lightning - Mineguard 4"}
+,"204": {"armor_info_id":204,"armor_facing_id":"5","armor_percent":"10","description":"Vehicle - Magrider - Mineguard 1"}
+,"205": {"armor_info_id":205,"armor_facing_id":"5","armor_percent":"20","description":"Vehicle - Magrider - Mineguard 2"}
+,"206": {"armor_info_id":206,"armor_facing_id":"5","armor_percent":"30","description":"Vehicle - Magrider - Mineguard 3"}
+,"207": {"armor_info_id":207,"armor_facing_id":"5","armor_percent":"40","description":"Vehicle - Magrider - Mineguard 4"}
+,"208": {"armor_info_id":208,"armor_facing_id":"5","armor_percent":"10","description":"Vehicle - Vanguard - Mineguard 1"}
+,"209": {"armor_info_id":209,"armor_facing_id":"5","armor_percent":"20","description":"Vehicle - Vanguard - Mineguard 2"}
+,"210": {"armor_info_id":210,"armor_facing_id":"5","armor_percent":"30","description":"Vehicle - Vanguard - Mineguard 3"}
+,"211": {"armor_info_id":211,"armor_facing_id":"5","armor_percent":"40","description":"Vehicle - Vanguard - Mineguard 4"}
+,"212": {"armor_info_id":212,"armor_facing_id":"5","armor_percent":"10","description":"Vehicle - Prowler - Mineguard 1"}
+,"213": {"armor_info_id":213,"armor_facing_id":"5","armor_percent":"20","description":"Vehicle - Prowler - Mineguard 2"}
+,"214": {"armor_info_id":214,"armor_facing_id":"5","armor_percent":"30","description":"Vehicle - Prowler - Mineguard 3"}
+,"215": {"armor_info_id":215,"armor_facing_id":"5","armor_percent":"40","description":"Vehicle - Prowler - Mineguard 4"}
+,"216": {"armor_info_id":216,"armor_facing_id":"5","armor_percent":"10","description":"Vehicle - Sunderer - Mineguard 1"}
+,"217": {"armor_info_id":217,"armor_facing_id":"5","armor_percent":"20","description":"Vehicle - Sunderer - Mineguard 2"}
+,"218": {"armor_info_id":218,"armor_facing_id":"5","armor_percent":"30","description":"Vehicle - Sunderer - Mineguard 3"}
+,"219": {"armor_info_id":219,"armor_facing_id":"5","armor_percent":"40","description":"Vehicle - Sunderer - Mineguard 4"}
+,"363": {"armor_info_id":363,"armor_facing_id":"5","armor_percent":"5","description":"Harasser - Mine Guard - Bottom Buff 1"}
+,"364": {"armor_info_id":364,"armor_facing_id":"5","armor_percent":"10","description":"Harasser - Mine Guard - Bottom Buff 2"}
+,"370": {"armor_info_id":370,"armor_facing_id":"5","armor_percent":"15","description":"Harasser - Mine Guard - Bottom Buff 3"}
+,"371": {"armor_info_id":371,"armor_facing_id":"5","armor_percent":"20","description":"Harasser - Mine Guard - Bottom Buff 4"}
+,"372": {"armor_info_id":372,"armor_facing_id":"0","armor_percent":"2","description":"Harasser - Composite Armor Buff - Front 1"}
+,"373": {"armor_info_id":373,"armor_facing_id":"0","armor_percent":"4","description":"Harasser - Composite Armor Buff - Front 2"}
+,"374": {"armor_info_id":374,"armor_facing_id":"0","armor_percent":"6","description":"Harasser - Composite Armor Buff - Front 3"}
+,"375": {"armor_info_id":375,"armor_facing_id":"0","armor_percent":"8","description":"Harasser - Composite Armor Buff - Front 4"}
+,"376": {"armor_info_id":376,"armor_facing_id":"2","armor_percent":"2","description":"Harasser - Composite Armor Buff - Top 1"}
+,"377": {"armor_info_id":377,"armor_facing_id":"2","armor_percent":"4","description":"Harasser - Composite Armor Buff - Top 2"}
+,"378": {"armor_info_id":378,"armor_facing_id":"2","armor_percent":"6","description":"Harasser - Composite Armor Buff - Top 3"}
+,"379": {"armor_info_id":379,"armor_facing_id":"2","armor_percent":"8","description":"Harasser - Composite Armor Buff - Top 4"}
+,"380": {"armor_info_id":380,"armor_facing_id":"1","armor_percent":"2","description":"Harasser - Composite Armor Buff - Right 1"}
+,"381": {"armor_info_id":381,"armor_facing_id":"1","armor_percent":"4","description":"Harasser - Composite Armor Buff - Right 2"}
+,"382": {"armor_info_id":382,"armor_facing_id":"1","armor_percent":"6","description":"Harasser - Composite Armor Buff - Right 3"}
+,"383": {"armor_info_id":383,"armor_facing_id":"1","armor_percent":"8","description":"Harasser - Composite Armor Buff - Right 4"}
+,"384": {"armor_info_id":384,"armor_facing_id":"4","armor_percent":"2","description":"Harasser - Composite Armor Buff - Left 1"}
+,"385": {"armor_info_id":385,"armor_facing_id":"4","armor_percent":"4","description":"Harasser - Composite Armor Buff - Left 2"}
+,"386": {"armor_info_id":386,"armor_facing_id":"4","armor_percent":"6","description":"Harasser - Composite Armor Buff - Left 3"}
+,"387": {"armor_info_id":387,"armor_facing_id":"4","armor_percent":"8","description":"Harasser - Composite Armor Buff - Left 4"}
+,"388": {"armor_info_id":388,"armor_facing_id":"3","armor_percent":"2","description":"Harasser - Composite Armor Buff - Rear 1"}
+,"389": {"armor_info_id":389,"armor_facing_id":"3","armor_percent":"4","description":"Harasser - Composite Armor Buff - Rear 2"}
+,"390": {"armor_info_id":390,"armor_facing_id":"3","armor_percent":"6","description":"Harasser - Composite Armor Buff - Rear 3"}
+,"391": {"armor_info_id":391,"armor_facing_id":"3","armor_percent":"8","description":"Harasser - Composite Armor Buff - Rear 4"}
+,"400": {"armor_info_id":400,"armor_facing_id":"0","armor_percent":"20","description":"Item - MBT Front Armor"}
+,"401": {"armor_info_id":401,"armor_facing_id":"2","armor_percent":"25","description":"Item - MBT Top Armor"}
+,"402": {"armor_info_id":402,"armor_facing_id":"1","armor_percent":"20","description":"Item - MBT Right Armor"}
+,"403": {"armor_info_id":403,"armor_facing_id":"4","armor_percent":"20","description":"Item - MBT Left Armor"}
+}

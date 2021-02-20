@@ -1,0 +1,3 @@
+{
+"11000": {"skill_line_id":11000,"skill_points":"0","skill_category_id":"229","skill_category_index":"7","name":{"de":"Erweitertes Magazin","en":"Extended Magazine","es":"Cargador ampliado","fr":"Chargeur agrandi","it":"Caricatore esteso","tr":"Uzatılmış Şarjör"},"description":{"de":"Verdoppelt die Anzahl der Munition in jedem Magazin.","en":"Doubles the amount of ammunition in each magazine.","es":"Duplica la cantidad de munición que soporta el cargador.","fr":"Double la quantité de munitions dans chaque chargeur.","it":"Raddoppia la quantità di munizioni di ogni caricatore.","tr":"Her şarjördeki cephane miktarını ikiye katlar"},"image_set_id":"844","image_id":"1920","image_path":"/files/ps2/images/static/1920.png"}
+}

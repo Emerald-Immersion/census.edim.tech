@@ -1,0 +1,929 @@
+{
+"2000": {"resist_info_id":2000,"resist_type_id":"4","resist_percent":"25","multiplier_when_headshot":"2","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Tier 1 AV w/Nanoweave 5"}
+,"2002": {"resist_info_id":2002,"resist_type_id":"28","resist_percent":"20","multiplier_when_headshot":"2","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Armor Piercing Chain Guns w/Nanoweave 5"}
+,"2003": {"resist_info_id":2003,"resist_type_id":"15","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 15(Snipers TR)"}
+,"2004": {"resist_info_id":2004,"resist_type_id":"20","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 15 Snipers NC"}
+,"2005": {"resist_info_id":2005,"resist_type_id":"21","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 21 Snipers VS"}
+,"2006": {"resist_info_id":2006,"resist_type_id":"15","resist_percent":"32.5","multiplier_when_headshot":"1.23","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 15 w/Nanoweave 1"}
+,"2007": {"resist_info_id":2007,"resist_type_id":"15","resist_percent":"30","multiplier_when_headshot":"1.33","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 15 w/Nanoweave 2"}
+,"2008": {"resist_info_id":2008,"resist_type_id":"15","resist_percent":"27.5","multiplier_when_headshot":"1.45","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 15 w/Nanoweave 3"}
+,"2009": {"resist_info_id":2009,"resist_type_id":"15","resist_percent":"25","multiplier_when_headshot":"1.6","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 15 w/Nanoweave 4"}
+,"2010": {"resist_info_id":2010,"resist_type_id":"15","resist_percent":"20","multiplier_when_headshot":"2","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 15 w/Nanoweave 5"}
+,"2011": {"resist_info_id":2011,"resist_type_id":"20","resist_percent":"32.5","multiplier_when_headshot":"1.23","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 20 w/Nanoweave 1"}
+,"2012": {"resist_info_id":2012,"resist_type_id":"20","resist_percent":"30","multiplier_when_headshot":"1.33","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 20 w/Nanoweave 2"}
+,"2013": {"resist_info_id":2013,"resist_type_id":"20","resist_percent":"27.5","multiplier_when_headshot":"1.45","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 20 w/Nanoweave 3"}
+,"2014": {"resist_info_id":2014,"resist_type_id":"20","resist_percent":"25","multiplier_when_headshot":"1.6","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 20 w/Nanoweave 4"}
+,"2015": {"resist_info_id":2015,"resist_type_id":"20","resist_percent":"20","multiplier_when_headshot":"2","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 20 w/Nanoweave 5"}
+,"2016": {"resist_info_id":2016,"resist_type_id":"21","resist_percent":"32.5","multiplier_when_headshot":"1.23","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 21 w/Nanoweave 1"}
+,"2017": {"resist_info_id":2017,"resist_type_id":"21","resist_percent":"30","multiplier_when_headshot":"1.33","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 21 w/Nanoweave 2"}
+,"2018": {"resist_info_id":2018,"resist_type_id":"21","resist_percent":"27.5","multiplier_when_headshot":"1.45","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 21 w/Nanoweave 3"}
+,"2019": {"resist_info_id":2019,"resist_type_id":"21","resist_percent":"25","multiplier_when_headshot":"1.6","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 21 w/Nanoweave 4"}
+,"2020": {"resist_info_id":2020,"resist_type_id":"21","resist_percent":"20","multiplier_when_headshot":"2","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 21 w/Nanoweave 5"}
+,"2021": {"resist_info_id":2021,"resist_type_id":"23","resist_percent":"-100","multiplier_when_headshot":"1","description":"Flash - Air to Ground"}
+,"2022": {"resist_info_id":2022,"resist_type_id":"23","resist_percent":"-20","multiplier_when_headshot":"1","description":"Harasser - Air to Ground"}
+,"2023": {"resist_info_id":2023,"resist_type_id":"23","resist_percent":"-150","multiplier_when_headshot":"1","description":"Drop Pod - Air to Ground"}
+,"2024": {"resist_info_id":2024,"resist_type_id":"34","resist_percent":"50","multiplier_when_headshot":"1","description":"Facility - Terminals - Default Rocket Launchers"}
+,"2025": {"resist_info_id":2025,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Lightning - Air to Ground"}
+,"2026": {"resist_info_id":2026,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Magrider - Air to Ground"}
+,"2027": {"resist_info_id":2027,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Prowler - Air to Ground"}
+,"2028": {"resist_info_id":2028,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Sunderer - Air to Ground"}
+,"2029": {"resist_info_id":2029,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Vanguard - Air to Ground"}
+,"2030": {"resist_info_id":2030,"resist_type_id":"25","resist_percent":"40","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 25 Liberator Indirect"}
+,"2031": {"resist_info_id":2031,"resist_type_id":"22","resist_percent":"40","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 22 AA Machine Gun"}
+,"2032": {"resist_info_id":2032,"resist_type_id":"19","resist_percent":"40","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 Flak Projectile"}
+,"2033": {"resist_info_id":2033,"resist_type_id":"19","resist_percent":"32.5","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 1"}
+,"2034": {"resist_info_id":2034,"resist_type_id":"19","resist_percent":"30","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 2"}
+,"2035": {"resist_info_id":2035,"resist_type_id":"19","resist_percent":"27.5","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 3"}
+,"2036": {"resist_info_id":2036,"resist_type_id":"19","resist_percent":"25","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 4"}
+,"2037": {"resist_info_id":2037,"resist_type_id":"19","resist_percent":"20","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 19 w/Nanoweave 5"}
+,"2038": {"resist_info_id":2038,"resist_type_id":"22","resist_percent":"32.5","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - AA Machine Gun w/Nanoweave 1"}
+,"2039": {"resist_info_id":2039,"resist_type_id":"22","resist_percent":"30","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - AA Machine Gun w/Nanoweave 2"}
+,"2040": {"resist_info_id":2040,"resist_type_id":"22","resist_percent":"27.5","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - AA Machine Gun w/Nanoweave 3"}
+,"2041": {"resist_info_id":2041,"resist_type_id":"22","resist_percent":"25","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - AA Machine Gun w/Nanoweave 4"}
+,"2042": {"resist_info_id":2042,"resist_type_id":"22","resist_percent":"20","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - AA Machine Gun w/Nanoweave 5"}
+,"2043": {"resist_info_id":2043,"resist_type_id":"24","resist_percent":"10","description":"Flak Armor 1: Resist 24 (Lancer AV)"}
+,"2044": {"resist_info_id":2044,"resist_type_id":"24","resist_percent":"20","description":"Flak Armor 2: Resist 24 (Lancer AV)"}
+,"2045": {"resist_info_id":2045,"resist_type_id":"24","resist_percent":"30","description":"Flak Armor 3: Resist 24 (Lancer AV)"}
+,"2046": {"resist_info_id":2046,"resist_type_id":"24","resist_percent":"40","description":"Flak Armor 4: Resist 24 (Lancer AV)"}
+,"2047": {"resist_info_id":2047,"resist_type_id":"24","resist_percent":"50","description":"Flak Armor 5: Resist 24 (Lancer AV)"}
+,"2048": {"resist_info_id":2048,"resist_type_id":"24","resist_percent":"40","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 24 w/Flak Armor 1"}
+,"2049": {"resist_info_id":2049,"resist_type_id":"24","resist_percent":"30","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 24 w/Flak Armor 2"}
+,"2050": {"resist_info_id":2050,"resist_type_id":"24","resist_percent":"20","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 24 w/Flak Armor 3"}
+,"2051": {"resist_info_id":2051,"resist_type_id":"24","resist_percent":"10","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 24 w/Flak Armor 4"}
+,"2052": {"resist_info_id":2052,"resist_type_id":"24","resist_percent":"0","multiplier_when_headshot":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 24 w/Flak Armor 5"}
+,"2058": {"resist_info_id":2058,"resist_type_id":"25","resist_percent":"40","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 25 Liberator Indirect: Flak Armor 1"}
+,"2059": {"resist_info_id":2059,"resist_type_id":"25","resist_percent":"30","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 25 Liberator Indirect: Flak Armor 2"}
+,"2060": {"resist_info_id":2060,"resist_type_id":"25","resist_percent":"20","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 25 Liberator Indirect: Flak Armor 3"}
+,"2061": {"resist_info_id":2061,"resist_type_id":"25","resist_percent":"10","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 25 Liberator Indirect: Flak Armor 4"}
+,"2062": {"resist_info_id":2062,"resist_type_id":"25","resist_percent":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 25 Liberator Indirect: Flak Armor 5"}
+,"2068": {"resist_info_id":2068,"resist_type_id":"30","resist_percent":"40","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C2: Flak Armor 1"}
+,"2069": {"resist_info_id":2069,"resist_type_id":"30","resist_percent":"30","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C2: Flak Armor 2"}
+,"2070": {"resist_info_id":2070,"resist_type_id":"30","resist_percent":"20","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C2: Flak Armor 3"}
+,"2071": {"resist_info_id":2071,"resist_type_id":"30","resist_percent":"10","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C2: Flak Armor 4"}
+,"2072": {"resist_info_id":2072,"resist_type_id":"30","resist_percent":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C2: Flak Armor 5"}
+,"2073": {"resist_info_id":2073,"resist_type_id":"30","resist_percent":"10","description":"Flak Armor 1: Resist 30 (Vortex AV: C2)"}
+,"2074": {"resist_info_id":2074,"resist_type_id":"30","resist_percent":"20","description":"Flak Armor 2: Resist 30 (Vortex AV: C2)"}
+,"2075": {"resist_info_id":2075,"resist_type_id":"30","resist_percent":"30","description":"Flak Armor 3: Resist 30 (Vortex AV: C2)"}
+,"2076": {"resist_info_id":2076,"resist_type_id":"30","resist_percent":"40","description":"Flak Armor 4: Resist 30 (Vortex AV: C2)"}
+,"2077": {"resist_info_id":2077,"resist_type_id":"30","resist_percent":"50","description":"Flak Armor 5: Resist 30 (Vortex AV: C2)"}
+,"2078": {"resist_info_id":2078,"resist_type_id":"31","resist_percent":"40","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C3: Flak Armor 1"}
+,"2079": {"resist_info_id":2079,"resist_type_id":"31","resist_percent":"30","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C3: Flak Armor 2"}
+,"2080": {"resist_info_id":2080,"resist_type_id":"31","resist_percent":"20","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C3: Flak Armor 3"}
+,"2081": {"resist_info_id":2081,"resist_type_id":"31","resist_percent":"10","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C3: Flak Armor 4"}
+,"2082": {"resist_info_id":2082,"resist_type_id":"31","resist_percent":"0","description":"Shared: Heavy Assault: Ability 02: Resist Shield: Vortex AV: C3: Flak Armor 5"}
+,"2083": {"resist_info_id":2083,"resist_type_id":"31","resist_percent":"10","description":"Flak Armor 1: Resist 31 (Vortex AV: C3)"}
+,"2084": {"resist_info_id":2084,"resist_type_id":"31","resist_percent":"20","description":"Flak Armor 2: Resist 31 (Vortex AV: C3)"}
+,"2085": {"resist_info_id":2085,"resist_type_id":"31","resist_percent":"30","description":"Flak Armor 3: Resist 31 (Vortex AV: C3)"}
+,"2086": {"resist_info_id":2086,"resist_type_id":"31","resist_percent":"40","description":"Flak Armor 4: Resist 31 (Vortex AV: C3)"}
+,"2087": {"resist_info_id":2087,"resist_type_id":"31","resist_percent":"50","description":"Flak Armor 5: Resist 31 (Vortex AV: C3)"}
+,"2088": {"resist_info_id":2088,"resist_type_id":"8","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Aircraft Machine Gun"}
+,"2089": {"resist_info_id":2089,"resist_type_id":"8","resist_percent":"32.5","multiplier_when_headshot":"1.23","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Aircraft Machine Gun: Nanoweave 1"}
+,"2090": {"resist_info_id":2090,"resist_type_id":"8","resist_percent":"30","multiplier_when_headshot":"1.33","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Aircraft Machine Gun: Nanoweave 2"}
+,"2091": {"resist_info_id":2091,"resist_type_id":"8","resist_percent":"27.5","multiplier_when_headshot":"1.45","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Aircraft Machine Gun: Nanoweave 3"}
+,"2092": {"resist_info_id":2092,"resist_type_id":"8","resist_percent":"25","multiplier_when_headshot":"1.6","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Aircraft Machine Gun: Nanoweave 4"}
+,"2093": {"resist_info_id":2093,"resist_type_id":"8","resist_percent":"20","multiplier_when_headshot":"2","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Aircraft Machine Gun: Nanoweave 5"}
+,"2094": {"resist_info_id":2094,"resist_type_id":"8","resist_percent":"7.5","multiplier_when_headshot":"0","description":"Nanoweave 1: Resist 8(Aircraft Machine Gun)"}
+,"2095": {"resist_info_id":2095,"resist_type_id":"8","resist_percent":"10","multiplier_when_headshot":"0","description":"Nanoweave 2: Resist 8(Aircraft Machine Gun)"}
+,"2096": {"resist_info_id":2096,"resist_type_id":"8","resist_percent":"12.5","multiplier_when_headshot":"0","description":"Nanoweave 3: Resist 8(Aircraft Machine Gun)"}
+,"2097": {"resist_info_id":2097,"resist_type_id":"8","resist_percent":"15","multiplier_when_headshot":"0","description":"Nanoweave 4: Resist 8(Aircraft Machine Gun)"}
+,"2098": {"resist_info_id":2098,"resist_type_id":"8","resist_percent":"20","multiplier_when_headshot":"1","description":"Nanoweave 5: Resist 8(Aircraft Machine Gun)"}
+,"2099": {"resist_info_id":2099,"resist_type_id":"14","resist_percent":"40","resist_amount":"0","multiplier_when_headshot":"1","description":"Implant: Static Collisions (Safe Landing) 2"}
+,"2100": {"resist_info_id":2100,"resist_type_id":"14","resist_percent":"46","resist_amount":"0","multiplier_when_headshot":"1","description":"Implant: Static Collisions (Safe Landing) 3"}
+,"2101": {"resist_info_id":2101,"resist_type_id":"1","resist_percent":"100","description":"Valkyrie - Melee"}
+,"2102": {"resist_info_id":2102,"resist_type_id":"2","resist_percent":"90","description":"Valkyrie - Personal Defense"}
+,"2103": {"resist_info_id":2103,"resist_type_id":"3","resist_percent":"25","description":"Valkyrie - Tier 2 AV"}
+,"2104": {"resist_info_id":2104,"resist_type_id":"4","resist_percent":"75","description":"Valkyrie - Tier 1 AV"}
+,"2105": {"resist_info_id":2105,"resist_type_id":"5","resist_percent":"-40","description":"Valkyrie - Light AV"}
+,"2106": {"resist_info_id":2106,"resist_type_id":"6","resist_percent":"100","description":"Valkyrie - Grenades"}
+,"2107": {"resist_info_id":2107,"resist_type_id":"7","resist_percent":"-65","description":"Valkyrie - Tank Shell"}
+,"2108": {"resist_info_id":2108,"resist_type_id":"8","resist_percent":"80","description":"Valkyrie - Aircraft Machine Gun"}
+,"2109": {"resist_info_id":2109,"resist_type_id":"24","resist_percent":"-50","description":"Valkyrie - Lancer AV"}
+,"2110": {"resist_info_id":2110,"resist_type_id":"15","resist_percent":"80","description":"Valkyrie - Personal Defense - Snipers TR"}
+,"2111": {"resist_info_id":2111,"resist_type_id":"20","resist_percent":"80","description":"Valkyrie - Personal Defense - Snipers NC"}
+,"2112": {"resist_info_id":2112,"resist_type_id":"21","resist_percent":"80","description":"Valkyrie - Personal Defense - Snipers VS"}
+,"2113": {"resist_info_id":2113,"resist_type_id":"23","resist_percent":"0","description":"Valkyrie - Air to Ground"}
+,"2114": {"resist_info_id":2114,"resist_type_id":"26","resist_percent":"-200","description":"Valkyrie - Phoenix AV"}
+,"2115": {"resist_info_id":2115,"resist_type_id":"25","resist_percent":"-75","description":"Valkyrie - Tier 2 AV - Liberator"}
+,"2116": {"resist_info_id":2116,"resist_type_id":"12","resist_percent":"-100","description":"Valkyrie - Flak (Explosion)"}
+,"2117": {"resist_info_id":2117,"resist_type_id":"19","resist_percent":"75","description":"Valkyrie - Flak (Projectile)"}
+,"2118": {"resist_info_id":2118,"resist_type_id":"9","resist_percent":"-25","description":"Valkyrie - Anti-Vehicle Mine"}
+,"2119": {"resist_info_id":2119,"resist_type_id":"11","resist_percent":"-150","description":"Valkyrie - C4 (Boomer)"}
+,"2120": {"resist_info_id":2120,"resist_type_id":"33","resist_percent":"15","description":"Valkyrie - Mass Drivers"}
+,"2121": {"resist_info_id":2121,"resist_type_id":"28","resist_percent":"75","description":"Valkyrie - Armor Piercing Chain Guns"}
+,"2122": {"resist_info_id":2122,"resist_type_id":"13","resist_percent":"80","resist_amount":"100","description":"Valkyrie - Dynamic Collisions"}
+,"2123": {"resist_info_id":2123,"resist_type_id":"14","resist_percent":"70","resist_amount":"135","description":"Valkyrie - Static Collisions"}
+,"2124": {"resist_info_id":2124,"resist_type_id":"16","resist_percent":"100","resist_amount":"125","description":"Valkyrie - Suspension Collisions"}
+,"2125": {"resist_info_id":2125,"resist_type_id":"18","resist_percent":"51","description":"Valkyrie - Rocket Pods"}
+,"2126": {"resist_info_id":2126,"resist_type_id":"27","resist_percent":"35","description":"Valkyrie - Armor Piercing Shell"}
+,"2127": {"resist_info_id":2127,"resist_type_id":"35","resist_percent":"81","description":"Valkyrie - Vehicle Shotgun (Canister)"}
+,"2128": {"resist_info_id":2128,"resist_type_id":"36","resist_percent":"-25","description":"Valkyrie - Vehicle Grenades (Anti-Light Armor)"}
+,"2129": {"resist_info_id":2129,"resist_type_id":"17","resist_percent":"85","resist_amount":"150","description":"Valkyrie - Falling Collisions"}
+,"2130": {"resist_info_id":2130,"resist_type_id":"22","resist_percent":"75","description":"Valkyrie - Anti-Aircraft Machine Gun"}
+,"2131": {"resist_info_id":2131,"resist_type_id":"29","resist_percent":"65","description":"Valkyrie - VS Vortex AV"}
+,"2132": {"resist_info_id":2132,"resist_type_id":"30","resist_percent":"25","description":"Valkyrie - VS Vortex AV: C2"}
+,"2133": {"resist_info_id":2133,"resist_type_id":"31","resist_percent":"-25","description":"Valkyrie - VS Vortex AV: C3"}
+,"2134": {"resist_info_id":2134,"resist_type_id":"32","resist_percent":"-33.5","description":"Valkyrie - MAX AV"}
+,"2135": {"resist_info_id":2135,"resist_type_id":"34","resist_percent":"-40","description":"Valkyrie - Default Rocket Launcher"}
+,"2136": {"resist_info_id":2136,"resist_type_id":"37","resist_percent":"15","description":"Liberator - Composite Armor Buff - Liberator Cannon 1"}
+,"2137": {"resist_info_id":2137,"resist_type_id":"37","resist_percent":"25","description":"Liberator - Composite Armor Buff - Liberator Cannon 2"}
+,"2138": {"resist_info_id":2138,"resist_type_id":"37","resist_percent":"35","description":"Liberator - Composite Armor Buff - Liberator Cannon 3"}
+,"2139": {"resist_info_id":2139,"resist_type_id":"37","resist_percent":"45","description":"Liberator - Composite Armor Buff - Liberator Cannon 4"}
+,"2140": {"resist_info_id":2140,"resist_type_id":"37","resist_percent":"50","description":"Facility: Terminals - Liberator Cannon"}
+,"2141": {"resist_info_id":2141,"resist_type_id":"37","resist_percent":"-50","description":"MANA Engineer Turret - Liberator Cannon"}
+,"2142": {"resist_info_id":2142,"resist_type_id":"37","resist_percent":"52","description":"MAX - Liberator Cannon"}
+,"2143": {"resist_info_id":2143,"resist_type_id":"37","resist_percent":"-33.34","description":"Flash - Liberator Cannon"}
+,"2144": {"resist_info_id":2144,"resist_type_id":"37","resist_percent":"65","description":"Sunderer - Liberator Cannon"}
+,"2146": {"resist_info_id":2146,"resist_type_id":"37","resist_percent":"25","description":"Magrider - Liberator Cannon"}
+,"2147": {"resist_info_id":2147,"resist_type_id":"37","resist_percent":"25","description":"Vanguard - Liberator Cannon"}
+,"2148": {"resist_info_id":2148,"resist_type_id":"37","resist_percent":"25","description":"Prowler - Liberator Cannon"}
+,"2149": {"resist_info_id":2149,"resist_type_id":"37","resist_percent":"-175","description":"Scythe - Liberator Cannon"}
+,"2150": {"resist_info_id":2150,"resist_type_id":"37","resist_percent":"-175","description":"Reaver - Liberator Cannon"}
+,"2151": {"resist_info_id":2151,"resist_type_id":"37","resist_percent":"-175","description":"Mosquito - Liberator Cannon"}
+,"2152": {"resist_info_id":2152,"resist_type_id":"37","resist_percent":"-20","description":"Liberator - Liberator Cannon"}
+,"2153": {"resist_info_id":2153,"resist_type_id":"37","resist_percent":"25","description":"Galaxy - Liberator Cannon"}
+,"2154": {"resist_info_id":2154,"resist_type_id":"37","resist_percent":"25","description":"Harasser - Liberator Cannon"}
+,"2155": {"resist_info_id":2155,"resist_type_id":"37","resist_percent":"40","description":"Heavy Assault Resist Shield- Liberator Cannon"}
+,"2156": {"resist_info_id":2156,"resist_type_id":"37","resist_percent":"-25","description":"Phalanx - Liberator Cannon"}
+,"2157": {"resist_info_id":2157,"resist_type_id":"37","resist_percent":"-17","description":"VS: MAX: Ability 02: Zealot Overdrive 01: Liberator Cannon"}
+,"2158": {"resist_info_id":2158,"resist_type_id":"37","resist_percent":"-16","description":"VS: MAX: Ability 02: Zealot Overdrive 02: Liberator Cannon"}
+,"2159": {"resist_info_id":2159,"resist_type_id":"37","resist_percent":"-15","description":"VS: MAX: Ability 02: Zealot Overdrive 03: Liberator Cannon"}
+,"2160": {"resist_info_id":2160,"resist_type_id":"37","resist_percent":"-14","description":"VS: MAX: Ability 02: Zealot Overdrive 04: Liberator Cannon"}
+,"2161": {"resist_info_id":2161,"resist_type_id":"37","resist_percent":"-13","description":"VS: MAX: Ability 02: Zealot Overdrive 05: Liberator Cannon"}
+,"2162": {"resist_info_id":2162,"resist_type_id":"37","resist_percent":"-30","description":"Valkyrie - Liberator Cannon"}
+,"2163": {"resist_info_id":2163,"resist_type_id":"11","resist_percent":"60","multiplier_when_headshot":"1","description":"Sunderer - Deploy Shield C4 Buff"}
+,"2164": {"resist_info_id":2164,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Deploy Shield Tank Mine Buff"}
+,"2165": {"resist_info_id":2165,"resist_type_id":"12","resist_percent":"3","description":"Valkyrie - Composite Armor Buff 1 (Flak)"}
+,"2166": {"resist_info_id":2166,"resist_type_id":"12","resist_percent":"6","description":"Valkyrie - Composite Armor Buff 2 (Flak)"}
+,"2167": {"resist_info_id":2167,"resist_type_id":"12","resist_percent":"9","description":"Valkyrie - Composite Armor Buff 3 (Flak)"}
+,"2168": {"resist_info_id":2168,"resist_type_id":"12","resist_percent":"12","description":"Valkyrie - Composite Armor Buff 4 (Flak)"}
+,"2169": {"resist_info_id":2169,"resist_type_id":"4","resist_percent":"3","description":"Valkyrie - Composite Armor Buff 1 (HMG)"}
+,"2170": {"resist_info_id":2170,"resist_type_id":"4","resist_percent":"6","description":"Valkyrie - Composite Armor Buff 2 (HMG)"}
+,"2171": {"resist_info_id":2171,"resist_type_id":"4","resist_percent":"9","description":"Valkyrie - Composite Armor Buff 3 (HMG)"}
+,"2172": {"resist_info_id":2172,"resist_type_id":"4","resist_percent":"12","description":"Valkyrie - Composite Armor Buff 4 (HMG)"}
+,"2173": {"resist_info_id":2173,"resist_type_id":"8","resist_percent":"2","description":"Valkyrie - Composite Armor Buff 1 (AMG) (ORPHAN)"}
+,"2174": {"resist_info_id":2174,"resist_type_id":"8","resist_percent":"3","description":"Valkyrie - Composite Armor Buff 2 (AMG) (ORPHAN)"}
+,"2175": {"resist_info_id":2175,"resist_type_id":"8","resist_percent":"4","description":"Valkyrie - Composite Armor Buff 3 (AMG) (ORPHAN)"}
+,"2176": {"resist_info_id":2176,"resist_type_id":"8","resist_percent":"5","description":"Valkyrie - Composite Armor Buff 4 (AMG) (ORPHAN)"}
+,"2177": {"resist_info_id":2177,"resist_type_id":"38","resist_percent":"-250","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Striker"}
+,"2178": {"resist_info_id":2178,"resist_type_id":"38","resist_percent":"-250","multiplier_when_headshot":"1","description":"Drop Pod - Strikers"}
+,"2179": {"resist_info_id":2179,"resist_type_id":"38","resist_percent":"10","multiplier_when_headshot":"1","description":"Flak Armor 1: Resist 38"}
+,"2180": {"resist_info_id":2180,"resist_type_id":"38","resist_percent":"20","multiplier_when_headshot":"1","description":"Flak Armor 2: Resist 38"}
+,"2181": {"resist_info_id":2181,"resist_type_id":"38","resist_percent":"30","multiplier_when_headshot":"1","description":"Flak Armor 3: Resist 38"}
+,"2182": {"resist_info_id":2182,"resist_type_id":"38","resist_percent":"40","multiplier_when_headshot":"1","description":"Flak Armor 4: Resist 38"}
+,"2183": {"resist_info_id":2183,"resist_type_id":"38","resist_percent":"50","multiplier_when_headshot":"1","description":"Flak Armor 5: Resist 38"}
+,"2184": {"resist_info_id":2184,"resist_type_id":"38","resist_percent":"30","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 38 w/Flak Armor 1"}
+,"2185": {"resist_info_id":2185,"resist_type_id":"38","resist_percent":"20","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 38 w/Flak Armor 2"}
+,"2186": {"resist_info_id":2186,"resist_type_id":"38","resist_percent":"10","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 38 w/Flak Armor 3"}
+,"2187": {"resist_info_id":2187,"resist_type_id":"38","resist_percent":"0","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 38 w/Flak Armor 4"}
+,"2188": {"resist_info_id":2188,"resist_type_id":"38","resist_percent":"0","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 38 w/Flak Armor 5"}
+,"2189": {"resist_info_id":2189,"resist_type_id":"38","resist_percent":"-122","multiplier_when_headshot":"1","description":"Flash - Striker"}
+,"2190": {"resist_info_id":2190,"resist_type_id":"38","resist_percent":"45","multiplier_when_headshot":"1","description":"Galaxy - Striker"}
+,"2191": {"resist_info_id":2191,"resist_type_id":"38","resist_percent":"-120","multiplier_when_headshot":"1","description":"Harasser - Striker"}
+,"2192": {"resist_info_id":2192,"resist_type_id":"38","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Striker"}
+,"2193": {"resist_info_id":2193,"resist_type_id":"38","resist_percent":"15","multiplier_when_headshot":"1","description":"Liberator - Striker"}
+,"2195": {"resist_info_id":2195,"resist_type_id":"38","resist_percent":"-6","multiplier_when_headshot":"1","description":"MAX - Striker"}
+,"2196": {"resist_info_id":2196,"resist_type_id":"38","resist_percent":"-120","multiplier_when_headshot":"1","description":"Magrider - Striker"}
+,"2197": {"resist_info_id":2197,"resist_type_id":"38","resist_percent":"-30","multiplier_when_headshot":"1","description":"Mosquito - Striker"}
+,"2198": {"resist_info_id":2198,"resist_type_id":"38","resist_percent":"3","multiplier_when_headshot":"1","description":"Phalanx - Striker"}
+,"2199": {"resist_info_id":2199,"resist_type_id":"38","resist_percent":"-120","multiplier_when_headshot":"1","description":"Prowler - Striker"}
+,"2200": {"resist_info_id":2200,"resist_type_id":"38","resist_percent":"-30","multiplier_when_headshot":"1","description":"Reaver - Striker"}
+,"2201": {"resist_info_id":2201,"resist_type_id":"38","resist_percent":"-30","multiplier_when_headshot":"1","description":"Scythe - Striker"}
+,"2202": {"resist_info_id":2202,"resist_type_id":"38","resist_percent":"-65","multiplier_when_headshot":"1","description":"Sunderer - Striker"}
+,"2203": {"resist_info_id":2203,"resist_type_id":"38","resist_percent":"-5","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 01"}
+,"2204": {"resist_info_id":2204,"resist_type_id":"38","resist_percent":"-10","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 02"}
+,"2205": {"resist_info_id":2205,"resist_type_id":"38","resist_percent":"-15","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 03"}
+,"2206": {"resist_info_id":2206,"resist_type_id":"38","resist_percent":"-20","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 04"}
+,"2207": {"resist_info_id":2207,"resist_type_id":"38","resist_percent":"-25","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 05"}
+,"2208": {"resist_info_id":2208,"resist_type_id":"38","resist_percent":"-120","multiplier_when_headshot":"1","description":"Vanguard - Striker"}
+,"2209": {"resist_info_id":2209,"resist_type_id":"38","resist_percent":"-100","multiplier_when_headshot":"1","description":"Facility - Terminals - Strikers"}
+,"2210": {"resist_info_id":2210,"resist_type_id":"38","resist_percent":"15","multiplier_when_headshot":"1","description":"Valkyrie - Striker"}
+,"2211": {"resist_info_id":2211,"resist_type_id":"12","resist_percent":"90","multiplier_when_headshot":"1","description":"Valkyrie - Rumble Seat Inherit Resistance (Flak Explosion)"}
+,"2212": {"resist_info_id":2212,"resist_type_id":"6","resist_percent":"75","multiplier_when_headshot":"1","description":"Valkyrie - Rumble Seat Inherit Resistance (Standard Explosion) w/no Armor"}
+,"2213": {"resist_info_id":2213,"resist_type_id":"6","resist_percent":"66","description":"Valkyrie - Rumble Seat Inherit Resistance (Standard Explosion) w/Armor 1"}
+,"2214": {"resist_info_id":2214,"resist_type_id":"6","resist_percent":"57","description":"Valkyrie - Rumble Seat Inherit Resistance (Standard Explosion) w/Armor 2"}
+,"2215": {"resist_info_id":2215,"resist_type_id":"6","resist_percent":"48","description":"Valkyrie - Rumble Seat Inherit Resistance (Standard Explosion) w/Armor 3"}
+,"2216": {"resist_info_id":2216,"resist_type_id":"6","resist_percent":"39","description":"Valkyrie - Rumble Seat Inherit Resistance (Standard Explosion) w/Armor 4"}
+,"2217": {"resist_info_id":2217,"resist_type_id":"6","resist_percent":"30","description":"Valkyrie - Rumble Seat Inherit Resistance (Standard Explosion) w/Armor 5"}
+,"2218": {"resist_info_id":2218,"resist_type_id":"14","resist_percent":"50","resist_amount":"0","multiplier_when_headshot":"1","description":"Implant: Static Collisions (Safe Landing) 4"}
+,"2219": {"resist_info_id":2219,"resist_type_id":"1","resist_percent":"0","description":"Holiday Roadkill Directive"}
+,"2220": {"resist_info_id":2220,"resist_type_id":"1","resist_percent":"25","description":"Spitfire Auto-Turret - Melee"}
+,"2221": {"resist_info_id":2221,"resist_type_id":"2","resist_percent":"50","description":"Spitfire Auto-Turret - Personal Defense"}
+,"2222": {"resist_info_id":2222,"resist_type_id":"3","resist_percent":"-100","description":"Spitfire Auto-Turret - Light Anti-Vehicle"}
+,"2223": {"resist_info_id":2223,"resist_type_id":"4","resist_percent":"25","description":"Spitfire Auto-Turret - HMGs"}
+,"2224": {"resist_info_id":2224,"resist_type_id":"5","resist_percent":"-100","description":"Spitfire Auto-Turret - Anti-Vehicle"}
+,"2225": {"resist_info_id":2225,"resist_type_id":"6","resist_percent":"67","description":"Spitfire Auto-Turret - Explosion"}
+,"2226": {"resist_info_id":2226,"resist_type_id":"7","resist_percent":"-100","description":"Spitfire Auto-Turret - Tank Shell"}
+,"2227": {"resist_info_id":2227,"resist_type_id":"8","resist_percent":"-50","description":"Spitfire Auto-Turret - Aircraft Machine Gun"}
+,"2228": {"resist_info_id":2228,"resist_type_id":"9","resist_percent":"-100","description":"Spitfire Auto-Turret - Anti-Vehicle Mine"}
+,"2229": {"resist_info_id":2229,"resist_type_id":"10","resist_percent":"0","description":"Spitfire Auto-Turret - Collision (REUSE)"}
+,"2230": {"resist_info_id":2230,"resist_type_id":"11","resist_percent":"0","description":"Spitfire Auto-Turret - C4"}
+,"2231": {"resist_info_id":2231,"resist_type_id":"12","resist_percent":"100","description":"Spitfire Auto-Turret - Flak Explosion"}
+,"2232": {"resist_info_id":2232,"resist_type_id":"13","resist_percent":"0","description":"Spitfire Auto-Turret - Dynamic Collision"}
+,"2233": {"resist_info_id":2233,"resist_type_id":"14","resist_percent":"0","description":"Spitfire Auto-Turret - Static Collision"}
+,"2234": {"resist_info_id":2234,"resist_type_id":"15","resist_percent":"25","description":"Spitfire Auto-Turret - TR Sniper"}
+,"2235": {"resist_info_id":2235,"resist_type_id":"16","resist_percent":"0","description":"Spitfire Auto-Turret - Suspension Collision"}
+,"2236": {"resist_info_id":2236,"resist_type_id":"17","resist_percent":"0","description":"Spitfire Auto-Turret - Falling Collision"}
+,"2237": {"resist_info_id":2237,"resist_type_id":"18","resist_percent":"0","description":"Spitfire Auto-Turret - Rocket Pods"}
+,"2238": {"resist_info_id":2238,"resist_type_id":"19","resist_percent":"50","description":"Spitfire Auto-Turret - Flak Projectile"}
+,"2239": {"resist_info_id":2239,"resist_type_id":"20","resist_percent":"25","description":"Spitfire Auto-Turret - NC Sniper"}
+,"2240": {"resist_info_id":2240,"resist_type_id":"21","resist_percent":"25","description":"Spitfire Auto-Turret - VS Sniper"}
+,"2241": {"resist_info_id":2241,"resist_type_id":"22","resist_percent":"25","description":"Spitfire Auto-Turret - Anti-Aircraft Machine Gun"}
+,"2242": {"resist_info_id":2242,"resist_type_id":"23","resist_percent":"-100","description":"Spitfire Auto-Turret - Air to Ground"}
+,"2243": {"resist_info_id":2243,"resist_type_id":"24","resist_percent":"-200","description":"Spitfire Auto-Turret - Lancer AV"}
+,"2244": {"resist_info_id":2244,"resist_type_id":"25","resist_percent":"0","description":"Spitfire Auto-Turret - Liberator Indirect Damage"}
+,"2245": {"resist_info_id":2245,"resist_type_id":"26","resist_percent":"0","description":"Spitfire Auto-Turret - Phoenix AV"}
+,"2246": {"resist_info_id":2246,"resist_type_id":"27","resist_percent":"-50","description":"Spitfire Auto-Turret - AP Tank Shell"}
+,"2247": {"resist_info_id":2247,"resist_type_id":"28","resist_percent":"0","description":"Spitfire Auto-Turret - AP Chain Gun"}
+,"2248": {"resist_info_id":2248,"resist_type_id":"29","resist_percent":"-50","description":"Spitfire Auto-Turret - VS MAX Vortex AV - Charge 1"}
+,"2249": {"resist_info_id":2249,"resist_type_id":"30","resist_percent":"-200","description":"Spitfire Auto-Turret - VS MAX Vortex AV - Charge 2"}
+,"2250": {"resist_info_id":2250,"resist_type_id":"31","resist_percent":"-300","description":"Spitfire Auto-Turret - VS MAX Vortex AV - Charge 3"}
+,"2251": {"resist_info_id":2251,"resist_type_id":"32","resist_percent":"-50","description":"Spitfire Auto-Turret - MAX AV"}
+,"2252": {"resist_info_id":2252,"resist_type_id":"33","resist_percent":"0","description":"Spitfire Auto-Turret - Mass Drivers"}
+,"2253": {"resist_info_id":2253,"resist_type_id":"34","resist_percent":"0","description":"Spitfire Auto-Turret - Default Rocket Launchers"}
+,"2254": {"resist_info_id":2254,"resist_type_id":"35","resist_percent":"0","description":"Spitfire Auto-Turret - Vehicle Shotgun (Canister)"}
+,"2255": {"resist_info_id":2255,"resist_type_id":"36","resist_percent":"-100","description":"Spitfire Auto-Turret - Vehicle Grenades (Anti-Light Armor)"}
+,"2256": {"resist_info_id":2256,"resist_type_id":"37","resist_percent":"-100","description":"Spitfire Auto-Turret - Liberator Cannons (Dalton & Zepher)"}
+,"2257": {"resist_info_id":2257,"resist_type_id":"38","resist_percent":"-300","description":"Spitfire Auto-Turret - Striker AV"}
+,"2258": {"resist_info_id":2258,"resist_type_id":"9","resist_percent":"75","multiplier_when_headshot":"1","description":"Vehicle - Flash - Mine Guard - Driver Resist"}
+,"2262": {"resist_info_id":2262,"resist_type_id":"39","resist_percent":"-200","multiplier_when_headshot":"1","description":"Flash - Rocklet Rifle"}
+,"2280": {"resist_info_id":2280,"resist_type_id":"40","resist_percent":"-75","description":"Drop Pod - Anti Materiel Rifle"}
+,"2281": {"resist_info_id":2281,"resist_type_id":"40","resist_percent":"-13","description":"Facility: Terminals - Anti Materiel Rifle"}
+,"2282": {"resist_info_id":2282,"resist_type_id":"40","resist_percent":"-25","description":"Flash - Anti Materiel Rifle"}
+,"2283": {"resist_info_id":2283,"resist_type_id":"40","resist_percent":"15","description":"Flash - Composite Armor Buff - Anti Materiel Rifle 1"}
+,"2284": {"resist_info_id":2284,"resist_type_id":"40","resist_percent":"20","description":"Flash - Composite Armor Buff - Anti Materiel Rifle 2"}
+,"2285": {"resist_info_id":2285,"resist_type_id":"40","resist_percent":"28","description":"Flash - Composite Armor Buff - Anti Materiel Rifle 3"}
+,"2286": {"resist_info_id":2286,"resist_type_id":"40","resist_percent":"35","description":"Flash - Composite Armor Buff - Anti Materiel Rifle 4"}
+,"2287": {"resist_info_id":2287,"resist_type_id":"40","resist_percent":"25","description":"Galaxy - Anti Materiel Rifle"}
+,"2288": {"resist_info_id":2288,"resist_type_id":"40","resist_percent":"25","description":"Harasser - Anti Materiel Rifle"}
+,"2289": {"resist_info_id":2289,"resist_type_id":"40","resist_percent":"25","description":"Infiltrator: Nano-Armor Cloak Tier 1: Anti Materiel Rifle"}
+,"2290": {"resist_info_id":2290,"resist_type_id":"40","resist_percent":"35","description":"Infiltrator: Nano-Armor Cloak Tier 2: Anti Materiel Rifle"}
+,"2291": {"resist_info_id":2291,"resist_type_id":"40","resist_percent":"0","description":"Liberator - Anti Materiel Rifle"}
+,"2292": {"resist_info_id":2292,"resist_type_id":"40","resist_percent":"40","description":"Lightning - Anti Materiel Rifle"}
+,"2293": {"resist_info_id":2293,"resist_type_id":"40","resist_percent":"-88","description":"MANA Engineer Turret - Anti Materiel Rifle"}
+,"2294": {"resist_info_id":2294,"resist_type_id":"40","resist_percent":"-25","description":"MAX - Anti Materiel Rifle"}
+,"2295": {"resist_info_id":2295,"resist_type_id":"40","resist_percent":"40","description":"Magrider - Anti Materiel Rifle"}
+,"2296": {"resist_info_id":2296,"resist_type_id":"40","resist_percent":"-25","description":"Mosquito - Anti Materiel Rifle"}
+,"2297": {"resist_info_id":2297,"resist_type_id":"40","resist_percent":"7.5","description":"Nanoweave 1: Resist 40(Anti Materiel Rifle)"}
+,"2298": {"resist_info_id":2298,"resist_type_id":"40","resist_percent":"10","description":"Nanoweave 2: Resist 40(Anti Materiel Rifle)"}
+,"2299": {"resist_info_id":2299,"resist_type_id":"40","resist_percent":"12.5","description":"Nanoweave 3: Resist 40(Anti Materiel Rifle)"}
+,"2300": {"resist_info_id":2300,"resist_type_id":"40","resist_percent":"15","description":"Nanoweave 4: Resist 40(Anti Materiel Rifle"}
+,"2301": {"resist_info_id":2301,"resist_type_id":"40","resist_percent":"20","description":"Nanoweave 5: Resist 40(Anti Materiel Rifle)"}
+,"2302": {"resist_info_id":2302,"resist_type_id":"40","resist_percent":"-5","description":"Phalanx - Anti Materiel Rifle"}
+,"2303": {"resist_info_id":2303,"resist_type_id":"40","resist_percent":"40","description":"Prowler - Anti Materiel Rifle"}
+,"2304": {"resist_info_id":2304,"resist_type_id":"40","resist_percent":"-25","description":"Reaver - Anti Materiel Rifle"}
+,"2305": {"resist_info_id":2305,"resist_type_id":"40","resist_percent":"-25","description":"Scythe - Anti Materiel Rifle"}
+,"2306": {"resist_info_id":2306,"resist_type_id":"40","resist_percent":"40","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Anti Materiel Rifle"}
+,"2307": {"resist_info_id":2307,"resist_type_id":"40","resist_percent":"32.5","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Anti Materiel Rifle w/Nanoweave 1"}
+,"2308": {"resist_info_id":2308,"resist_type_id":"40","resist_percent":"30","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Anti Materiel Rifle w/Nanoweave 2"}
+,"2309": {"resist_info_id":2309,"resist_type_id":"40","resist_percent":"27.5","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Anti Materiel Rifle w/Nanoweave 3"}
+,"2310": {"resist_info_id":2310,"resist_type_id":"40","resist_percent":"25","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Anti Materiel Rifle w/Nanoweave 4"}
+,"2311": {"resist_info_id":2311,"resist_type_id":"40","resist_percent":"20","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Anti Materiel Rifle w/Nanoweave 5"}
+,"2312": {"resist_info_id":2312,"resist_type_id":"40","resist_percent":"-125","description":"Spitfire Auto-Turret - Anti Materiel Rifle"}
+,"2313": {"resist_info_id":2313,"resist_type_id":"40","resist_percent":"40","description":"Sunderer - Anti Materiel Rifle"}
+,"2314": {"resist_info_id":2314,"resist_type_id":"40","resist_percent":"-11.5","description":"VS: MAX: Ability 02: Zealot Overdrive 01: Anti Materiel Rifle"}
+,"2315": {"resist_info_id":2315,"resist_type_id":"40","resist_percent":"-11","description":"VS: MAX: Ability 02: Zealot Overdrive 02: Anti Materiel Rifle"}
+,"2316": {"resist_info_id":2316,"resist_type_id":"40","resist_percent":"-10.5","description":"VS: MAX: Ability 02: Zealot Overdrive 03: Anti Materiel Rifle"}
+,"2317": {"resist_info_id":2317,"resist_type_id":"40","resist_percent":"-10","description":"VS: MAX: Ability 02: Zealot Overdrive 04: Anti Materiel Rifle"}
+,"2318": {"resist_info_id":2318,"resist_type_id":"40","resist_percent":"-9.5","description":"VS: MAX: Ability 02: Zealot Overdrive 05: Anti Materiel Rifle"}
+,"2319": {"resist_info_id":2319,"resist_type_id":"40","resist_percent":"-25","description":"Valkyrie - Anti Materiel Rifle"}
+,"2320": {"resist_info_id":2320,"resist_type_id":"40","resist_percent":"40","description":"Vanguard - Anti Materiel Rifle"}
+,"2321": {"resist_info_id":2321,"resist_type_id":"40","resist_percent":"2","description":"Shared: MAX: Defensive: Kinetic Armor 1: Anit Material Rifle"}
+,"2322": {"resist_info_id":2322,"resist_type_id":"40","resist_percent":"4","description":"Shared: MAX: Defensive: Kinetic Armor 2: Anit Material Rifle"}
+,"2323": {"resist_info_id":2323,"resist_type_id":"40","resist_percent":"6","description":"Shared: MAX: Defensive: Kinetic Armor 3: Anit Material Rifle"}
+,"2324": {"resist_info_id":2324,"resist_type_id":"40","resist_percent":"8","description":"Shared: MAX: Defensive: Kinetic Armor 4: Anit Material Rifle"}
+,"2325": {"resist_info_id":2325,"resist_type_id":"40","resist_percent":"10","description":"Shared: MAX: Defensive: Kinetic Armor 5: Anit Material Rifle"}
+,"2326": {"resist_info_id":2326,"resist_type_id":"1","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Melee"}
+,"2327": {"resist_info_id":2327,"resist_type_id":"40","resist_percent":"-100","description":"Shared - Tank Mine - Anti Materiel Rifle"}
+,"2328": {"resist_info_id":2328,"resist_type_id":"40","resist_percent":"-100","description":"Shared - Mine - Anti Materiel Rifle"}
+,"2329": {"resist_info_id":2329,"resist_type_id":"40","resist_percent":"-100","description":"Shared - Beacon - Anit Material Rifle"}
+,"2330": {"resist_info_id":2330,"resist_type_id":"40","resist_percent":"-100","description":"Shared - Regen Shield - Anti Materiel Rifle"}
+,"2331": {"resist_info_id":2331,"resist_type_id":"40","resist_percent":"-100","description":"Shared - Motion Sensor - Anti Materiel Rifle"}
+,"2332": {"resist_info_id":2332,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Melee"}
+,"2333": {"resist_info_id":2333,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Personal Defense"}
+,"2334": {"resist_info_id":2334,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"ANT - Tier 2 AV"}
+,"2335": {"resist_info_id":2335,"resist_type_id":"4","resist_percent":"87","multiplier_when_headshot":"1","description":"ANT - Tier 1 AV"}
+,"2336": {"resist_info_id":2336,"resist_type_id":"5","resist_percent":"-20","multiplier_when_headshot":"1","description":"ANT - Tier 3 AV"}
+,"2337": {"resist_info_id":2337,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Grenades"}
+,"2338": {"resist_info_id":2338,"resist_type_id":"7","resist_percent":"-20","multiplier_when_headshot":"1","description":"ANT - Tank Shell"}
+,"2339": {"resist_info_id":2339,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"ANT - Aircraft Machine Gun"}
+,"2340": {"resist_info_id":2340,"resist_type_id":"24","resist_percent":"-100","multiplier_when_headshot":"1","description":"ANT - Lancer AV"}
+,"2341": {"resist_info_id":2341,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Personal Defense - Snipers TR"}
+,"2342": {"resist_info_id":2342,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Personal Defense - Snipers NC"}
+,"2343": {"resist_info_id":2343,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Personal Defense - Snipers VS"}
+,"2344": {"resist_info_id":2344,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"ANT - Phoenix AV"}
+,"2345": {"resist_info_id":2345,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Vehicle - ANT - Mineguard 1"}
+,"2346": {"resist_info_id":2346,"resist_type_id":"9","resist_percent":"75","multiplier_when_headshot":"1","description":"Vehicle - ANT - Mineguard 2"}
+,"2347": {"resist_info_id":2347,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"Vehicle - ANT - Mineguard 3"}
+,"2348": {"resist_info_id":2348,"resist_type_id":"9","resist_percent":"125","multiplier_when_headshot":"1","description":"Vehicle - ANT - Mineguard 4"}
+,"2349": {"resist_info_id":2349,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"ANT - Tier 2 AV - Liberator"}
+,"2350": {"resist_info_id":2350,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"ANT - Mine Guard Buff"}
+,"2351": {"resist_info_id":2351,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Flak (Explosion)"}
+,"2352": {"resist_info_id":2352,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Flak (Projectile)"}
+,"2353": {"resist_info_id":2353,"resist_type_id":"9","resist_percent":"-75","multiplier_when_headshot":"1","description":"ANT - Anti-Vehicle Mine"}
+,"2354": {"resist_info_id":2354,"resist_type_id":"11","resist_percent":"-40","multiplier_when_headshot":"1","description":"ANT - C4 (Boomer)"}
+,"2355": {"resist_info_id":2355,"resist_type_id":"33","resist_percent":"50","multiplier_when_headshot":"1","description":"ANT - Mass Drivers"}
+,"2356": {"resist_info_id":2356,"resist_type_id":"28","resist_percent":"75","multiplier_when_headshot":"1","description":"ANT - Armor Piercing Chain Guns"}
+,"2357": {"resist_info_id":2357,"resist_type_id":"13","resist_percent":"96","resist_amount":"250","multiplier_when_headshot":"1","description":"ANT - Dynamic Collisions"}
+,"2358": {"resist_info_id":2358,"resist_type_id":"14","resist_percent":"99","resist_amount":"80","multiplier_when_headshot":"1","description":"ANT - Static Collisions"}
+,"2359": {"resist_info_id":2359,"resist_type_id":"16","resist_percent":"30","resist_amount":"10000","multiplier_when_headshot":"1","description":"ANT - Suspension Collisions"}
+,"2360": {"resist_info_id":2360,"resist_type_id":"18","resist_percent":"80","multiplier_when_headshot":"1","description":"ANT - Rocket Pods"}
+,"2361": {"resist_info_id":2361,"resist_type_id":"27","resist_percent":"28","multiplier_when_headshot":"1","description":"ANT - Armor Piercing Shell"}
+,"2362": {"resist_info_id":2362,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Vehicle Shotgun (Canister)"}
+,"2363": {"resist_info_id":2363,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Vehicle Grenades (Anti-Light Armor)"}
+,"2364": {"resist_info_id":2364,"resist_type_id":"11","resist_percent":"15","multiplier_when_headshot":"1","description":"ANT - Blockade Armor Buff - 1"}
+,"2365": {"resist_info_id":2365,"resist_type_id":"11","resist_percent":"30","multiplier_when_headshot":"1","description":"ANT - Blockade Armor Buff - 2"}
+,"2366": {"resist_info_id":2366,"resist_type_id":"11","resist_percent":"45","multiplier_when_headshot":"1","description":"ANT - Blockade Armor Buff - 3"}
+,"2367": {"resist_info_id":2367,"resist_type_id":"11","resist_percent":"60","multiplier_when_headshot":"1","description":"ANT - Blockade Armor Buff - 4"}
+,"2368": {"resist_info_id":2368,"resist_type_id":"17","resist_percent":"60","resist_amount":"7000","multiplier_when_headshot":"1","description":"ANT - Falling Collisions"}
+,"2369": {"resist_info_id":2369,"resist_type_id":"22","resist_percent":"85","multiplier_when_headshot":"1","description":"ANT - Anti-Aircraft Machine Gun"}
+,"2370": {"resist_info_id":2370,"resist_type_id":"29","resist_percent":"34","multiplier_when_headshot":"1","description":"ANT - VS Vortex AV"}
+,"2371": {"resist_info_id":2371,"resist_type_id":"30","resist_percent":"-60","multiplier_when_headshot":"1","description":"ANT - VS Vortex AV: C2"}
+,"2372": {"resist_info_id":2372,"resist_type_id":"31","resist_percent":"-150","multiplier_when_headshot":"1","description":"ANT - VS Vortex AV: C3"}
+,"2373": {"resist_info_id":2373,"resist_type_id":"32","resist_percent":"-57.5","multiplier_when_headshot":"1","description":"ANT - MAX AV"}
+,"2374": {"resist_info_id":2374,"resist_type_id":"34","resist_percent":"0","multiplier_when_headshot":"1","description":"ANT - Default Rocket Launcher"}
+,"2375": {"resist_info_id":2375,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"ANT - Air to Ground"}
+,"2376": {"resist_info_id":2376,"resist_type_id":"37","resist_percent":"65","description":"ANT - Liberator Cannon"}
+,"2377": {"resist_info_id":2377,"resist_type_id":"11","resist_percent":"60","multiplier_when_headshot":"1","description":"ANT - Deploy Shield C4 Buff"}
+,"2378": {"resist_info_id":2378,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Deploy Shield Tank Mine Buff"}
+,"2379": {"resist_info_id":2379,"resist_type_id":"38","resist_percent":"-65","multiplier_when_headshot":"1","description":"ANT - Striker"}
+,"2380": {"resist_info_id":2380,"resist_type_id":"39","resist_percent":"-50","multiplier_when_headshot":"1","description":"ANT - Rocklet Rifle"}
+,"2381": {"resist_info_id":2381,"resist_type_id":"40","resist_percent":"40","description":"ANT - Anti Materiel Rifle"}
+,"2382": {"resist_info_id":2382,"resist_type_id":"41","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: VS ES AV"}
+,"2383": {"resist_info_id":2383,"resist_type_id":"41","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: VS ES AV"}
+,"2384": {"resist_info_id":2384,"resist_type_id":"41","resist_percent":"25","multiplier_when_headshot":"1","description":"MAX - VS ES AV"}
+,"2385": {"resist_info_id":2385,"resist_type_id":"41","resist_percent":"-25","multiplier_when_headshot":"1","description":"Flash - VS ES AV"}
+,"2386": {"resist_info_id":2386,"resist_type_id":"41","resist_percent":"45","multiplier_when_headshot":"1","description":"Sunderer - VS ES AV"}
+,"2388": {"resist_info_id":2388,"resist_type_id":"41","resist_percent":"75","multiplier_when_headshot":"1","description":"Magrider - VS ES AV"}
+,"2389": {"resist_info_id":2389,"resist_type_id":"41","resist_percent":"75","multiplier_when_headshot":"1","description":"Vanguard - VS ES AV"}
+,"2390": {"resist_info_id":2390,"resist_type_id":"41","resist_percent":"75","multiplier_when_headshot":"1","description":"Prowler - VS ES AV"}
+,"2391": {"resist_info_id":2391,"resist_type_id":"41","resist_percent":"-17","multiplier_when_headshot":"1","description":"Scythe - VS ES AV"}
+,"2392": {"resist_info_id":2392,"resist_type_id":"41","resist_percent":"-17","multiplier_when_headshot":"1","description":"Reaver - VS ES AV"}
+,"2393": {"resist_info_id":2393,"resist_type_id":"41","resist_percent":"-17","multiplier_when_headshot":"1","description":"Mosquito - VS ES AV"}
+,"2394": {"resist_info_id":2394,"resist_type_id":"41","resist_percent":"37","multiplier_when_headshot":"1","description":"Liberator - VS ES AV"}
+,"2395": {"resist_info_id":2395,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Galaxy - VS ES AV"}
+,"2396": {"resist_info_id":2396,"resist_type_id":"41","resist_percent":"-25","multiplier_when_headshot":"1","description":"Drop Pod - VS ES AV"}
+,"2397": {"resist_info_id":2397,"resist_type_id":"41","resist_percent":"60","multiplier_when_headshot":"1","description":"Harasser - VS ES AV"}
+,"2398": {"resist_info_id":2398,"resist_type_id":"41","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - VS ES AV"}
+,"2399": {"resist_info_id":2399,"resist_type_id":"41","resist_percent":"15","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - VS ES AV 1"}
+,"2400": {"resist_info_id":2400,"resist_type_id":"41","resist_percent":"20","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - VS ES AV 2"}
+,"2401": {"resist_info_id":2401,"resist_type_id":"41","resist_percent":"28","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - VS ES AV 3"}
+,"2402": {"resist_info_id":2402,"resist_type_id":"41","resist_percent":"35","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - VS ES AV 4"}
+,"2403": {"resist_info_id":2403,"resist_type_id":"41","resist_percent":"63","multiplier_when_headshot":"1","description":"Facility: Terminals - VS ES AV"}
+,"2404": {"resist_info_id":2404,"resist_type_id":"41","resist_percent":"-15","multiplier_when_headshot":"1","description":"MANA Engineer Turret - VS ES AV"}
+,"2405": {"resist_info_id":2405,"resist_type_id":"41","resist_percent":"75","multiplier_when_headshot":"1","description":"Phalanx - VS ES AV"}
+,"2406": {"resist_info_id":2406,"resist_type_id":"41","resist_percent":"-11.5","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 01: VS ES AV"}
+,"2407": {"resist_info_id":2407,"resist_type_id":"41","resist_percent":"-11","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 02: VS ES AV"}
+,"2408": {"resist_info_id":2408,"resist_type_id":"41","resist_percent":"-10.5","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 03: VS ES AV"}
+,"2409": {"resist_info_id":2409,"resist_type_id":"41","resist_percent":"-10","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 04: VS ES AV"}
+,"2410": {"resist_info_id":2410,"resist_type_id":"41","resist_percent":"-9.5","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 05: VS ES AV"}
+,"2411": {"resist_info_id":2411,"resist_type_id":"41","resist_percent":"7.5","multiplier_when_headshot":"0","description":"Nanoweave 1 - VS ES AV"}
+,"2412": {"resist_info_id":2412,"resist_type_id":"41","resist_percent":"10","multiplier_when_headshot":"0","description":"Nanoweave 2 - VS ES AV"}
+,"2413": {"resist_info_id":2413,"resist_type_id":"41","resist_percent":"12.5","multiplier_when_headshot":"0","description":"Nanoweave 3 - VS ES AV"}
+,"2414": {"resist_info_id":2414,"resist_type_id":"41","resist_percent":"15","multiplier_when_headshot":"0","description":"Nanoweave 4 - VS ES AV"}
+,"2415": {"resist_info_id":2415,"resist_type_id":"41","resist_percent":"20","multiplier_when_headshot":"0","description":"Nanoweave 5 - VS ES AV"}
+,"2416": {"resist_info_id":2416,"resist_type_id":"41","resist_percent":"32.5","multiplier_when_headshot":"1.23","description":"Shared: Heavy Assault: Ability 02: Resist Shield - VS ES AV w/Nanoweave 1"}
+,"2417": {"resist_info_id":2417,"resist_type_id":"41","resist_percent":"30","multiplier_when_headshot":"1.33","description":"Shared: Heavy Assault: Ability 02: Resist Shield - VS ES AV w/Nanoweave 2"}
+,"2418": {"resist_info_id":2418,"resist_type_id":"41","resist_percent":"27.5","multiplier_when_headshot":"1.45","description":"Shared: Heavy Assault: Ability 02: Resist Shield - VS ES AV w/Nanoweave 3"}
+,"2419": {"resist_info_id":2419,"resist_type_id":"41","resist_percent":"25","multiplier_when_headshot":"1.6","description":"Shared: Heavy Assault: Ability 02: Resist Shield - VS ES AV w/Nanoweave 4"}
+,"2420": {"resist_info_id":2420,"resist_type_id":"41","resist_percent":"20","multiplier_when_headshot":"2","description":"Shared: Heavy Assault: Ability 02: Resist Shield - VS ES AV w/Nanoweave 5"}
+,"2421": {"resist_info_id":2421,"resist_type_id":"41","resist_percent":"45","description":"Valkyrie - VS ES AV"}
+,"2422": {"resist_info_id":2422,"resist_type_id":"41","resist_percent":"-30","description":"Spitfire Auto-Turret - VS ES AV"}
+,"2423": {"resist_info_id":2423,"resist_type_id":"41","resist_percent":"45","multiplier_when_headshot":"1","description":"ANT - VS ES AV"}
+,"2424": {"resist_info_id":2424,"resist_type_id":"42","resist_percent":"25","multiplier_when_headshot":"1","description":"MAX - NC ES AV"}
+,"2425": {"resist_info_id":2425,"resist_type_id":"42","resist_percent":"-50","multiplier_when_headshot":"1","description":"Flash - NC ES AV"}
+,"2426": {"resist_info_id":2426,"resist_type_id":"42","resist_percent":"50","multiplier_when_headshot":"1","description":"Sunderer - NC ES AV"}
+,"2428": {"resist_info_id":2428,"resist_type_id":"42","resist_percent":"50","multiplier_when_headshot":"1","description":"Magrider - NC ES AV"}
+,"2429": {"resist_info_id":2429,"resist_type_id":"42","resist_percent":"50","multiplier_when_headshot":"1","description":"Vanguard - NC ES AV"}
+,"2430": {"resist_info_id":2430,"resist_type_id":"42","resist_percent":"50","multiplier_when_headshot":"1","description":"Prowler - NC ES AV"}
+,"2431": {"resist_info_id":2431,"resist_type_id":"42","resist_percent":"-27.5","multiplier_when_headshot":"1","description":"Scythe - NC ES AV"}
+,"2432": {"resist_info_id":2432,"resist_type_id":"42","resist_percent":"-27.5","multiplier_when_headshot":"1","description":"Reaver - NC ES AV"}
+,"2433": {"resist_info_id":2433,"resist_type_id":"42","resist_percent":"-27.5","multiplier_when_headshot":"1","description":"Mosquito - NC ES AV"}
+,"2434": {"resist_info_id":2434,"resist_type_id":"42","resist_percent":"32.5","multiplier_when_headshot":"1","description":"Liberator - NC ES AV"}
+,"2435": {"resist_info_id":2435,"resist_type_id":"42","resist_percent":"55","multiplier_when_headshot":"1","description":"Galaxy - NC ES AV"}
+,"2436": {"resist_info_id":2436,"resist_type_id":"42","resist_percent":"-100","multiplier_when_headshot":"1","description":"Drop Pod - NC ES AV"}
+,"2437": {"resist_info_id":2437,"resist_type_id":"42","resist_percent":"25","multiplier_when_headshot":"1","description":"Harasser - NC ES AV"}
+,"2438": {"resist_info_id":2438,"resist_type_id":"42","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - NC ES AV"}
+,"2439": {"resist_info_id":2439,"resist_type_id":"42","resist_percent":"20","multiplier_when_headshot":"1","description":"Facility: Terminals: NC ES AV"}
+,"2440": {"resist_info_id":2440,"resist_type_id":"42","resist_percent":"-50","multiplier_when_headshot":"1","description":"MANA Engineer Turret - NC ES AV"}
+,"2441": {"resist_info_id":2441,"resist_type_id":"42","resist_percent":"50","multiplier_when_headshot":"1","description":"Phalanx - NC ES AV"}
+,"2442": {"resist_info_id":2442,"resist_type_id":"42","resist_percent":"-17","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 01: Heavy Anti-Armor: NC ES AV"}
+,"2443": {"resist_info_id":2443,"resist_type_id":"42","resist_percent":"-16","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 02: Heavy Anti-Armor: NC ES AV"}
+,"2444": {"resist_info_id":2444,"resist_type_id":"42","resist_percent":"-15","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 03: Heavy Anti-Armor: NC ES AV"}
+,"2445": {"resist_info_id":2445,"resist_type_id":"42","resist_percent":"-14","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 04: Heavy Anti-Armor: NC ES AV"}
+,"2446": {"resist_info_id":2446,"resist_type_id":"42","resist_percent":"-13","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 05: Heavy Anti-Armor: NC ES AV"}
+,"2447": {"resist_info_id":2447,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Flak Armor 1: NC ES AV"}
+,"2448": {"resist_info_id":2448,"resist_type_id":"42","resist_percent":"20","multiplier_when_headshot":"1","description":"Flak Armor 2: NC ES AV"}
+,"2449": {"resist_info_id":2449,"resist_type_id":"42","resist_percent":"30","multiplier_when_headshot":"1","description":"Flak Armor 3: NC ES AV"}
+,"2450": {"resist_info_id":2450,"resist_type_id":"42","resist_percent":"40","multiplier_when_headshot":"1","description":"Flak Armor 4: NC ES AV"}
+,"2451": {"resist_info_id":2451,"resist_type_id":"42","resist_percent":"50","multiplier_when_headshot":"1","description":"Flak Armor 5: NC ES AV"}
+,"2452": {"resist_info_id":2452,"resist_type_id":"42","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 1: NC ES AV"}
+,"2453": {"resist_info_id":2453,"resist_type_id":"42","resist_percent":"30","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 2: NC ES AV"}
+,"2454": {"resist_info_id":2454,"resist_type_id":"42","resist_percent":"20","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 3: NC ES AV"}
+,"2455": {"resist_info_id":2455,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 4: NC ES AV"}
+,"2456": {"resist_info_id":2456,"resist_type_id":"42","resist_percent":"0","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 5: NC ES AV"}
+,"2457": {"resist_info_id":2457,"resist_type_id":"42","resist_percent":"16","description":"Valkyrie - NC ES AV"}
+,"2458": {"resist_info_id":2458,"resist_type_id":"42","resist_percent":"-50","description":"Spitfire Auto-Turret - Anti-Vehicle: NC ES AV"}
+,"2459": {"resist_info_id":2459,"resist_type_id":"42","resist_percent":"50","multiplier_when_headshot":"1","description":"ANT - NC ES AV"}
+,"2460": {"resist_info_id":2460,"resist_type_id":"43","resist_percent":"21","multiplier_when_headshot":"1","description":"MAX - TR ES AV"}
+,"2461": {"resist_info_id":2461,"resist_type_id":"43","resist_percent":"-57.5","multiplier_when_headshot":"1","description":"Flash - TR ES AV"}
+,"2462": {"resist_info_id":2462,"resist_type_id":"43","resist_percent":"50","multiplier_when_headshot":"1","description":"Sunderer - TR ES AV"}
+,"2464": {"resist_info_id":2464,"resist_type_id":"43","resist_percent":"50","multiplier_when_headshot":"1","description":"Magrider - TR ES AV"}
+,"2465": {"resist_info_id":2465,"resist_type_id":"43","resist_percent":"50","multiplier_when_headshot":"1","description":"Vanguard - TR ES AV"}
+,"2466": {"resist_info_id":2466,"resist_type_id":"43","resist_percent":"50","multiplier_when_headshot":"1","description":"Prowler - TR ES AV"}
+,"2467": {"resist_info_id":2467,"resist_type_id":"43","resist_percent":"-33.5","multiplier_when_headshot":"1","description":"Scythe - TR ES AV"}
+,"2468": {"resist_info_id":2468,"resist_type_id":"43","resist_percent":"-33.5","multiplier_when_headshot":"1","description":"Reaver - TR ES AV"}
+,"2469": {"resist_info_id":2469,"resist_type_id":"43","resist_percent":"-33.5","multiplier_when_headshot":"1","description":"Mosquito - TR ES AV"}
+,"2470": {"resist_info_id":2470,"resist_type_id":"43","resist_percent":"13.5","multiplier_when_headshot":"1","description":"Liberator - TR ES AV"}
+,"2471": {"resist_info_id":2471,"resist_type_id":"43","resist_percent":"45","multiplier_when_headshot":"1","description":"Galaxy - TR ES AV"}
+,"2472": {"resist_info_id":2472,"resist_type_id":"43","resist_percent":"-57.5","multiplier_when_headshot":"1","description":"Drop Pod - TR ES AV"}
+,"2473": {"resist_info_id":2473,"resist_type_id":"43","resist_percent":"40","multiplier_when_headshot":"1","description":"Harasser - TR ES AV"}
+,"2474": {"resist_info_id":2474,"resist_type_id":"43","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - TR ES AV"}
+,"2475": {"resist_info_id":2475,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Facility: Terminals - TR ES AV"}
+,"2476": {"resist_info_id":2476,"resist_type_id":"43","resist_percent":"-5.5","resist_amount":"30","multiplier_when_headshot":"1","description":"MANA Engineer Turret - TR ES AV"}
+,"2477": {"resist_info_id":2477,"resist_type_id":"43","resist_percent":"50","multiplier_when_headshot":"1","description":"Phalanx - TR ES AV"}
+,"2478": {"resist_info_id":2478,"resist_type_id":"43","resist_percent":"-25.7","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 01: TR ES AV"}
+,"2479": {"resist_info_id":2479,"resist_type_id":"43","resist_percent":"-24.7","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 02: TR ES AV"}
+,"2480": {"resist_info_id":2480,"resist_type_id":"43","resist_percent":"-23.7","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 03: TR ES AV"}
+,"2481": {"resist_info_id":2481,"resist_type_id":"43","resist_percent":"-22.7","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 04: TR ES AV"}
+,"2482": {"resist_info_id":2482,"resist_type_id":"43","resist_percent":"-21.7","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 05: TR ES AV"}
+,"2483": {"resist_info_id":2483,"resist_type_id":"43","resist_percent":"10","multiplier_when_headshot":"1","description":"Flak Armor 1: TR ES AV"}
+,"2484": {"resist_info_id":2484,"resist_type_id":"43","resist_percent":"20","multiplier_when_headshot":"1","description":"Flak Armor 2: TR ES AV"}
+,"2485": {"resist_info_id":2485,"resist_type_id":"43","resist_percent":"30","multiplier_when_headshot":"1","description":"Flak Armor 3: TR ES AV"}
+,"2486": {"resist_info_id":2486,"resist_type_id":"43","resist_percent":"40","multiplier_when_headshot":"1","description":"Flak Armor 4: TR ES AV"}
+,"2487": {"resist_info_id":2487,"resist_type_id":"43","resist_percent":"50","multiplier_when_headshot":"1","description":"Flak Armor 5: TR ES AV"}
+,"2488": {"resist_info_id":2488,"resist_type_id":"43","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - TR ES AV w/Flak Armor 1"}
+,"2489": {"resist_info_id":2489,"resist_type_id":"43","resist_percent":"30","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - TR ES AV w/Flak Armor 2"}
+,"2490": {"resist_info_id":2490,"resist_type_id":"43","resist_percent":"20","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - TR ES AV w/Flak Armor 3"}
+,"2491": {"resist_info_id":2491,"resist_type_id":"43","resist_percent":"10","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - TR ES AV w/Flak Armor 4"}
+,"2492": {"resist_info_id":2492,"resist_type_id":"43","resist_percent":"0","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - TR ES AV w/Flak Armor 5"}
+,"2493": {"resist_info_id":2493,"resist_type_id":"43","resist_percent":"-33.5","description":"Valkyrie - TR ES AV"}
+,"2494": {"resist_info_id":2494,"resist_type_id":"43","resist_percent":"-50","description":"Spitfire Auto-Turret - TR ES AV"}
+,"2495": {"resist_info_id":2495,"resist_type_id":"43","resist_percent":"50","multiplier_when_headshot":"1","description":"ANT - TR ES AV"}
+,"2496": {"resist_info_id":2496,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Personal Defense  - Snipers TR"}
+,"2497": {"resist_info_id":2497,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Personal Defense  - Snipers NC"}
+,"2498": {"resist_info_id":2498,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Personal Defense  - Snipers VS"}
+,"2499": {"resist_info_id":2499,"resist_type_id":"23","resist_percent":"-90","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Air to Ground"}
+,"2500": {"resist_info_id":2500,"resist_type_id":"26","resist_percent":"-40","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Phoenix AV"}
+,"2501": {"resist_info_id":2501,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Tier 2 AV - Liberator"}
+,"2502": {"resist_info_id":2502,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Flak (Explosion)"}
+,"2503": {"resist_info_id":2503,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Flak (Projectile)"}
+,"2504": {"resist_info_id":2504,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Anti-Vehicle Mine"}
+,"2505": {"resist_info_id":2505,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: C4 (Boomer)"}
+,"2506": {"resist_info_id":2506,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Mass Drivers"}
+,"2507": {"resist_info_id":2507,"resist_type_id":"28","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Armor Piercing Chain Guns"}
+,"2508": {"resist_info_id":2508,"resist_type_id":"18","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Rocket Pods"}
+,"2509": {"resist_info_id":2509,"resist_type_id":"27","resist_percent":"25","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Armor Piercing Shell"}
+,"2510": {"resist_info_id":2510,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Vehicle Shotgun (Canister)"}
+,"2511": {"resist_info_id":2511,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Vehicle Grenades (Anti-Light Armor)"}
+,"2512": {"resist_info_id":2512,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Melee"}
+,"2513": {"resist_info_id":2513,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Personal Defense"}
+,"2514": {"resist_info_id":2514,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Tier 2 AV"}
+,"2515": {"resist_info_id":2515,"resist_type_id":"4","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Tier 1 AV"}
+,"2516": {"resist_info_id":2516,"resist_type_id":"5","resist_percent":"-90","multiplier_when_headshot":"1","description":"Construction - Phalanx Spear AV - Light AV"}
+,"2517": {"resist_info_id":2517,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Grenades"}
+,"2518": {"resist_info_id":2518,"resist_type_id":"7","resist_percent":"-90","multiplier_when_headshot":"1","description":"Construction - Phalanx Spear AV - Tank Shell"}
+,"2519": {"resist_info_id":2519,"resist_type_id":"8","resist_percent":"90.75","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Aircraft Machine Gun"}
+,"2520": {"resist_info_id":2520,"resist_type_id":"24","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Lancer AV"}
+,"2521": {"resist_info_id":2521,"resist_type_id":"22","resist_percent":"90","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Anti-Aircraft Machine Gun"}
+,"2522": {"resist_info_id":2522,"resist_type_id":"29","resist_percent":"43.5","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: VS Vortex AV"}
+,"2523": {"resist_info_id":2523,"resist_type_id":"30","resist_percent":"-18","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: VS Vortex AV: C2"}
+,"2524": {"resist_info_id":2524,"resist_type_id":"31","resist_percent":"-65","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: VS Vortex AV: C3"}
+,"2525": {"resist_info_id":2525,"resist_type_id":"32","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: MAX AV"}
+,"2526": {"resist_info_id":2526,"resist_type_id":"34","resist_percent":"37","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Default Rocket Launcher"}
+,"2527": {"resist_info_id":2527,"resist_type_id":"37","resist_percent":"-10","description":"Deployed Phalanx AV: Liberator Cannon"}
+,"2528": {"resist_info_id":2528,"resist_type_id":"38","resist_percent":"-10","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Striker"}
+,"2529": {"resist_info_id":2529,"resist_type_id":"39","resist_percent":"-25","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Rocklet Rifle"}
+,"2530": {"resist_info_id":2530,"resist_type_id":"40","resist_percent":"-5","description":"Deployed Phalanx AV: Anti Materiel Rifle"}
+,"2531": {"resist_info_id":2531,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: VS ES AV"}
+,"2532": {"resist_info_id":2532,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: NC ES AV"}
+,"2533": {"resist_info_id":2533,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: TR ES AV"}
+,"2534": {"resist_info_id":2534,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Personal Defense  - Snipers TR"}
+,"2535": {"resist_info_id":2535,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Personal Defense  - Snipers NC"}
+,"2536": {"resist_info_id":2536,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Personal Defense  - Snipers VS"}
+,"2537": {"resist_info_id":2537,"resist_type_id":"23","resist_percent":"-90","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Air to Ground"}
+,"2538": {"resist_info_id":2538,"resist_type_id":"26","resist_percent":"-40","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Phoenix AV"}
+,"2539": {"resist_info_id":2539,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Tier 2 AV - Liberator"}
+,"2540": {"resist_info_id":2540,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Flak (Explosion)"}
+,"2541": {"resist_info_id":2541,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Flak (Projectile)"}
+,"2542": {"resist_info_id":2542,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Anti-Vehicle Mine"}
+,"2543": {"resist_info_id":2543,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: C4 (Boomer)"}
+,"2544": {"resist_info_id":2544,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Mass Drivers"}
+,"2545": {"resist_info_id":2545,"resist_type_id":"28","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Armor Piercing Chain Guns"}
+,"2546": {"resist_info_id":2546,"resist_type_id":"18","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Rocket Pods"}
+,"2547": {"resist_info_id":2547,"resist_type_id":"27","resist_percent":"25","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Armor Piercing Shell"}
+,"2548": {"resist_info_id":2548,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Vehicle Shotgun (Canister)"}
+,"2549": {"resist_info_id":2549,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Vehicle Grenades (Anti-Light Armor)"}
+,"2550": {"resist_info_id":2550,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Melee"}
+,"2551": {"resist_info_id":2551,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Personal Defense"}
+,"2552": {"resist_info_id":2552,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Tier 2 AV"}
+,"2553": {"resist_info_id":2553,"resist_type_id":"4","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Tier 1 AV"}
+,"2554": {"resist_info_id":2554,"resist_type_id":"5","resist_percent":"-90","multiplier_when_headshot":"1","description":"Construction - Phalanx Aspis AA - Light AV"}
+,"2555": {"resist_info_id":2555,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Grenades"}
+,"2556": {"resist_info_id":2556,"resist_type_id":"7","resist_percent":"-90","multiplier_when_headshot":"1","description":"Construction - Phalanx Aspis AA - Tank Shell"}
+,"2557": {"resist_info_id":2557,"resist_type_id":"8","resist_percent":"90.75","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Aircraft Machine Gun"}
+,"2558": {"resist_info_id":2558,"resist_type_id":"24","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Lancer AV"}
+,"2559": {"resist_info_id":2559,"resist_type_id":"22","resist_percent":"90","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Anti-Aircraft Machine Gun"}
+,"2560": {"resist_info_id":2560,"resist_type_id":"29","resist_percent":"43.5","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: VS Vortex AV"}
+,"2561": {"resist_info_id":2561,"resist_type_id":"30","resist_percent":"-18","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: VS Vortex AV: C2"}
+,"2562": {"resist_info_id":2562,"resist_type_id":"31","resist_percent":"-65","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: VS Vortex AV: C3"}
+,"2563": {"resist_info_id":2563,"resist_type_id":"32","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: MAX AV"}
+,"2564": {"resist_info_id":2564,"resist_type_id":"34","resist_percent":"37","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Default Rocket Launcher"}
+,"2565": {"resist_info_id":2565,"resist_type_id":"37","resist_percent":"-10","description":"Deployed AA Phalanx: Liberator Cannon"}
+,"2566": {"resist_info_id":2566,"resist_type_id":"38","resist_percent":"-10","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Striker"}
+,"2567": {"resist_info_id":2567,"resist_type_id":"39","resist_percent":"-25","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Rocklet Rifle"}
+,"2568": {"resist_info_id":2568,"resist_type_id":"40","resist_percent":"-5","description":"Deployed AA Phalanx: Anti Materiel Rifle"}
+,"2569": {"resist_info_id":2569,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: VS ES AV"}
+,"2570": {"resist_info_id":2570,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: NC ES AV"}
+,"2571": {"resist_info_id":2571,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: TR ES AV"}
+,"2572": {"resist_info_id":2572,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Personal Defense  - Snipers TR"}
+,"2573": {"resist_info_id":2573,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Personal Defense  - Snipers NC"}
+,"2574": {"resist_info_id":2574,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Personal Defense  - Snipers VS"}
+,"2575": {"resist_info_id":2575,"resist_type_id":"23","resist_percent":"-90","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Air to Ground"}
+,"2576": {"resist_info_id":2576,"resist_type_id":"26","resist_percent":"-40","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Phoenix AV"}
+,"2577": {"resist_info_id":2577,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Tier 2 AV - Liberator"}
+,"2578": {"resist_info_id":2578,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Flak (Explosion)"}
+,"2579": {"resist_info_id":2579,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Flak (Projectile)"}
+,"2580": {"resist_info_id":2580,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Anti-Vehicle Mine"}
+,"2581": {"resist_info_id":2581,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: C4 (Boomer)"}
+,"2582": {"resist_info_id":2582,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Mass Drivers"}
+,"2583": {"resist_info_id":2583,"resist_type_id":"28","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Armor Piercing Chain Guns"}
+,"2584": {"resist_info_id":2584,"resist_type_id":"18","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Rocket Pods"}
+,"2585": {"resist_info_id":2585,"resist_type_id":"27","resist_percent":"25","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Armor Piercing Shell"}
+,"2586": {"resist_info_id":2586,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Vehicle Shotgun (Canister)"}
+,"2587": {"resist_info_id":2587,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Vehicle Grenades (Anti-Light Armor)"}
+,"2588": {"resist_info_id":2588,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Melee"}
+,"2589": {"resist_info_id":2589,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Personal Defense"}
+,"2590": {"resist_info_id":2590,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Tier 2 AV"}
+,"2591": {"resist_info_id":2591,"resist_type_id":"4","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Tier 1 AV"}
+,"2592": {"resist_info_id":2592,"resist_type_id":"5","resist_percent":"-90","multiplier_when_headshot":"1","description":"Construction - Phalanx Xiphos AI - Light AV"}
+,"2593": {"resist_info_id":2593,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Grenades"}
+,"2594": {"resist_info_id":2594,"resist_type_id":"7","resist_percent":"-90","multiplier_when_headshot":"1","description":"Construction - Phalanx Xiphos AI - Tank Shell"}
+,"2595": {"resist_info_id":2595,"resist_type_id":"8","resist_percent":"90.75","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Aircraft Machine Gun"}
+,"2596": {"resist_info_id":2596,"resist_type_id":"24","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Lancer AV"}
+,"2597": {"resist_info_id":2597,"resist_type_id":"22","resist_percent":"90","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Anti-Aircraft Machine Gun"}
+,"2598": {"resist_info_id":2598,"resist_type_id":"29","resist_percent":"43.5","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: VS Vortex AV"}
+,"2599": {"resist_info_id":2599,"resist_type_id":"30","resist_percent":"-18","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: VS Vortex AV: C2"}
+,"2600": {"resist_info_id":2600,"resist_type_id":"31","resist_percent":"-65","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: VS Vortex AV: C3"}
+,"2601": {"resist_info_id":2601,"resist_type_id":"32","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: MAX AV"}
+,"2602": {"resist_info_id":2602,"resist_type_id":"34","resist_percent":"37","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Default Rocket Launcher"}
+,"2603": {"resist_info_id":2603,"resist_type_id":"37","resist_percent":"-10","description":"Deployed AI Phalanx: Liberator Cannon"}
+,"2604": {"resist_info_id":2604,"resist_type_id":"38","resist_percent":"-10","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Striker"}
+,"2605": {"resist_info_id":2605,"resist_type_id":"39","resist_percent":"-25","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Rocklet Rifle"}
+,"2606": {"resist_info_id":2606,"resist_type_id":"40","resist_percent":"-5","description":"Deployed AI Phalanx: Anti Materiel Rifle"}
+,"2607": {"resist_info_id":2607,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: VS ES AV"}
+,"2608": {"resist_info_id":2608,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: NC ES AV"}
+,"2609": {"resist_info_id":2609,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: TR ES AV"}
+,"2610": {"resist_info_id":2610,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Personal Defense - Snipers TR"}
+,"2611": {"resist_info_id":2611,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Personal Defense - Snipers NC"}
+,"2612": {"resist_info_id":2612,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Personal Defense - Snipers VS"}
+,"2613": {"resist_info_id":2613,"resist_type_id":"23","resist_percent":"-50","multiplier_when_headshot":"1","description":"Rampart Wall: Air to Ground"}
+,"2614": {"resist_info_id":2614,"resist_type_id":"26","resist_percent":"20","multiplier_when_headshot":"1","description":"Rampart Wall: Phoenix AV"}
+,"2615": {"resist_info_id":2615,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Rampart Wall: Tier 2 AV - Liberator"}
+,"2616": {"resist_info_id":2616,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Flak (Explosion)"}
+,"2617": {"resist_info_id":2617,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Flak (Projectile)"}
+,"2618": {"resist_info_id":2618,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Rampart Wall: Anti-Vehicle Mine"}
+,"2619": {"resist_info_id":2619,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Rampart Wall: C4 (Boomer)"}
+,"2620": {"resist_info_id":2620,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Rampart Wall: Mass Drivers"}
+,"2621": {"resist_info_id":2621,"resist_type_id":"28","resist_percent":"70","multiplier_when_headshot":"1","description":"Rampart Wall: Armor Piercing Chain Guns"}
+,"2622": {"resist_info_id":2622,"resist_type_id":"18","resist_percent":"0","multiplier_when_headshot":"1","description":"Rampart Wall: Rocket Pods"}
+,"2623": {"resist_info_id":2623,"resist_type_id":"27","resist_percent":"40","multiplier_when_headshot":"1","description":"Rampart Wall: Armor Piercing Shell"}
+,"2624": {"resist_info_id":2624,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Vehicle Shotgun (Canister)"}
+,"2625": {"resist_info_id":2625,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Vehicle Grenades (Anti-Light Armor)"}
+,"2626": {"resist_info_id":2626,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Melee"}
+,"2627": {"resist_info_id":2627,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Personal Defense"}
+,"2628": {"resist_info_id":2628,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"Rampart Wall: Tier 2 AV"}
+,"2629": {"resist_info_id":2629,"resist_type_id":"4","resist_percent":"70","multiplier_when_headshot":"1","description":"Rampart Wall: Tier 1 AV"}
+,"2630": {"resist_info_id":2630,"resist_type_id":"5","resist_percent":"35","multiplier_when_headshot":"1","description":"Rampart Wall: Tier 3 AV"}
+,"2631": {"resist_info_id":2631,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Grenades"}
+,"2632": {"resist_info_id":2632,"resist_type_id":"7","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction - Rampart Wall - Tank Shell"}
+,"2633": {"resist_info_id":2633,"resist_type_id":"8","resist_percent":"90.75","multiplier_when_headshot":"1","description":"Rampart Wall: Aircraft Machine Gun"}
+,"2634": {"resist_info_id":2634,"resist_type_id":"24","resist_percent":"50","multiplier_when_headshot":"1","description":"Rampart Wall: Lancer AV"}
+,"2635": {"resist_info_id":2635,"resist_type_id":"22","resist_percent":"90","multiplier_when_headshot":"1","description":"Rampart Wall: Anti-Aircraft Machine Gun"}
+,"2636": {"resist_info_id":2636,"resist_type_id":"29","resist_percent":"50","multiplier_when_headshot":"1","description":"Rampart Wall: VS Vortex AV"}
+,"2637": {"resist_info_id":2637,"resist_type_id":"30","resist_percent":"10","multiplier_when_headshot":"1","description":"Rampart Wall: VS Vortex AV: C2"}
+,"2638": {"resist_info_id":2638,"resist_type_id":"31","resist_percent":"0","multiplier_when_headshot":"1","description":"Rampart Wall: VS Vortex AV: C3"}
+,"2639": {"resist_info_id":2639,"resist_type_id":"32","resist_percent":"30","multiplier_when_headshot":"1","description":"Rampart Wall: MAX AV"}
+,"2640": {"resist_info_id":2640,"resist_type_id":"34","resist_percent":"37","multiplier_when_headshot":"1","description":"Rampart Wall: Default Rocket Launcher"}
+,"2641": {"resist_info_id":2641,"resist_type_id":"37","resist_percent":"35","description":"Rampart Wall: Liberator Cannon"}
+,"2642": {"resist_info_id":2642,"resist_type_id":"38","resist_percent":"0","multiplier_when_headshot":"1","description":"Rampart Wall: Striker"}
+,"2643": {"resist_info_id":2643,"resist_type_id":"39","resist_percent":"-25","multiplier_when_headshot":"1","description":"Rampart Wall: Rocklet Rifle"}
+,"2644": {"resist_info_id":2644,"resist_type_id":"40","resist_percent":"10","description":"Rampart Wall: Anti Materiel Rifle"}
+,"2645": {"resist_info_id":2645,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Rampart Wall: VS ES AV"}
+,"2646": {"resist_info_id":2646,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Rampart Wall: NC ES AV"}
+,"2647": {"resist_info_id":2647,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Rampart Wall: TR ES AV"}
+,"2670": {"resist_info_id":2670,"resist_type_id":"13","resist_percent":"100","description":"Deployed: Turret: Dynamic Collision"}
+,"2686": {"resist_info_id":2686,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Personal Defense  - Snipers TR"}
+,"2687": {"resist_info_id":2687,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Personal Defense  - Snipers NC"}
+,"2688": {"resist_info_id":2688,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Personal Defense  - Snipers VS"}
+,"2689": {"resist_info_id":2689,"resist_type_id":"23","resist_percent":"-25","multiplier_when_headshot":"1","description":"Deployed Repair Module: Air to Ground"}
+,"2690": {"resist_info_id":2690,"resist_type_id":"26","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Repair Module: Phoenix AV"}
+,"2691": {"resist_info_id":2691,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Repair Module: Tier 2 AV - Liberator"}
+,"2692": {"resist_info_id":2692,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Flak (Explosion)"}
+,"2693": {"resist_info_id":2693,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Flak (Projectile)"}
+,"2694": {"resist_info_id":2694,"resist_type_id":"9","resist_percent":"-20","multiplier_when_headshot":"1","description":"Deployed Repair Module: Anti-Vehicle Mine"}
+,"2695": {"resist_info_id":2695,"resist_type_id":"11","resist_percent":"-60","multiplier_when_headshot":"1","description":"Deployed Repair Module: C4 (Boomer)"}
+,"2696": {"resist_info_id":2696,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed Repair Module: Mass Drivers"}
+,"2697": {"resist_info_id":2697,"resist_type_id":"28","resist_percent":"50","multiplier_when_headshot":"1","description":"Deployed Repair Module: Armor Piercing Chain Guns"}
+,"2698": {"resist_info_id":2698,"resist_type_id":"18","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Repair Module: Rocket Pods"}
+,"2699": {"resist_info_id":2699,"resist_type_id":"27","resist_percent":"51","multiplier_when_headshot":"1","description":"Deployed Repair Module: Armor Piercing Shell"}
+,"2700": {"resist_info_id":2700,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Vehicle Shotgun (Canister)"}
+,"2701": {"resist_info_id":2701,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Vehicle Grenades (Anti-Light Armor)"}
+,"2702": {"resist_info_id":2702,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Melee"}
+,"2703": {"resist_info_id":2703,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Personal Defense"}
+,"2704": {"resist_info_id":2704,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Repair Module: Tier 2 AV"}
+,"2705": {"resist_info_id":2705,"resist_type_id":"4","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Repair Module: Tier 1 AV"}
+,"2706": {"resist_info_id":2706,"resist_type_id":"5","resist_percent":"-60","multiplier_when_headshot":"1","description":"Deployed Repair Module: Tier 3 AV"}
+,"2707": {"resist_info_id":2707,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Grenades"}
+,"2708": {"resist_info_id":2708,"resist_type_id":"7","resist_percent":"-25","multiplier_when_headshot":"1","description":"Construction - Repair Module - Tank Shell"}
+,"2709": {"resist_info_id":2709,"resist_type_id":"8","resist_percent":"90.75","multiplier_when_headshot":"1","description":"Deployed Repair Module: Aircraft Machine Gun"}
+,"2710": {"resist_info_id":2710,"resist_type_id":"24","resist_percent":"20","multiplier_when_headshot":"1","description":"Deployed Repair Module: Lancer AV"}
+,"2711": {"resist_info_id":2711,"resist_type_id":"22","resist_percent":"90","multiplier_when_headshot":"1","description":"Deployed Repair Module: Anti-Aircraft Machine Gun"}
+,"2712": {"resist_info_id":2712,"resist_type_id":"29","resist_percent":"50","multiplier_when_headshot":"1","description":"Deployed Repair Module: VS Vortex AV"}
+,"2713": {"resist_info_id":2713,"resist_type_id":"30","resist_percent":"20","multiplier_when_headshot":"1","description":"Deployed Repair Module: VS Vortex AV: C2"}
+,"2714": {"resist_info_id":2714,"resist_type_id":"31","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Repair Module: VS Vortex AV: C3"}
+,"2715": {"resist_info_id":2715,"resist_type_id":"32","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed Repair Module: MAX AV"}
+,"2716": {"resist_info_id":2716,"resist_type_id":"34","resist_percent":"37","multiplier_when_headshot":"1","description":"Deployed Repair Module: Default Rocket Launcher"}
+,"2717": {"resist_info_id":2717,"resist_type_id":"37","resist_percent":"35","description":"Deployed Repair Module: Liberator Cannon"}
+,"2718": {"resist_info_id":2718,"resist_type_id":"38","resist_percent":"3","multiplier_when_headshot":"1","description":"Deployed Repair Module: Striker"}
+,"2719": {"resist_info_id":2719,"resist_type_id":"39","resist_percent":"-25","multiplier_when_headshot":"1","description":"Deployed Repair Module: Rocklet Rifle"}
+,"2720": {"resist_info_id":2720,"resist_type_id":"40","resist_percent":"10","description":"Deployed Repair Module: Anti-Materiel Rifle"}
+,"2721": {"resist_info_id":2721,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Repair Module: VS ES AV"}
+,"2722": {"resist_info_id":2722,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Deployed Repair Module: NC ES AV"}
+,"2723": {"resist_info_id":2723,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed Repair Module: TR ES AV"}
+,"2724": {"resist_info_id":2724,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Personal Defense  - Snipers TR"}
+,"2725": {"resist_info_id":2725,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Personal Defense  - Snipers NC"}
+,"2726": {"resist_info_id":2726,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Personal Defense  - Snipers VS"}
+,"2727": {"resist_info_id":2727,"resist_type_id":"23","resist_percent":"-50","multiplier_when_headshot":"1","description":"Sunderer Garage: Air to Ground"}
+,"2728": {"resist_info_id":2728,"resist_type_id":"26","resist_percent":"20","multiplier_when_headshot":"1","description":"Sunderer Garage: Phoenix AV"}
+,"2729": {"resist_info_id":2729,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Sunderer Garage: Tier 2 AV - Liberator"}
+,"2730": {"resist_info_id":2730,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Flak (Explosion)"}
+,"2731": {"resist_info_id":2731,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Flak (Projectile)"}
+,"2732": {"resist_info_id":2732,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Sunderer Garage: Anti-Vehicle Mine"}
+,"2733": {"resist_info_id":2733,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Sunderer Garage: C4 (Boomer)"}
+,"2734": {"resist_info_id":2734,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Sunderer Garage: Mass Drivers"}
+,"2735": {"resist_info_id":2735,"resist_type_id":"28","resist_percent":"70","multiplier_when_headshot":"1","description":"Sunderer Garage: Armor Piercing Chain Guns"}
+,"2736": {"resist_info_id":2736,"resist_type_id":"18","resist_percent":"0","multiplier_when_headshot":"1","description":"Sunderer Garage: Rocket Pods"}
+,"2737": {"resist_info_id":2737,"resist_type_id":"27","resist_percent":"40","multiplier_when_headshot":"1","description":"Sunderer Garage: Armor Piercing Shell"}
+,"2738": {"resist_info_id":2738,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Vehicle Shotgun (Canister)"}
+,"2739": {"resist_info_id":2739,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Vehicle Grenades (Anti-Light Armor)"}
+,"2740": {"resist_info_id":2740,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Melee"}
+,"2741": {"resist_info_id":2741,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Personal Defense"}
+,"2742": {"resist_info_id":2742,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"Sunderer Garage: Tier 2 AV"}
+,"2743": {"resist_info_id":2743,"resist_type_id":"4","resist_percent":"70","multiplier_when_headshot":"1","description":"Sunderer Garage: Tier 1 AV"}
+,"2744": {"resist_info_id":2744,"resist_type_id":"5","resist_percent":"35","multiplier_when_headshot":"1","description":"Sunderer Garage: Tier 3 AV"}
+,"2745": {"resist_info_id":2745,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Grenades"}
+,"2746": {"resist_info_id":2746,"resist_type_id":"7","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction - Sunderer Garage - Tank Shell"}
+,"2747": {"resist_info_id":2747,"resist_type_id":"8","resist_percent":"90.75","multiplier_when_headshot":"1","description":"Sunderer Garage: Aircraft Machine Gun"}
+,"2748": {"resist_info_id":2748,"resist_type_id":"24","resist_percent":"50","multiplier_when_headshot":"1","description":"Sunderer Garage: Lancer AV"}
+,"2749": {"resist_info_id":2749,"resist_type_id":"22","resist_percent":"90","multiplier_when_headshot":"1","description":"Sunderer Garage: Anti-Aircraft Machine Gun"}
+,"2750": {"resist_info_id":2750,"resist_type_id":"29","resist_percent":"50","multiplier_when_headshot":"1","description":"Sunderer Garage: VS Vortex AV"}
+,"2751": {"resist_info_id":2751,"resist_type_id":"30","resist_percent":"10","multiplier_when_headshot":"1","description":"Sunderer Garage: VS Vortex AV: C2"}
+,"2752": {"resist_info_id":2752,"resist_type_id":"31","resist_percent":"0","multiplier_when_headshot":"1","description":"Sunderer Garage: VS Vortex AV: C3"}
+,"2753": {"resist_info_id":2753,"resist_type_id":"32","resist_percent":"30","multiplier_when_headshot":"1","description":"Sunderer Garage: MAX AV"}
+,"2754": {"resist_info_id":2754,"resist_type_id":"34","resist_percent":"37","multiplier_when_headshot":"1","description":"Sunderer Garage: Default Rocket Launcher"}
+,"2755": {"resist_info_id":2755,"resist_type_id":"37","resist_percent":"35","description":"Sunderer Garage: Liberator Cannon"}
+,"2756": {"resist_info_id":2756,"resist_type_id":"38","resist_percent":"0","multiplier_when_headshot":"1","description":"Sunderer Garage: Striker"}
+,"2757": {"resist_info_id":2757,"resist_type_id":"39","resist_percent":"-25","multiplier_when_headshot":"1","description":"Sunderer Garage: Rocklet Rifle"}
+,"2758": {"resist_info_id":2758,"resist_type_id":"40","resist_percent":"10","description":"Sunderer Garage: Anti Materiel Rifle"}
+,"2759": {"resist_info_id":2759,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Sunderer Garage: VS ES AV"}
+,"2760": {"resist_info_id":2760,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Sunderer Garage: NC ES AV"}
+,"2761": {"resist_info_id":2761,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Sunderer Garage: TR ES AV"}
+,"2762": {"resist_info_id":2762,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Personal Defense  - Snipers TR"}
+,"2763": {"resist_info_id":2763,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Personal Defense  - Snipers NC"}
+,"2764": {"resist_info_id":2764,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Personal Defense  - Snipers VS"}
+,"2765": {"resist_info_id":2765,"resist_type_id":"23","resist_percent":"-50","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Air to Ground"}
+,"2766": {"resist_info_id":2766,"resist_type_id":"26","resist_percent":"20","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Phoenix AV"}
+,"2767": {"resist_info_id":2767,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Tier 2 AV - Liberator"}
+,"2768": {"resist_info_id":2768,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Flak (Explosion)"}
+,"2769": {"resist_info_id":2769,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Flak (Projectile)"}
+,"2770": {"resist_info_id":2770,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Anti-Vehicle Mine"}
+,"2771": {"resist_info_id":2771,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: C4 (Boomer)"}
+,"2772": {"resist_info_id":2772,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Mass Drivers"}
+,"2773": {"resist_info_id":2773,"resist_type_id":"28","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Armor Piercing Chain Guns"}
+,"2774": {"resist_info_id":2774,"resist_type_id":"18","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Rocket Pods"}
+,"2775": {"resist_info_id":2775,"resist_type_id":"27","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Armor Piercing Shell"}
+,"2776": {"resist_info_id":2776,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Vehicle Shotgun (Canister)"}
+,"2777": {"resist_info_id":2777,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Vehicle Grenades (Anti-Light Armor)"}
+,"2778": {"resist_info_id":2778,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Melee"}
+,"2779": {"resist_info_id":2779,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Personal Defense"}
+,"2780": {"resist_info_id":2780,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Tier 2 AV"}
+,"2781": {"resist_info_id":2781,"resist_type_id":"4","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Tier 1 AV"}
+,"2782": {"resist_info_id":2782,"resist_type_id":"5","resist_percent":"35","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Tier 3 AV"}
+,"2783": {"resist_info_id":2783,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Grenades"}
+,"2784": {"resist_info_id":2784,"resist_type_id":"7","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction - Bunker - Tank Shell"}
+,"2785": {"resist_info_id":2785,"resist_type_id":"8","resist_percent":"90.75","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Aircraft Machine Gun"}
+,"2786": {"resist_info_id":2786,"resist_type_id":"24","resist_percent":"50","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Lancer AV"}
+,"2787": {"resist_info_id":2787,"resist_type_id":"22","resist_percent":"90","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Anti-Aircraft Machine Gun"}
+,"2788": {"resist_info_id":2788,"resist_type_id":"29","resist_percent":"50","multiplier_when_headshot":"1","description":"Deployed Bunker 001: VS Vortex AV"}
+,"2789": {"resist_info_id":2789,"resist_type_id":"30","resist_percent":"10","multiplier_when_headshot":"1","description":"Deployed Bunker 001: VS Vortex AV: C2"}
+,"2790": {"resist_info_id":2790,"resist_type_id":"31","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Bunker 001: VS Vortex AV: C3"}
+,"2791": {"resist_info_id":2791,"resist_type_id":"32","resist_percent":"30","multiplier_when_headshot":"1","description":"Deployed Bunker 001: MAX AV"}
+,"2792": {"resist_info_id":2792,"resist_type_id":"34","resist_percent":"37","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Default Rocket Launcher"}
+,"2793": {"resist_info_id":2793,"resist_type_id":"37","resist_percent":"35","description":"Deployed Bunker 001: Liberator Cannon"}
+,"2794": {"resist_info_id":2794,"resist_type_id":"38","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Striker"}
+,"2795": {"resist_info_id":2795,"resist_type_id":"39","resist_percent":"-25","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Rocklet Rifle"}
+,"2796": {"resist_info_id":2796,"resist_type_id":"40","resist_percent":"10","description":"Deployed Bunker 001: Anti-Materiel Rifle"}
+,"2797": {"resist_info_id":2797,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Bunker 001: VS ES AV"}
+,"2798": {"resist_info_id":2798,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Deployed Bunker 001: NC ES AV"}
+,"2799": {"resist_info_id":2799,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed Bunker 001: TR ES AV"}
+,"2800": {"resist_info_id":2800,"resist_type_id":"15","resist_percent":"75","multiplier_when_headshot":"1","description":"VP Chassis: Personal Defense  - Snipers TR"}
+,"2801": {"resist_info_id":2801,"resist_type_id":"20","resist_percent":"75","multiplier_when_headshot":"1","description":"VP Chassis: Personal Defense  - Snipers NC"}
+,"2802": {"resist_info_id":2802,"resist_type_id":"21","resist_percent":"75","multiplier_when_headshot":"1","description":"VP Chassis: Personal Defense  - Snipers VS"}
+,"2803": {"resist_info_id":2803,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"VP Chassis: Air to Ground"}
+,"2804": {"resist_info_id":2804,"resist_type_id":"26","resist_percent":"70","multiplier_when_headshot":"1","description":"VP Chassis: Phoenix AV"}
+,"2805": {"resist_info_id":2805,"resist_type_id":"25","resist_percent":"100","multiplier_when_headshot":"1","description":"VP Chassis: Tier 2 AV - Liberator"}
+,"2806": {"resist_info_id":2806,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"VP Chassis: Flak (Explosion)"}
+,"2807": {"resist_info_id":2807,"resist_type_id":"19","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: Flak (Projectile)"}
+,"2808": {"resist_info_id":2808,"resist_type_id":"9","resist_percent":"95","multiplier_when_headshot":"1","description":"VP Chassis: Anti-Vehicle Mine"}
+,"2809": {"resist_info_id":2809,"resist_type_id":"11","resist_percent":"50","multiplier_when_headshot":"1","description":"VP Chassis: C4 (Boomer)"}
+,"2810": {"resist_info_id":2810,"resist_type_id":"33","resist_percent":"98","multiplier_when_headshot":"1","description":"VP Chassis: Mass Drivers"}
+,"2811": {"resist_info_id":2811,"resist_type_id":"28","resist_percent":"70","multiplier_when_headshot":"1","description":"VP Chassis: Armor Piercing Chain Guns"}
+,"2812": {"resist_info_id":2812,"resist_type_id":"18","resist_percent":"98","multiplier_when_headshot":"1","description":"VP Chassis: Rocket Pods"}
+,"2813": {"resist_info_id":2813,"resist_type_id":"27","resist_percent":"70","multiplier_when_headshot":"1","description":"VP Chassis: Armor Piercing Shell"}
+,"2814": {"resist_info_id":2814,"resist_type_id":"35","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: Vehicle Shotgun (Canister)"}
+,"2815": {"resist_info_id":2815,"resist_type_id":"36","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: Vehicle Grenades (Anti-Light Armor)"}
+,"2816": {"resist_info_id":2816,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"VP Chassis: Melee"}
+,"2817": {"resist_info_id":2817,"resist_type_id":"2","resist_percent":"92","multiplier_when_headshot":"1","description":"VP Chassis: Personal Defense"}
+,"2818": {"resist_info_id":2818,"resist_type_id":"3","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: Tier 2 AV"}
+,"2819": {"resist_info_id":2819,"resist_type_id":"4","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: Tier 1 AV"}
+,"2820": {"resist_info_id":2820,"resist_type_id":"5","resist_percent":"50","multiplier_when_headshot":"1","description":"VP Chassis: Tier 3 AV"}
+,"2821": {"resist_info_id":2821,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"VP Chassis: Grenades"}
+,"2822": {"resist_info_id":2822,"resist_type_id":"7","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction - Generator Chassis - Tank Shell"}
+,"2823": {"resist_info_id":2823,"resist_type_id":"8","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: Aircraft Machine Gun"}
+,"2824": {"resist_info_id":2824,"resist_type_id":"24","resist_percent":"70","multiplier_when_headshot":"1","description":"VP Chassis: Lancer AV"}
+,"2825": {"resist_info_id":2825,"resist_type_id":"22","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: Anti-Aircraft Machine Gun"}
+,"2826": {"resist_info_id":2826,"resist_type_id":"29","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: VS Vortex AV"}
+,"2827": {"resist_info_id":2827,"resist_type_id":"30","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: VS Vortex AV: C2"}
+,"2828": {"resist_info_id":2828,"resist_type_id":"31","resist_percent":"80","multiplier_when_headshot":"1","description":"VP Chassis: VS Vortex AV: C3"}
+,"2829": {"resist_info_id":2829,"resist_type_id":"32","resist_percent":"99","multiplier_when_headshot":"1","description":"VP Chassis: MAX AV"}
+,"2830": {"resist_info_id":2830,"resist_type_id":"34","resist_percent":"70","multiplier_when_headshot":"1","description":"VP Chassis: Default Rocket Launcher"}
+,"2831": {"resist_info_id":2831,"resist_type_id":"37","resist_percent":"60","description":"VP Chassis: Liberator Cannon"}
+,"2832": {"resist_info_id":2832,"resist_type_id":"38","resist_percent":"0","multiplier_when_headshot":"1","description":"VP Chassis: Striker"}
+,"2833": {"resist_info_id":2833,"resist_type_id":"39","resist_percent":"99","multiplier_when_headshot":"1","description":"VP Chassis: Rocklet Rifle"}
+,"2834": {"resist_info_id":2834,"resist_type_id":"40","resist_percent":"30","description":"VP Chassis: Anti Materiel Rifle"}
+,"2835": {"resist_info_id":2835,"resist_type_id":"41","resist_percent":"50","multiplier_when_headshot":"1","description":"VP Chassis: VS ES AV"}
+,"2836": {"resist_info_id":2836,"resist_type_id":"42","resist_percent":"50","multiplier_when_headshot":"1","description":"VP Chassis: NC ES AV"}
+,"2837": {"resist_info_id":2837,"resist_type_id":"43","resist_percent":"50","multiplier_when_headshot":"1","description":"VP Chassis: TR ES AV"}
+,"2838": {"resist_info_id":2838,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Personal Defense  - Snipers TR"}
+,"2839": {"resist_info_id":2839,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Personal Defense  - Snipers NC"}
+,"2840": {"resist_info_id":2840,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Personal Defense  - Snipers VS"}
+,"2841": {"resist_info_id":2841,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction - Blast Shield - Air to Ground"}
+,"2842": {"resist_info_id":2842,"resist_type_id":"26","resist_percent":"20","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Phoenix AV"}
+,"2843": {"resist_info_id":2843,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Tier 2 AV - Liberator"}
+,"2844": {"resist_info_id":2844,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Flak (Explosion)"}
+,"2845": {"resist_info_id":2845,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Flak (Projectile)"}
+,"2846": {"resist_info_id":2846,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Anti-Vehicle Mine"}
+,"2847": {"resist_info_id":2847,"resist_type_id":"11","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Blast Shield: C4 (Boomer)"}
+,"2848": {"resist_info_id":2848,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Mass Drivers"}
+,"2849": {"resist_info_id":2849,"resist_type_id":"28","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Armor Piercing Chain Guns"}
+,"2850": {"resist_info_id":2850,"resist_type_id":"18","resist_percent":"50","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Rocket Pods"}
+,"2851": {"resist_info_id":2851,"resist_type_id":"27","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Armor Piercing Shell"}
+,"2852": {"resist_info_id":2852,"resist_type_id":"35","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Vehicle Shotgun (Canister)"}
+,"2853": {"resist_info_id":2853,"resist_type_id":"36","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Vehicle Grenades (Anti-Light Armor)"}
+,"2854": {"resist_info_id":2854,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Melee"}
+,"2855": {"resist_info_id":2855,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Personal Defense"}
+,"2856": {"resist_info_id":2856,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Tier 2 AV"}
+,"2857": {"resist_info_id":2857,"resist_type_id":"4","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Tier 1 AV"}
+,"2858": {"resist_info_id":2858,"resist_type_id":"5","resist_percent":"35","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Tier 3 AV"}
+,"2859": {"resist_info_id":2859,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Grenades"}
+,"2860": {"resist_info_id":2860,"resist_type_id":"7","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction - Blast Shield - Tank Shell"}
+,"2861": {"resist_info_id":2861,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Aircraft Machine Gun"}
+,"2862": {"resist_info_id":2862,"resist_type_id":"24","resist_percent":"50","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Lancer AV"}
+,"2863": {"resist_info_id":2863,"resist_type_id":"22","resist_percent":"90","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Anti-Aircraft Machine Gun"}
+,"2864": {"resist_info_id":2864,"resist_type_id":"29","resist_percent":"50","multiplier_when_headshot":"1","description":"Deployed Blast Shield: VS Vortex AV"}
+,"2865": {"resist_info_id":2865,"resist_type_id":"30","resist_percent":"10","multiplier_when_headshot":"1","description":"Deployed Blast Shield: VS Vortex AV: C2"}
+,"2866": {"resist_info_id":2866,"resist_type_id":"31","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Blast Shield: VS Vortex AV: C3"}
+,"2867": {"resist_info_id":2867,"resist_type_id":"32","resist_percent":"30","multiplier_when_headshot":"1","description":"Deployed Blast Shield: MAX AV"}
+,"2868": {"resist_info_id":2868,"resist_type_id":"34","resist_percent":"37","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Default Rocket Launcher"}
+,"2869": {"resist_info_id":2869,"resist_type_id":"37","resist_percent":"35","description":"Deployed Blast Shield: Liberator Cannon"}
+,"2870": {"resist_info_id":2870,"resist_type_id":"38","resist_percent":"40","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Striker"}
+,"2871": {"resist_info_id":2871,"resist_type_id":"39","resist_percent":"0","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Rocklet Rifle"}
+,"2872": {"resist_info_id":2872,"resist_type_id":"40","resist_percent":"20","description":"Deployed Blast Shield: Anti-Materiel Rifle"}
+,"2873": {"resist_info_id":2873,"resist_type_id":"41","resist_percent":"70","multiplier_when_headshot":"1","description":"Deployed Blast Shield: VS ES AV"}
+,"2874": {"resist_info_id":2874,"resist_type_id":"42","resist_percent":"10","multiplier_when_headshot":"1","description":"Deployed Blast Shield: NC ES AV"}
+,"2875": {"resist_info_id":2875,"resist_type_id":"43","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Deployed Blast Shield: TR ES AV"}
+,"2876": {"resist_info_id":2876,"resist_type_id":"1","resist_percent":"50","multiplier_when_headshot":"1","description":"Construction Light: Melee"}
+,"2877": {"resist_info_id":2877,"resist_type_id":"2","resist_percent":"38","multiplier_when_headshot":"1","description":"Construction Light: Personal Defense - Small Arms (Rifles, Pistols, Shotguns, etc.)"}
+,"2878": {"resist_info_id":2878,"resist_type_id":"3","resist_percent":"-100","multiplier_when_headshot":"1","description":"Construction Light: Tier 2 AV - Fury, Bulldog, Grenade Launcher"}
+,"2879": {"resist_info_id":2879,"resist_type_id":"4","resist_percent":"-15","multiplier_when_headshot":"1","description":"Construction Light: Tier 1 AV - Basilisk, Banshee, Spur, Vektor, Xiphos, PPA"}
+,"2880": {"resist_info_id":2880,"resist_type_id":"5","resist_percent":"-200","multiplier_when_headshot":"1","description":"Construction Light: Tier 3 AV - Rocket Launchers, Big Rockets"}
+,"2881": {"resist_info_id":2881,"resist_type_id":"6","resist_percent":"-25","multiplier_when_headshot":"1","description":"Construction Light: Grenades - General AoEs"}
+,"2882": {"resist_info_id":2882,"resist_type_id":"7","resist_percent":"-200","multiplier_when_headshot":"1","description":"Construction - Underconstruction - Light - Tank Shell"}
+,"2883": {"resist_info_id":2883,"resist_type_id":"8","resist_percent":"20","multiplier_when_headshot":"1","description":"Construction Light: Aircraft Machine Gun - ESF Noseguns, Airhammer"}
+,"2884": {"resist_info_id":2884,"resist_type_id":"9","resist_percent":"-1000","multiplier_when_headshot":"1","description":"Construction Light: Anti-Vehicle Mine"}
+,"2885": {"resist_info_id":2885,"resist_type_id":"11","resist_percent":"-1000","multiplier_when_headshot":"1","description":"Construction Light: C4 (Boomer) - C4 + Indirect MAX AV Damage"}
+,"2886": {"resist_info_id":2886,"resist_type_id":"12","resist_percent":"25","multiplier_when_headshot":"1","description":"Construction Light: Flak (Explosion) - Indirect Flak Damage"}
+,"2887": {"resist_info_id":2887,"resist_type_id":"15","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Light: Personal Defense - Snipers TR ORPHAN"}
+,"2888": {"resist_info_id":2888,"resist_type_id":"18","resist_percent":"-25","multiplier_when_headshot":"1","description":"Construction Light: Rocket Pods - ESF, Valk Missiles Direct Damage"}
+,"2889": {"resist_info_id":2889,"resist_type_id":"19","resist_percent":"-20","multiplier_when_headshot":"1","description":"Construction Light: Flak (Projectile) - Direct Flak Damage"}
+,"2890": {"resist_info_id":2890,"resist_type_id":"20","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Light: Personal Defense - Snipers NC - (TR/NC Sniper Rifles)"}
+,"2891": {"resist_info_id":2891,"resist_type_id":"21","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Light: Personal Defense - Snipers VS (VS Sniper Rifles)"}
+,"2892": {"resist_info_id":2892,"resist_type_id":"22","resist_percent":"-20","multiplier_when_headshot":"1","description":"Construction Light: Anti-Aircraft Machine Gun - Walker"}
+,"2893": {"resist_info_id":2893,"resist_type_id":"23","resist_percent":"-200","multiplier_when_headshot":"1","description":"Construction - Underconstruction - Light - Air to Ground"}
+,"2894": {"resist_info_id":2894,"resist_type_id":"24","resist_percent":"-140","multiplier_when_headshot":"1","description":"Construction Light: Lancer AV"}
+,"2895": {"resist_info_id":2895,"resist_type_id":"25","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Light: Tier 2 AV - Liberator ORPHAN"}
+,"2896": {"resist_info_id":2896,"resist_type_id":"26","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Light: Phoenix AV"}
+,"2897": {"resist_info_id":2897,"resist_type_id":"27","resist_percent":"-30","multiplier_when_headshot":"1","description":"Construction Light: Armor Piercing Shell - AP Cannons"}
+,"2898": {"resist_info_id":2898,"resist_type_id":"28","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Light: Armor Piercing Chain Guns - Vulcan, Shredders"}
+,"2899": {"resist_info_id":2899,"resist_type_id":"29","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction Light: VS Vortex AV - Base Damage"}
+,"2900": {"resist_info_id":2900,"resist_type_id":"30","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction Light: VS Vortex AV: C2 - Charge Level 2"}
+,"2901": {"resist_info_id":2901,"resist_type_id":"31","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction Light: VS Vortex AV: C3 - Charge Level 3"}
+,"2902": {"resist_info_id":2902,"resist_type_id":"32","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction Light: MAX AV ORPHAN"}
+,"2903": {"resist_info_id":2903,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Construction Light: Mass Drivers"}
+,"2904": {"resist_info_id":2904,"resist_type_id":"34","resist_percent":"-100","multiplier_when_headshot":"1","description":"Construction Light: Default Rocket Launcher - Dumbfire Only"}
+,"2905": {"resist_info_id":2905,"resist_type_id":"35","resist_percent":"5","multiplier_when_headshot":"1","description":"Construction Light: Vehicle Shotgun (Canister)"}
+,"2906": {"resist_info_id":2906,"resist_type_id":"36","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction Light: Vehicle Grenades (Anti-Light Armor) - Marauder, PPA"}
+,"2907": {"resist_info_id":2907,"resist_type_id":"37","resist_percent":"-75","description":"Construction Light: Liberator Cannon - Dalton, Zephyr"}
+,"2908": {"resist_info_id":2908,"resist_type_id":"38","resist_percent":"-100","multiplier_when_headshot":"1","description":"Construction Light: Striker"}
+,"2909": {"resist_info_id":2909,"resist_type_id":"39","resist_percent":"-25","multiplier_when_headshot":"1","description":"Construction Light: Rocklet Rifle"}
+,"2910": {"resist_info_id":2910,"resist_type_id":"40","resist_percent":"-90","description":"Construction Light: Anti Materiel Rifle"}
+,"2911": {"resist_info_id":2911,"resist_type_id":"41","resist_percent":"-25","multiplier_when_headshot":"1","description":"Construction Light: VS ES AV - Aphelion"}
+,"2912": {"resist_info_id":2912,"resist_type_id":"42","resist_percent":"-30","multiplier_when_headshot":"1","description":"Construction Light: NC ES AV - Mjollnir"}
+,"2913": {"resist_info_id":2913,"resist_type_id":"43","resist_percent":"-25","multiplier_when_headshot":"1","description":"Construction Light: TR ES AV - Gatekeeper"}
+,"2914": {"resist_info_id":2914,"resist_type_id":"1","resist_percent":"50","multiplier_when_headshot":"1","description":"Under Construction Medium: Melee"}
+,"2915": {"resist_info_id":2915,"resist_type_id":"2","resist_percent":"50","multiplier_when_headshot":"1","description":"Under Construction Medium: Personal Defense - Small Arms (Rifles, Pistols, Shotguns, etc.)"}
+,"2916": {"resist_info_id":2916,"resist_type_id":"3","resist_percent":"40","multiplier_when_headshot":"1","description":"Construction Medium: Tier 2 AV - Fury, Bulldog, Grenade Launcher"}
+,"2917": {"resist_info_id":2917,"resist_type_id":"4","resist_percent":"50","multiplier_when_headshot":"1","description":"Under Construction Medium: Tier 1 AV - Basilisk, Banshee, Spur, Vektor, Xiphos, PPA"}
+,"2918": {"resist_info_id":2918,"resist_type_id":"5","resist_percent":"-200","multiplier_when_headshot":"1","description":"Under Construction Medium: Tier 3 AV - Rocket Launchers, Big Rockets"}
+,"2919": {"resist_info_id":2919,"resist_type_id":"6","resist_percent":"75","multiplier_when_headshot":"1","description":"Under Construction Medium: Grenades - General AoEs"}
+,"2920": {"resist_info_id":2920,"resist_type_id":"7","resist_percent":"-175","multiplier_when_headshot":"1","description":"Under Construction - Underconstruction - Medium - Tank Shell"}
+,"2921": {"resist_info_id":2921,"resist_type_id":"8","resist_percent":"80","multiplier_when_headshot":"1","description":"Under Construction Medium: Aircraft Machine Gun - ESF Noseguns, Airhammer"}
+,"2922": {"resist_info_id":2922,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Under Construction Medium: Anti-Vehicle Mine"}
+,"2923": {"resist_info_id":2923,"resist_type_id":"11","resist_percent":"-500","multiplier_when_headshot":"1","description":"Under Construction Medium: C4"}
+,"2924": {"resist_info_id":2924,"resist_type_id":"12","resist_percent":"70","multiplier_when_headshot":"1","description":"Under Construction Medium: Flak Burst"}
+,"2925": {"resist_info_id":2925,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction Medium: Personal Defense - Snipers TR ORPHAN"}
+,"2926": {"resist_info_id":2926,"resist_type_id":"18","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Medium: Rocket Pods - ESF, Valk Missiles Direct Damage"}
+,"2927": {"resist_info_id":2927,"resist_type_id":"19","resist_percent":"65","multiplier_when_headshot":"1","description":"Construction Medium: Flak (Projectile) - Direct Flak Damage"}
+,"2928": {"resist_info_id":2928,"resist_type_id":"20","resist_percent":"50","multiplier_when_headshot":"1","description":"Construction Medium: Personal Defense - Snipers NC - (TR/NC Sniper Rifles)"}
+,"2929": {"resist_info_id":2929,"resist_type_id":"21","resist_percent":"50","multiplier_when_headshot":"1","description":"Construction Medium: Personal Defense - Snipers VS (VS Sniper Rifles)"}
+,"2930": {"resist_info_id":2930,"resist_type_id":"22","resist_percent":"81","multiplier_when_headshot":"1","description":"Under Construction Medium: Anti-Aircraft Machine Gun"}
+,"2931": {"resist_info_id":2931,"resist_type_id":"23","resist_percent":"-175","multiplier_when_headshot":"1","description":"Under Construction Medium: Air to Ground"}
+,"2932": {"resist_info_id":2932,"resist_type_id":"24","resist_percent":"-65","multiplier_when_headshot":"1","description":"Construction Medium: Lancer AV"}
+,"2933": {"resist_info_id":2933,"resist_type_id":"25","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction Medium: Tier 2 AV - Liberator ORPHAN"}
+,"2934": {"resist_info_id":2934,"resist_type_id":"26","resist_percent":"-80","multiplier_when_headshot":"1","description":"Construction Medium: Phoenix AV"}
+,"2935": {"resist_info_id":2935,"resist_type_id":"27","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Medium: Armor Piercing Shell - AP Cannons"}
+,"2936": {"resist_info_id":2936,"resist_type_id":"28","resist_percent":"40","multiplier_when_headshot":"1","description":"Under Construction Medium: Armor Piercing Chain Guns"}
+,"2937": {"resist_info_id":2937,"resist_type_id":"29","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Medium: VS Vortex AV - Base Damage"}
+,"2938": {"resist_info_id":2938,"resist_type_id":"30","resist_percent":"-40","multiplier_when_headshot":"1","description":"Construction Medium: VS Vortex AV: C2 - Charge Level 2"}
+,"2939": {"resist_info_id":2939,"resist_type_id":"31","resist_percent":"-85","multiplier_when_headshot":"1","description":"Construction Medium: VS Vortex AV: C3 - Charge Level 3"}
+,"2940": {"resist_info_id":2940,"resist_type_id":"32","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Construction Medium: MAX AV ORPHAN"}
+,"2941": {"resist_info_id":2941,"resist_type_id":"33","resist_percent":"35","multiplier_when_headshot":"1","description":"Construction Medium: Mass Drivers"}
+,"2942": {"resist_info_id":2942,"resist_type_id":"34","resist_percent":"-100","multiplier_when_headshot":"1","description":"Under Construction Medium: Dumbfire Rocket Launcher"}
+,"2943": {"resist_info_id":2943,"resist_type_id":"35","resist_percent":"57","multiplier_when_headshot":"1","description":"Construction Medium: Vehicle Shotgun (Canister)"}
+,"2944": {"resist_info_id":2944,"resist_type_id":"36","resist_percent":"50","multiplier_when_headshot":"1","description":"Construction Medium: Vehicle Grenades (Anti-Light Armor) - Marauder, PPA"}
+,"2945": {"resist_info_id":2945,"resist_type_id":"37","resist_percent":"-100","description":"Construction Medium: Liberator Cannon - Dalton, Zephyr"}
+,"2946": {"resist_info_id":2946,"resist_type_id":"38","resist_percent":"-80","multiplier_when_headshot":"1","description":"Construction Medium: Striker"}
+,"2947": {"resist_info_id":2947,"resist_type_id":"39","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Medium: Rocklet Rifle"}
+,"2948": {"resist_info_id":2948,"resist_type_id":"40","resist_percent":"-100","description":"Under Construction Medium: Anti Materiel Rifle"}
+,"2949": {"resist_info_id":2949,"resist_type_id":"41","resist_percent":"40","multiplier_when_headshot":"1","description":"Construction Medium: VS ES AV - Aphelion"}
+,"2950": {"resist_info_id":2950,"resist_type_id":"42","resist_percent":"-70","multiplier_when_headshot":"1","description":"Construction Medium: NC ES AV - Mjollnir"}
+,"2951": {"resist_info_id":2951,"resist_type_id":"43","resist_percent":"-70","multiplier_when_headshot":"1","description":"Construction Medium: TR ES AV - Gatekeeper"}
+,"2952": {"resist_info_id":2952,"resist_type_id":"1","resist_percent":"75","multiplier_when_headshot":"1","description":"Under Construction Heavy: Melee"}
+,"2953": {"resist_info_id":2953,"resist_type_id":"2","resist_percent":"43","multiplier_when_headshot":"1","description":"Under Construction Heavy: Personal Defense - Small Arms (Rifles, Pistols, Shotguns, etc.)"}
+,"2954": {"resist_info_id":2954,"resist_type_id":"3","resist_percent":"45","multiplier_when_headshot":"1","description":"Construction Heavy: Tier 2 AV - Fury, Bulldog, Grenade Launcher"}
+,"2955": {"resist_info_id":2955,"resist_type_id":"4","resist_percent":"40","multiplier_when_headshot":"1","description":"Under Construction Heavy: Tier 1 AV - Basilisk, Banshee, Spur, Vektor, Xiphos, PPA"}
+,"2956": {"resist_info_id":2956,"resist_type_id":"5","resist_percent":"-50","multiplier_when_headshot":"1","description":"Under Construction Heavy: Tier 3 AV - Rocket Launchers, Big Rockets"}
+,"2957": {"resist_info_id":2957,"resist_type_id":"6","resist_percent":"70","multiplier_when_headshot":"1","description":"Under Construction Heavy: Grenades - General AoEs"}
+,"2958": {"resist_info_id":2958,"resist_type_id":"7","resist_percent":"-175","multiplier_when_headshot":"1","description":"Under Construction - Underconstruction - Heady - Tank Shell"}
+,"2959": {"resist_info_id":2959,"resist_type_id":"8","resist_percent":"80","multiplier_when_headshot":"1","description":"Under Construction Heavy: Aircraft Machine Gun - ESF Noseguns, Airhammer"}
+,"2960": {"resist_info_id":2960,"resist_type_id":"9","resist_percent":"-50","multiplier_when_headshot":"1","description":"Under Construction Heavy: Anti-Vehicle Mine"}
+,"2961": {"resist_info_id":2961,"resist_type_id":"11","resist_percent":"-200","multiplier_when_headshot":"1","description":"Under Construction Heavy: C4 (Boomer) - C4 + Indirect MAX AV Damage"}
+,"2962": {"resist_info_id":2962,"resist_type_id":"12","resist_percent":"50","multiplier_when_headshot":"1","description":"Under Construction Heavy: Flak (Explosion) - Indirect Flak Damage"}
+,"2963": {"resist_info_id":2963,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction Heavy: Personal Defense - Snipers TR ORPHAN"}
+,"2964": {"resist_info_id":2964,"resist_type_id":"18","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction Heavy: Rocket Pods - ESF, Valk Missiles Direct Damage"}
+,"2965": {"resist_info_id":2965,"resist_type_id":"19","resist_percent":"75","multiplier_when_headshot":"1","description":"Construction Heavy: Flak (Projectile) - Direct Flak Damage"}
+,"2966": {"resist_info_id":2966,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction Heavy: Personal Defense - Snipers NC - (TR/NC Sniper Rifles)"}
+,"2967": {"resist_info_id":2967,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction Heavy: Personal Defense - Snipers VS (VS Sniper Rifles)"}
+,"2968": {"resist_info_id":2968,"resist_type_id":"22","resist_percent":"80","multiplier_when_headshot":"1","description":"Under Construction Heavy: Anti-Aircraft Machine Gun - Walker"}
+,"2969": {"resist_info_id":2969,"resist_type_id":"23","resist_percent":"-175","multiplier_when_headshot":"1","description":"Under Construction Heavy: Air to Ground"}
+,"2970": {"resist_info_id":2970,"resist_type_id":"24","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Heavy: Lancer AV"}
+,"2971": {"resist_info_id":2971,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Construction Heavy: Tier 2 AV - Liberator ORPHAN"}
+,"2972": {"resist_info_id":2972,"resist_type_id":"26","resist_percent":"-25","multiplier_when_headshot":"1","description":"Construction Heavy: Phoenix AV"}
+,"2973": {"resist_info_id":2973,"resist_type_id":"27","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Heavy: Armor Piercing Shell - AP Cannons"}
+,"2974": {"resist_info_id":2974,"resist_type_id":"28","resist_percent":"40","multiplier_when_headshot":"1","description":"Under Construction Heavy: Armor Piercing Chain Guns - Vulcan, Shredders"}
+,"2975": {"resist_info_id":2975,"resist_type_id":"29","resist_percent":"15","multiplier_when_headshot":"1","description":"Construction Heavy: VS Vortex AV - Base Damage"}
+,"2976": {"resist_info_id":2976,"resist_type_id":"30","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Heavy: VS Vortex AV: C2 - Charge Level 2"}
+,"2977": {"resist_info_id":2977,"resist_type_id":"31","resist_percent":"-15","multiplier_when_headshot":"1","description":"Construction Heavy: VS Vortex AV: C3 - Charge Level 3"}
+,"2978": {"resist_info_id":2978,"resist_type_id":"32","resist_percent":"5.5","multiplier_when_headshot":"1","description":"Construction Heavy: MAX AV ORPHAN"}
+,"2979": {"resist_info_id":2979,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Construction Heavy: Mass Drivers"}
+,"2980": {"resist_info_id":2980,"resist_type_id":"34","resist_percent":"0","multiplier_when_headshot":"1","description":"Under Construction Heavy: Default Rocket Launcher - Dumbfire Only"}
+,"2981": {"resist_info_id":2981,"resist_type_id":"35","resist_percent":"50","multiplier_when_headshot":"1","description":"Construction Heavy: Vehicle Shotgun (Canister)"}
+,"2982": {"resist_info_id":2982,"resist_type_id":"36","resist_percent":"50","multiplier_when_headshot":"1","description":"Construction Heavy: Vehicle Grenades (Anti-Light Armor) - Marauder, PPA"}
+,"2983": {"resist_info_id":2983,"resist_type_id":"37","resist_percent":"-15","description":"Construction Heavy: Liberator Cannon - Dalton, Zephyr"}
+,"2984": {"resist_info_id":2984,"resist_type_id":"38","resist_percent":"-50","multiplier_when_headshot":"1","description":"Construction Heavy: Striker"}
+,"2985": {"resist_info_id":2985,"resist_type_id":"39","resist_percent":"0","multiplier_when_headshot":"1","description":"Construction Heavy: Rocklet Rifle"}
+,"2986": {"resist_info_id":2986,"resist_type_id":"40","resist_percent":"-80","description":"Under Construction Heavy: Anti Materiel Rifle"}
+,"2987": {"resist_info_id":2987,"resist_type_id":"41","resist_percent":"40","multiplier_when_headshot":"1","description":"Construction Heavy: VS ES AV - Aphelion"}
+,"2988": {"resist_info_id":2988,"resist_type_id":"42","resist_percent":"-60","multiplier_when_headshot":"1","description":"Construction Heavy: NC ES AV - Mjollnir"}
+,"2989": {"resist_info_id":2989,"resist_type_id":"43","resist_percent":"-60","multiplier_when_headshot":"1","description":"Construction Heavy: TR ES AV - Gatekeeper"}
+,"2990": {"resist_info_id":2990,"resist_type_id":"15","resist_percent":"0","multiplier_when_headshot":"1","description":"Core 001_Core: Personal Defense  - Snipers TR"}
+,"2991": {"resist_info_id":2991,"resist_type_id":"20","resist_percent":"0","multiplier_when_headshot":"1","description":"Core 001_Core: Personal Defense  - Snipers NC"}
+,"2992": {"resist_info_id":2992,"resist_type_id":"21","resist_percent":"0","multiplier_when_headshot":"1","description":"Core 001_Core: Personal Defense  - Snipers VS"}
+,"2993": {"resist_info_id":2993,"resist_type_id":"23","resist_percent":"-250","multiplier_when_headshot":"1","description":"Construction - Generator Core - Air to Ground"}
+,"2994": {"resist_info_id":2994,"resist_type_id":"26","resist_percent":"0","multiplier_when_headshot":"1","description":"Core 001_Core: Phoenix AV"}
+,"2995": {"resist_info_id":2995,"resist_type_id":"25","resist_percent":"0","multiplier_when_headshot":"1","description":"Core 001_Core: Tier 2 AV - Liberator"}
+,"2996": {"resist_info_id":2996,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Core 001_Core: Flak (Explosion)"}
+,"2997": {"resist_info_id":2997,"resist_type_id":"19","resist_percent":"0","multiplier_when_headshot":"1","description":"Core 001_Core: Flak (Projectile)"}
+,"2998": {"resist_info_id":2998,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Core 001_Core: Anti-Vehicle Mine"}
+,"2999": {"resist_info_id":2999,"resist_type_id":"11","resist_percent":"-25","multiplier_when_headshot":"1","description":"Core 001_Core: C4 (Boomer)"}
+}

@@ -1,0 +1,8 @@
+{
+"18000": {"zone_effect_id":18000,"zone_effect_type_id":"8","ability_id":"20901","param1":"-1","param2":"1","param3":"5","param5":"1","string1":"FireMode.FullScreenEffect"}
+,"18001": {"zone_effect_id":18001,"zone_effect_type_id":"8","ability_id":"20902","param1":"-1","param2":"1","param3":"5","param5":"1","string1":"FireMode.FullScreenEffect"}
+,"18002": {"zone_effect_id":18002,"zone_effect_type_id":"8","ability_id":"20903","param1":"-1","param2":"1","param3":"5","param5":"1","string1":"FireMode.FullScreenEffect"}
+,"18003": {"zone_effect_id":18003,"zone_effect_type_id":"8","ability_id":"20904","param1":"-1","param2":"1","param3":"8","param5":"1","string1":"FireMode.FullScreenEffect"}
+,"18004": {"zone_effect_id":18004,"zone_effect_type_id":"8","ability_id":"20905","param1":"-1","param2":"1","param3":"8","param5":"1","string1":"FireMode.FullScreenEffect"}
+,"18005": {"zone_effect_id":18005,"zone_effect_type_id":"8","ability_id":"20906","param1":"-1","param2":"1","param3":"8","param5":"1","string1":"FireMode.FullScreenEffect"}
+}

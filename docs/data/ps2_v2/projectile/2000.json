@@ -1,0 +1,5 @@
+{
+"1057": {"projectile_id":1057,"projectile_flight_type_id":"9","speed":"32","speed_max":"0","acceleration":"0","turn_rate":"0","lifespan":"5","drag":"0.1","gravity":"1","sticky":"0"}
+,"1063": {"projectile_id":1063,"projectile_flight_type_id":"1","speed":"30","speed_max":"60","acceleration":"40","lifespan":"8","drag":"0","gravity":"2","lockon_acceleration":"0"}
+,"1064": {"projectile_id":1064,"projectile_flight_type_id":"10","speed":"50","speed_max":"100","turn_rate":"1.5","lifespan":"5","drag":"0","gravity":"0.5","lockon_acceleration":"6.67","lockon_lifespan":"5","detonate_distance":"1","detonate_on_contact":"1","lockon_lose_angle":"145"}
+}

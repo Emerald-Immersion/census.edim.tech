@@ -181,3 +181,50 @@ Function Get-DBPS2_PlayerItemDetails ([string]$PlayerName) {
         }
     }
 }
+<#
+
+.SYNOPSIS
+
+
+.EXAMPLE
+
+Get-Outfit -Tag 'EDIM'
+
+#>
+Function Get-Outfit {
+    param (
+        [string]$Tag,
+        [switch]$ResolveMembers
+    )
+
+    $query = [ordered]@{}
+
+    $query['alias_lower'] = $Tag.ToLower()
+
+    if ($ResolveMembers) {
+        $query['c:resolve'] = 'member,member_online_status,member_character'
+    }
+    
+    $url = New-DBPS2_ApiUrl -Collection 'outfit' -QueryProperties $query
+
+    $result = Invoke-DBApi -Url $url
+
+    if ($result) {
+        if (-not $result.returned) {
+            Write-Error "Outfit with the tag '$Tag' was not found"
+            Return
+        }
+
+        if ($result.outfit_list) {
+            $result.outfit_list
+        }
+    }
+}
+
+Function Get-PlayerStats {
+    param (
+        [Parameter(ValueFromPipelineByPropertyName='character_id')][string[]]$CharacterId
+    )
+    
+    
+}

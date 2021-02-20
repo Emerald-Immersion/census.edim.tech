@@ -1,0 +1,21 @@
+{
+"8088": {"reward_id":8088,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"62019","param2":"0","param3":"0"}
+,"8089": {"reward_id":8089,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6003486","param2":"0","param3":"0","param4":"0"}
+,"8090": {"reward_id":8090,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6007254","param2":"0","param3":"0"}
+,"8091": {"reward_id":8091,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6007272","param2":"0","param3":"0"}
+,"8092": {"reward_id":8092,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6007255","param2":"0","param3":"0"}
+,"8093": {"reward_id":8093,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6003894","param2":"0","param3":"0"}
+,"8094": {"reward_id":8094,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6007283","param2":"0","param3":"0"}
+,"8814": {"reward_id":8814,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6004995","param2":"0","param3":"0"}
+,"8964": {"reward_id":8964,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6008570","param2":"0","param3":"0"}
+,"8965": {"reward_id":8965,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6008519","param2":"0","param3":"0"}
+,"8966": {"reward_id":8966,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6008521","param2":"0","param3":"0"}
+,"8967": {"reward_id":8967,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6008522","param2":"0","param3":"0"}
+,"8968": {"reward_id":8968,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6008514","param2":"0","param3":"0"}
+,"8980": {"reward_id":8980,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6003894","param2":"0","param3":"0"}
+,"8981": {"reward_id":8981,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6007283","param2":"0","param3":"0"}
+,"8995": {"reward_id":8995,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"6008646","param2":"0","param3":"0"}
+,"8997": {"reward_id":8997,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"802574","param2":"0","param3":"0"}
+,"8998": {"reward_id":8998,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"802575","param2":"0","param3":"0"}
+,"8999": {"reward_id":8999,"reward_type_id":"1","count_min":"1","count_max":"1","param1":"802576","param2":"0","param3":"0"}
+}

@@ -1,0 +1,7 @@
+{
+"135": {"metagame_event_state_id":135,"name":"started"}
+,"136": {"metagame_event_state_id":136,"name":"restarted"}
+,"137": {"metagame_event_state_id":137,"name":"canceled"}
+,"138": {"metagame_event_state_id":138,"name":"ended"}
+,"139": {"metagame_event_state_id":139,"name":"xp bonus changed"}
+}

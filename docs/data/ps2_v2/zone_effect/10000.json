@@ -1,0 +1,6 @@
+{
+"9002": {"zone_effect_id":9002,"zone_effect_type_id":"8","ability_id":"10057","param1":"-1","param2":"1","param3":"0.644","string1":"FireMode.FirstPersonOffsetZ"}
+,"9003": {"zone_effect_id":9003,"zone_effect_type_id":"8","ability_id":"10057","param1":"-1","param2":"1","param3":"2.05","string1":"FireMode.DefaultZoom"}
+,"9004": {"zone_effect_id":9004,"zone_effect_type_id":"8","ability_id":"10057","param1":"-1","param2":"1","param3":"-0.01","string1":"FireMode.FirstPersonOffsetY"}
+,"9005": {"zone_effect_id":9005,"zone_effect_type_id":"8","ability_id":"10057","param1":"-1","param2":"1","param3":"1.2","string1":"FireMode.ArmsFovScalar"}
+}

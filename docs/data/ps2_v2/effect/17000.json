@@ -1,0 +1,9 @@
+{
+"16000": {"effect_id":16000,"effect_type_id":"45","ability_id":"0","target_type_id":"2","resist_type_id":"2","duration_seconds":"0","param1":"125","param2":"8","param3":"35","param5":"20","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"16001": {"effect_id":16001,"effect_type_id":"40","target_type_id":"2","resist_type_id":"6","param1":"200","param2":"0.5","param3":"50","param5":"3","param6":"0","param7":"0","param8":"0","param9":"10","param10":"0"}
+,"16004": {"effect_id":16004,"effect_type_id":"40","target_type_id":"2","resist_type_id":"12","param1":"28","param2":"5","param3":"1","param5":"8","param6":"0","param7":"0","param8":"0","param9":"10"}
+,"16020": {"effect_id":16020,"effect_type_id":"45","target_type_id":"2","resist_type_id":"4","param1":"100","param2":"50","param3":"20","param5":"200","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"16028": {"effect_id":16028,"effect_type_id":"36","resist_type_id":"5","param1":"150","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"16029": {"effect_id":16029,"effect_type_id":"36","resist_type_id":"5","param1":"125","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"16030": {"effect_id":16030,"effect_type_id":"45","resist_type_id":"5","param1":"60","param2":"50","param3":"30","param5":"100","param6":"0","param7":"0","param8":"0","param9":"0"}
+}

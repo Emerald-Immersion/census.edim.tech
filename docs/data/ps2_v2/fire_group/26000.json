@@ -1,0 +1,9 @@
+{
+"25000": {"fire_group_id":25000,"chamber_duration_ms":"1225"}
+,"25001": {"fire_group_id":25001,"chamber_duration_ms":"1100"}
+,"25002": {"fire_group_id":25002}
+,"25003": {"fire_group_id":25003,"chamber_duration_ms":"1395"}
+,"25004": {"fire_group_id":25004,"chamber_duration_ms":"1500"}
+,"25007": {"fire_group_id":25007}
+,"25008": {"fire_group_id":25008}
+}

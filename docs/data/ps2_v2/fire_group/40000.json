@@ -1,0 +1,5 @@
+{
+"39000": {"fire_group_id":39000}
+,"39001": {"fire_group_id":39001,"chamber_duration_ms":"600","can_chamber_ironsights":"1"}
+,"39002": {"fire_group_id":39002,"chamber_duration_ms":"700","can_chamber_ironsights":"1"}
+}

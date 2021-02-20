@@ -46,11 +46,11 @@ Function Receive-Websocket {
     $buffer = [byte[]]::new($InitialBufferSize)
     $count = 0
 
-    $cts = [System.Threading.CancellationTokenSource]::new()
-
     try {
         while ($Websocket.State -eq [System.Net.WebSockets.WebSocketState]::Open) {
             $seg = [System.ArraySegment[byte]]::new($buffer, $count, $buffer.Length - $count)
+
+            $cts = [System.Threading.CancellationTokenSource]::new()
 
             [System.Net.WebSockets.WebSocketReceiveResult]$receiveResult = $Websocket.ReceiveAsync($seg, $cts.Token) | Resolve-Task -CancelSources $cts
 
@@ -112,6 +112,32 @@ Function Receive-Websocket {
         }
     } finally {
         
+    }
+}
+<#
+
+#>
+Function Send-WebSocket {
+    process {
+        
+    }
+}
+<#
+
+#>
+Function Disconnect-WebSocket {
+    param(
+        [System.Net.WebSockets.WebSocketCloseStatus]$Status,
+        [string]$Message
+    )
+    process {
+        [System.Net.WebSockets.WebSocket]$websocket = $_
+
+        $closeTask = $websocket.CloseAsync($Status, $Message, [System.Threading.CancellationToken]::None)
+
+        while (-not $closeTask.AsyncWaitHandle.WaitOne(200)) { }
+
+        $closeTask.GetAwaiter().GetResult()
     }
 }
 <#

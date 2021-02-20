@@ -1,0 +1,23 @@
+{
+"70006": {"effect_id":70006,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"143","param2":"10","param3":"125","param5":"65","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70290": {"effect_id":70290,"effect_type_id":"36","target_type_id":"2","resist_type_id":"34","param1":"975","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70291": {"effect_id":70291,"effect_type_id":"40","target_type_id":"2","resist_type_id":"6","param1":"350","param2":"0.5","param3":"50","param5":"5","param7":"0","param8":"0","param10":"0"}
+,"70292": {"effect_id":70292,"effect_type_id":"36","resist_type_id":"34","param1":"650","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70293": {"effect_id":70293,"effect_type_id":"40","target_type_id":"2","resist_type_id":"12","param1":"325","param2":"5","param3":"1","param5":"8","param7":"0","param8":"0","param10":"0"}
+,"70294": {"effect_id":70294,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"143","param2":"10","param3":"112","param5":"60","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70295": {"effect_id":70295,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"125","param2":"8","param3":"50","param5":"18","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70296": {"effect_id":70296,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"125","param2":"8","param3":"50","param5":"18","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70297": {"effect_id":70297,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"125","param2":"8","param3":"50","param5":"18","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70298": {"effect_id":70298,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"84","param2":"15","param3":"67","param5":"30","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70302": {"effect_id":70302,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"143","param2":"10","param3":"125","param5":"65","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70304": {"effect_id":70304,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"450","param2":"8","param3":"225","param5":"42","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70305": {"effect_id":70305,"effect_type_id":"45","target_type_id":"2","resist_type_id":"2","param1":"375","param2":"8","param3":"200","param5":"42","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70306": {"effect_id":70306,"effect_type_id":"45","ability_id":"0","target_type_id":"2","resist_type_id":"2","is_drain":"0","duration_seconds":"0","param1":"167","param2":"8","param3":"100","param5":"50","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0"}
+,"70309": {"effect_id":70309,"effect_type_id":"36","target_type_id":"2","resist_type_id":"8","param1":"160","param2":"0","param3":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70311": {"effect_id":70311,"effect_type_id":"36","target_type_id":"2","resist_type_id":"8","param1":"175","param2":"0","param3":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70312": {"effect_id":70312,"effect_type_id":"36","target_type_id":"2","resist_type_id":"8","param1":"150","param2":"0","param3":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70319": {"effect_id":70319,"effect_type_id":"36","resist_type_id":"23","param1":"225","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70320": {"effect_id":70320,"effect_type_id":"40","resist_type_id":"6","param1":"350","param2":"2","param3":"50","param5":"6","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70321": {"effect_id":70321,"effect_type_id":"36","resist_type_id":"5","param1":"75","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0"}
+,"70322": {"effect_id":70322,"effect_type_id":"40","target_type_id":"2","resist_type_id":"6","param1":"150","param2":"0.5","param3":"25","param5":"2","param6":"0","param7":"0","param8":"0","param9":"0"}
+}

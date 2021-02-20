@@ -1,0 +1,28 @@
+{
+"70004": {"fire_group_id":70004}
+,"70005": {"fire_group_id":70005}
+,"70006": {"fire_group_id":70006}
+,"70007": {"fire_group_id":70007,"transition_duration_ms":"500"}
+,"70008": {"fire_group_id":70008,"transition_duration_ms":"500"}
+,"70009": {"fire_group_id":70009}
+,"70010": {"fire_group_id":70010}
+,"70012": {"fire_group_id":70012}
+,"70015": {"fire_group_id":70015,"transition_duration_ms":"500"}
+,"70017": {"fire_group_id":70017}
+,"70018": {"fire_group_id":70018}
+,"70019": {"fire_group_id":70019}
+,"70020": {"fire_group_id":70020}
+,"70021": {"fire_group_id":70021}
+,"70022": {"fire_group_id":70022,"chamber_duration_ms":"850","can_chamber_ironsights":"1"}
+,"70023": {"fire_group_id":70023}
+,"70024": {"fire_group_id":70024}
+,"70025": {"fire_group_id":70025,"chamber_duration_ms":"850","can_chamber_ironsights":"1"}
+,"70026": {"fire_group_id":70026,"chamber_duration_ms":"850","can_chamber_ironsights":"1"}
+,"70061": {"fire_group_id":70061}
+,"70062": {"fire_group_id":70062}
+,"70063": {"fire_group_id":70063}
+,"70064": {"fire_group_id":70064}
+,"70065": {"fire_group_id":70065}
+,"70066": {"fire_group_id":70066,"transition_duration_ms":"500"}
+,"70067": {"fire_group_id":70067,"transition_duration_ms":"500"}
+}

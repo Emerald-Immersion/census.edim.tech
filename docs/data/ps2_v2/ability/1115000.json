@@ -1,0 +1,35 @@
+{
+"1114050": {"ability_id":1114050,"ability_type_id":"3"}
+,"1114051": {"ability_id":1114051,"ability_type_id":"3"}
+,"1114052": {"ability_id":1114052,"ability_type_id":"3"}
+,"1114053": {"ability_id":1114053,"ability_type_id":"3"}
+,"1114088": {"ability_id":1114088,"ability_type_id":"3","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114824": {"ability_id":1114824,"ability_type_id":"3","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114825": {"ability_id":1114825,"ability_type_id":"3","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114826": {"ability_id":1114826,"ability_type_id":"3","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114827": {"ability_id":1114827,"ability_type_id":"3","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114901": {"ability_id":1114901,"ability_type_id":"12","reuse_delay_msec":"40000","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114902": {"ability_id":1114902,"ability_type_id":"12","reuse_delay_msec":"32000","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114903": {"ability_id":1114903,"ability_type_id":"12","reuse_delay_msec":"28000","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114904": {"ability_id":1114904,"ability_type_id":"12","reuse_delay_msec":"25000","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param6":"0","param7":"0","param8":"0","param9":"0","param10":"0","param11":"0","param12":"0","param13":"0","param14":"0"}
+,"1114925": {"ability_id":1114925,"ability_type_id":"3"}
+,"1114927": {"ability_id":1114927,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114935": {"ability_id":1114935,"ability_type_id":"3","radius_max":"0","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param7":"0","param8":"0","param9":"0","param11":"0","param12":"0","param13":"0","param14":"0","string1":"0","string2":"0","string3":"0","string4":"0"}
+,"1114948": {"ability_id":1114948,"ability_type_id":"3","radius_max":"0","param1":"0","param2":"0","param3":"0","param4":"0","param5":"0","param7":"0","param8":"0","param9":"0","param11":"0","param12":"0","param13":"0","param14":"0","string1":"0","string2":"0","string3":"0","string4":"0"}
+,"1114951": {"ability_id":1114951,"ability_type_id":"3"}
+,"1114954": {"ability_id":1114954,"ability_type_id":"3"}
+,"1114963": {"ability_id":1114963,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114964": {"ability_id":1114964,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114965": {"ability_id":1114965,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114966": {"ability_id":1114966,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114967": {"ability_id":1114967,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114968": {"ability_id":1114968,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114969": {"ability_id":1114969,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114970": {"ability_id":1114970,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114971": {"ability_id":1114971,"ability_type_id":"3","reuse_delay_msec":"1"}
+,"1114973": {"ability_id":1114973,"ability_type_id":"6"}
+,"1114974": {"ability_id":1114974,"ability_type_id":"6"}
+,"1114975": {"ability_id":1114975,"ability_type_id":"6"}
+,"1114976": {"ability_id":1114976,"ability_type_id":"6"}
+,"1114977": {"ability_id":1114977,"ability_type_id":"6"}
+}

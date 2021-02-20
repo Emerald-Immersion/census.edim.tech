@@ -1,0 +1,720 @@
+{
+"1": {"experience_id":1,"description":"Kill Player","xp":"100"}
+,"2": {"experience_id":2,"description":"Kill Player Assist","xp":"100"}
+,"3": {"experience_id":3,"description":"Kill Player Spawn Assist","xp":"0"}
+,"4": {"experience_id":4,"description":"Heal Player","xp":"10"}
+,"5": {"experience_id":5,"description":"Heal Assist","xp":"5"}
+,"6": {"experience_id":6,"description":"MAX Repair","xp":"5"}
+,"7": {"experience_id":7,"description":"Revive","xp":"75"}
+,"8": {"experience_id":8,"description":"Kill Streak","xp":"10"}
+,"10": {"experience_id":10,"description":"Domination Kill","xp":"25"}
+,"11": {"experience_id":11,"description":"Revenge Kill","xp":"50"}
+,"15": {"experience_id":15,"description":"Control Point - Defend","xp":"100"}
+,"16": {"experience_id":16,"description":"Control Point - Attack","xp":"100"}
+,"19": {"experience_id":19,"description":"Facility Captured (Not Used)","xp":"250"}
+,"21": {"experience_id":21,"description":"Destroy Secondary Objective","xp":"500"}
+,"22": {"experience_id":22,"description":"Destroy SecondaryObjectiveAssist","xp":"75"}
+,"24": {"experience_id":24,"description":"Vehicle Destruction - Flash","xp":"100"}
+,"25": {"experience_id":25,"description":"Multiple Kill","xp":"25"}
+,"26": {"experience_id":26,"description":"Vehicle RoadKill","xp":"25"}
+,"28": {"experience_id":28,"description":"Squad Repair - Flash","xp":"10"}
+,"29": {"experience_id":29,"description":"Kill Player Class MAX","xp":"200"}
+,"30": {"experience_id":30,"description":"Transport Assist","xp":"100"}
+,"31": {"experience_id":31,"description":"Vehicle Repair - Flash","xp":"5"}
+,"32": {"experience_id":32,"description":"Nemesis Kill","xp":"100"}
+,"34": {"experience_id":34,"description":"Resupply Player","xp":"10"}
+,"36": {"experience_id":36,"description":"Spot Kill","xp":"20"}
+,"37": {"experience_id":37,"description":"Headshot","xp":"10"}
+,"38": {"experience_id":38,"description":"Stop Kill Streak","xp":"25"}
+,"47": {"experience_id":47,"description":"Meta Game Event reward","xp":"1"}
+,"51": {"experience_id":51,"description":"Squad Heal","xp":"15"}
+,"53": {"experience_id":53,"description":"Squad Revive","xp":"100"}
+,"54": {"experience_id":54,"description":"Squad Spot Kill","xp":"30"}
+,"55": {"experience_id":55,"description":"Squad Resupply","xp":"15"}
+,"56": {"experience_id":56,"description":"Squad Spawn","xp":"10"}
+,"57": {"experience_id":57,"description":"Destroy Engineer Turret","xp":"25"}
+,"58": {"experience_id":58,"description":"Vehicle Destruction - Phalanx","xp":"100"}
+,"59": {"experience_id":59,"description":"Vehicle Destruction - Drop Pod","xp":"20"}
+,"60": {"experience_id":60,"description":"Vehicle Destruction - Galaxy","xp":"400"}
+,"61": {"experience_id":61,"description":"Vehicle Destruction - Liberator","xp":"500"}
+,"62": {"experience_id":62,"description":"Vehicle Destruction - Lightning","xp":"400"}
+,"63": {"experience_id":63,"description":"Vehicle Destruction - Magrider","xp":"500"}
+,"64": {"experience_id":64,"description":"Vehicle Destruction - Mosquito","xp":"400"}
+,"65": {"experience_id":65,"description":"Vehicle Destruction - Prowler","xp":"500"}
+,"66": {"experience_id":66,"description":"Vehicle Destruction - Reaver","xp":"400"}
+,"67": {"experience_id":67,"description":"Vehicle Destruction - Scythe","xp":"400"}
+,"68": {"experience_id":68,"description":"Vehicle Destruction - Sunderer","xp":"500"}
+,"69": {"experience_id":69,"description":"Vehicle Destruction - Vanguard","xp":"500"}
+,"72": {"experience_id":72,"description":"Vehicle Ram Bonus","xp":"20"}
+,"73": {"experience_id":73,"description":"Vehicle Ram Kill - Engi Turret","xp":"20"}
+,"74": {"experience_id":74,"description":"Vehicle Ram Kill - Phalanx","xp":"20"}
+,"75": {"experience_id":75,"description":"Vehicle Ram Kill - Drop Pod","xp":"20"}
+,"76": {"experience_id":76,"description":"Vehicle Ram Kill - Galaxy","xp":"20"}
+,"77": {"experience_id":77,"description":"Vehicle Ram Kill - Liberator","xp":"20"}
+,"78": {"experience_id":78,"description":"Vehicle Ram Kill - Lightning","xp":"20"}
+,"79": {"experience_id":79,"description":"Vehicle Ram Kill - Magrider","xp":"20"}
+,"80": {"experience_id":80,"description":"Vehicle Ram Kill - Mosquito","xp":"20"}
+,"81": {"experience_id":81,"description":"Vehicle Ram Kill - Prowler","xp":"20"}
+,"82": {"experience_id":82,"description":"Vehicle Ram Kill - Reaver","xp":"20"}
+,"83": {"experience_id":83,"description":"Vehicle Ram Kill - Scythe","xp":"20"}
+,"84": {"experience_id":84,"description":"Vehicle Ram Kill - Sunderer","xp":"20"}
+,"85": {"experience_id":85,"description":"Vehicle Ram Kill - Vanguard","xp":"20"}
+,"86": {"experience_id":86,"description":"Explosive Destruction","xp":"5"}
+,"87": {"experience_id":87,"description":"Secondary Facility Object Repair","xp":"5"}
+,"88": {"experience_id":88,"description":"Vehicle Repair - Engi Turret","xp":"5"}
+,"89": {"experience_id":89,"description":"Vehicle Repair - Phalanx","xp":"5"}
+,"90": {"experience_id":90,"description":"Vehicle Repair - Drop Pod","xp":"5"}
+,"91": {"experience_id":91,"description":"Vehicle Repair - Galaxy","xp":"5"}
+,"92": {"experience_id":92,"description":"Vehicle Repair - Liberator","xp":"5"}
+,"93": {"experience_id":93,"description":"Vehicle Repair - Lightning","xp":"5"}
+,"94": {"experience_id":94,"description":"Vehicle Repair - Magrider","xp":"5"}
+,"95": {"experience_id":95,"description":"Vehicle Repair - Mosquito","xp":"5"}
+,"96": {"experience_id":96,"description":"Vehicle Repair - Prowler","xp":"5"}
+,"97": {"experience_id":97,"description":"Vehicle Repair - Reaver","xp":"5"}
+,"98": {"experience_id":98,"description":"Vehicle Repair - Scythe","xp":"5"}
+,"99": {"experience_id":99,"description":"Vehicle Repair - Sunderer","xp":"5"}
+,"100": {"experience_id":100,"description":"Vehicle Repair - Vanguard","xp":"5"}
+,"101": {"experience_id":101,"description":"Kill Assist - Flash","xp":"100"}
+,"102": {"experience_id":102,"description":"Kill Assist - Engi Turret","xp":"25"}
+,"103": {"experience_id":103,"description":"Kill Assist - Phalanx","xp":"100"}
+,"104": {"experience_id":104,"description":"Kill Assist - Drop Pod","xp":"20"}
+,"105": {"experience_id":105,"description":"Kill Assist - Galaxy","xp":"400"}
+,"106": {"experience_id":106,"description":"Kill Assist - Liberator","xp":"500"}
+,"107": {"experience_id":107,"description":"Kill Assist - Lightning","xp":"400"}
+,"108": {"experience_id":108,"description":"Kill Assist - Magrider","xp":"500"}
+,"109": {"experience_id":109,"description":"Kill Assist - Mosquito","xp":"400"}
+,"110": {"experience_id":110,"description":"Kill Assist - Prowler","xp":"500"}
+,"111": {"experience_id":111,"description":"Kill Assist - Reaver","xp":"400"}
+,"112": {"experience_id":112,"description":"Kill Assist - Scythe","xp":"400"}
+,"113": {"experience_id":113,"description":"Kill Assist - Sunderer","xp":"500"}
+,"114": {"experience_id":114,"description":"Kill Assist - Vanguard","xp":"500"}
+,"129": {"experience_id":129,"description":"Squad Repair - Engi Turret","xp":"10"}
+,"130": {"experience_id":130,"description":"Squad Repair - Phalanx","xp":"10"}
+,"131": {"experience_id":131,"description":"Squad Repair - Drop Pod","xp":"10"}
+,"132": {"experience_id":132,"description":"Squad Repair - Galaxy","xp":"10"}
+,"133": {"experience_id":133,"description":"Squad Repair - Liberator","xp":"10"}
+,"134": {"experience_id":134,"description":"Squad Repair - Lightning","xp":"10"}
+,"135": {"experience_id":135,"description":"Squad Repair - Magrider","xp":"10"}
+,"136": {"experience_id":136,"description":"Squad Repair - Mosquito","xp":"10"}
+,"137": {"experience_id":137,"description":"Squad Repair - Prowler","xp":"10"}
+,"138": {"experience_id":138,"description":"Squad Repair - Reaver","xp":"10"}
+,"139": {"experience_id":139,"description":"Squad Repair - Scythe","xp":"10"}
+,"140": {"experience_id":140,"description":"Squad Repair - Sunderer","xp":"10"}
+,"141": {"experience_id":141,"description":"Squad Repair - Vanguard","xp":"10"}
+,"142": {"experience_id":142,"description":"Squad MAX Repair","xp":"15"}
+,"143": {"experience_id":143,"description":"Drop Pod Kill","xp":"20"}
+,"146": {"experience_id":146,"description":"Player Kill by Sunderer Gunner","xp":"100"}
+,"148": {"experience_id":148,"description":"Player Kill by Magrider Gunner","xp":"100"}
+,"149": {"experience_id":149,"description":"Player Kill by Vanguard Gunner","xp":"100"}
+,"150": {"experience_id":150,"description":"Player Kill by Prowler Gunner","xp":"100"}
+,"154": {"experience_id":154,"description":"Player Kill by Liberator Gunner","xp":"100"}
+,"155": {"experience_id":155,"description":"Player Kill by Galaxy Gunner","xp":"100"}
+,"159": {"experience_id":159,"description":"Flash Kill by Sunderer Gunner","xp":"75"}
+,"160": {"experience_id":160,"description":"Sunderer Kill by Sunderer Gunner","xp":"375"}
+,"161": {"experience_id":161,"description":"Lightning Kill by Sunderer Gunne","xp":"300"}
+,"162": {"experience_id":162,"description":"Magrider Kill by Sunderer Gunner","xp":"375"}
+,"163": {"experience_id":163,"description":"Vanguard Kill by Sunderer Gunner","xp":"375"}
+,"164": {"experience_id":164,"description":"Prowler Kill by Sunderer Gunner","xp":"375"}
+,"165": {"experience_id":165,"description":"Scythe Kill by Sunderer Gunner","xp":"300"}
+,"166": {"experience_id":166,"description":"Reaver Kill by Sunderer Gunner","xp":"300"}
+,"167": {"experience_id":167,"description":"Mosquito Kill by Sunderer Gunner","xp":"300"}
+,"168": {"experience_id":168,"description":"Lib Kill by Sunderer","xp":"375"}
+,"169": {"experience_id":169,"description":"Galaxy Kill by Sunderer Gunner","xp":"300"}
+,"181": {"experience_id":181,"description":"Flash Kill by Magrider Gunner","xp":"75"}
+,"182": {"experience_id":182,"description":"Sunderer Kill by Magrider Gunner","xp":"375"}
+,"183": {"experience_id":183,"description":"Lightning Kill by Magrider Gunne","xp":"300"}
+,"184": {"experience_id":184,"description":"Vanguard Kill by Magrider Gunner","xp":"375"}
+,"185": {"experience_id":185,"description":"Prowler Kill by Magrider Gunner","xp":"375"}
+,"186": {"experience_id":186,"description":"Reaver Kill by Magrider Gunner","xp":"300"}
+,"187": {"experience_id":187,"description":"Mosquito Kill by Magrider Gunner","xp":"300"}
+,"188": {"experience_id":188,"description":"Lib Kill by Magrider","xp":"375"}
+,"189": {"experience_id":189,"description":"Galaxy Kill by Magrider Gunner","xp":"300"}
+,"190": {"experience_id":190,"description":"Flash Kill by Vanguard Gunner","xp":"75"}
+,"191": {"experience_id":191,"description":"Sunderer Kill by Vanguard Gunner","xp":"375"}
+,"192": {"experience_id":192,"description":"Lightning Kill by Vanguard Gunne","xp":"300"}
+,"193": {"experience_id":193,"description":"Magrider Kill by Vanguard Gunner","xp":"375"}
+,"195": {"experience_id":195,"description":"Prowler Kill by Vanguard Gunner","xp":"375"}
+,"196": {"experience_id":196,"description":"Scythe Kill by Vanguard Gunner","xp":"300"}
+,"197": {"experience_id":197,"description":"Mosquito Kill by Vanguard Gunner","xp":"300"}
+,"198": {"experience_id":198,"description":"Lib Kill by Vanguard","xp":"375"}
+,"199": {"experience_id":199,"description":"Galaxy Kill by Vanguard Gunner","xp":"300"}
+,"200": {"experience_id":200,"description":"Flash Kill by Prowler Gunner","xp":"75"}
+,"201": {"experience_id":201,"description":"Galaxy Spawn Bonus","xp":"3"}
+,"202": {"experience_id":202,"description":"Sunderer Kill by Prowler Gunner","xp":"375"}
+,"203": {"experience_id":203,"description":"Lightning Kill by Prowler Gunner","xp":"300"}
+,"204": {"experience_id":204,"description":"Magrider Kill by Prowler Gunner","xp":"375"}
+,"205": {"experience_id":205,"description":"Vanguard Kill by Prowler Gunner","xp":"375"}
+,"207": {"experience_id":207,"description":"Scythe Kill by Prowler Gunner","xp":"300"}
+,"208": {"experience_id":208,"description":"Reaver Kill by Prowler Gunner","xp":"300"}
+,"209": {"experience_id":209,"description":"Liberator Kill by Prowler Gunner","xp":"375"}
+,"210": {"experience_id":210,"description":"Galaxy Kill by Prowler Gunner","xp":"300"}
+,"211": {"experience_id":211,"description":"Flash Kill by Liberator Gunner","xp":"75"}
+,"212": {"experience_id":212,"description":"Sunderer Kill by Lib Gunner","xp":"375"}
+,"213": {"experience_id":213,"description":"Lightning Kill by Liberator Gunn","xp":"300"}
+,"214": {"experience_id":214,"description":"Magrider Kill by Lib Gunner","xp":"375"}
+,"215": {"experience_id":215,"description":"Vanguard Kill by Lib Gunner","xp":"375"}
+,"216": {"experience_id":216,"description":"Prowler Kill by Liberator Gunner","xp":"375"}
+,"217": {"experience_id":217,"description":"Scythe Kill by Liberator Gunner","xp":"300"}
+,"218": {"experience_id":218,"description":"Reaver Kill by Liberator Gunner","xp":"300"}
+,"219": {"experience_id":219,"description":"Mosquito Kill by Lib Gunner","xp":"300"}
+,"220": {"experience_id":220,"description":"Lib Kill by Liberator","xp":"375"}
+,"221": {"experience_id":221,"description":"Galaxy Kill by Liberator Gunner","xp":"300"}
+,"222": {"experience_id":222,"description":"Flash Kill by Galaxy Gunner","xp":"75"}
+,"223": {"experience_id":223,"description":"Sunderer Kill by Galaxy Gunner","xp":"375"}
+,"224": {"experience_id":224,"description":"Lightning Kill by Galaxy Gunner","xp":"300"}
+,"225": {"experience_id":225,"description":"Magrider Kill by Galaxy Gunner","xp":"375"}
+,"226": {"experience_id":226,"description":"Vanguard Kill by Galaxy Gunner","xp":"375"}
+,"227": {"experience_id":227,"description":"Prowler Kill by Galaxy Gunner","xp":"375"}
+,"228": {"experience_id":228,"description":"Scythe Kill by Galaxy Gunner","xp":"300"}
+,"229": {"experience_id":229,"description":"Reaver Kill by Galaxy Gunner","xp":"300"}
+,"230": {"experience_id":230,"description":"Mosquito Kill by Galaxy Gunner","xp":"300"}
+,"231": {"experience_id":231,"description":"LibKill by Galaxy Gunner","xp":"375"}
+,"232": {"experience_id":232,"description":"Galaxy Kill by Galaxy Gunner","xp":"300"}
+,"233": {"experience_id":233,"description":"Sunderer Spawn Bonus","xp":"5"}
+,"234": {"experience_id":234,"description":"Facility placed bomb","xp":"250"}
+,"235": {"experience_id":235,"description":"Facility defused bomb","xp":"250"}
+,"236": {"experience_id":236,"description":"Facility Terminal Hack","xp":"50"}
+,"237": {"experience_id":237,"description":"Facility Turret Hack","xp":"50"}
+,"240": {"experience_id":240,"description":"Vehicle Resupply","xp":"10"}
+,"241": {"experience_id":241,"description":"Squad Vehicle Resupply","xp":"15"}
+,"242": {"experience_id":242,"description":"Spot Kill - Flash","xp":"20"}
+,"243": {"experience_id":243,"description":"Spot Kill - Engi Turret","xp":"20"}
+,"244": {"experience_id":244,"description":"Spot Kill - Phalanx","xp":"20"}
+,"245": {"experience_id":245,"description":"Spot Kill - Drop Pod","xp":"20"}
+,"246": {"experience_id":246,"description":"Spot Kill - Galaxy","xp":"20"}
+,"247": {"experience_id":247,"description":"Spot Kill - Liberator","xp":"20"}
+,"248": {"experience_id":248,"description":"Spot Kill - Lightning","xp":"20"}
+,"249": {"experience_id":249,"description":"Spot Kill - Magrider","xp":"20"}
+,"250": {"experience_id":250,"description":"Spot Kill - Mosquito","xp":"20"}
+,"251": {"experience_id":251,"description":"Spot Kill - Prowler","xp":"20"}
+,"252": {"experience_id":252,"description":"Spot Kill - Reaver","xp":"20"}
+,"253": {"experience_id":253,"description":"Spot Kill - Scythe","xp":"20"}
+,"254": {"experience_id":254,"description":"Spot Kill - Sunderer","xp":"20"}
+,"255": {"experience_id":255,"description":"Spot Kill - Vanguard","xp":"20"}
+,"256": {"experience_id":256,"description":"Squad Spot Kill - Flash","xp":"30"}
+,"257": {"experience_id":257,"description":"Squad Spot Kill - Engi Turret","xp":"30"}
+,"258": {"experience_id":258,"description":"Squad Spot Kill - Phalanx","xp":"30"}
+,"259": {"experience_id":259,"description":"Squad Spot Kill - Drop Pod","xp":"30"}
+,"260": {"experience_id":260,"description":"Squad Spot Kill - Galaxy","xp":"30"}
+,"261": {"experience_id":261,"description":"Squad Spot Kill - Liberator","xp":"30"}
+,"262": {"experience_id":262,"description":"Squad Spot Kill - Lightning","xp":"30"}
+,"263": {"experience_id":263,"description":"Squad Spot Kill - Magrider","xp":"30"}
+,"264": {"experience_id":264,"description":"Squad Spot Kill - Mosquito","xp":"30"}
+,"265": {"experience_id":265,"description":"Squad Spot Kill - Prowler","xp":"30"}
+,"266": {"experience_id":266,"description":"Squad Spot Kill - Reaver","xp":"30"}
+,"267": {"experience_id":267,"description":"Squad Spot Kill - Scythe","xp":"30"}
+,"268": {"experience_id":268,"description":"Squad Spot Kill - Sunderer","xp":"30"}
+,"269": {"experience_id":269,"description":"Squad Spot Kill - Vanguard","xp":"30"}
+,"270": {"experience_id":270,"description":"Squad Spawn Beacon Kill","xp":"25"}
+,"272": {"experience_id":272,"description":"Convert Capture Point","xp":"25"}
+,"275": {"experience_id":275,"description":"Terminal Kill","xp":"20"}
+,"276": {"experience_id":276,"description":"Terminal Repair","xp":"5"}
+,"277": {"experience_id":277,"description":"Spawn Kill","xp":"0"}
+,"278": {"experience_id":278,"description":"Priority Kill","xp":"150"}
+,"279": {"experience_id":279,"description":"High Priority Kill","xp":"300"}
+,"280": {"experience_id":280,"description":"Lighting Damage (Infantry vs Vehicle)","xp":"50"}
+,"281": {"experience_id":281,"description":"Prowler Damage (Infantry vs Vehicle)","xp":"50"}
+,"283": {"experience_id":283,"description":"Galaxy Damage","xp":"20"}
+,"284": {"experience_id":284,"description":"Liberator Damage","xp":"20"}
+,"285": {"experience_id":285,"description":"Magrider Damage (Infantry vs Vehicle)","xp":"50"}
+,"286": {"experience_id":286,"description":"Mosquito Damage","xp":"20"}
+,"287": {"experience_id":287,"description":"Reaver Damage","xp":"20"}
+,"288": {"experience_id":288,"description":"Scythe Damage","xp":"20"}
+,"289": {"experience_id":289,"description":"Sunderer Damage (Infantry vs Vehicle)","xp":"50"}
+,"290": {"experience_id":290,"description":"Vanguard Damage (Infantry vs Vehicle)","xp":"50"}
+,"291": {"experience_id":291,"description":"Ribbon Experience","xp":"500"}
+,"293": {"experience_id":293,"description":"Motion Detect","xp":"10"}
+,"294": {"experience_id":294,"description":"Squad Motion Spot","xp":"15"}
+,"300": {"experience_id":300,"description":"Vehicle Ram Kill - Harasser","xp":"20"}
+,"301": {"experience_id":301,"description":"Vehicle Destruction - Harasser","xp":"300"}
+,"302": {"experience_id":302,"description":"Squad Repair - Harasser","xp":"10"}
+,"303": {"experience_id":303,"description":"Vehicle Repair - Harasser","xp":"5"}
+,"304": {"experience_id":304,"description":"Kill Assist - Harasser","xp":"300"}
+,"306": {"experience_id":306,"description":"Spot Kill - Harasser","xp":"20"}
+,"307": {"experience_id":307,"description":"Squad Spot Kill - Harasser","xp":"30"}
+,"308": {"experience_id":308,"description":"Harasser Kill by Sunderer Gunne","xp":"225"}
+,"309": {"experience_id":309,"description":"Harasser Kill by Magrider Gunne","xp":"225"}
+,"310": {"experience_id":310,"description":"Harasser Kill by Vanguard Gunne","xp":"225"}
+,"311": {"experience_id":311,"description":"Harasser Kill by Prowler Gunner","xp":"225"}
+,"312": {"experience_id":312,"description":"Harasser Kill by Liberator Gunn","xp":"225"}
+,"313": {"experience_id":313,"description":"Harasser Kill by Galaxy Gunner","xp":"225"}
+,"314": {"experience_id":314,"description":"Player Kill by Harasser Gunner","xp":"75"}
+,"315": {"experience_id":315,"description":"Flash Kill by Harasser Gunner","xp":"75"}
+,"316": {"experience_id":316,"description":"Sunderer Kill by Harasser Gunner","xp":"375"}
+,"317": {"experience_id":317,"description":"Lightning Kill by Harasser Gunne","xp":"300"}
+,"318": {"experience_id":318,"description":"Vanguard Kill by Harasser Gunner","xp":"375"}
+,"319": {"experience_id":319,"description":"Prowler Kill by Harasser Gunner","xp":"375"}
+,"320": {"experience_id":320,"description":"Reaver Kill by Harasser Gunner","xp":"300"}
+,"321": {"experience_id":321,"description":"Mosquito Kill by Harasser Gunner","xp":"300"}
+,"322": {"experience_id":322,"description":"Lib Kill by Harasser","xp":"375"}
+,"323": {"experience_id":323,"description":"Galaxy Kill by Harasser Gunner","xp":"300"}
+,"324": {"experience_id":324,"description":"Harasser Kill by Harasser Gunner","xp":"225"}
+,"325": {"experience_id":325,"description":"Magrider Kill by Harasser Gunner","xp":"375"}
+,"326": {"experience_id":326,"description":"Scythe Kill by Harasser Gunner","xp":"300"}
+,"327": {"experience_id":327,"description":"Tank Mine Despawn/Defusal","xp":"50"}
+,"328": {"experience_id":328,"description":"Alert Reward"}
+,"329": {"experience_id":329,"description":"Tank Hunter Bonus - Prowler Kill","xp":"100"}
+,"330": {"experience_id":330,"description":"Tank Hunter Bonus - Magrider Kil","xp":"100"}
+,"331": {"experience_id":331,"description":"Dogfighter Bonus - Mosquito Kill","xp":"100"}
+,"332": {"experience_id":332,"description":"Dogfighter Bonus - Reaver Kill","xp":"100"}
+,"333": {"experience_id":333,"description":"Dogfighter Bonus - Scythe Kill","xp":"100"}
+,"334": {"experience_id":334,"description":"Tank Hunter Bonus - Vanguard Kil","xp":"100"}
+,"335": {"experience_id":335,"description":"Savior Kill (Non MAX)","xp":"25"}
+,"336": {"experience_id":336,"description":"Saved","xp":"0"}
+,"337": {"experience_id":337,"description":"Holiday Event NPC: Kill","xp":"500"}
+,"338": {"experience_id":338,"description":"Holiday Event NPC Gold: Kill","xp":"5000"}
+,"339": {"experience_id":339,"description":"Snowman Kill by Sunderer Gunner","xp":"250"}
+,"340": {"experience_id":340,"description":"Snowman Kill by Magrider Gunner","xp":"250"}
+,"341": {"experience_id":341,"description":"Snowman Kill by Vanguard Gunner","xp":"250"}
+,"342": {"experience_id":342,"description":"Snowman Kill by Prowler Gunner","xp":"250"}
+,"343": {"experience_id":343,"description":"Snowman Kill by Liberator Gunner","xp":"250"}
+,"344": {"experience_id":344,"description":"Snowman Kill by Galaxy Gunner","xp":"250"}
+,"345": {"experience_id":345,"description":"Snowman Kill by Harasser Gunner","xp":"250"}
+,"346": {"experience_id":346,"description":"GSnowman Kill by Sunder Gunner","xp":"2500"}
+,"347": {"experience_id":347,"description":"GSnowman Kill by Mag Gunner","xp":"2500"}
+,"348": {"experience_id":348,"description":"GSnowman Kill by Vang Gunner","xp":"2500"}
+,"349": {"experience_id":349,"description":"GSnowman Kill by Prow Gunner","xp":"2500"}
+,"350": {"experience_id":350,"description":"GSnowman Kill by Lib Gunner","xp":"2500"}
+,"351": {"experience_id":351,"description":"GSnowman Kill by Gal Gunner","xp":"2500"}
+,"352": {"experience_id":352,"description":"GSnowman Kill by Haras Gunner","xp":"2500"}
+,"353": {"experience_id":353,"description":"Scout Radar Detect","xp":"10"}
+,"354": {"experience_id":354,"description":"Squad Scout Radar Detect","xp":"15"}
+,"355": {"experience_id":355,"description":"Squad Vehicle Spawn Bonus","xp":"10"}
+,"356": {"experience_id":356,"description":"Vehicle Ram Kill - R Drone","xp":"20"}
+,"357": {"experience_id":357,"description":"Vehicle Destruction - R Drone","xp":"25"}
+,"358": {"experience_id":358,"description":"Squad Repair - R Drone","xp":"10"}
+,"359": {"experience_id":359,"description":"Vehicle Repair - R Drone","xp":"5"}
+,"360": {"experience_id":360,"description":"Kill Assist - R Drone","xp":"10"}
+,"362": {"experience_id":362,"description":"R Drone Kill by Harasser Gunner","xp":"19"}
+,"363": {"experience_id":363,"description":"R Drone Kill by Sunderer Gunner","xp":"19"}
+,"364": {"experience_id":364,"description":"R Drone Kill by Magrider Gunner","xp":"19"}
+,"365": {"experience_id":365,"description":"R Drone Kill by Prowler Gunner","xp":"19"}
+,"366": {"experience_id":366,"description":"R Drone Kill by Lib Gunner","xp":"19"}
+,"367": {"experience_id":367,"description":"R Drone Kill by Galaxy Gunner","xp":"19"}
+,"368": {"experience_id":368,"description":"Spot Kill - R Drone","xp":"20"}
+,"369": {"experience_id":369,"description":"Squad Spot Kill - R Drone","xp":"30"}
+,"370": {"experience_id":370,"description":"Motion Sensor Spotter Kill","xp":"25"}
+,"371": {"experience_id":371,"description":"Kill Player Priority Assist","xp":"150"}
+,"372": {"experience_id":372,"description":"Kill Player High Priority Assist","xp":"300"}
+,"437": {"experience_id":437,"description":"Shield Regen Tool Kill","xp":"25"}
+,"438": {"experience_id":438,"description":"Shield Repair","xp":"10"}
+,"439": {"experience_id":439,"description":"Squad Shield Repair","xp":"15"}
+,"440": {"experience_id":440,"description":"Chain Expl Assist: Infantry","xp":"100"}
+,"441": {"experience_id":441,"description":"Chain Expl Assist: Flash","xp":"100"}
+,"501": {"experience_id":501,"description":"Vehicle Destruction - Valkyrie","xp":"400"}
+,"502": {"experience_id":502,"description":"Vehicle Ram Kill - Valkyrie","xp":"20"}
+,"503": {"experience_id":503,"description":"Vehicle Repair - Valkyrie","xp":"5"}
+,"504": {"experience_id":504,"description":"Kill Assist - Valkyrie","xp":"400"}
+,"505": {"experience_id":505,"description":"Squad Repair - Valkyrie","xp":"10"}
+,"506": {"experience_id":506,"description":"Spot Kill - Valkyrie","xp":"20"}
+,"507": {"experience_id":507,"description":"Squad Spot Kill - Valkyrie","xp":"30"}
+,"508": {"experience_id":508,"description":"Valkyrie Damage","xp":"20"}
+,"509": {"experience_id":509,"description":"Valkyrie Kill by Sunderer Gunner","xp":"300"}
+,"510": {"experience_id":510,"description":"Valkyrie Kill by Magrider Gunner","xp":"300"}
+,"511": {"experience_id":511,"description":"Valkyrie Kill by Vanguard Gunner","xp":"300"}
+,"512": {"experience_id":512,"description":"Valkyrie Kill by Prowler Gunner","xp":"300"}
+,"513": {"experience_id":513,"description":"Valkyrie Kill by Liberator Gunner","xp":"300"}
+,"514": {"experience_id":514,"description":"Valkyrie Kill by Galaxy Gunner","xp":"300"}
+,"515": {"experience_id":515,"description":"Player Kill by Valkyrie Gunner","xp":"75"}
+,"520": {"experience_id":520,"description":"Flash Kill by Valkyrie Gunner","xp":"75"}
+,"521": {"experience_id":521,"description":"Sunderer Kill by Valkyrie Gunner","xp":"375"}
+,"522": {"experience_id":522,"description":"Lightning Kill by Valkyrie Gunne","xp":"300"}
+,"523": {"experience_id":523,"description":"Vanguard Kill by Valkyrie Gunner","xp":"375"}
+,"524": {"experience_id":524,"description":"Prowler Kill by Valkyrie Gunner","xp":"375"}
+,"525": {"experience_id":525,"description":"Reaver Kill by Valkyrie Gunner","xp":"300"}
+,"526": {"experience_id":526,"description":"Mosquito Kill by Valkyrie Gunner","xp":"300"}
+,"527": {"experience_id":527,"description":"Lib Kill by Valkyrie","xp":"375"}
+,"528": {"experience_id":528,"description":"Galaxy Kill by Valkyrie Gunner","xp":"300"}
+,"529": {"experience_id":529,"description":"Magrider Kill by Valkyrie Gunner","xp":"375"}
+,"530": {"experience_id":530,"description":"Scythe Kill by Valkyrie Gunner","xp":"300"}
+,"531": {"experience_id":531,"description":"Snowman Kill by Valkyrie Gunner","xp":"250"}
+,"532": {"experience_id":532,"description":"R Drone Kill by Valkyrie Gunner","xp":"19"}
+,"533": {"experience_id":533,"description":"Valkyrie Kill by Valkyrie Gunner","xp":"300"}
+,"534": {"experience_id":534,"description":"Chain Expl Assist: Phalanx","xp":"100"}
+,"535": {"experience_id":535,"description":"Chain Expl Assist: Drop Pod","xp":"20"}
+,"536": {"experience_id":536,"description":"Chain Expl Assist: Galaxy","xp":"400"}
+,"537": {"experience_id":537,"description":"Chain Expl Assist: Liberator","xp":"500"}
+,"538": {"experience_id":538,"description":"Chain Expl Assist: Lightning","xp":"400"}
+,"539": {"experience_id":539,"description":"Chain Expl Assist: Magrider","xp":"500"}
+,"540": {"experience_id":540,"description":"Chain Expl Assist: Mosquito","xp":"400"}
+,"541": {"experience_id":541,"description":"Chain Expl Assist: Prowler","xp":"500"}
+,"542": {"experience_id":542,"description":"Chain Expl Assist: Reaver","xp":"400"}
+,"543": {"experience_id":543,"description":"Chain Expl Assist: Scythe","xp":"400"}
+,"544": {"experience_id":544,"description":"Chain Expl Assist: Sunderer","xp":"500"}
+,"545": {"experience_id":545,"description":"Chain Expl Assist: Vanguard","xp":"500"}
+,"546": {"experience_id":546,"description":"Chain Expl Assist: Harasser","xp":"300"}
+,"547": {"experience_id":547,"description":"Chain Expl Assist: R Drone","xp":"10"}
+,"548": {"experience_id":548,"description":"Chain Expl Assist: Valkyrie","xp":"400"}
+,"550": {"experience_id":550,"description":"Concussion Grenade Assist","xp":"50"}
+,"551": {"experience_id":551,"description":"Concussion Grenade Squad Assist","xp":"75"}
+,"552": {"experience_id":552,"description":"EMP Grenade Assist","xp":"50"}
+,"553": {"experience_id":553,"description":"EMP Grenade Squad Assist","xp":"75"}
+,"554": {"experience_id":554,"description":"Flashbang Assist","xp":"50"}
+,"555": {"experience_id":555,"description":"Flashbang Squad Assist","xp":"75"}
+,"556": {"experience_id":556,"description":"Objective Pulse Defend","xp":"50"}
+,"557": {"experience_id":557,"description":"Objective Pulse Capture","xp":"100"}
+,"558": {"experience_id":558,"description":"Halloween Event NPC GreatP: Kill","xp":"1000"}
+,"559": {"experience_id":559,"description":"Pumpkin Kill by Valkyrie Gunner","xp":"250"}
+,"560": {"experience_id":560,"description":"Pumpkin Kill by Sunderer Gunner","xp":"250"}
+,"561": {"experience_id":561,"description":"Pumpkin Kill by Magrider Gunner","xp":"250"}
+,"562": {"experience_id":562,"description":"Pumpkin Kill by Vanguard Gunner","xp":"250"}
+,"563": {"experience_id":563,"description":"Pumpkin Kill by Prowler Gunner","xp":"250"}
+,"564": {"experience_id":564,"description":"Pumpkin Kill by Liberator Gunner","xp":"250"}
+,"565": {"experience_id":565,"description":"Pumpkin Kill by Galaxy Gunner","xp":"250"}
+,"566": {"experience_id":566,"description":"Pumpkin Kill by Harasser Gunner","xp":"250"}
+,"567": {"experience_id":567,"description":"GPumpkin Kill by Sunder Gunner","xp":"1000"}
+,"568": {"experience_id":568,"description":"GPumpkin Kill by Mag Gunner","xp":"1000"}
+,"569": {"experience_id":569,"description":"GPumpkin Kill by Vang Gunner","xp":"1000"}
+,"570": {"experience_id":570,"description":"GPumpkin Kill by Prow Gunner","xp":"1000"}
+,"571": {"experience_id":571,"description":"GPumpkin Kill by Lib Gunner","xp":"1000"}
+,"572": {"experience_id":572,"description":"GPumpkin Kill by Gal Gunner","xp":"1000"}
+,"573": {"experience_id":573,"description":"GPumpkin Kill by Haras Gunner","xp":"1000"}
+,"574": {"experience_id":574,"description":"Halloween Event NPC: Kill","xp":"250"}
+,"575": {"experience_id":575,"description":"Harasser Kill by Valkyrie Gunner","xp":"225"}
+,"576": {"experience_id":576,"description":"Valkyrie Kill by Harasser Gunner","xp":"300"}
+,"577": {"experience_id":577,"description":"Snowman kill by squad member","xp":"250"}
+,"578": {"experience_id":578,"description":"Gsnowman kill by squad member","xp":"2500"}
+,"579": {"experience_id":579,"description":"Destroy Spitfire Turret","xp":"25"}
+,"580": {"experience_id":580,"description":"Vehicle Ram Kill - Spitfire Turret","xp":"20"}
+,"581": {"experience_id":581,"description":"Vehicle Repair - Spitfire Turret","xp":"5"}
+,"582": {"experience_id":582,"description":"Kill Assist - Spitfire Turret","xp":"25"}
+,"584": {"experience_id":584,"description":"Squad Repair - Spitfire Turret","xp":"10"}
+,"585": {"experience_id":585,"description":"Spot Kill - Spitfire Turret","xp":"20"}
+,"586": {"experience_id":586,"description":"Squad Spot Kill - Spitfire Turret","xp":"30"}
+,"591": {"experience_id":591,"description":"Kill Dummy NPC","xp":"0"}
+,"592": {"experience_id":592,"description":"Savior Kill (MAX)","xp":"125"}
+,"593": {"experience_id":593,"description":"Bounty Kill Bonus","xp":"250"}
+,"594": {"experience_id":594,"description":"Bounty Kill Cashed In","xp":"400"}
+,"595": {"experience_id":595,"description":"Bounty Kill Streak","xp":"25"}
+,"596": {"experience_id":596,"description":"Membership bonus xp","xp":"0"}
+,"597": {"experience_id":597,"description":"Victory Point XP","xp":"1"}
+,"598": {"experience_id":598,"description":"Continent Capture XP","xp":"1"}
+,"599": {"experience_id":599,"description":"Victory Point XP (-25%XP)","xp":"1"}
+,"600": {"experience_id":600,"description":"Victory Point XP (-50%XP)","xp":"1"}
+,"601": {"experience_id":601,"description":"Victory Point XP (-75%XP)","xp":"1"}
+,"602": {"experience_id":602,"description":"Victory Point XP (+50%XP)","xp":"1"}
+,"603": {"experience_id":603,"description":"Vehicle Ram Kill - Construction - Med","xp":"250"}
+,"604": {"experience_id":604,"description":"Kill/Destroy - Construction - Med","xp":"250"}
+,"605": {"experience_id":605,"description":"SquadRepair - Construction - Med","xp":"10"}
+,"606": {"experience_id":606,"description":"Repair - Construction - Med","xp":"5"}
+,"607": {"experience_id":607,"description":"KillAssist - Construction - Med","xp":"150"}
+,"609": {"experience_id":609,"description":"Spot Kill - Construction - Med ","xp":"100"}
+,"610": {"experience_id":610,"description":"Squad Spot Kill - Construction - Med","xp":"100"}
+,"615": {"experience_id":615,"description":"Vehicle Ram Kill - Construction - Small","xp":"150"}
+,"616": {"experience_id":616,"description":"Kill/Destroy - Construction - Small","xp":"150"}
+,"617": {"experience_id":617,"description":"SquadRepair - Construction - Sma","xp":"5"}
+,"618": {"experience_id":618,"description":"Repair - Construction - Small","xp":"5"}
+,"619": {"experience_id":619,"description":"KillAssist - Construction - Small","xp":"75"}
+,"621": {"experience_id":621,"description":"Spot Kill - Construction - Small ","xp":"50"}
+,"622": {"experience_id":622,"description":"Squad Spot Kill - Construction - Small","xp":"50"}
+,"627": {"experience_id":627,"description":"Vehicle Ram Kill - Construction - Large","xp":"350"}
+,"628": {"experience_id":628,"description":"Kill/Destroy - Construction - Large","xp":"350"}
+,"629": {"experience_id":629,"description":"SquadRepair - Construction - Lar","xp":"10"}
+,"630": {"experience_id":630,"description":"Repair - Construction - Large","xp":"5"}
+,"631": {"experience_id":631,"description":"KillAssist - Construction - Large","xp":"175"}
+,"633": {"experience_id":633,"description":"Spot Kill - Construction - Large ","xp":"150"}
+,"634": {"experience_id":634,"description":"Squad Spot Kill - Construction - Large","xp":"150"}
+,"639": {"experience_id":639,"description":"Vehicle Ram Kill - Construction - Core","xp":"350"}
+,"640": {"experience_id":640,"description":"Kill/Destroy - Construction - Core","xp":"350"}
+,"641": {"experience_id":641,"description":"SquadRepair - Construction - Cor","xp":"10"}
+,"642": {"experience_id":642,"description":"Repair - Construction - Core","xp":"5"}
+,"643": {"experience_id":643,"description":"KillAssist - Construction - Core","xp":"175"}
+,"645": {"experience_id":645,"description":"Spot Kill - Construction - Core ","xp":"150"}
+,"646": {"experience_id":646,"description":"Squad Spot Kill - Construction - Core","xp":"150"}
+,"651": {"experience_id":651,"description":"Vehicle Destruction - ANT","xp":"500"}
+,"652": {"experience_id":652,"description":"Vehicle Ram Kill - ANT","xp":"20"}
+,"653": {"experience_id":653,"description":"Vehicle Repair - ANT","xp":"5"}
+,"654": {"experience_id":654,"description":"Kill Assist - ANT","xp":"500"}
+,"656": {"experience_id":656,"description":"Squad Repair - ANT","xp":"10"}
+,"657": {"experience_id":657,"description":"ANT Kill by ANT Gunner","xp":"375"}
+,"658": {"experience_id":658,"description":"ANT Kill by Magrider Gunner","xp":"375"}
+,"659": {"experience_id":659,"description":"ANT Kill by Vanguard Gunner","xp":"375"}
+,"660": {"experience_id":660,"description":"ANT Kill by Prowler Gunner","xp":"375"}
+,"661": {"experience_id":661,"description":"ANT Kill by Lib Gunner","xp":"375"}
+,"662": {"experience_id":662,"description":"ANT Kill by Galaxy Gunner","xp":"375"}
+,"663": {"experience_id":663,"description":"Spot Kill - ANT","xp":"20"}
+,"664": {"experience_id":664,"description":"Squad Spot Kill - ANT","xp":"30"}
+,"665": {"experience_id":665,"description":"ANT Damage (Infantry vs Vehicle)","xp":"50"}
+,"666": {"experience_id":666,"description":"ANT Kill by Harasser Gunner","xp":"375"}
+,"671": {"experience_id":671,"description":"ANT Kill by Valkyrie Gunner","xp":"375"}
+,"672": {"experience_id":672,"description":"Chain Expl Assist: ANT","xp":"500"}
+,"673": {"experience_id":673,"description":"Bounty Kill Cashed In","xp":"400"}
+,"674": {"experience_id":674,"description":"Cortium Harvest","xp":"6"}
+,"675": {"experience_id":675,"description":"Cortium Deposit","xp":"7"}
+,"676": {"experience_id":676,"description":"Flash Kill by ANT Gunner","xp":"75"}
+,"677": {"experience_id":677,"description":"Galaxy Kill by ANT Gunner","xp":"300"}
+,"678": {"experience_id":678,"description":"Harasser Kill by ANT Gunner","xp":"225"}
+,"679": {"experience_id":679,"description":"Magrider Kill by ANT Gunner","xp":"375"}
+,"680": {"experience_id":680,"description":"Mosquito Kill by ANT Gunner","xp":"300"}
+,"681": {"experience_id":681,"description":"Player Kill by ANT Gunner","xp":"75"}
+,"682": {"experience_id":682,"description":"Prowler Kill by ANT Gunner","xp":"375"}
+,"683": {"experience_id":683,"description":"Pumpkin Kill by ANT Gunner","xp":"250"}
+,"684": {"experience_id":684,"description":"R Drone Kill by ANT Gunner","xp":"19"}
+,"685": {"experience_id":685,"description":"Reaver Kill by ANT Gunner","xp":"300"}
+,"686": {"experience_id":686,"description":"Scythe Kill by ANT Gunner","xp":"300"}
+,"687": {"experience_id":687,"description":"Snowman Kill by ANT Gunner","xp":"250"}
+,"688": {"experience_id":688,"description":"Sunderer Kill by ANT Gunner","xp":"375"}
+,"689": {"experience_id":689,"description":"Valkyrie Kill by ANT Gunner","xp":"300"}
+,"690": {"experience_id":690,"description":"Vanguard Kill by ANT Gunner","xp":"375"}
+,"693": {"experience_id":693,"description":"Kill Player - HIVE XP (Source)","xp":"20"}
+,"694": {"experience_id":694,"description":"Kill Player - HIVE XP (Target)","xp":"20"}
+,"695": {"experience_id":695,"description":"Kill Player Assist HIVE: Source","xp":"20"}
+,"696": {"experience_id":696,"description":"Kill Spawn Ass HIVE: Source","xp":"0"}
+,"697": {"experience_id":697,"description":"Heal Player HIVE: Source","xp":"2"}
+,"698": {"experience_id":698,"description":"MAX Repair HIVE: Source","xp":"2"}
+,"699": {"experience_id":699,"description":"Revive HIVE: Source","xp":"15"}
+,"701": {"experience_id":701,"description":"Destroy SecObj HIVE: Source","xp":"100"}
+,"702": {"experience_id":702,"description":"Destroy SecAss HIVE: Source","xp":"15"}
+,"703": {"experience_id":703,"description":"Vehicle Dest: Flash HIVE: Source","xp":"20"}
+,"705": {"experience_id":705,"description":"Transport Assist HIVE: Source","xp":"20"}
+,"706": {"experience_id":706,"description":"Vehicle Repair - Flash HIVE: Source","xp":"1"}
+,"707": {"experience_id":707,"description":"Resupply Player HIVE: Source","xp":"2"}
+,"708": {"experience_id":708,"description":"Kill Player Assist HIVE XP (Target)","xp":"20"}
+,"709": {"experience_id":709,"description":"Kill Spawn Ass HIVE XP (Target)","xp":"0"}
+,"710": {"experience_id":710,"description":"Heal Player HIVE XP (Target)","xp":"2"}
+,"711": {"experience_id":711,"description":"MAX Repair HIVE XP (Target)","xp":"2"}
+,"712": {"experience_id":712,"description":"Revive HIVE XP (Target)","xp":"15"}
+,"714": {"experience_id":714,"description":"Destroy SecObj HIVE XP (Target)","xp":"100"}
+,"715": {"experience_id":715,"description":"Destroy SecAss HIVE XP (Target)","xp":"15"}
+,"716": {"experience_id":716,"description":"Vehicle Dest: Flash HIVE XP (Target)","xp":"20"}
+,"718": {"experience_id":718,"description":"Transport Assist HIVE XP (Target)","xp":"20"}
+,"719": {"experience_id":719,"description":"Vehicle Repair - Flash HIVE XP (Target)","xp":"1"}
+,"720": {"experience_id":720,"description":"Resupply Player HIVE XP (Target)","xp":"2"}
+,"721": {"experience_id":721,"description":"Destroy Engineer Turret HIVE XP (Source)","xp":"5"}
+,"722": {"experience_id":722,"description":"Vehicle Destruction - Phalanx HIVE XP (Source)","xp":"20"}
+,"723": {"experience_id":723,"description":"Vehicle Destruction - Drop Pod HIVE XP (Source)","xp":"4"}
+,"724": {"experience_id":724,"description":"Vehicle Destruction - Galaxy HIVE XP (Source)","xp":"80"}
+,"725": {"experience_id":725,"description":"Vehicle Destruction - Liberator HIVE XP (Source)","xp":"100"}
+,"726": {"experience_id":726,"description":"Vehicle Destruction - Lightning HIVE XP (Source)","xp":"80"}
+,"727": {"experience_id":727,"description":"Vehicle Destruction - Magrider HIVE XP (Source)","xp":"100"}
+,"728": {"experience_id":728,"description":"Vehicle Destruction - Mosquito HIVE XP (Source)","xp":"80"}
+,"729": {"experience_id":729,"description":"Vehicle Destruction - Prowler HIVE XP (Source)","xp":"100"}
+,"730": {"experience_id":730,"description":"Vehicle Destruction - Reaver HIVE XP (Source)","xp":"80"}
+,"731": {"experience_id":731,"description":"Vehicle Destruction - Scythe HIVE XP (Source)","xp":"80"}
+,"732": {"experience_id":732,"description":"Vehicle Destruction - Sunderer HIVE XP (Source)","xp":"100"}
+,"733": {"experience_id":733,"description":"Vehicle Destruction - Vanguard HIVE XP (Source)","xp":"100"}
+,"734": {"experience_id":734,"description":"Vehicle Repair - Engi Turret HIVE XP (Source)","xp":"1"}
+,"735": {"experience_id":735,"description":"Vehicle Repair - Phalanx HIVE XP (Source)","xp":"1"}
+,"736": {"experience_id":736,"description":"Vehicle Repair - Drop Pod HIVE XP (Source)","xp":"1"}
+,"737": {"experience_id":737,"description":"Vehicle Repair - Galaxy HIVE XP (Source)","xp":"1"}
+,"738": {"experience_id":738,"description":"Vehicle Repair - Liberator HIVE XP (Source)","xp":"1"}
+,"739": {"experience_id":739,"description":"Vehicle Repair - Lightning HIVE XP (Source)","xp":"1"}
+,"740": {"experience_id":740,"description":"Vehicle Repair - Magrider HIVE XP (Source)","xp":"1"}
+,"741": {"experience_id":741,"description":"Destroy Engineer Turret HIVE XP (Target)","xp":"5"}
+,"742": {"experience_id":742,"description":"Vehicle Destruction - Phalanx HIVE XP (Target)","xp":"20"}
+,"743": {"experience_id":743,"description":"Vehicle Destruction - Drop Pod HIVE XP (Target)","xp":"4"}
+,"744": {"experience_id":744,"description":"Vehicle Destruction - Galaxy HIVE XP (Target)","xp":"80"}
+,"745": {"experience_id":745,"description":"Vehicle Destruction - Liberator HIVE XP (Target)","xp":"100"}
+,"746": {"experience_id":746,"description":"Vehicle Destruction - Lightning HIVE XP (Target)","xp":"80"}
+,"747": {"experience_id":747,"description":"Vehicle Destruction - Magrider HIVE XP (Target)","xp":"100"}
+,"748": {"experience_id":748,"description":"Vehicle Destruction - Mosquito HIVE XP (Target)","xp":"80"}
+,"749": {"experience_id":749,"description":"Vehicle Destruction - Prowler HIVE XP (Target)","xp":"100"}
+,"750": {"experience_id":750,"description":"Vehicle Destruction - Reaver HIVE XP (Target)","xp":"80"}
+,"751": {"experience_id":751,"description":"Vehicle Destruction - Scythe HIVE XP (Target)","xp":"80"}
+,"752": {"experience_id":752,"description":"Vehicle Destruction - Sunderer HIVE XP (Target)","xp":"100"}
+,"753": {"experience_id":753,"description":"Vehicle Destruction - Vanguard HIVE XP (Target)","xp":"100"}
+,"754": {"experience_id":754,"description":"Vehicle Repair - Engi Turret HIVE XP (Target)","xp":"1"}
+,"755": {"experience_id":755,"description":"Vehicle Repair - Phalanx HIVE XP (Target)","xp":"1"}
+,"756": {"experience_id":756,"description":"Vehicle Repair - Drop Pod HIVE XP (Target)","xp":"1"}
+,"757": {"experience_id":757,"description":"Vehicle Repair - Galaxy HIVE XP (Target)","xp":"1"}
+,"758": {"experience_id":758,"description":"Vehicle Repair - Liberator HIVE XP (Target)","xp":"1"}
+,"759": {"experience_id":759,"description":"Vehicle Repair - Lightning HIVE XP (Target)","xp":"1"}
+,"760": {"experience_id":760,"description":"Vehicle Repair - Magrider HIVE XP (Target)","xp":"1"}
+,"761": {"experience_id":761,"description":"Vehicle Repair - Mosquito HIVE XP (Source)","xp":"1"}
+,"762": {"experience_id":762,"description":"Vehicle Repair - Prowler HIVE XP (Source)","xp":"1"}
+,"763": {"experience_id":763,"description":"Vehicle Repair - Reaver HIVE XP (Source)","xp":"1"}
+,"764": {"experience_id":764,"description":"Vehicle Repair - Scythe HIVE XP (Source)","xp":"1"}
+,"765": {"experience_id":765,"description":"Vehicle Repair - Sunderer HIVE XP (Source)","xp":"1"}
+,"766": {"experience_id":766,"description":"Vehicle Repair - Vanguard HIVE XP (Source)","xp":"1"}
+,"767": {"experience_id":767,"description":"Kill Assist - Flash HIVE XP (Source)","xp":"20"}
+,"768": {"experience_id":768,"description":"Kill Assist - Engi Turret HIVE XP (Source)","xp":"5"}
+,"769": {"experience_id":769,"description":"Kill Assist - Phalanx HIVE XP (Source)","xp":"20"}
+,"770": {"experience_id":770,"description":"Kill Assist - Drop Pod HIVE XP (Source)","xp":"4"}
+,"771": {"experience_id":771,"description":"Kill Assist - Galaxy HIVE XP (Source)","xp":"80"}
+,"772": {"experience_id":772,"description":"Kill Assist - Liberator HIVE XP (Source)","xp":"100"}
+,"773": {"experience_id":773,"description":"Kill Assist - Lightning HIVE XP (Source)","xp":"80"}
+,"774": {"experience_id":774,"description":"Kill Assist - Magrider HIVE XP (Source)","xp":"100"}
+,"775": {"experience_id":775,"description":"Kill Assist - Mosquito HIVE XP (Source)","xp":"80"}
+,"776": {"experience_id":776,"description":"Kill Assist - Prowler HIVE XP (Source)","xp":"100"}
+,"777": {"experience_id":777,"description":"Kill Assist - Reaver HIVE XP (Source)","xp":"80"}
+,"778": {"experience_id":778,"description":"Kill Assist - Scythe HIVE XP (Source)","xp":"80"}
+,"779": {"experience_id":779,"description":"Kill Assist - Sunderer HIVE XP (Source)","xp":"100"}
+,"780": {"experience_id":780,"description":"Kill Assist - Vanguard HIVE XP (Source)","xp":"100"}
+,"781": {"experience_id":781,"description":"Vehicle Repair - Mosquito HIVE XP (Target)","xp":"1"}
+,"782": {"experience_id":782,"description":"Vehicle Repair - Prowler HIVE XP (Target)","xp":"1"}
+,"783": {"experience_id":783,"description":"Vehicle Repair - Reaver HIVE XP (Target)","xp":"1"}
+,"784": {"experience_id":784,"description":"Vehicle Repair - Scythe HIVE XP (Target)","xp":"1"}
+,"785": {"experience_id":785,"description":"Vehicle Repair - Sunderer HIVE XP (Target)","xp":"1"}
+,"786": {"experience_id":786,"description":"Vehicle Repair - Vanguard HIVE XP (Target)","xp":"1"}
+,"787": {"experience_id":787,"description":"Kill Assist - Flash HIVE XP (Target)","xp":"20"}
+,"788": {"experience_id":788,"description":"Kill Assist - Engi Turret HIVE XP (Target)","xp":"5"}
+,"789": {"experience_id":789,"description":"Kill Assist - Phalanx HIVE XP (Target)","xp":"20"}
+,"790": {"experience_id":790,"description":"Kill Assist - Drop Pod HIVE XP (Target)","xp":"4"}
+,"791": {"experience_id":791,"description":"Kill Assist - Galaxy HIVE XP (Target)","xp":"80"}
+,"792": {"experience_id":792,"description":"Kill Assist - Liberator HIVE XP (Target)","xp":"100"}
+,"793": {"experience_id":793,"description":"Kill Assist - Lightning HIVE XP (Target)","xp":"80"}
+,"794": {"experience_id":794,"description":"Kill Assist - Magrider HIVE XP (Target)","xp":"100"}
+,"795": {"experience_id":795,"description":"Kill Assist - Mosquito HIVE XP (Target)","xp":"80"}
+,"796": {"experience_id":796,"description":"Kill Assist - Prowler HIVE XP (Target)","xp":"100"}
+,"797": {"experience_id":797,"description":"Kill Assist - Reaver HIVE XP (Target)","xp":"80"}
+,"798": {"experience_id":798,"description":"Kill Assist - Scythe HIVE XP (Target)","xp":"80"}
+,"799": {"experience_id":799,"description":"Kill Assist - Sunderer HIVE XP (Target)","xp":"100"}
+,"800": {"experience_id":800,"description":"Kill Assist - Vanguard HIVE XP (Target)","xp":"100"}
+,"815": {"experience_id":815,"description":"Drop Pod Kill HIVE XP (Source)","xp":"4"}
+,"816": {"experience_id":816,"description":"Player Kill by Sunderer Gunner HIVE XP (Source)","xp":"20"}
+,"817": {"experience_id":817,"description":"Player Kill by Magrider Gunner HIVE XP (Source)","xp":"20"}
+,"818": {"experience_id":818,"description":"Player Kill by Vanguard Gunner HIVE XP (Source)","xp":"20"}
+,"819": {"experience_id":819,"description":"Player Kill by Prowler Gunner HIVE XP (Source)","xp":"20"}
+,"820": {"experience_id":820,"description":"Player Kill by Liberator Gunner HIVE XP (Source)","xp":"20"}
+,"835": {"experience_id":835,"description":"Drop Pod Kill HIVE XP (Target)","xp":"4"}
+,"836": {"experience_id":836,"description":"Player Kill by Sunderer Gunner HIVE XP (Target)","xp":"20"}
+,"837": {"experience_id":837,"description":"Player Kill by Magrider Gunner HIVE XP (Target)","xp":"20"}
+,"838": {"experience_id":838,"description":"Player Kill by Vanguard Gunner HIVE XP (Target)","xp":"20"}
+,"839": {"experience_id":839,"description":"Player Kill by Prowler Gunner HIVE XP (Target)","xp":"20"}
+,"840": {"experience_id":840,"description":"Player Kill by Liberator Gunner HIVE XP (Target)","xp":"20"}
+,"841": {"experience_id":841,"description":"Player Kill by Galaxy Gunner HIVE XP (Source)","xp":"20"}
+,"842": {"experience_id":842,"description":"Flash Kill by Sunderer Gunner HIVE XP (Source)","xp":"15"}
+,"843": {"experience_id":843,"description":"Sunderer Kill by Sunderer Gunner HIVE XP (Source)","xp":"75"}
+,"844": {"experience_id":844,"description":"Lightning Kill by Sunderer Gunne HIVE XP (Source)","xp":"60"}
+,"845": {"experience_id":845,"description":"Magrider Kill by Sunderer Gunner HIVE XP (Source)","xp":"75"}
+,"846": {"experience_id":846,"description":"Vanguard Kill by Sunderer Gunner HIVE XP (Source)","xp":"75"}
+,"847": {"experience_id":847,"description":"Prowler Kill by Sunderer Gunner HIVE XP (Source)","xp":"75"}
+,"848": {"experience_id":848,"description":"Scythe Kill by Sunderer Gunner HIVE XP (Source)","xp":"60"}
+,"849": {"experience_id":849,"description":"Reaver Kill by Sunderer Gunner HIVE XP (Source)","xp":"60"}
+,"850": {"experience_id":850,"description":"Mosquito Kill by Sunderer Gunner HIVE XP (Source)","xp":"60"}
+,"851": {"experience_id":851,"description":"Lib Kill by Sunderer HIVE XP (Source)","xp":"75"}
+,"852": {"experience_id":852,"description":"Galaxy Kill by Sunderer Gunner HIVE XP (Source)","xp":"60"}
+,"853": {"experience_id":853,"description":"Flash Kill by Magrider Gunner HIVE XP (Source)","xp":"15"}
+,"854": {"experience_id":854,"description":"Sunderer Kill by Magrider Gunner HIVE XP (Source)","xp":"75"}
+,"855": {"experience_id":855,"description":"Lightning Kill by Magrider Gunne HIVE XP (Source)","xp":"60"}
+,"856": {"experience_id":856,"description":"Vanguard Kill by Magrider Gunner HIVE XP (Source)","xp":"75"}
+,"857": {"experience_id":857,"description":"Prowler Kill by Magrider Gunner HIVE XP (Source)","xp":"75"}
+,"858": {"experience_id":858,"description":"Reaver Kill by Magrider Gunner HIVE XP (Source)","xp":"60"}
+,"859": {"experience_id":859,"description":"Mosquito Kill by Magrider Gunner HIVE XP (Source)","xp":"60"}
+,"860": {"experience_id":860,"description":"Lib Kill by Magrider HIVE XP (Source)","xp":"75"}
+,"861": {"experience_id":861,"description":"Player Kill by Galaxy Gunner HIVE XP (Target)","xp":"20"}
+,"862": {"experience_id":862,"description":"Flash Kill by Sunderer Gunner HIVE XP (Target)","xp":"15"}
+,"863": {"experience_id":863,"description":"Sunderer Kill by Sunderer Gunner HIVE XP (Target)","xp":"75"}
+,"864": {"experience_id":864,"description":"Lightning Kill by Sunderer Gunne HIVE XP (Target)","xp":"60"}
+,"865": {"experience_id":865,"description":"Magrider Kill by Sunderer Gunner HIVE XP (Target)","xp":"75"}
+,"866": {"experience_id":866,"description":"Vanguard Kill by Sunderer Gunner HIVE XP (Target)","xp":"75"}
+,"867": {"experience_id":867,"description":"Prowler Kill by Sunderer Gunner HIVE XP (Target)","xp":"75"}
+,"868": {"experience_id":868,"description":"Scythe Kill by Sunderer Gunner HIVE XP (Target)","xp":"60"}
+,"869": {"experience_id":869,"description":"Reaver Kill by Sunderer Gunner HIVE XP (Target)","xp":"60"}
+,"870": {"experience_id":870,"description":"Mosquito Kill by Sunderer Gunner HIVE XP (Target)","xp":"60"}
+,"871": {"experience_id":871,"description":"Lib Kill by Sunderer HIVE XP (Target)","xp":"75"}
+,"872": {"experience_id":872,"description":"Galaxy Kill by Sunderer Gunner HIVE XP (Target)","xp":"60"}
+,"873": {"experience_id":873,"description":"Flash Kill by Magrider Gunner HIVE XP (Target)","xp":"15"}
+,"874": {"experience_id":874,"description":"Sunderer Kill by Magrider Gunner HIVE XP (Target)","xp":"75"}
+,"875": {"experience_id":875,"description":"Lightning Kill by Magrider Gunne HIVE XP (Target)","xp":"60"}
+,"876": {"experience_id":876,"description":"Vanguard Kill by Magrider Gunner HIVE XP (Target)","xp":"75"}
+,"877": {"experience_id":877,"description":"Prowler Kill by Magrider Gunner HIVE XP (Target)","xp":"75"}
+,"878": {"experience_id":878,"description":"Reaver Kill by Magrider Gunner HIVE XP (Target)","xp":"60"}
+,"879": {"experience_id":879,"description":"Mosquito Kill by Magrider Gunner HIVE XP (Target)","xp":"60"}
+,"880": {"experience_id":880,"description":"Lib Kill by Magrider HIVE XP (Target)","xp":"75"}
+,"881": {"experience_id":881,"description":"Galaxy Kill by Magrider Gunner HIVE XP (Source)","xp":"60"}
+,"882": {"experience_id":882,"description":"Flash Kill by Vanguard Gunner HIVE XP (Source)","xp":"15"}
+,"883": {"experience_id":883,"description":"Sunderer Kill by Vanguard Gunner HIVE XP (Source)","xp":"75"}
+,"884": {"experience_id":884,"description":"Lightning Kill by Vanguard Gunne HIVE XP (Source)","xp":"60"}
+,"885": {"experience_id":885,"description":"Magrider Kill by Vanguard Gunner HIVE XP (Source)","xp":"75"}
+,"886": {"experience_id":886,"description":"Prowler Kill by Vanguard Gunner HIVE XP (Source)","xp":"75"}
+,"887": {"experience_id":887,"description":"Scythe Kill by Vanguard Gunner HIVE XP (Source)","xp":"60"}
+,"888": {"experience_id":888,"description":"Mosquito Kill by Vanguard Gunner HIVE XP (Source)","xp":"60"}
+,"889": {"experience_id":889,"description":"Lib Kill by Vanguard HIVE XP (Source)","xp":"75"}
+,"890": {"experience_id":890,"description":"Galaxy Kill by Vanguard Gunner HIVE XP (Source)","xp":"60"}
+,"891": {"experience_id":891,"description":"Flash Kill by Prowler Gunner HIVE XP (Source)","xp":"15"}
+,"892": {"experience_id":892,"description":"Sunderer Kill by Prowler Gunner HIVE XP (Source)","xp":"75"}
+,"893": {"experience_id":893,"description":"Lightning Kill by Prowler Gunner HIVE XP (Source)","xp":"60"}
+,"894": {"experience_id":894,"description":"Magrider Kill by Prowler Gunner HIVE XP (Source)","xp":"75"}
+,"895": {"experience_id":895,"description":"Vanguard Kill by Prowler Gunner HIVE XP (Source)","xp":"75"}
+,"896": {"experience_id":896,"description":"Scythe Kill by Prowler Gunner HIVE XP (Source)","xp":"60"}
+,"897": {"experience_id":897,"description":"Reaver Kill by Prowler Gunner HIVE XP (Source)","xp":"60"}
+,"898": {"experience_id":898,"description":"Liberator Kill by Prowler Gunner HIVE XP (Source)","xp":"75"}
+,"899": {"experience_id":899,"description":"Galaxy Kill by Prowler Gunner HIVE XP (Source)","xp":"60"}
+,"900": {"experience_id":900,"description":"Galaxy Kill by Magrider Gunner HIVE XP (Target)","xp":"60"}
+,"901": {"experience_id":901,"description":"Flash Kill by Vanguard Gunner HIVE XP (Target)","xp":"15"}
+,"902": {"experience_id":902,"description":"Sunderer Kill by Vanguard Gunner HIVE XP (Target)","xp":"75"}
+,"903": {"experience_id":903,"description":"Lightning Kill by Vanguard Gunne HIVE XP (Target)","xp":"60"}
+,"904": {"experience_id":904,"description":"Magrider Kill by Vanguard Gunner HIVE XP (Target)","xp":"75"}
+,"905": {"experience_id":905,"description":"Prowler Kill by Vanguard Gunner HIVE XP (Target)","xp":"75"}
+,"906": {"experience_id":906,"description":"Scythe Kill by Vanguard Gunner HIVE XP (Target)","xp":"60"}
+,"907": {"experience_id":907,"description":"Mosquito Kill by Vanguard Gunner HIVE XP (Target)","xp":"60"}
+,"908": {"experience_id":908,"description":"Lib Kill by Vanguard HIVE XP (Target)","xp":"75"}
+,"909": {"experience_id":909,"description":"Galaxy Kill by Vanguard Gunner HIVE XP (Target)","xp":"60"}
+,"910": {"experience_id":910,"description":"Flash Kill by Prowler Gunner HIVE XP (Target)","xp":"15"}
+,"911": {"experience_id":911,"description":"Sunderer Kill by Prowler Gunner HIVE XP (Target)","xp":"75"}
+,"912": {"experience_id":912,"description":"Lightning Kill by Prowler Gunner HIVE XP (Target)","xp":"60"}
+,"913": {"experience_id":913,"description":"Magrider Kill by Prowler Gunner HIVE XP (Target)","xp":"75"}
+,"914": {"experience_id":914,"description":"Vanguard Kill by Prowler Gunner HIVE XP (Target)","xp":"75"}
+,"915": {"experience_id":915,"description":"Scythe Kill by Prowler Gunner HIVE XP (Target)","xp":"60"}
+,"916": {"experience_id":916,"description":"Reaver Kill by Prowler Gunner HIVE XP (Target)","xp":"60"}
+,"917": {"experience_id":917,"description":"Liberator Kill by Prowler Gunner HIVE XP (Target)","xp":"75"}
+,"918": {"experience_id":918,"description":"Galaxy Kill by Prowler Gunner HIVE XP (Target)","xp":"60"}
+,"919": {"experience_id":919,"description":"Flash Kill by Liberator Gunner HIVE XP (Source)","xp":"15"}
+,"920": {"experience_id":920,"description":"Sunderer Kill by Lib Gunner HIVE XP (Source)","xp":"75"}
+,"921": {"experience_id":921,"description":"Lightning Kill by Liberator Gunn HIVE XP (Source)","xp":"60"}
+,"922": {"experience_id":922,"description":"Magrider Kill by Lib Gunner HIVE XP (Source)","xp":"75"}
+,"923": {"experience_id":923,"description":"Vanguard Kill by Lib Gunner HIVE XP (Source)","xp":"75"}
+,"924": {"experience_id":924,"description":"Prowler Kill by Liberator Gunner HIVE XP (Source)","xp":"75"}
+,"925": {"experience_id":925,"description":"Scythe Kill by Liberator Gunner HIVE XP (Source)","xp":"60"}
+,"926": {"experience_id":926,"description":"Reaver Kill by Liberator Gunner HIVE XP (Source)","xp":"60"}
+,"927": {"experience_id":927,"description":"Mosquito Kill by Lib Gunner HIVE XP (Source)","xp":"60"}
+,"928": {"experience_id":928,"description":"Lib Kill by Liberator HIVE XP (Source)","xp":"75"}
+,"929": {"experience_id":929,"description":"Galaxy Kill by Liberator Gunner HIVE XP (Source)","xp":"60"}
+,"930": {"experience_id":930,"description":"Flash Kill by Galaxy Gunner HIVE XP (Source)","xp":"15"}
+,"931": {"experience_id":931,"description":"Sunderer Kill by Galaxy Gunner HIVE XP (Source)","xp":"75"}
+,"932": {"experience_id":932,"description":"Lightning Kill by Galaxy Gunner HIVE XP (Source)","xp":"60"}
+,"933": {"experience_id":933,"description":"Magrider Kill by Galaxy Gunner HIVE XP (Source)","xp":"75"}
+,"934": {"experience_id":934,"description":"Vanguard Kill by Galaxy Gunner HIVE XP (Source)","xp":"75"}
+,"935": {"experience_id":935,"description":"Prowler Kill by Galaxy Gunner HIVE XP (Source)","xp":"75"}
+,"936": {"experience_id":936,"description":"Scythe Kill by Galaxy Gunner HIVE XP (Source)","xp":"60"}
+,"937": {"experience_id":937,"description":"Reaver Kill by Galaxy Gunner HIVE XP (Source)","xp":"60"}
+,"938": {"experience_id":938,"description":"Mosquito Kill by Galaxy Gunner HIVE XP (Source)","xp":"60"}
+,"939": {"experience_id":939,"description":"Flash Kill by Liberator Gunner HIVE XP (Target)","xp":"15"}
+,"940": {"experience_id":940,"description":"Sunderer Kill by Lib Gunner HIVE XP (Target)","xp":"75"}
+,"941": {"experience_id":941,"description":"Lightning Kill by Liberator Gunn HIVE XP (Target)","xp":"60"}
+,"942": {"experience_id":942,"description":"Magrider Kill by Lib Gunner HIVE XP (Target)","xp":"75"}
+,"943": {"experience_id":943,"description":"Vanguard Kill by Lib Gunner HIVE XP (Target)","xp":"75"}
+,"944": {"experience_id":944,"description":"Prowler Kill by Liberator Gunner HIVE XP (Target)","xp":"75"}
+,"945": {"experience_id":945,"description":"Scythe Kill by Liberator Gunner HIVE XP (Target)","xp":"60"}
+,"946": {"experience_id":946,"description":"Reaver Kill by Liberator Gunner HIVE XP (Target)","xp":"60"}
+,"947": {"experience_id":947,"description":"Mosquito Kill by Lib Gunner HIVE XP (Target)","xp":"60"}
+,"948": {"experience_id":948,"description":"Lib Kill by Liberator HIVE XP (Target)","xp":"75"}
+,"949": {"experience_id":949,"description":"Galaxy Kill by Liberator Gunner HIVE XP (Target)","xp":"60"}
+,"950": {"experience_id":950,"description":"Flash Kill by Galaxy Gunner HIVE XP (Target)","xp":"15"}
+,"951": {"experience_id":951,"description":"Sunderer Kill by Galaxy Gunner HIVE XP (Target)","xp":"75"}
+,"952": {"experience_id":952,"description":"Lightning Kill by Galaxy Gunner HIVE XP (Target)","xp":"60"}
+,"953": {"experience_id":953,"description":"Magrider Kill by Galaxy Gunner HIVE XP (Target)","xp":"75"}
+,"954": {"experience_id":954,"description":"Vanguard Kill by Galaxy Gunner HIVE XP (Target)","xp":"75"}
+,"955": {"experience_id":955,"description":"Prowler Kill by Galaxy Gunner HIVE XP (Target)","xp":"75"}
+,"956": {"experience_id":956,"description":"Scythe Kill by Galaxy Gunner HIVE XP (Target)","xp":"60"}
+,"957": {"experience_id":957,"description":"Reaver Kill by Galaxy Gunner HIVE XP (Target)","xp":"60"}
+,"958": {"experience_id":958,"description":"Mosquito Kill by Galaxy Gunner HIVE XP (Target)","xp":"60"}
+,"959": {"experience_id":959,"description":"LibKill by Galaxy Gunner HIVE XP (Source)","xp":"75"}
+,"960": {"experience_id":960,"description":"Galaxy Kill by Galaxy Gunner HIVE XP (Source)","xp":"60"}
+,"961": {"experience_id":961,"description":"Terminal Kill HIVE XP (Source)","xp":"4"}
+,"962": {"experience_id":962,"description":"Terminal Repair HIVE XP (Source)","xp":"1"}
+,"966": {"experience_id":966,"description":"Galaxy Damage HIVE XP (Source)","xp":"4"}
+,"967": {"experience_id":967,"description":"Liberator Damage HIVE XP (Source)","xp":"4"}
+,"969": {"experience_id":969,"description":"Mosquito Damage HIVE XP (Source)","xp":"4"}
+,"970": {"experience_id":970,"description":"Reaver Damage HIVE XP (Source)","xp":"4"}
+,"971": {"experience_id":971,"description":"Scythe Damage HIVE XP (Source)","xp":"4"}
+,"974": {"experience_id":974,"description":"Vehicle Repair - Harasser HIVE XP (Source)","xp":"1"}
+,"975": {"experience_id":975,"description":"Kill Assist - Harasser HIVE XP (Source)","xp":"60"}
+,"977": {"experience_id":977,"description":"Spot Kill - Harasser HIVE XP (Source)","xp":"4"}
+,"978": {"experience_id":978,"description":"LibKill by Galaxy Gunner HIVE XP (Target)","xp":"75"}
+,"979": {"experience_id":979,"description":"Galaxy Kill by Galaxy Gunner HIVE XP (Target)","xp":"60"}
+,"980": {"experience_id":980,"description":"Terminal Kill HIVE XP (Target)","xp":"4"}
+,"981": {"experience_id":981,"description":"Terminal Repair HIVE XP (Target)","xp":"1"}
+,"985": {"experience_id":985,"description":"Galaxy Damage HIVE XP (Target)","xp":"4"}
+,"986": {"experience_id":986,"description":"Liberator Damage HIVE XP (Target)","xp":"4"}
+,"988": {"experience_id":988,"description":"Mosquito Damage HIVE XP (Target)","xp":"4"}
+,"989": {"experience_id":989,"description":"Reaver Damage HIVE XP (Target)","xp":"4"}
+,"990": {"experience_id":990,"description":"Scythe Damage HIVE XP (Target)","xp":"4"}
+,"993": {"experience_id":993,"description":"Vehicle Repair - Harasser HIVE XP (Target)","xp":"1"}
+,"994": {"experience_id":994,"description":"Kill Assist - Harasser HIVE XP (Target)","xp":"60"}
+,"996": {"experience_id":996,"description":"Spot Kill - Harasser HIVE XP (Target)","xp":"4"}
+,"997": {"experience_id":997,"description":"Harasser Kill by Sunderer Gunne HIVE XP (Source)","xp":"45"}
+,"998": {"experience_id":998,"description":"Harasser Kill by Magrider Gunne HIVE XP (Source)","xp":"45"}
+,"999": {"experience_id":999,"description":"Harasser Kill by Vanguard Gunne HIVE XP (Source)","xp":"45"}
+}

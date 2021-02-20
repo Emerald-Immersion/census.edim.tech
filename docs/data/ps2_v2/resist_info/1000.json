@@ -1,0 +1,536 @@
+{
+"1": {"resist_info_id":1,"resist_type_id":"1","resist_percent":"80","multiplier_when_headshot":"1","description":"MAX - Melee"}
+,"2": {"resist_info_id":2,"resist_type_id":"2","resist_percent":"80","multiplier_when_headshot":"1","description":"MAX - Personal Defense"}
+,"3": {"resist_info_id":3,"resist_type_id":"3","resist_percent":"60","multiplier_when_headshot":"1","description":"MAX - Tier 2 AV"}
+,"4": {"resist_info_id":4,"resist_type_id":"4","resist_percent":"68","multiplier_when_headshot":"1","description":"MAX - Tier 1 AV"}
+,"5": {"resist_info_id":5,"resist_type_id":"5","resist_percent":"-25","multiplier_when_headshot":"1","description":"MAX - Tier 3 AV"}
+,"6": {"resist_info_id":6,"resist_type_id":"6","resist_percent":"50","multiplier_when_headshot":"1","description":"MAX - Grenades"}
+,"7": {"resist_info_id":7,"resist_type_id":"7","resist_percent":"0","multiplier_when_headshot":"1","description":"MAX - Tank Shell"}
+,"8": {"resist_info_id":8,"resist_type_id":"8","resist_percent":"70","multiplier_when_headshot":"1","description":"MAX - Aircraft Machine Gun"}
+,"9": {"resist_info_id":9,"resist_type_id":"24","resist_percent":"-50","multiplier_when_headshot":"1","description":"MAX - Lancer AV"}
+,"11": {"resist_info_id":11,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Flash - Melee"}
+,"12": {"resist_info_id":12,"resist_type_id":"2","resist_percent":"80","multiplier_when_headshot":"1","description":"Flash - Personal Defense"}
+,"13": {"resist_info_id":13,"resist_type_id":"3","resist_percent":"0","multiplier_when_headshot":"1","description":"FODDER RESIST TYPE (For enabling zone effects and such.)"}
+,"14": {"resist_info_id":14,"resist_type_id":"4","resist_percent":"30","multiplier_when_headshot":"1","description":"Flash - Tier 1 AV"}
+,"15": {"resist_info_id":15,"resist_type_id":"5","resist_percent":"-100","multiplier_when_headshot":"1","description":"Flash - Tier 3 AV"}
+,"16": {"resist_info_id":16,"resist_type_id":"6","resist_percent":"25","multiplier_when_headshot":"1","description":"Flash - Grenades"}
+,"17": {"resist_info_id":17,"resist_type_id":"7","resist_percent":"-100","multiplier_when_headshot":"1","description":"Flash - Tank Shell"}
+,"18": {"resist_info_id":18,"resist_type_id":"8","resist_percent":"50","multiplier_when_headshot":"1","description":"Flash - Aircraft Machine Gun"}
+,"19": {"resist_info_id":19,"resist_type_id":"24","resist_percent":"-100","multiplier_when_headshot":"1","description":"Flash - Lancer AV"}
+,"21": {"resist_info_id":21,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Melee"}
+,"22": {"resist_info_id":22,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Personal Defense"}
+,"23": {"resist_info_id":23,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"Sunderer - Tier 2 AV"}
+,"24": {"resist_info_id":24,"resist_type_id":"4","resist_percent":"87","multiplier_when_headshot":"1","description":"Sunderer - Tier 1 AV"}
+,"25": {"resist_info_id":25,"resist_type_id":"5","resist_percent":"-20","multiplier_when_headshot":"1","description":"Sunderer - Tier 3 AV"}
+,"26": {"resist_info_id":26,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Grenades"}
+,"27": {"resist_info_id":27,"resist_type_id":"7","resist_percent":"-20","multiplier_when_headshot":"1","description":"Sunderer - Tank Shell"}
+,"28": {"resist_info_id":28,"resist_type_id":"8","resist_percent":"95","multiplier_when_headshot":"1","description":"Sunderer - Aircraft Machine Gun"}
+,"29": {"resist_info_id":29,"resist_type_id":"24","resist_percent":"-100","multiplier_when_headshot":"1","description":"Sunderer - Lancer AV"}
+,"31": {"resist_info_id":31,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Lightning - Melee"}
+,"32": {"resist_info_id":32,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Lightning - Personal Defense"}
+,"33": {"resist_info_id":33,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"Lightning - Tier 2 AV"}
+,"34": {"resist_info_id":34,"resist_type_id":"4","resist_percent":"87","multiplier_when_headshot":"1","description":"Lightning - Tier 1 AV"}
+,"35": {"resist_info_id":35,"resist_type_id":"5","resist_percent":"-20","multiplier_when_headshot":"1","description":"Lightning - Tier 3 AV"}
+,"36": {"resist_info_id":36,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Lightning - Grenades"}
+,"37": {"resist_info_id":37,"resist_type_id":"7","resist_percent":"-50","multiplier_when_headshot":"1","description":"Lightning - Tank Shell"}
+,"38": {"resist_info_id":38,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"Lightning - Aircraft Machine Gun"}
+,"41": {"resist_info_id":41,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Melee"}
+,"42": {"resist_info_id":42,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Personal Defense"}
+,"43": {"resist_info_id":43,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"Magrider - Tier 2 AV"}
+,"44": {"resist_info_id":44,"resist_type_id":"4","resist_percent":"87","multiplier_when_headshot":"1","description":"Magrider - Tier 1 AV"}
+,"45": {"resist_info_id":45,"resist_type_id":"5","resist_percent":"-20","multiplier_when_headshot":"1","description":"Magrider - Tier 3 AV"}
+,"46": {"resist_info_id":46,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Grenades"}
+,"47": {"resist_info_id":47,"resist_type_id":"7","resist_percent":"-50","multiplier_when_headshot":"1","description":"Magrider - Tank Shell"}
+,"48": {"resist_info_id":48,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"Magrider - Aircraft Machine Gun"}
+,"49": {"resist_info_id":49,"resist_type_id":"24","resist_percent":"-100","multiplier_when_headshot":"1","description":"Magrider - Lancer AV"}
+,"51": {"resist_info_id":51,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Melee"}
+,"52": {"resist_info_id":52,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Personal Defense"}
+,"53": {"resist_info_id":53,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"Vanguard - Tier 2 AV"}
+,"54": {"resist_info_id":54,"resist_type_id":"4","resist_percent":"87","multiplier_when_headshot":"1","description":"Vanguard - Tier 1 AV"}
+,"55": {"resist_info_id":55,"resist_type_id":"5","resist_percent":"-20","multiplier_when_headshot":"1","description":"Vanguard - Tier 3 AV"}
+,"56": {"resist_info_id":56,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Grenades"}
+,"57": {"resist_info_id":57,"resist_type_id":"7","resist_percent":"-50","multiplier_when_headshot":"1","description":"Vanguard - Tank Shell"}
+,"58": {"resist_info_id":58,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"Vanguard - Aircraft Machine Gun"}
+,"59": {"resist_info_id":59,"resist_type_id":"24","resist_percent":"-100","multiplier_when_headshot":"1","description":"Vanguard - Lancer AV"}
+,"61": {"resist_info_id":61,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Melee"}
+,"62": {"resist_info_id":62,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Personal Defense"}
+,"63": {"resist_info_id":63,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"Prowler - Tier 2 AV"}
+,"64": {"resist_info_id":64,"resist_type_id":"4","resist_percent":"87","multiplier_when_headshot":"1","description":"Prowler - Tier 1 AV"}
+,"65": {"resist_info_id":65,"resist_type_id":"5","resist_percent":"-20","multiplier_when_headshot":"1","description":"Prowler - Tier 3 AV"}
+,"66": {"resist_info_id":66,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Grenades"}
+,"67": {"resist_info_id":67,"resist_type_id":"7","resist_percent":"-50","multiplier_when_headshot":"1","description":"Prowler - Tank Shell"}
+,"68": {"resist_info_id":68,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"Prowler - Aircraft Machine Gun"}
+,"69": {"resist_info_id":69,"resist_type_id":"24","resist_percent":"-100","multiplier_when_headshot":"1","description":"Prowler - Lancer AV"}
+,"71": {"resist_info_id":71,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Scythe - Melee"}
+,"72": {"resist_info_id":72,"resist_type_id":"2","resist_percent":"75","multiplier_when_headshot":"1","description":"Scythe - Personal Defense"}
+,"73": {"resist_info_id":73,"resist_type_id":"3","resist_percent":"-75","multiplier_when_headshot":"1","description":"Scythe - Tier 2 AV"}
+,"74": {"resist_info_id":74,"resist_type_id":"4","resist_percent":"75","multiplier_when_headshot":"1","description":"Scythe - Tier 1 AV"}
+,"75": {"resist_info_id":75,"resist_type_id":"5","resist_percent":"-100","multiplier_when_headshot":"1","description":"Scythe - Light AV"}
+,"76": {"resist_info_id":76,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Scythe - Grenades"}
+,"77": {"resist_info_id":77,"resist_type_id":"7","resist_percent":"-425","multiplier_when_headshot":"1","description":"Scythe - Tank Shell"}
+,"78": {"resist_info_id":78,"resist_type_id":"8","resist_percent":"50","multiplier_when_headshot":"1","description":"Scythe - Aircraft Machine Gun"}
+,"79": {"resist_info_id":79,"resist_type_id":"24","resist_percent":"-70","multiplier_when_headshot":"1","description":"Scythe - Lancer AV"}
+,"81": {"resist_info_id":81,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Reaver - Melee"}
+,"82": {"resist_info_id":82,"resist_type_id":"2","resist_percent":"75","multiplier_when_headshot":"1","description":"Reaver - Personal Defense"}
+,"83": {"resist_info_id":83,"resist_type_id":"3","resist_percent":"-75","multiplier_when_headshot":"1","description":"Reaver - Tier 2 AV"}
+,"84": {"resist_info_id":84,"resist_type_id":"4","resist_percent":"75","multiplier_when_headshot":"1","description":"Reaver - Tier 1 AV"}
+,"85": {"resist_info_id":85,"resist_type_id":"5","resist_percent":"-100","multiplier_when_headshot":"1","description":"Reaver - Light AV"}
+,"86": {"resist_info_id":86,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Reaver - Grenades"}
+,"87": {"resist_info_id":87,"resist_type_id":"7","resist_percent":"-425","multiplier_when_headshot":"1","description":"Reaver - Tank Shell"}
+,"88": {"resist_info_id":88,"resist_type_id":"8","resist_percent":"50","multiplier_when_headshot":"1","description":"Reaver - Aircraft Machine Gun"}
+,"89": {"resist_info_id":89,"resist_type_id":"24","resist_percent":"-70","multiplier_when_headshot":"1","description":"Reaver - Lancer AV"}
+,"91": {"resist_info_id":91,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Mosquito - Melee"}
+,"92": {"resist_info_id":92,"resist_type_id":"2","resist_percent":"75","multiplier_when_headshot":"1","description":"Mosquito - Personal Defense"}
+,"93": {"resist_info_id":93,"resist_type_id":"3","resist_percent":"-75","multiplier_when_headshot":"1","description":"Mosquito - Tier 2 AV"}
+,"94": {"resist_info_id":94,"resist_type_id":"4","resist_percent":"75","multiplier_when_headshot":"1","description":"Mosquito - Tier 1 AV"}
+,"95": {"resist_info_id":95,"resist_type_id":"5","resist_percent":"-100","multiplier_when_headshot":"1","description":"Mosquito - Light AV"}
+,"96": {"resist_info_id":96,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Mosquito - Grenades"}
+,"97": {"resist_info_id":97,"resist_type_id":"7","resist_percent":"-425","multiplier_when_headshot":"1","description":"Mosquito - Tank Shell"}
+,"98": {"resist_info_id":98,"resist_type_id":"8","resist_percent":"50","multiplier_when_headshot":"1","description":"Mosquito - Aircraft Machine Gun"}
+,"99": {"resist_info_id":99,"resist_type_id":"24","resist_percent":"-70","multiplier_when_headshot":"1","description":"Mosquito - Lancer AV"}
+,"101": {"resist_info_id":101,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Liberator - Melee"}
+,"102": {"resist_info_id":102,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Liberator - Personal Defense"}
+,"103": {"resist_info_id":103,"resist_type_id":"3","resist_percent":"35","multiplier_when_headshot":"1","description":"Liberator - Tier 2 AV"}
+,"104": {"resist_info_id":104,"resist_type_id":"4","resist_percent":"75","multiplier_when_headshot":"1","description":"Liberator - Tier 1 AV"}
+,"105": {"resist_info_id":105,"resist_type_id":"5","resist_percent":"0","multiplier_when_headshot":"1","description":"Liberator - Light AV"}
+,"106": {"resist_info_id":106,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Liberator - Grenades"}
+,"107": {"resist_info_id":107,"resist_type_id":"7","resist_percent":"-150","multiplier_when_headshot":"1","description":"Liberator - Tank Shell"}
+,"108": {"resist_info_id":108,"resist_type_id":"8","resist_percent":"83","multiplier_when_headshot":"1","description":"Liberator - Aircraft Machine Gun"}
+,"109": {"resist_info_id":109,"resist_type_id":"24","resist_percent":"10","multiplier_when_headshot":"1","description":"Liberator - Lancer AV"}
+,"111": {"resist_info_id":111,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Galaxy - Melee"}
+,"112": {"resist_info_id":112,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Galaxy - Personal Defense"}
+,"113": {"resist_info_id":113,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"Galaxy - Tier 2 AV"}
+,"114": {"resist_info_id":114,"resist_type_id":"4","resist_percent":"75","multiplier_when_headshot":"1","description":"Galaxy - HMG"}
+,"115": {"resist_info_id":115,"resist_type_id":"5","resist_percent":"0","multiplier_when_headshot":"1","description":"Galaxy - Light AV"}
+,"116": {"resist_info_id":116,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Galaxy - Grenades"}
+,"117": {"resist_info_id":117,"resist_type_id":"7","resist_percent":"-25","multiplier_when_headshot":"1","description":"Galaxy - Tank Shell"}
+,"118": {"resist_info_id":118,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"Galaxy - Aircraft Machine Gun"}
+,"119": {"resist_info_id":119,"resist_type_id":"6","resist_percent":"10","multiplier_when_headshot":"1","description":"Flak Armor 1: Resist 6"}
+,"120": {"resist_info_id":120,"resist_type_id":"9","resist_percent":"10","multiplier_when_headshot":"1","description":"Flak Armor 1: Resist 9"}
+,"121": {"resist_info_id":121,"resist_type_id":"11","resist_percent":"10","multiplier_when_headshot":"1","description":"Flak Armor 1: Resist 11"}
+,"122": {"resist_info_id":122,"resist_type_id":"6","resist_percent":"20","multiplier_when_headshot":"1","description":"Flak Armor 2: Resist 6"}
+,"123": {"resist_info_id":123,"resist_type_id":"9","resist_percent":"20","multiplier_when_headshot":"1","description":"Flak Armor 2: Resist 9"}
+,"124": {"resist_info_id":124,"resist_type_id":"11","resist_percent":"20","multiplier_when_headshot":"1","description":"Flak Armor 2: Resist 11"}
+,"125": {"resist_info_id":125,"resist_type_id":"6","resist_percent":"30","multiplier_when_headshot":"1","description":"Flak Armor 3: Resist 6"}
+,"126": {"resist_info_id":126,"resist_type_id":"9","resist_percent":"30","multiplier_when_headshot":"1","description":"Flak Armor 3: Resist 9"}
+,"127": {"resist_info_id":127,"resist_type_id":"11","resist_percent":"30","multiplier_when_headshot":"1","description":"Flak Armor 3: Resist 11"}
+,"128": {"resist_info_id":128,"resist_type_id":"6","resist_percent":"40","multiplier_when_headshot":"1","description":"Flak Armor 4: Resist 6"}
+,"129": {"resist_info_id":129,"resist_type_id":"9","resist_percent":"40","multiplier_when_headshot":"1","description":"Flak Armor 4: Resist 9"}
+,"130": {"resist_info_id":130,"resist_type_id":"11","resist_percent":"40","multiplier_when_headshot":"1","description":"Flak Armor 4: Resist 11"}
+,"131": {"resist_info_id":131,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Drop Pod - Melee"}
+,"132": {"resist_info_id":132,"resist_type_id":"2","resist_percent":"90","multiplier_when_headshot":"1","description":"Drop Pod - Personal Defense"}
+,"133": {"resist_info_id":133,"resist_type_id":"3","resist_percent":"0","multiplier_when_headshot":"1","description":"Drop Pod - Tier 2 AV"}
+,"134": {"resist_info_id":134,"resist_type_id":"4","resist_percent":"75","multiplier_when_headshot":"1","description":"Drop Pod - Tier 1 AV"}
+,"135": {"resist_info_id":135,"resist_type_id":"5","resist_percent":"-150","multiplier_when_headshot":"1","description":"Drop Pod - Light AV"}
+,"136": {"resist_info_id":136,"resist_type_id":"6","resist_percent":"99","multiplier_when_headshot":"1","description":"Drop Pod - Grenades"}
+,"137": {"resist_info_id":137,"resist_type_id":"6","resist_percent":"50","multiplier_when_headshot":"1","description":"Flak Armor 5: Resist 6"}
+,"138": {"resist_info_id":138,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Flak Armor 5: Resist 9"}
+,"139": {"resist_info_id":139,"resist_type_id":"11","resist_percent":"50","multiplier_when_headshot":"1","description":"Flak Armor 5: Resist 11"}
+,"140": {"resist_info_id":140,"resist_type_id":"13","resist_percent":"20","resist_amount":"0","multiplier_when_headshot":"1","description":"Infantry - Resist Dynamic Collisions"}
+,"141": {"resist_info_id":141,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Drop Pod - C4"}
+,"142": {"resist_info_id":142,"resist_type_id":"24","resist_percent":"40","multiplier_when_headshot":"1","description":"Galaxy - Lancer AV"}
+,"143": {"resist_info_id":143,"resist_type_id":"24","resist_percent":"-100","multiplier_when_headshot":"1","description":"Drop Pod - Lancer AV"}
+,"160": {"resist_info_id":160,"resist_type_id":"2","resist_percent":"4","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Personal Defense 1"}
+,"161": {"resist_info_id":161,"resist_type_id":"13","resist_percent":"10","multiplier_when_headshot":"1","description":"Galaxy - Dynamic Collisions (Deployment Buff)"}
+,"162": {"resist_info_id":162,"resist_type_id":"15","resist_percent":"75","multiplier_when_headshot":"1","description":"MAX - Personal Defense - Snipers TR"}
+,"163": {"resist_info_id":163,"resist_type_id":"20","resist_percent":"75","multiplier_when_headshot":"1","description":"MAX - Personal Defense - Snipers NC"}
+,"164": {"resist_info_id":164,"resist_type_id":"21","resist_percent":"75","multiplier_when_headshot":"1","description":"MAX - Personal Defense - Snipers VS"}
+,"165": {"resist_info_id":165,"resist_type_id":"15","resist_percent":"80","multiplier_when_headshot":"1","description":"Flash - Personal Defense - Snipers TR"}
+,"166": {"resist_info_id":166,"resist_type_id":"20","resist_percent":"80","multiplier_when_headshot":"1","description":"Flash - Personal Defense - Snipers NC"}
+,"167": {"resist_info_id":167,"resist_type_id":"21","resist_percent":"80","multiplier_when_headshot":"1","description":"Flash - Personal Defense - Snipers VS"}
+,"168": {"resist_info_id":168,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Personal Defense - Snipers TR"}
+,"169": {"resist_info_id":169,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Personal Defense - Snipers NC"}
+,"170": {"resist_info_id":170,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Personal Defense - Snipers VS"}
+,"174": {"resist_info_id":174,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Personal Defense - Snipers TR"}
+,"175": {"resist_info_id":175,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Personal Defense - Snipers NC"}
+,"176": {"resist_info_id":176,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Personal Defense - Snipers VS"}
+,"177": {"resist_info_id":177,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Personal Defense - Snipers TR"}
+,"178": {"resist_info_id":178,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Personal Defense - Snipers NC"}
+,"179": {"resist_info_id":179,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Personal Defense - Snipers VS"}
+,"180": {"resist_info_id":180,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Personal Defense - Snipers TR"}
+,"181": {"resist_info_id":181,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Personal Defense - Snipers NC"}
+,"182": {"resist_info_id":182,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Personal Defense - Snipers VS"}
+,"183": {"resist_info_id":183,"resist_type_id":"15","resist_percent":"90","multiplier_when_headshot":"1","description":"Scythe - Personal Defense - Snipers TR"}
+,"184": {"resist_info_id":184,"resist_type_id":"20","resist_percent":"90","multiplier_when_headshot":"1","description":"Scythe - Personal Defense - Snipers NC"}
+,"185": {"resist_info_id":185,"resist_type_id":"21","resist_percent":"90","multiplier_when_headshot":"1","description":"Scythe - Personal Defense - Snipers VS"}
+,"186": {"resist_info_id":186,"resist_type_id":"15","resist_percent":"90","multiplier_when_headshot":"1","description":"Reaver - Personal Defense - Snipers TR"}
+,"187": {"resist_info_id":187,"resist_type_id":"20","resist_percent":"90","multiplier_when_headshot":"1","description":"Reaver - Personal Defense - Snipers NC"}
+,"188": {"resist_info_id":188,"resist_type_id":"21","resist_percent":"90","multiplier_when_headshot":"1","description":"Reaver - Personal Defense - Snipers VS"}
+,"189": {"resist_info_id":189,"resist_type_id":"15","resist_percent":"90","multiplier_when_headshot":"1","description":"Mosquito - Personal Defense - Snipers TR"}
+,"190": {"resist_info_id":190,"resist_type_id":"20","resist_percent":"90","multiplier_when_headshot":"1","description":"Mosquito - Personal Defense - Snipers NC"}
+,"191": {"resist_info_id":191,"resist_type_id":"21","resist_percent":"90","multiplier_when_headshot":"1","description":"Mosquito - Personal Defense - Snipers VS"}
+,"192": {"resist_info_id":192,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Liberator - Personal Defense - Snipers TR"}
+,"193": {"resist_info_id":193,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Liberator - Personal Defense - Snipers NC"}
+,"194": {"resist_info_id":194,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Liberator - Personal Defense - Snipers VS"}
+,"195": {"resist_info_id":195,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Galaxy - Personal Defense - Snipers TR"}
+,"196": {"resist_info_id":196,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Galaxy - Personal Defense - Snipers NC"}
+,"197": {"resist_info_id":197,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Galaxy - Personal Defense - Snipers VS"}
+,"198": {"resist_info_id":198,"resist_type_id":"15","resist_percent":"90","multiplier_when_headshot":"1","description":"Drop Pod - Personal Defense - Snipers TR"}
+,"199": {"resist_info_id":199,"resist_type_id":"20","resist_percent":"90","multiplier_when_headshot":"1","description":"Drop Pod - Personal Defense - Snipers NC"}
+,"200": {"resist_info_id":200,"resist_type_id":"21","resist_percent":"90","multiplier_when_headshot":"1","description":"Drop Pod - Personal Defense - Snipers VS"}
+,"201": {"resist_info_id":201,"resist_type_id":"15","resist_percent":"4","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers TR 1"}
+,"202": {"resist_info_id":202,"resist_type_id":"20","resist_percent":"4","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers NC 1"}
+,"203": {"resist_info_id":203,"resist_type_id":"21","resist_percent":"4","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers VS 1"}
+,"204": {"resist_info_id":204,"resist_type_id":"15","resist_percent":"50","multiplier_when_headshot":"1","description":"Temp Light Bullet Resist - Snipers TR"}
+,"205": {"resist_info_id":205,"resist_type_id":"20","resist_percent":"50","multiplier_when_headshot":"1","description":"Temp Light Bullet Resist - Snipers NC"}
+,"206": {"resist_info_id":206,"resist_type_id":"21","resist_percent":"50","multiplier_when_headshot":"1","description":"Temp Light Bullet Resist - Snipers VS"}
+,"207": {"resist_info_id":207,"resist_type_id":"15","resist_percent":"64","multiplier_when_headshot":"1","description":"Heavy Assault Shield - Personal Defense - Snipers TR"}
+,"208": {"resist_info_id":208,"resist_type_id":"20","resist_percent":"64","multiplier_when_headshot":"1","description":"Heavy Assault Shield - Personal Defense  - Snipers NC"}
+,"209": {"resist_info_id":209,"resist_type_id":"21","resist_percent":"64","multiplier_when_headshot":"1","description":"Heavy Assault Shield - Personal Defense  - Snipers VS"}
+,"219": {"resist_info_id":219,"resist_type_id":"15","resist_percent":"95","multiplier_when_headshot":"1","description":"Facility: Terminals - Light Kinetic - Snipers TR"}
+,"220": {"resist_info_id":220,"resist_type_id":"20","resist_percent":"95","multiplier_when_headshot":"1","description":"Facility: Terminals - Light Kinetic - Snipers NC"}
+,"221": {"resist_info_id":221,"resist_type_id":"21","resist_percent":"95","multiplier_when_headshot":"1","description":"Facility: Terminals - Light Kinetic - Snipers VS"}
+,"234": {"resist_info_id":234,"resist_type_id":"15","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Sniper TR"}
+,"235": {"resist_info_id":235,"resist_type_id":"20","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Sniper NC"}
+,"236": {"resist_info_id":236,"resist_type_id":"21","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Sniper VS"}
+,"237": {"resist_info_id":237,"resist_type_id":"15","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Sniper TR"}
+,"238": {"resist_info_id":238,"resist_type_id":"20","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Sniper NC"}
+,"239": {"resist_info_id":239,"resist_type_id":"21","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Sniper VS"}
+,"240": {"resist_info_id":240,"resist_type_id":"15","resist_percent":"-90","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 1 - Snipers TR"}
+,"241": {"resist_info_id":241,"resist_type_id":"20","resist_percent":"-90","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 1 - Snipers NC"}
+,"242": {"resist_info_id":242,"resist_type_id":"21","resist_percent":"-90","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 1 - Snipers VS"}
+,"243": {"resist_info_id":243,"resist_type_id":"15","resist_percent":"-80","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 2 - Snipers TR"}
+,"244": {"resist_info_id":244,"resist_type_id":"20","resist_percent":"-80","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 2 - Snipers NC"}
+,"245": {"resist_info_id":245,"resist_type_id":"21","resist_percent":"-80","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 2 - Snipers VS"}
+,"246": {"resist_info_id":246,"resist_type_id":"15","resist_percent":"-70","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 3 - Snipers TR"}
+,"247": {"resist_info_id":247,"resist_type_id":"20","resist_percent":"-70","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 3 - Snipers NC"}
+,"248": {"resist_info_id":248,"resist_type_id":"21","resist_percent":"-70","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 3 - Snipers VS"}
+,"249": {"resist_info_id":249,"resist_type_id":"15","resist_percent":"-60","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 4 - Snipers TR"}
+,"250": {"resist_info_id":250,"resist_type_id":"20","resist_percent":"-60","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 4 - Snipers NC"}
+,"251": {"resist_info_id":251,"resist_type_id":"21","resist_percent":"-60","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 4 - Snipers VS"}
+,"252": {"resist_info_id":252,"resist_type_id":"15","resist_percent":"-50","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 5 - Snipers TR"}
+,"253": {"resist_info_id":253,"resist_type_id":"20","resist_percent":"-50","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 5 - Snipers NC"}
+,"254": {"resist_info_id":254,"resist_type_id":"21","resist_percent":"-50","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense - Haste Cloak Debuff 5 - Snipers VS"}
+,"255": {"resist_info_id":255,"resist_type_id":"15","resist_percent":"80","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Personal Defense  - Snipers TR"}
+,"256": {"resist_info_id":256,"resist_type_id":"20","resist_percent":"80","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Personal Defense  - Snipers NC"}
+,"257": {"resist_info_id":257,"resist_type_id":"21","resist_percent":"80","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Personal Defense  - Snipers VS"}
+,"258": {"resist_info_id":258,"resist_type_id":"15","resist_percent":"100","multiplier_when_headshot":"1","description":"Phalanx - Personal Defense  - Snipers TR"}
+,"259": {"resist_info_id":259,"resist_type_id":"20","resist_percent":"100","multiplier_when_headshot":"1","description":"Phalanx - Personal Defense  - Snipers NC"}
+,"260": {"resist_info_id":260,"resist_type_id":"21","resist_percent":"100","multiplier_when_headshot":"1","description":"Phalanx - Personal Defense  - Snipers VS"}
+,"261": {"resist_info_id":261,"resist_type_id":"15","resist_percent":"2","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 1 - Snipers TR"}
+,"262": {"resist_info_id":262,"resist_type_id":"20","resist_percent":"2","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 1 - Snipers NC"}
+,"263": {"resist_info_id":263,"resist_type_id":"21","resist_percent":"2","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 1 - Snipers VS"}
+,"264": {"resist_info_id":264,"resist_type_id":"15","resist_percent":"4","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 2 - Snipers TR"}
+,"265": {"resist_info_id":265,"resist_type_id":"20","resist_percent":"4","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 2 - Snipers NC"}
+,"266": {"resist_info_id":266,"resist_type_id":"21","resist_percent":"4","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 2 - Snipers VS"}
+,"267": {"resist_info_id":267,"resist_type_id":"15","resist_percent":"6","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 3 - Snipers TR"}
+,"268": {"resist_info_id":268,"resist_type_id":"20","resist_percent":"6","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 3 - Snipers NC"}
+,"269": {"resist_info_id":269,"resist_type_id":"21","resist_percent":"6","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 3 - Snipers VS"}
+,"270": {"resist_info_id":270,"resist_type_id":"15","resist_percent":"8","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 4 - Snipers TR"}
+,"271": {"resist_info_id":271,"resist_type_id":"20","resist_percent":"8","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 4 - Snipers NC"}
+,"272": {"resist_info_id":272,"resist_type_id":"21","resist_percent":"8","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 4 - Snipers VS"}
+,"273": {"resist_info_id":273,"resist_type_id":"15","resist_percent":"10","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 5 - Snipers TR"}
+,"274": {"resist_info_id":274,"resist_type_id":"20","resist_percent":"10","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 5 - Snipers NC"}
+,"275": {"resist_info_id":275,"resist_type_id":"21","resist_percent":"10","multiplier_when_headshot":"1","description":"NC: MAX: Defensive: Damage Mitigation 5 - Snipers VS"}
+,"276": {"resist_info_id":276,"resist_type_id":"12","resist_percent":"15","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Flak 1 (Explosion)"}
+,"277": {"resist_info_id":277,"resist_type_id":"2","resist_percent":"7","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Personal Defense 2"}
+,"278": {"resist_info_id":278,"resist_type_id":"15","resist_percent":"7","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers TR 2"}
+,"279": {"resist_info_id":279,"resist_type_id":"20","resist_percent":"7","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers NC 2"}
+,"280": {"resist_info_id":280,"resist_type_id":"21","resist_percent":"7","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers VS 2"}
+,"281": {"resist_info_id":281,"resist_type_id":"12","resist_percent":"20","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Flak 2 (Explosion)"}
+,"282": {"resist_info_id":282,"resist_type_id":"2","resist_percent":"10","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Personal Defense 3"}
+,"283": {"resist_info_id":283,"resist_type_id":"15","resist_percent":"10","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers TR 3"}
+,"284": {"resist_info_id":284,"resist_type_id":"20","resist_percent":"10","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers NC 3"}
+,"285": {"resist_info_id":285,"resist_type_id":"21","resist_percent":"10","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers VS 3"}
+,"286": {"resist_info_id":286,"resist_type_id":"12","resist_percent":"25","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Flak 3 (Explosion)"}
+,"287": {"resist_info_id":287,"resist_type_id":"2","resist_percent":"13","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Personal Defense 4"}
+,"288": {"resist_info_id":288,"resist_type_id":"15","resist_percent":"13","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers TR 4"}
+,"289": {"resist_info_id":289,"resist_type_id":"20","resist_percent":"13","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers NC 4"}
+,"290": {"resist_info_id":290,"resist_type_id":"21","resist_percent":"13","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Snipers VS 4"}
+,"291": {"resist_info_id":291,"resist_type_id":"12","resist_percent":"30","multiplier_when_headshot":"1","description":"Light Aircraft - Composite Armor Buff - Flak 4 (Explosion)"}
+,"292": {"resist_info_id":292,"resist_type_id":"7","resist_percent":"50","multiplier_when_headshot":"1","description":"Liberator - Composite Armor 1 - Tank Shell"}
+,"293": {"resist_info_id":293,"resist_type_id":"27","resist_percent":"15","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - AP Tank Rounds 1"}
+,"294": {"resist_info_id":294,"resist_type_id":"25","resist_percent":"35","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Dalton Blast 1"}
+,"295": {"resist_info_id":295,"resist_type_id":"3","resist_percent":"10","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Light Anti Armor 1"}
+,"296": {"resist_info_id":296,"resist_type_id":"12","resist_percent":"7","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Flak 1 (Explosion)"}
+,"297": {"resist_info_id":297,"resist_type_id":"7","resist_percent":"60","multiplier_when_headshot":"1","description":"Liberator - Composite Armor 2 - Tank Shell"}
+,"298": {"resist_info_id":298,"resist_type_id":"27","resist_percent":"20","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - AP Tank Rounds 2"}
+,"299": {"resist_info_id":299,"resist_type_id":"25","resist_percent":"40","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Dalton Blast 2"}
+,"300": {"resist_info_id":300,"resist_type_id":"3","resist_percent":"15","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Light Anti Armor 2"}
+,"301": {"resist_info_id":301,"resist_type_id":"12","resist_percent":"8","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Flak 2 (Explosion)"}
+,"302": {"resist_info_id":302,"resist_type_id":"7","resist_percent":"70","multiplier_when_headshot":"1","description":"Liberator - Composite Armor 3 - Tank Shell"}
+,"303": {"resist_info_id":303,"resist_type_id":"27","resist_percent":"25","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - AP Tank Rounds 3"}
+,"304": {"resist_info_id":304,"resist_type_id":"25","resist_percent":"45","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Dalton Blast 3"}
+,"305": {"resist_info_id":305,"resist_type_id":"3","resist_percent":"20","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Light Anti Armor 3"}
+,"306": {"resist_info_id":306,"resist_type_id":"12","resist_percent":"9","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Flak 3 (Explosion)"}
+,"307": {"resist_info_id":307,"resist_type_id":"7","resist_percent":"75","multiplier_when_headshot":"1","description":"Liberator - Composite Armor 4 - Tank Shell"}
+,"308": {"resist_info_id":308,"resist_type_id":"27","resist_percent":"30","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - AP Tank Rounds 4"}
+,"309": {"resist_info_id":309,"resist_type_id":"25","resist_percent":"50","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Dalton Blast 4"}
+,"310": {"resist_info_id":310,"resist_type_id":"3","resist_percent":"25","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Light Anti Armor 4"}
+,"311": {"resist_info_id":311,"resist_type_id":"12","resist_percent":"10","multiplier_when_headshot":"1","description":"Liberator - Composite Armor Buff - Flak 4 (Explosion)"}
+,"312": {"resist_info_id":312,"resist_type_id":"2","resist_percent":"5","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Personal Defense 1"}
+,"313": {"resist_info_id":313,"resist_type_id":"15","resist_percent":"5","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers TR 1"}
+,"314": {"resist_info_id":314,"resist_type_id":"20","resist_percent":"5","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers NC 1"}
+,"315": {"resist_info_id":315,"resist_type_id":"21","resist_percent":"5","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers VS 1"}
+,"316": {"resist_info_id":316,"resist_type_id":"12","resist_percent":"4","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Flak 1 (Explosion)"}
+,"317": {"resist_info_id":317,"resist_type_id":"2","resist_percent":"10","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Personal Defense 2"}
+,"318": {"resist_info_id":318,"resist_type_id":"15","resist_percent":"10","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers TR 2"}
+,"319": {"resist_info_id":319,"resist_type_id":"20","resist_percent":"10","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers NC 2"}
+,"320": {"resist_info_id":320,"resist_type_id":"21","resist_percent":"10","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers VS 2"}
+,"321": {"resist_info_id":321,"resist_type_id":"12","resist_percent":"6","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Flak 2 (Explosion)"}
+,"322": {"resist_info_id":322,"resist_type_id":"2","resist_percent":"15","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Personal Defense 3"}
+,"323": {"resist_info_id":323,"resist_type_id":"15","resist_percent":"15","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers TR 3"}
+,"324": {"resist_info_id":324,"resist_type_id":"20","resist_percent":"15","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers NC 3"}
+,"325": {"resist_info_id":325,"resist_type_id":"21","resist_percent":"15","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers VS 3"}
+,"326": {"resist_info_id":326,"resist_type_id":"12","resist_percent":"8","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Flak 3 (Explosion)"}
+,"327": {"resist_info_id":327,"resist_type_id":"2","resist_percent":"20","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Personal Defense 4"}
+,"328": {"resist_info_id":328,"resist_type_id":"15","resist_percent":"20","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers TR 4"}
+,"329": {"resist_info_id":329,"resist_type_id":"20","resist_percent":"20","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers NC 4"}
+,"330": {"resist_info_id":330,"resist_type_id":"21","resist_percent":"20","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Snipers VS 4"}
+,"331": {"resist_info_id":331,"resist_type_id":"12","resist_percent":"10","multiplier_when_headshot":"1","description":"Galaxy - Composite Armor Buff - Flak 4 (Explosion)"}
+,"340": {"resist_info_id":340,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"MAX - Air to Ground"}
+,"341": {"resist_info_id":341,"resist_type_id":"23","resist_percent":"-100","multiplier_when_headshot":"1","description":"Scythe - Air to Ground"}
+,"342": {"resist_info_id":342,"resist_type_id":"23","resist_percent":"-100","multiplier_when_headshot":"1","description":"Reaver - Air to Ground"}
+,"343": {"resist_info_id":343,"resist_type_id":"23","resist_percent":"-100","multiplier_when_headshot":"1","description":"Mosquito - Air to Ground"}
+,"344": {"resist_info_id":344,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Liberator - Air to Ground"}
+,"345": {"resist_info_id":345,"resist_type_id":"23","resist_percent":"25","multiplier_when_headshot":"1","description":"Galaxy - Air to Ground"}
+,"346": {"resist_info_id":346,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Facility - Terminals - Air to Ground"}
+,"347": {"resist_info_id":347,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Phalanx - Air to Ground"}
+,"348": {"resist_info_id":348,"resist_type_id":"23","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 23 MANA AV"}
+,"349": {"resist_info_id":349,"resist_type_id":"23","resist_percent":"-100","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Air to Ground"}
+,"350": {"resist_info_id":350,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Harasser - Melee"}
+,"351": {"resist_info_id":351,"resist_type_id":"2","resist_percent":"87","multiplier_when_headshot":"1","description":"Harasser - Personal Defense"}
+,"352": {"resist_info_id":352,"resist_type_id":"4","resist_percent":"85","multiplier_when_headshot":"1","description":"Harasser - HMG"}
+,"353": {"resist_info_id":353,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Harasser - Grenades"}
+,"354": {"resist_info_id":354,"resist_type_id":"7","resist_percent":"-20","multiplier_when_headshot":"1","description":"Harasser - Tank Shell"}
+,"355": {"resist_info_id":355,"resist_type_id":"8","resist_percent":"80","multiplier_when_headshot":"1","description":"Harasser - Aircraft Machine Gun"}
+,"356": {"resist_info_id":356,"resist_type_id":"15","resist_percent":"80","multiplier_when_headshot":"1","description":"Harasser - Personal Defense - Snipers TR"}
+,"357": {"resist_info_id":357,"resist_type_id":"20","resist_percent":"80","multiplier_when_headshot":"1","description":"Harasser - Personal Defense - Snipers NC"}
+,"358": {"resist_info_id":358,"resist_type_id":"21","resist_percent":"80","multiplier_when_headshot":"1","description":"Harasser - Personal Defense - Snipers VS"}
+,"359": {"resist_info_id":359,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Harasser - Flak (Explosion)"}
+,"360": {"resist_info_id":360,"resist_type_id":"19","resist_percent":"80","multiplier_when_headshot":"1","description":"Harasser - Flak (Projectile)"}
+,"361": {"resist_info_id":361,"resist_type_id":"9","resist_percent":"-60","multiplier_when_headshot":"1","description":"Harasser - Anti-Vehicle Mine"}
+,"362": {"resist_info_id":362,"resist_type_id":"11","resist_percent":"-75","multiplier_when_headshot":"1","description":"Harasser - C4 (Boomer)"}
+,"363": {"resist_info_id":363,"resist_type_id":"9","resist_percent":"70","multiplier_when_headshot":"1","description":"Harasser - Mine Guard - Tank Mine Buff 1"}
+,"364": {"resist_info_id":364,"resist_type_id":"9","resist_percent":"80","multiplier_when_headshot":"1","description":"Harasser - Mine Guard - Tank Mine Buff 2"}
+,"365": {"resist_info_id":365,"resist_type_id":"16","resist_percent":"99","resist_amount":"25","multiplier_when_headshot":"1","description":"Harasser - Suspension Collisions"}
+,"366": {"resist_info_id":366,"resist_type_id":"17","resist_percent":"50","resist_amount":"5000","multiplier_when_headshot":"1","description":"Harasser - Falling Collisions"}
+,"367": {"resist_info_id":367,"resist_type_id":"22","resist_percent":"80","multiplier_when_headshot":"1","description":"Harasser - Anti-Aircraft Machine Gun"}
+,"368": {"resist_info_id":368,"resist_type_id":"3","resist_percent":"0","multiplier_when_headshot":"1","description":"Harasser - Tier 2 AV"}
+,"369": {"resist_info_id":369,"resist_type_id":"5","resist_percent":"-25","multiplier_when_headshot":"1","description":"Harasser - Tier 3 AV"}
+,"370": {"resist_info_id":370,"resist_type_id":"9","resist_percent":"90","multiplier_when_headshot":"1","description":"Harasser - Mine Guard - Tank Mine Buff 3"}
+,"371": {"resist_info_id":371,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"Harasser - Mine Guard - Tank Mine Buff 4"}
+,"372": {"resist_info_id":372,"resist_type_id":"13","resist_percent":"96","resist_amount":"150","multiplier_when_headshot":"1","description":"Harasser - Dynamic Collisions"}
+,"373": {"resist_info_id":373,"resist_type_id":"14","resist_percent":"99","resist_amount":"25","multiplier_when_headshot":"1","description":"Harasser - Static Collisions"}
+,"374": {"resist_info_id":374,"resist_type_id":"18","resist_percent":"60","multiplier_when_headshot":"1","description":"Harasser - Rocket Pods"}
+,"375": {"resist_info_id":375,"resist_type_id":"11","resist_percent":"34","multiplier_when_headshot":"1","description":"Harasser - Composite Armor Buff (C-4) - 1"}
+,"376": {"resist_info_id":376,"resist_type_id":"11","resist_percent":"39","multiplier_when_headshot":"1","description":"Harasser - Composite Armor Buff (C-4) - 2"}
+,"377": {"resist_info_id":377,"resist_type_id":"11","resist_percent":"44","multiplier_when_headshot":"1","description":"Harasser - Composite Armor Buff (C-4) - 3"}
+,"378": {"resist_info_id":378,"resist_type_id":"11","resist_percent":"48","multiplier_when_headshot":"1","description":"Harasser - Composite Armor Buff (C-4) - 4"}
+,"379": {"resist_info_id":379,"resist_type_id":"7","resist_percent":"-150","multiplier_when_headshot":"1","description":"Drop Pod - Tank Shells"}
+,"407": {"resist_info_id":407,"resist_type_id":"24","resist_percent":"-100","multiplier_when_headshot":"1","description":"Harasser - Lancer AV"}
+,"499": {"resist_info_id":499,"resist_type_id":"2","resist_percent":"50","multiplier_when_headshot":"1","description":"Temp Light Bullet Resist"}
+,"510": {"resist_info_id":510,"resist_type_id":"2","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Personal Defense"}
+,"511": {"resist_info_id":511,"resist_type_id":"3","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Tier 2 AV"}
+,"512": {"resist_info_id":512,"resist_type_id":"4","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Tier 1 AV"}
+,"513": {"resist_info_id":513,"resist_type_id":"5","resist_percent":"25","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Tier 3 AV"}
+,"514": {"resist_info_id":514,"resist_type_id":"6","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Grenade"}
+,"515": {"resist_info_id":515,"resist_type_id":"7","resist_percent":"25","multiplier_when_headshot":"1","description":"Heavy Assault - Common - Resist Shield - Tank Shell"}
+,"517": {"resist_info_id":517,"resist_type_id":"9","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Tank Mine"}
+,"518": {"resist_info_id":518,"resist_type_id":"11","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - C4"}
+,"519": {"resist_info_id":519,"resist_type_id":"24","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Resist 24 Lancer AV"}
+,"520": {"resist_info_id":520,"resist_type_id":"26","resist_percent":"-50","multiplier_when_headshot":"1","description":"MAX - Phoenix AV"}
+,"521": {"resist_info_id":521,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"Flash - Phoenix AV"}
+,"522": {"resist_info_id":522,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"Sunderer - Phoenix AV"}
+,"524": {"resist_info_id":524,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"Magrider - Phoenix AV"}
+,"525": {"resist_info_id":525,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"Vanguard - Phoenix AV"}
+,"526": {"resist_info_id":526,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"Prowler - Phoenix AV"}
+,"527": {"resist_info_id":527,"resist_type_id":"26","resist_percent":"-295","multiplier_when_headshot":"1","description":"Scythe - Phoenix AV"}
+,"528": {"resist_info_id":528,"resist_type_id":"26","resist_percent":"-295","multiplier_when_headshot":"1","description":"Reaver - Phoenix AV"}
+,"529": {"resist_info_id":529,"resist_type_id":"26","resist_percent":"-295","multiplier_when_headshot":"1","description":"Mosquito - Phoenix AV"}
+,"530": {"resist_info_id":530,"resist_type_id":"26","resist_percent":"-184","multiplier_when_headshot":"1","description":"Liberator - Phoenix AV"}
+,"531": {"resist_info_id":531,"resist_type_id":"26","resist_percent":"-14","multiplier_when_headshot":"1","description":"Galaxy - Phoenix AV"}
+,"532": {"resist_info_id":532,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"Drop Pod - Phoenix AV"}
+,"533": {"resist_info_id":533,"resist_type_id":"26","resist_percent":"-220","multiplier_when_headshot":"1","description":"Harasser - Phoenix AV"}
+,"534": {"resist_info_id":534,"resist_type_id":"26","resist_percent":"0","multiplier_when_headshot":"1","description":"Heavy Assault Shield - Phoenix AV"}
+,"535": {"resist_info_id":535,"resist_type_id":"26","resist_percent":"0","multiplier_when_headshot":"1","description":"Facility: Terminals - Phoenix AV"}
+,"536": {"resist_info_id":536,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Phoenix AV"}
+,"537": {"resist_info_id":537,"resist_type_id":"26","resist_percent":"-100","multiplier_when_headshot":"1","description":"Phalanx - Phoenix AV"}
+,"539": {"resist_info_id":539,"resist_type_id":"4","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Heavy Machine Guns (Vehicle 20mms)"}
+,"541": {"resist_info_id":541,"resist_type_id":"8","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Aircraft Machine Gun"}
+,"543": {"resist_info_id":543,"resist_type_id":"19","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Flak (Projectile)"}
+,"544": {"resist_info_id":544,"resist_type_id":"22","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Anti-Aircraft Machine Gun"}
+,"552": {"resist_info_id":552,"resist_type_id":"35","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Vehicle Shotgun (Canister)"}
+,"555": {"resist_info_id":555,"resist_type_id":"4","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Heavy Machine Guns (Vehicle 20mms)"}
+,"557": {"resist_info_id":557,"resist_type_id":"8","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Aircraft Machine Gun"}
+,"559": {"resist_info_id":559,"resist_type_id":"19","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Flak (Projectile)"}
+,"560": {"resist_info_id":560,"resist_type_id":"22","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Anti-Aircraft Machine Gun"}
+,"568": {"resist_info_id":568,"resist_type_id":"35","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Vehicle Shotgun (Canister)"}
+,"569": {"resist_info_id":569,"resist_type_id":"28","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Armor Piercing Chain Guns"}
+,"570": {"resist_info_id":570,"resist_type_id":"28","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Armor Piercing Chain Guns"}
+,"600": {"resist_info_id":600,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Vehicle - Lightning - Mineguard 1"}
+,"601": {"resist_info_id":601,"resist_type_id":"9","resist_percent":"60","multiplier_when_headshot":"1","description":"Vehicle - Lightning - Mineguard 2"}
+,"602": {"resist_info_id":602,"resist_type_id":"9","resist_percent":"80","multiplier_when_headshot":"1","description":"Vehicle - Lightning - Mineguard 3"}
+,"603": {"resist_info_id":603,"resist_type_id":"9","resist_percent":"90","multiplier_when_headshot":"1","description":"Vehicle - Lightning - Mineguard 4"}
+,"604": {"resist_info_id":604,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Vehicle - Magrider - Mineguard 1"}
+,"605": {"resist_info_id":605,"resist_type_id":"9","resist_percent":"75","multiplier_when_headshot":"1","description":"Vehicle - Magrider - Mineguard 2"}
+,"606": {"resist_info_id":606,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"Vehicle - Magrider - Mineguard 3"}
+,"607": {"resist_info_id":607,"resist_type_id":"9","resist_percent":"125","multiplier_when_headshot":"1","description":"Vehicle - Magrider - Mineguard 4"}
+,"608": {"resist_info_id":608,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Vehicle - Vanguard - Mineguard 1"}
+,"609": {"resist_info_id":609,"resist_type_id":"9","resist_percent":"75","multiplier_when_headshot":"1","description":"Vehicle - Vanguard - Mineguard 2"}
+,"610": {"resist_info_id":610,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"Vehicle - Vanguard - Mineguard 3"}
+,"611": {"resist_info_id":611,"resist_type_id":"9","resist_percent":"125","multiplier_when_headshot":"1","description":"Vehicle - Vanguard - Mineguard 4"}
+,"612": {"resist_info_id":612,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Vehicle - Prowler - Mineguard 1"}
+,"613": {"resist_info_id":613,"resist_type_id":"9","resist_percent":"75","multiplier_when_headshot":"1","description":"Vehicle - Prowler - Mineguard 2"}
+,"614": {"resist_info_id":614,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"Vehicle - Prowler - Mineguard 3"}
+,"615": {"resist_info_id":615,"resist_type_id":"9","resist_percent":"125","multiplier_when_headshot":"1","description":"Vehicle - Prowler - Mineguard 4"}
+,"616": {"resist_info_id":616,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Vehicle - Sunderer - Mineguard 1"}
+,"617": {"resist_info_id":617,"resist_type_id":"9","resist_percent":"75","multiplier_when_headshot":"1","description":"Vehicle - Sunderer - Mineguard 2"}
+,"618": {"resist_info_id":618,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"Vehicle - Sunderer - Mineguard 3"}
+,"619": {"resist_info_id":619,"resist_type_id":"9","resist_percent":"125","multiplier_when_headshot":"1","description":"Vehicle - Sunderer - Mineguard 4"}
+,"620": {"resist_info_id":620,"resist_type_id":"2","resist_percent":"4","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Personal Defense 1"}
+,"621": {"resist_info_id":621,"resist_type_id":"2","resist_percent":"6","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Personal Defense 2"}
+,"622": {"resist_info_id":622,"resist_type_id":"2","resist_percent":"8","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Personal Defense 3"}
+,"623": {"resist_info_id":623,"resist_type_id":"2","resist_percent":"10","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Personal Defense 4"}
+,"624": {"resist_info_id":624,"resist_type_id":"15","resist_percent":"4","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers TR 1"}
+,"625": {"resist_info_id":625,"resist_type_id":"15","resist_percent":"6","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers TR 2"}
+,"626": {"resist_info_id":626,"resist_type_id":"15","resist_percent":"8","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers TR 3"}
+,"627": {"resist_info_id":627,"resist_type_id":"15","resist_percent":"10","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers TR 4"}
+,"628": {"resist_info_id":628,"resist_type_id":"20","resist_percent":"4","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers NC 1"}
+,"629": {"resist_info_id":629,"resist_type_id":"20","resist_percent":"6","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers NC 2"}
+,"630": {"resist_info_id":630,"resist_type_id":"20","resist_percent":"8","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers NC 3"}
+,"631": {"resist_info_id":631,"resist_type_id":"20","resist_percent":"10","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers NC 4"}
+,"632": {"resist_info_id":632,"resist_type_id":"21","resist_percent":"4","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers VS 1"}
+,"633": {"resist_info_id":633,"resist_type_id":"21","resist_percent":"6","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers VS 2"}
+,"634": {"resist_info_id":634,"resist_type_id":"21","resist_percent":"8","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers VS 3"}
+,"635": {"resist_info_id":635,"resist_type_id":"21","resist_percent":"10","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Snipers VS 4"}
+,"636": {"resist_info_id":636,"resist_type_id":"4","resist_percent":"15","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - HMGs 1"}
+,"637": {"resist_info_id":637,"resist_type_id":"4","resist_percent":"20","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - HMGs 2"}
+,"638": {"resist_info_id":638,"resist_type_id":"4","resist_percent":"28","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - HMGs 3"}
+,"639": {"resist_info_id":639,"resist_type_id":"4","resist_percent":"35","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - HMGs 4"}
+,"640": {"resist_info_id":640,"resist_type_id":"6","resist_percent":"9","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Explosives 1"}
+,"641": {"resist_info_id":641,"resist_type_id":"6","resist_percent":"19","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Explosives 2"}
+,"642": {"resist_info_id":642,"resist_type_id":"6","resist_percent":"28","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Explosives 3"}
+,"643": {"resist_info_id":643,"resist_type_id":"6","resist_percent":"38","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Explosives 4"}
+,"644": {"resist_info_id":644,"resist_type_id":"8","resist_percent":"16","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - AA MG 1"}
+,"645": {"resist_info_id":645,"resist_type_id":"8","resist_percent":"21","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - AA MG 2"}
+,"646": {"resist_info_id":646,"resist_type_id":"8","resist_percent":"29","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - AA MG 3"}
+,"647": {"resist_info_id":647,"resist_type_id":"8","resist_percent":"37","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - AA MG 4"}
+,"648": {"resist_info_id":648,"resist_type_id":"11","resist_percent":"25","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - C4 1"}
+,"649": {"resist_info_id":649,"resist_type_id":"11","resist_percent":"50","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - C4 2"}
+,"650": {"resist_info_id":650,"resist_type_id":"11","resist_percent":"75","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - C4 3"}
+,"651": {"resist_info_id":651,"resist_type_id":"11","resist_percent":"100","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - C4 4"}
+,"675": {"resist_info_id":675,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"MAX - Tier 2 AV - Liberator"}
+,"676": {"resist_info_id":676,"resist_type_id":"25","resist_percent":"0","multiplier_when_headshot":"1","description":"Flash - Tier 2 AV - Liberator"}
+,"677": {"resist_info_id":677,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Sunderer - Tier 2 AV - Liberator"}
+,"679": {"resist_info_id":679,"resist_type_id":"25","resist_percent":"0","multiplier_when_headshot":"1","description":"Magrider - Tier 2 AV - Liberator"}
+,"680": {"resist_info_id":680,"resist_type_id":"25","resist_percent":"-20","multiplier_when_headshot":"1","description":"Vanguard - Tier 2 AV - Liberator"}
+,"681": {"resist_info_id":681,"resist_type_id":"25","resist_percent":"0","multiplier_when_headshot":"1","description":"Prowler - Tier 2 AV - Liberator"}
+,"682": {"resist_info_id":682,"resist_type_id":"25","resist_percent":"-75","multiplier_when_headshot":"1","description":"Scythe - Tier 2 AV - Liberator"}
+,"683": {"resist_info_id":683,"resist_type_id":"25","resist_percent":"-75","multiplier_when_headshot":"1","description":"ReAV - Liberatorer - Tier 2 AV - Liberator"}
+,"684": {"resist_info_id":684,"resist_type_id":"25","resist_percent":"-75","multiplier_when_headshot":"1","description":"Mosquito - Tier 2 AV - Liberator"}
+,"685": {"resist_info_id":685,"resist_type_id":"25","resist_percent":"0","multiplier_when_headshot":"1","description":"Liberator - Tier 2 AV - Liberator"}
+,"686": {"resist_info_id":686,"resist_type_id":"25","resist_percent":"25","multiplier_when_headshot":"1","description":"Galaxy - Tier 2 AV - Liberator"}
+,"687": {"resist_info_id":687,"resist_type_id":"25","resist_percent":"0","multiplier_when_headshot":"1","description":"Drop Pod - Tier 2 AV - Liberator"}
+,"688": {"resist_info_id":688,"resist_type_id":"25","resist_percent":"0","multiplier_when_headshot":"1","description":"Harasser - Tier 2 AV - Liberator"}
+,"689": {"resist_info_id":689,"resist_type_id":"25","resist_percent":"45","multiplier_when_headshot":"1","description":"HeAV - Liberatory Assault Shield - Tier 2 AV - Liberator"}
+,"690": {"resist_info_id":690,"resist_type_id":"25","resist_percent":"80","multiplier_when_headshot":"1","description":"Facility: Terminals - Medium Kinetic"}
+,"691": {"resist_info_id":691,"resist_type_id":"25","resist_percent":"25","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Tier 2 AV - Liberator"}
+,"692": {"resist_info_id":692,"resist_type_id":"25","resist_percent":"60","multiplier_when_headshot":"1","description":"Phalanx - Tier 2 AV - Liberator"}
+,"721": {"resist_info_id":721,"resist_type_id":"1","resist_percent":"99","multiplier_when_headshot":"1","description":"Facility: Terminals - Melee"}
+,"722": {"resist_info_id":722,"resist_type_id":"2","resist_percent":"95","multiplier_when_headshot":"1","description":"Facility: Terminals - Light Kinetic"}
+,"723": {"resist_info_id":723,"resist_type_id":"3","resist_percent":"80","multiplier_when_headshot":"1","description":"Facility: Terminals - Medium Kinetic"}
+,"724": {"resist_info_id":724,"resist_type_id":"4","resist_percent":"78","multiplier_when_headshot":"1","description":"Facility: Terminals - Heavy Kinetic"}
+,"725": {"resist_info_id":725,"resist_type_id":"5","resist_percent":"0","multiplier_when_headshot":"1","description":"Facility: Terminals - AV Weapons"}
+,"726": {"resist_info_id":726,"resist_type_id":"6","resist_percent":"85","multiplier_when_headshot":"1","description":"Facility: Terminals - Small Explosive"}
+,"727": {"resist_info_id":727,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Facility: Terminals - Heavy Explosive"}
+,"728": {"resist_info_id":728,"resist_type_id":"24","resist_percent":"-20","multiplier_when_headshot":"1","description":"Facility: Terminals - Lancer AV"}
+,"729": {"resist_info_id":729,"resist_type_id":"8","resist_percent":"77.5","multiplier_when_headshot":"1","description":"Facility: Terminals - Aircraft nose cannon"}
+,"730": {"resist_info_id":730,"resist_type_id":"34","resist_percent":"-50","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Default Rocket Launchers"}
+,"731": {"resist_info_id":731,"resist_type_id":"34","resist_percent":"-100","multiplier_when_headshot":"1","description":"Drop Pod - Default Rocket Launchers"}
+,"756": {"resist_info_id":756,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Sunderer - Mine Guard Buff"}
+,"757": {"resist_info_id":757,"resist_type_id":"9","resist_percent":"75","multiplier_when_headshot":"1","description":"Lightning - Mine Guard Buff"}
+,"758": {"resist_info_id":758,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Magrider - Mine Guard Buff"}
+,"759": {"resist_info_id":759,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Vanguard - Mine Guard Buff"}
+,"760": {"resist_info_id":760,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"Prowler - Mine Guard Buff"}
+,"777": {"resist_info_id":777,"resist_type_id":"2","resist_percent":"25","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 1: Personal Defense"}
+,"778": {"resist_info_id":778,"resist_type_id":"2","resist_percent":"35","multiplier_when_headshot":"1","description":"Infiltrator: Nano-Armor Cloak Tier 2: Personal Defense"}
+,"779": {"resist_info_id":779,"resist_type_id":"2","resist_percent":"-90","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense Weapons - Haste Cloak Debuff 1"}
+,"780": {"resist_info_id":780,"resist_type_id":"2","resist_percent":"-80","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense Weapons - Haste Cloak Debuff 2"}
+,"781": {"resist_info_id":781,"resist_type_id":"2","resist_percent":"-70","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense Weapons - Haste Cloak Debuff 3"}
+,"782": {"resist_info_id":782,"resist_type_id":"2","resist_percent":"-60","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense Weapons - Haste Cloak Debuff 4"}
+,"783": {"resist_info_id":783,"resist_type_id":"2","resist_percent":"-50","multiplier_when_headshot":"1","description":"Infiltrator - Personal Defense Weapons - Haste Cloak Debuff 5"}
+,"784": {"resist_info_id":784,"resist_type_id":"7","resist_percent":"0","multiplier_when_headshot":"1","description":"Facility: Terminals - Tank Shells"}
+,"785": {"resist_info_id":785,"resist_type_id":"27","resist_percent":"50","multiplier_when_headshot":"1","description":"Facility: Terminals - Armor Piercing Tank Shells"}
+,"786": {"resist_info_id":786,"resist_type_id":"7","resist_percent":"-125","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Tank Shells"}
+,"787": {"resist_info_id":787,"resist_type_id":"27","resist_percent":"-50","multiplier_when_headshot":"1","description":"MANA Engineer Turret - AP Tank Shells"}
+,"800": {"resist_info_id":800,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"MAX - Flak (Explosion)"}
+,"801": {"resist_info_id":801,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Flash - Flak (Explosion)"}
+,"802": {"resist_info_id":802,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Flak (Explosion)"}
+,"803": {"resist_info_id":803,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Lightning - Flak (Explosion)"}
+,"804": {"resist_info_id":804,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Flak (Explosion)"}
+,"805": {"resist_info_id":805,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Flak (Explosion)"}
+,"806": {"resist_info_id":806,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Flak (Explosion)"}
+,"807": {"resist_info_id":807,"resist_type_id":"12","resist_percent":"-180","multiplier_when_headshot":"1","description":"Scythe - Flak (Explosion)"}
+,"808": {"resist_info_id":808,"resist_type_id":"12","resist_percent":"-180","multiplier_when_headshot":"1","description":"Reaver - Flak (Explosion)"}
+,"809": {"resist_info_id":809,"resist_type_id":"12","resist_percent":"-180","multiplier_when_headshot":"1","description":"Mosquito - Flak (Explosion)"}
+,"810": {"resist_info_id":810,"resist_type_id":"12","resist_percent":"-75","multiplier_when_headshot":"1","description":"Liberator - Flak (Explosion)"}
+,"811": {"resist_info_id":811,"resist_type_id":"12","resist_percent":"-50","multiplier_when_headshot":"1","description":"Galaxy - Flak (Explosion)"}
+,"812": {"resist_info_id":812,"resist_type_id":"12","resist_percent":"-150","multiplier_when_headshot":"1","description":"Drop Pod - Flak (Explosion)"}
+,"813": {"resist_info_id":813,"resist_type_id":"12","resist_percent":"0","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Flak (Explosion)"}
+,"814": {"resist_info_id":814,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Phalanx - Flak (Explosion)"}
+,"854": {"resist_info_id":854,"resist_type_id":"19","resist_percent":"75","multiplier_when_headshot":"1","description":"MAX - Flak (Projectile)"}
+,"855": {"resist_info_id":855,"resist_type_id":"19","resist_percent":"60","multiplier_when_headshot":"1","description":"Flash - Flak (Projectile)"}
+,"856": {"resist_info_id":856,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Flak (Projectile)"}
+,"858": {"resist_info_id":858,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Flak (Projectile)"}
+,"859": {"resist_info_id":859,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Flak (Projectile)"}
+,"860": {"resist_info_id":860,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Flak (Projectile)"}
+,"861": {"resist_info_id":861,"resist_type_id":"19","resist_percent":"75","multiplier_when_headshot":"1","description":"Scythe - Flak (Projectile)"}
+,"862": {"resist_info_id":862,"resist_type_id":"19","resist_percent":"75","multiplier_when_headshot":"1","description":"Reaver - Flak (Projectile)"}
+,"863": {"resist_info_id":863,"resist_type_id":"19","resist_percent":"75","multiplier_when_headshot":"1","description":"Mosquito - Flak (Projectile)"}
+,"864": {"resist_info_id":864,"resist_type_id":"19","resist_percent":"90","multiplier_when_headshot":"1","description":"Liberator - Flak (Projectile)"}
+,"865": {"resist_info_id":865,"resist_type_id":"19","resist_percent":"90","multiplier_when_headshot":"1","description":"Galaxy - Flak (Projectile)"}
+,"866": {"resist_info_id":866,"resist_type_id":"19","resist_percent":"0","multiplier_when_headshot":"1","description":"Drop Pod - Flak (Projectile)"}
+,"867": {"resist_info_id":867,"resist_type_id":"19","resist_percent":"60","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Flak (Projectile)"}
+,"868": {"resist_info_id":868,"resist_type_id":"19","resist_percent":"100","multiplier_when_headshot":"1","description":"Phalanx - Flak (Projectile)"}
+,"900": {"resist_info_id":900,"resist_type_id":"9","resist_percent":"-85","multiplier_when_headshot":"1","description":"MAX - Anti-Vehicle Mine"}
+,"901": {"resist_info_id":901,"resist_type_id":"9","resist_percent":"-90","multiplier_when_headshot":"1","description":"Flash - Anti-Vehicle Mine"}
+,"902": {"resist_info_id":902,"resist_type_id":"9","resist_percent":"-75","multiplier_when_headshot":"1","description":"Sunderer - Anti-Vehicle Mine"}
+,"903": {"resist_info_id":903,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Lightning - Anti-Vehicle Mine"}
+,"904": {"resist_info_id":904,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Magrider - Anti-Vehicle Mine"}
+,"905": {"resist_info_id":905,"resist_type_id":"9","resist_percent":"-140","multiplier_when_headshot":"1","description":"Vanguard - Anti-Vehicle Mine"}
+,"906": {"resist_info_id":906,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Prowler - Anti-Vehicle Mine"}
+,"907": {"resist_info_id":907,"resist_type_id":"9","resist_percent":"-250","multiplier_when_headshot":"1","description":"Scythe - Anti-Vehicle Mine"}
+,"908": {"resist_info_id":908,"resist_type_id":"9","resist_percent":"-250","multiplier_when_headshot":"1","description":"Reaver - Anti-Vehicle Mine"}
+,"909": {"resist_info_id":909,"resist_type_id":"9","resist_percent":"-250","multiplier_when_headshot":"1","description":"Mosquito - Anti-Vehicle Mine"}
+,"910": {"resist_info_id":910,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Liberator - Anti-Vehicle Mine"}
+,"911": {"resist_info_id":911,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Galaxy - Anti-Vehicle Mine"}
+,"912": {"resist_info_id":912,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Phalanx - Anti-Vehicle Mine"}
+,"913": {"resist_info_id":913,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Engi Turret - Anti-Vehicle Mine"}
+,"950": {"resist_info_id":950,"resist_type_id":"11","resist_percent":"-65","multiplier_when_headshot":"1","description":"MAX - C4 (Boomer)"}
+,"951": {"resist_info_id":951,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Flash - C4 (Boomer)"}
+,"952": {"resist_info_id":952,"resist_type_id":"11","resist_percent":"-40","multiplier_when_headshot":"1","description":"Sunderer - C4 (Boomer)"}
+,"953": {"resist_info_id":953,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Lightning - C4 (Boomer)"}
+,"954": {"resist_info_id":954,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Magrider - C4 (Boomer)"}
+,"955": {"resist_info_id":955,"resist_type_id":"11","resist_percent":"-140","multiplier_when_headshot":"1","description":"Vanguard - C4 (Boomer)"}
+,"956": {"resist_info_id":956,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Prowler - C4 (Boomer)"}
+,"957": {"resist_info_id":957,"resist_type_id":"11","resist_percent":"-150","multiplier_when_headshot":"1","description":"Scythe - C4 (Boomer)"}
+,"958": {"resist_info_id":958,"resist_type_id":"11","resist_percent":"-150","multiplier_when_headshot":"1","description":"Reaver - C4 (Boomer)"}
+,"959": {"resist_info_id":959,"resist_type_id":"11","resist_percent":"-150","multiplier_when_headshot":"1","description":"Mosquito - C4 (Boomer)"}
+,"960": {"resist_info_id":960,"resist_type_id":"11","resist_percent":"-80","multiplier_when_headshot":"1","description":"Liberator - C4 (Boomer)"}
+,"961": {"resist_info_id":961,"resist_type_id":"11","resist_percent":"-30","multiplier_when_headshot":"1","description":"Galaxy - C4 (Boomer)"}
+,"962": {"resist_info_id":962,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Phalanx - C4 (Boomer)"}
+,"963": {"resist_info_id":963,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Engi Turret - C4 (Boomer)"}
+,"964": {"resist_info_id":964,"resist_type_id":"33","resist_percent":"50","multiplier_when_headshot":"1","description":"MAX - Mass Drivers"}
+,"965": {"resist_info_id":965,"resist_type_id":"33","resist_percent":"-25","multiplier_when_headshot":"1","description":"Flash - Mass Drivers"}
+,"966": {"resist_info_id":966,"resist_type_id":"33","resist_percent":"50","multiplier_when_headshot":"1","description":"Sunderer - Mass Drivers"}
+,"968": {"resist_info_id":968,"resist_type_id":"33","resist_percent":"0","multiplier_when_headshot":"1","description":"Magrider - Mass Drivers"}
+,"969": {"resist_info_id":969,"resist_type_id":"33","resist_percent":"0","multiplier_when_headshot":"1","description":"Vanguard - Mass Drivers"}
+,"970": {"resist_info_id":970,"resist_type_id":"33","resist_percent":"0","multiplier_when_headshot":"1","description":"Prowler - Mass Drivers"}
+,"971": {"resist_info_id":971,"resist_type_id":"33","resist_percent":"15","multiplier_when_headshot":"1","description":"Scythe - Mass Drivers"}
+,"972": {"resist_info_id":972,"resist_type_id":"33","resist_percent":"15","multiplier_when_headshot":"1","description":"Reaver - Mass Drivers"}
+,"973": {"resist_info_id":973,"resist_type_id":"33","resist_percent":"15","multiplier_when_headshot":"1","description":"Mosquito - Mass Drivers"}
+,"974": {"resist_info_id":974,"resist_type_id":"33","resist_percent":"55","multiplier_when_headshot":"1","description":"Liberator - Mass Drivers"}
+,"975": {"resist_info_id":975,"resist_type_id":"33","resist_percent":"70","multiplier_when_headshot":"1","description":"Galaxy - Mass Drivers"}
+,"976": {"resist_info_id":976,"resist_type_id":"33","resist_percent":"-100","multiplier_when_headshot":"1","description":"Drop Pod - Mass Drivers"}
+,"977": {"resist_info_id":977,"resist_type_id":"33","resist_percent":"-25","multiplier_when_headshot":"1","description":"Harasser - Mass Drivers"}
+,"978": {"resist_info_id":978,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Mass Drivers"}
+,"979": {"resist_info_id":979,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Facility: Terminals - Mass Drivers"}
+,"980": {"resist_info_id":980,"resist_type_id":"33","resist_percent":"30","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Mass Drivers"}
+,"981": {"resist_info_id":981,"resist_type_id":"33","resist_percent":"40","multiplier_when_headshot":"1","description":"Phalanx - Mass Drivers"}
+,"982": {"resist_info_id":982,"resist_type_id":"33","resist_percent":"-16","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 01: Mass Drivers"}
+,"983": {"resist_info_id":983,"resist_type_id":"33","resist_percent":"-15.5","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 02: Mass Drivers"}
+,"984": {"resist_info_id":984,"resist_type_id":"33","resist_percent":"-15","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 03: Mass Drivers"}
+,"985": {"resist_info_id":985,"resist_type_id":"33","resist_percent":"-14.5","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 04: Mass Drivers"}
+,"986": {"resist_info_id":986,"resist_type_id":"33","resist_percent":"-14","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 05: Mass Drivers"}
+}

@@ -1,0 +1,20 @@
+{
+"1": {"loadout_id":1,"profile_id":"2","faction_id":"2","code_name":"NC Infiltrator"}
+,"3": {"loadout_id":3,"profile_id":"4","faction_id":"2","code_name":"NC Light Assault"}
+,"4": {"loadout_id":4,"profile_id":"5","faction_id":"2","code_name":"NC Medic"}
+,"5": {"loadout_id":5,"profile_id":"6","faction_id":"2","code_name":"NC Engineer"}
+,"6": {"loadout_id":6,"profile_id":"7","faction_id":"2","code_name":"NC Heavy Assault"}
+,"7": {"loadout_id":7,"profile_id":"8","faction_id":"2","code_name":"NC MAX"}
+,"8": {"loadout_id":8,"profile_id":"10","faction_id":"3","code_name":"TR Infiltrator"}
+,"10": {"loadout_id":10,"profile_id":"12","faction_id":"3","code_name":"TR Light Assault"}
+,"11": {"loadout_id":11,"profile_id":"13","faction_id":"3","code_name":"TR Medic"}
+,"12": {"loadout_id":12,"profile_id":"14","faction_id":"3","code_name":"TR Engineer"}
+,"13": {"loadout_id":13,"profile_id":"15","faction_id":"3","code_name":"TR Heavy Assault"}
+,"14": {"loadout_id":14,"profile_id":"16","faction_id":"3","code_name":"TR MAX"}
+,"15": {"loadout_id":15,"profile_id":"17","faction_id":"1","code_name":"VS Infiltrator"}
+,"17": {"loadout_id":17,"profile_id":"19","faction_id":"1","code_name":"VS Light Assault"}
+,"18": {"loadout_id":18,"profile_id":"20","faction_id":"1","code_name":"VS Medic"}
+,"19": {"loadout_id":19,"profile_id":"21","faction_id":"1","code_name":"VS Engineer"}
+,"20": {"loadout_id":20,"profile_id":"22","faction_id":"1","code_name":"VS Heavy Assault"}
+,"21": {"loadout_id":21,"profile_id":"23","faction_id":"1","code_name":"VS MAX"}
+}

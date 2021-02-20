@@ -1,0 +1,9 @@
+{
+"1": {"player_state_id":1,"description":"Crouching"}
+,"2": {"player_state_id":2,"description":"Running"}
+,"3": {"player_state_id":3,"description":"Sprinting"}
+,"4": {"player_state_id":4,"description":"Falling Long"}
+,"5": {"player_state_id":5,"description":"CrouchWalking"}
+,"6": {"player_state_id":6,"description":"Jumping"}
+,"7": {"player_state_id":7,"description":"Falling Short"}
+}

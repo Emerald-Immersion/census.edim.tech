@@ -1,0 +1,8 @@
+{
+"10009": {"projectile_id":10009,"projectile_flight_type_id":"1","speed":"600","speed_max":"0","acceleration":"0","turn_rate":"0","lifespan":"1.5","drag":"0","gravity":"11.25"}
+,"10010": {"projectile_id":10010,"projectile_flight_type_id":"1","speed":"600","speed_max":"0","acceleration":"0","turn_rate":"0","lifespan":"1.5","drag":"0","gravity":"11.25"}
+,"10011": {"projectile_id":10011,"projectile_flight_type_id":"1","speed":"615","speed_max":"0","acceleration":"0","turn_rate":"0","lifespan":"1.25","drag":"0","gravity":"0"}
+,"10019": {"projectile_id":10019,"projectile_flight_type_id":"1","speed":"650","speed_max":"0","acceleration":"0","turn_rate":"0","lifespan":"1.5","drag":"0","gravity":"11.25"}
+,"10110": {"projectile_id":10110,"projectile_flight_type_id":"1","speed":"650","speed_max":"0","acceleration":"0","turn_rate":"0","lifespan":"1.5","drag":"0","gravity":"11.25"}
+,"10111": {"projectile_id":10111,"projectile_flight_type_id":"1","speed":"665","speed_max":"0","acceleration":"0","turn_rate":"0","lifespan":"1.25","drag":"0","gravity":"0"}
+}

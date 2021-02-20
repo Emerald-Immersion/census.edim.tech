@@ -1,0 +1,18 @@
+{
+"1": {"resist_type_id":1,"description":"Melee"}
+,"2": {"resist_type_id":2,"description":"Small Arms"}
+,"4": {"resist_type_id":4,"description":"Heavy Machine Guns (Vehicle 20mms)"}
+,"5": {"resist_type_id":5,"description":"Heavy Anti-Armor (100mm+ Cannons, Guided RPGs)"}
+,"6": {"resist_type_id":6,"description":"Explosive (Hand Grenades)"}
+,"7": {"resist_type_id":7,"description":"Tank Shell"}
+,"8": {"resist_type_id":8,"description":"Aircraft Machine Gun (Soft Point)"}
+,"12": {"resist_type_id":12,"description":"Flak Explosive Blast"}
+,"22": {"resist_type_id":22,"description":"Anti-Aircraft Machine Gun (Walker)"}
+,"23": {"resist_type_id":23,"description":"Air to Ground Warhead"}
+,"28": {"resist_type_id":28,"description":"Armor Piercing Chain Guns (Tank Buster, Shedder)"}
+,"34": {"resist_type_id":34,"description":"Default Rocket Launchers"}
+,"40": {"resist_type_id":40,"description":"Anti-Materiel Rifle"}
+,"45": {"resist_type_id":45,"description":"Whale Hunter I (Slow Firing)"}
+,"46": {"resist_type_id":46,"description":"Core Explosion / Glaive"}
+,"64": {"resist_type_id":64,"description":"Burning"}
+}

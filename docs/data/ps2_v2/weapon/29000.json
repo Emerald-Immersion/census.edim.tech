@@ -1,0 +1,5 @@
+{
+"28000": {"weapon_id":28000,"weapon_group_id":"18","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"650","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"28001": {"weapon_id":28001,"weapon_group_id":"278","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"650","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"28005": {"weapon_id":28005,"weapon_group_id":"1206","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"650","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+}

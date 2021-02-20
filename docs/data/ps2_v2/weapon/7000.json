@@ -1,0 +1,3 @@
+{
+"6050": {"weapon_id":6050,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"250","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+}

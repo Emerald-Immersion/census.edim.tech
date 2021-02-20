@@ -1,0 +1,33 @@
+{
+"11000": {"zone_effect_id":11000,"zone_effect_type_id":"22","ability_id":"2452","param1":"19"}
+,"11001": {"zone_effect_id":11001,"zone_effect_type_id":"22","ability_id":"2452","param1":"20"}
+,"11002": {"zone_effect_id":11002,"zone_effect_type_id":"22","ability_id":"2452","param1":"21"}
+,"11004": {"zone_effect_id":11004,"zone_effect_type_id":"7","ability_id":"2452","param1":"1"}
+,"11005": {"zone_effect_id":11005,"zone_effect_type_id":"7","ability_id":"2452","param1":"8"}
+,"11006": {"zone_effect_id":11006,"zone_effect_type_id":"22","ability_id":"2452","param1":"22"}
+,"11008": {"zone_effect_id":11008,"zone_effect_type_id":"62","ability_id":"2452","param1":"35","param2":"0.008","param3":"-0.0109","param4":"1000"}
+,"11009": {"zone_effect_id":11009,"zone_effect_type_id":"22","ability_id":"2453","param1":"19"}
+,"11010": {"zone_effect_id":11010,"zone_effect_type_id":"22","ability_id":"2453","param1":"20"}
+,"11011": {"zone_effect_id":11011,"zone_effect_type_id":"22","ability_id":"2453","param1":"21"}
+,"11013": {"zone_effect_id":11013,"zone_effect_type_id":"7","ability_id":"2453","param1":"1"}
+,"11014": {"zone_effect_id":11014,"zone_effect_type_id":"7","ability_id":"2453","param1":"8"}
+,"11015": {"zone_effect_id":11015,"zone_effect_type_id":"22","ability_id":"2453","param1":"22"}
+,"11017": {"zone_effect_id":11017,"zone_effect_type_id":"62","ability_id":"2453","param1":"35","param2":"0.0075","param3":"-0.012","param4":"1000"}
+,"11522": {"zone_effect_id":11522,"zone_effect_type_id":"9","ability_id":"12052","param1":"352"}
+,"11523": {"zone_effect_id":11523,"zone_effect_type_id":"9","ability_id":"12053","param1":"353"}
+,"11524": {"zone_effect_id":11524,"zone_effect_type_id":"9","ability_id":"12054","param1":"354"}
+,"11525": {"zone_effect_id":11525,"zone_effect_type_id":"9","ability_id":"12055","param1":"355"}
+,"11526": {"zone_effect_id":11526,"zone_effect_type_id":"9","ability_id":"12056","param1":"356"}
+,"11527": {"zone_effect_id":11527,"zone_effect_type_id":"2","ability_id":"12057","param1":"7","param2":"259","param3":"1250","param4":"100","param5":"1","param6":"100"}
+,"11528": {"zone_effect_id":11528,"zone_effect_type_id":"2","ability_id":"12058","param1":"7","param2":"250","param3":"1250","param4":"100","param5":"1","param6":"100"}
+,"11529": {"zone_effect_id":11529,"zone_effect_type_id":"2","ability_id":"12059","param1":"7","param2":"250","param3":"1250","param4":"100","param5":"1","param6":"100"}
+,"11541": {"zone_effect_id":11541,"zone_effect_type_id":"9","ability_id":"12071","param1":"357"}
+,"11542": {"zone_effect_id":11542,"zone_effect_type_id":"9","ability_id":"12072","param1":"360"}
+,"11543": {"zone_effect_id":11543,"zone_effect_type_id":"9","ability_id":"12073","param1":"363"}
+,"11544": {"zone_effect_id":11544,"zone_effect_type_id":"9","ability_id":"12074","param1":"366"}
+,"11545": {"zone_effect_id":11545,"zone_effect_type_id":"9","ability_id":"12075","param1":"369"}
+,"11551": {"zone_effect_id":11551,"zone_effect_type_id":"61","ability_id":"27961","param1":"600"}
+,"11552": {"zone_effect_id":11552,"zone_effect_type_id":"61","ability_id":"27958","param1":"300"}
+,"11553": {"zone_effect_id":11553,"zone_effect_type_id":"61","ability_id":"27960","param1":"500"}
+,"11554": {"zone_effect_id":11554,"zone_effect_type_id":"61","ability_id":"27959","param1":"400"}
+}

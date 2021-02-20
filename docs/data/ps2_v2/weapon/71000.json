@@ -1,0 +1,35 @@
+{
+"70002": {"weapon_id":70002,"weapon_group_id":"1013","turn_modifier":"1","move_modifier":"1"}
+,"70003": {"weapon_id":70003,"weapon_group_id":"1013","turn_modifier":"1","move_modifier":"1"}
+,"70007": {"weapon_id":70007,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70008": {"weapon_id":70008,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70009": {"weapon_id":70009,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70010": {"weapon_id":70010,"weapon_group_id":"1101","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"550","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150","heat_bleed_off_rate":"0"}
+,"70011": {"weapon_id":70011,"weapon_group_id":"1102","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"800","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70012": {"weapon_id":70012,"weapon_group_id":"4500","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70013": {"weapon_id":70013,"weapon_group_id":"4501","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"250","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70014": {"weapon_id":70014,"weapon_group_id":"4507","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70015": {"weapon_id":70015,"weapon_group_id":"185","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"550","unequip_ms":"250","to_iron_sights_ms":"200","from_iron_sights_ms":"150"}
+,"70016": {"weapon_id":70016,"weapon_group_id":"186","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"550","unequip_ms":"250","to_iron_sights_ms":"200","from_iron_sights_ms":"150"}
+,"70017": {"weapon_id":70017,"weapon_group_id":"187","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"550","unequip_ms":"250","to_iron_sights_ms":"200","from_iron_sights_ms":"150"}
+,"70019": {"weapon_id":70019,"weapon_group_id":"1118","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"750","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70025": {"weapon_id":70025,"weapon_group_id":"4502","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70026": {"weapon_id":70026,"weapon_group_id":"4503","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"250","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70027": {"weapon_id":70027,"weapon_group_id":"4504","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70028": {"weapon_id":70028,"weapon_group_id":"4505","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"250","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70030": {"weapon_id":70030,"weapon_group_id":"4506","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"550","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150","heat_bleed_off_rate":"0"}
+,"70031": {"weapon_id":70031,"weapon_group_id":"1204","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"250","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70032": {"weapon_id":70032,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70033": {"weapon_id":70033,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70034": {"weapon_id":70034,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70035": {"weapon_id":70035,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70036": {"weapon_id":70036,"turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"450","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70037": {"weapon_id":70037,"weapon_group_id":"94","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"850","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70038": {"weapon_id":70038,"weapon_group_id":"190","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"850","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70039": {"weapon_id":70039,"weapon_group_id":"191","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"850","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70040": {"weapon_id":70040,"weapon_group_id":"192","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"650","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70041": {"weapon_id":70041,"weapon_group_id":"188","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"550","unequip_ms":"250","to_iron_sights_ms":"200","from_iron_sights_ms":"150"}
+,"70042": {"weapon_id":70042,"weapon_group_id":"189","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"550","unequip_ms":"250","to_iron_sights_ms":"200","from_iron_sights_ms":"150"}
+,"70043": {"weapon_id":70043,"weapon_group_id":"193","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"650","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+,"70044": {"weapon_id":70044,"weapon_group_id":"194","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"300","equip_ms":"650","unequip_ms":"250","to_iron_sights_ms":"150","from_iron_sights_ms":"150"}
+}

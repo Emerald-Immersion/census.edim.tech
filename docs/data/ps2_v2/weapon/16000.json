@@ -1,0 +1,5 @@
+{
+"15000": {"weapon_id":15000,"weapon_group_id":"141","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"1000"}
+,"15001": {"weapon_id":15001,"weapon_group_id":"143","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"1000"}
+,"15004": {"weapon_id":15004,"weapon_group_id":"162","turn_modifier":"1","move_modifier":"1","sprint_recovery_ms":"500","equip_ms":"500","unequip_ms":"1000"}
+}

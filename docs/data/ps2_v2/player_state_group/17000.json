@@ -1,0 +1,44 @@
+{
+"16000": {"player_state_group_id":16000,"player_state":"Crouching","min_cone_of_fire":"1"}
+,"16000": {"player_state_group_id":16000,"player_state":"Standing","min_cone_of_fire":"1.5"}
+,"16000": {"player_state_group_id":16000,"player_state":"Running","min_cone_of_fire":"2"}
+,"16000": {"player_state_group_id":16000,"player_state":"Sprinting","min_cone_of_fire":"5"}
+,"16000": {"player_state_group_id":16000,"player_state":"Falling Long","min_cone_of_fire":"7"}
+,"16000": {"player_state_group_id":16000,"player_state":"CrouchWalking","min_cone_of_fire":"1.5"}
+,"16001": {"player_state_group_id":16001,"player_state":"CrouchWalking","min_cone_of_fire":"2"}
+,"16001": {"player_state_group_id":16001,"player_state":"Falling Long","min_cone_of_fire":"7"}
+,"16001": {"player_state_group_id":16001,"player_state":"Crouching","min_cone_of_fire":"1.5"}
+,"16001": {"player_state_group_id":16001,"player_state":"Running","min_cone_of_fire":"2.5"}
+,"16001": {"player_state_group_id":16001,"player_state":"Standing","min_cone_of_fire":"2"}
+,"16001": {"player_state_group_id":16001,"player_state":"Sprinting","min_cone_of_fire":"5"}
+,"16002": {"player_state_group_id":16002,"player_state":"CrouchWalking","min_cone_of_fire":"2"}
+,"16002": {"player_state_group_id":16002,"player_state":"Falling Long","min_cone_of_fire":"7"}
+,"16002": {"player_state_group_id":16002,"player_state":"Sprinting","min_cone_of_fire":"5"}
+,"16002": {"player_state_group_id":16002,"player_state":"Running","min_cone_of_fire":"2"}
+,"16002": {"player_state_group_id":16002,"player_state":"Crouching","min_cone_of_fire":"1"}
+,"16002": {"player_state_group_id":16002,"player_state":"Standing","min_cone_of_fire":"1"}
+,"16003": {"player_state_group_id":16003,"player_state":"Falling Long","min_cone_of_fire":"7"}
+,"16003": {"player_state_group_id":16003,"player_state":"Standing","min_cone_of_fire":"1.25"}
+,"16003": {"player_state_group_id":16003,"player_state":"Sprinting","min_cone_of_fire":"5"}
+,"16003": {"player_state_group_id":16003,"player_state":"Crouching","min_cone_of_fire":"1.25"}
+,"16003": {"player_state_group_id":16003,"player_state":"CrouchWalking","min_cone_of_fire":"1.75"}
+,"16003": {"player_state_group_id":16003,"player_state":"Running","min_cone_of_fire":"1.75"}
+,"16004": {"player_state_group_id":16004,"player_state":"Crouching","min_cone_of_fire":"0.2"}
+,"16004": {"player_state_group_id":16004,"player_state":"CrouchWalking","min_cone_of_fire":"0.2"}
+,"16004": {"player_state_group_id":16004,"player_state":"Falling Long","min_cone_of_fire":"0.2"}
+,"16004": {"player_state_group_id":16004,"player_state":"Sprinting","min_cone_of_fire":"0.2"}
+,"16004": {"player_state_group_id":16004,"player_state":"Running","min_cone_of_fire":"0.2"}
+,"16004": {"player_state_group_id":16004,"player_state":"Standing","min_cone_of_fire":"0.2"}
+,"16005": {"player_state_group_id":16005,"player_state":"Crouching","min_cone_of_fire":"1.25"}
+,"16005": {"player_state_group_id":16005,"player_state":"Standing","min_cone_of_fire":"1.25"}
+,"16005": {"player_state_group_id":16005,"player_state":"Running","min_cone_of_fire":"1.75"}
+,"16005": {"player_state_group_id":16005,"player_state":"Sprinting","min_cone_of_fire":"5"}
+,"16005": {"player_state_group_id":16005,"player_state":"Falling Long","min_cone_of_fire":"7"}
+,"16005": {"player_state_group_id":16005,"player_state":"CrouchWalking","min_cone_of_fire":"1.75"}
+,"16006": {"player_state_group_id":16006,"player_state":"Crouching","min_cone_of_fire":"0.2"}
+,"16006": {"player_state_group_id":16006,"player_state":"CrouchWalking","min_cone_of_fire":"0.2"}
+,"16006": {"player_state_group_id":16006,"player_state":"Running","min_cone_of_fire":"0.2"}
+,"16006": {"player_state_group_id":16006,"player_state":"Falling Long","min_cone_of_fire":"2"}
+,"16006": {"player_state_group_id":16006,"player_state":"Sprinting","min_cone_of_fire":"2"}
+,"16006": {"player_state_group_id":16006,"player_state":"Standing","min_cone_of_fire":"0.2"}
+}

@@ -1,0 +1,354 @@
+{
+"5000": {"resist_info_id":5000,"resist_type_id":"22","resist_percent":"85","multiplier_when_headshot":"1","description":"Colossus - Anti-Aircraft Machine Gun"}
+,"5001": {"resist_info_id":5001,"resist_type_id":"34","resist_percent":"0","multiplier_when_headshot":"1","description":"Colossus - Default Rocket Launcher"}
+,"5002": {"resist_info_id":5002,"resist_type_id":"23","resist_percent":"0","multiplier_when_headshot":"1","description":"Colossus - Air to Ground"}
+,"5003": {"resist_info_id":5003,"resist_type_id":"40","resist_percent":"40","description":"Colossus - Anti Materiel Rifle"}
+,"5004": {"resist_info_id":5004,"resist_type_id":"45","resist_percent":"20","description":"Colossus - Whale Hunter I"}
+,"5005": {"resist_info_id":5005,"resist_type_id":"47","resist_percent":"71","description":"Colossus - Orbital Strike"}
+,"5006": {"resist_info_id":5006,"resist_type_id":"1","resist_percent":"100","description":"WarAsset Bastion - Melee"}
+,"5007": {"resist_info_id":5007,"resist_type_id":"2","resist_percent":"100","description":"WarAsset Bastion - Personal Defense"}
+,"5008": {"resist_info_id":5008,"resist_type_id":"3","resist_percent":"100","description":"WarAsset Bastion - Tier 2 AV"}
+,"5009": {"resist_info_id":5009,"resist_type_id":"4","resist_percent":"100","description":"WarAsset Bastion - Tier 1 AV"}
+,"5010": {"resist_info_id":5010,"resist_type_id":"5","resist_percent":"100","description":"WarAsset Bastion - Tier 3 AV"}
+,"5011": {"resist_info_id":5011,"resist_type_id":"6","resist_percent":"100","description":"WarAsset Bastion - Grenades"}
+,"5012": {"resist_info_id":5012,"resist_type_id":"7","resist_percent":"100","description":"WarAsset Bastion - Tank Shell"}
+,"5013": {"resist_info_id":5013,"resist_type_id":"8","resist_percent":"100","description":"WarAsset Bastion - Aircraft Machine Gun"}
+,"5014": {"resist_info_id":5014,"resist_type_id":"9","resist_percent":"100","description":"WarAsset Bastion - Anti-Vehicle Mine"}
+,"5015": {"resist_info_id":5015,"resist_type_id":"11","resist_percent":"100","description":"WarAsset Bastion - C4 (Boomer)"}
+,"5016": {"resist_info_id":5016,"resist_type_id":"12","resist_percent":"100","description":"WarAsset Bastion - Flak (Explosion)"}
+,"5017": {"resist_info_id":5017,"resist_type_id":"13","resist_percent":"100","description":"WarAsset Bastion - Dynamic Collisions"}
+,"5018": {"resist_info_id":5018,"resist_type_id":"14","resist_percent":"100","description":"WarAsset Bastion - Static Collisions"}
+,"5019": {"resist_info_id":5019,"resist_type_id":"16","resist_percent":"100","description":"WarAsset Bastion - Suspension Collisions"}
+,"5020": {"resist_info_id":5020,"resist_type_id":"17","resist_percent":"100","description":"WarAsset Bastion - Falling Collisions"}
+,"5021": {"resist_info_id":5021,"resist_type_id":"22","resist_percent":"100","description":"WarAsset Bastion - Anti-Aircraft Machine Gun"}
+,"5022": {"resist_info_id":5022,"resist_type_id":"23","resist_percent":"100","description":"WarAsset Bastion - Air to Ground"}
+,"5023": {"resist_info_id":5023,"resist_type_id":"28","resist_percent":"100","description":"WarAsset Bastion - Armor Piercing Chain Guns"}
+,"5024": {"resist_info_id":5024,"resist_type_id":"34","resist_percent":"100","description":"WarAsset Bastion - Default Rocket Launcher"}
+,"5025": {"resist_info_id":5025,"resist_type_id":"40","resist_percent":"100","description":"WarAsset Bastion - Anti Materiel Rifle"}
+,"5026": {"resist_info_id":5026,"resist_type_id":"45","resist_percent":"100","description":"WarAsset Bastion - Whale Hunter I"}
+,"5027": {"resist_info_id":5027,"resist_type_id":"47","resist_percent":"100","description":"WarAsset Bastion - Orbital Strike"}
+,"5028": {"resist_info_id":5028,"resist_type_id":"40","resist_percent":"95","description":"War Asset: Generator: Anti Materiel Rifle"}
+,"5029": {"resist_info_id":5029,"resist_type_id":"49","resist_percent":"90","description":"War Asset: Generator: Fast Siege"}
+,"5030": {"resist_info_id":5030,"resist_type_id":"45","resist_percent":"80","description":"War Asset: Generator: Whale Hunter I"}
+,"5031": {"resist_info_id":5031,"resist_type_id":"23","resist_percent":"50","multiplier_when_headshot":"1","description":"War Asset: Generator: Air to Ground"}
+,"5032": {"resist_info_id":5032,"resist_type_id":"8","resist_percent":"80","multiplier_when_headshot":"1","description":"War Asset: Generator: Aircraft Machine Gun"}
+,"5033": {"resist_info_id":5033,"resist_type_id":"22","resist_percent":"80","multiplier_when_headshot":"1","description":"War Asset: Generator: Anti-Aircraft Machine Gun"}
+,"5034": {"resist_info_id":5034,"resist_type_id":"9","resist_percent":"50","multiplier_when_headshot":"1","description":"War Asset: Generator: Anti-Vehicle Mine"}
+,"5035": {"resist_info_id":5035,"resist_type_id":"28","resist_percent":"60","multiplier_when_headshot":"1","description":"War Asset: Generator: Armor Piercing Chain Guns"}
+,"5036": {"resist_info_id":5036,"resist_type_id":"11","resist_percent":"50","multiplier_when_headshot":"1","description":"War Asset: Generator: C4 (Boomer)"}
+,"5037": {"resist_info_id":5037,"resist_type_id":"34","resist_percent":"50","multiplier_when_headshot":"1","description":"War Asset: Generator: Default Rocket Launcher"}
+,"5038": {"resist_info_id":5038,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"War Asset: Generator: Flak (Explosion)"}
+,"5039": {"resist_info_id":5039,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"War Asset: Generator: Grenades"}
+,"5040": {"resist_info_id":5040,"resist_type_id":"5","resist_percent":"20","multiplier_when_headshot":"1","description":"War Asset: Generator: Light AV"}
+,"5041": {"resist_info_id":5041,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"War Asset: Generator: Melee"}
+,"5042": {"resist_info_id":5042,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"War Asset: Generator: Personal Defense"}
+,"5043": {"resist_info_id":5043,"resist_type_id":"4","resist_percent":"80","multiplier_when_headshot":"1","description":"War Asset: Generator: Tier 1 AV"}
+,"5044": {"resist_info_id":5044,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"War Asset: Generator: Tier 2 AV"}
+,"5045": {"resist_info_id":5045,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Bastion - Melee"}
+,"5046": {"resist_info_id":5046,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Bastion Component- Personal Defense"}
+,"5047": {"resist_info_id":5047,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"Bastion Component - Tier 2 AV"}
+,"5048": {"resist_info_id":5048,"resist_type_id":"4","resist_percent":"75","multiplier_when_headshot":"1","description":"Bastion Component - HMG"}
+,"5049": {"resist_info_id":5049,"resist_type_id":"5","resist_percent":"-150","multiplier_when_headshot":"1","description":"Bastion Component - Light AVz"}
+,"5050": {"resist_info_id":5050,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Bastion Component - Grenades"}
+,"5051": {"resist_info_id":5051,"resist_type_id":"7","resist_percent":"-200","multiplier_when_headshot":"1","description":"Bastion Component - Tank Shell"}
+,"5052": {"resist_info_id":5052,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"Bastion Component - Aircraft Machine Gun"}
+,"5053": {"resist_info_id":5053,"resist_type_id":"23","resist_percent":"-25","multiplier_when_headshot":"1","description":"Bastion Component - Air to Ground"}
+,"5054": {"resist_info_id":5054,"resist_type_id":"12","resist_percent":"-50","multiplier_when_headshot":"1","description":"Bastion Component - Flak (Explosion)"}
+,"5055": {"resist_info_id":5055,"resist_type_id":"9","resist_percent":"0","multiplier_when_headshot":"1","description":"Bastion Component - Anti-Vehicle Mine"}
+,"5056": {"resist_info_id":5056,"resist_type_id":"11","resist_percent":"-30","multiplier_when_headshot":"1","description":"Bastion Component - C4 (Boomer)"}
+,"5057": {"resist_info_id":5057,"resist_type_id":"28","resist_percent":"75","multiplier_when_headshot":"1","description":"Bastion Component - Armor Piercing Chain Guns"}
+,"5058": {"resist_info_id":5058,"resist_type_id":"16","resist_percent":"100","multiplier_when_headshot":"1","description":"Bastion Component - Suspension Collisions"}
+,"5059": {"resist_info_id":5059,"resist_type_id":"13","resist_percent":"100","multiplier_when_headshot":"1","description":"Bastion Component - Dynamic Collisions"}
+,"5060": {"resist_info_id":5060,"resist_type_id":"14","resist_percent":"100","multiplier_when_headshot":"1","description":"Bastion Component - Static Collisions"}
+,"5061": {"resist_info_id":5061,"resist_type_id":"17","resist_percent":"100","multiplier_when_headshot":"1","description":"Bastion Component - Falling Collisions"}
+,"5062": {"resist_info_id":5062,"resist_type_id":"22","resist_percent":"80","multiplier_when_headshot":"1","description":"Bastion Component - Anti-Aircraft Machine Gun"}
+,"5063": {"resist_info_id":5063,"resist_type_id":"34","resist_percent":"-40","multiplier_when_headshot":"1","description":"Bastion Component - Default Rocket Launcher"}
+,"5064": {"resist_info_id":5064,"resist_type_id":"40","resist_percent":"25","description":"Bastion Component - Anti Materiel Rifle"}
+,"5065": {"resist_info_id":5065,"resist_type_id":"45","resist_percent":"-100","description":"Bastion Component - Whale Hunter I"}
+,"5066": {"resist_info_id":5066,"resist_type_id":"47","resist_percent":"60","description":"Bastion Component - Orbital Strike"}
+,"5067": {"resist_info_id":5067,"resist_type_id":"0","resist_percent":"100","description":"WarAsset Bastion - None"}
+,"5068": {"resist_info_id":5068,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Tank Trap - Melee"}
+,"5069": {"resist_info_id":5069,"resist_type_id":"11","resist_percent":"-100","multiplier_when_headshot":"1","description":"Tank Trap - C4 (Boomer)"}
+,"5070": {"resist_info_id":5070,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Tank Trap - Flak (Explosion)"}
+,"5071": {"resist_info_id":5071,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Tank Trap - Personal Defense"}
+,"5072": {"resist_info_id":5072,"resist_type_id":"22","resist_percent":"85","multiplier_when_headshot":"1","description":"Tank Trap - Anti-Aircraft Machine Gun"}
+,"5073": {"resist_info_id":5073,"resist_type_id":"23","resist_percent":"-50","multiplier_when_headshot":"1","description":"Tank Trap - Air to Ground"}
+,"5074": {"resist_info_id":5074,"resist_type_id":"28","resist_percent":"50","multiplier_when_headshot":"1","description":"Tank Trap - Armor Piercing Chain Guns"}
+,"5075": {"resist_info_id":5075,"resist_type_id":"3","resist_percent":"50","multiplier_when_headshot":"1","description":"Tank Trap - Tier 2 AV"}
+,"5076": {"resist_info_id":5076,"resist_type_id":"34","resist_percent":"0","multiplier_when_headshot":"1","description":"Tank Trap - Default Rocket Launcher"}
+,"5077": {"resist_info_id":5077,"resist_type_id":"4","resist_percent":"80","multiplier_when_headshot":"1","description":"Tank Trap - Tier 1 AV"}
+,"5078": {"resist_info_id":5078,"resist_type_id":"40","resist_percent":"40","description":"Tank Trap - Anti Materiel Rifle"}
+,"5079": {"resist_info_id":5079,"resist_type_id":"45","resist_percent":"20","description":"Tank Trap - Whale Hunter I"}
+,"5080": {"resist_info_id":5080,"resist_type_id":"5","resist_percent":"-20","multiplier_when_headshot":"1","description":"Tank Trap - Tier 3 AV"}
+,"5081": {"resist_info_id":5081,"resist_type_id":"6","resist_percent":"50","multiplier_when_headshot":"1","description":"Tank Trap - Grenades"}
+,"5082": {"resist_info_id":5082,"resist_type_id":"7","resist_percent":"-100","multiplier_when_headshot":"1","description":"Tank Trap - Tank Shell"}
+,"5083": {"resist_info_id":5083,"resist_type_id":"8","resist_percent":"90","multiplier_when_headshot":"1","description":"Tank Trap - Aircraft Machine Gun"}
+,"5084": {"resist_info_id":5084,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Tank Trap - Anti-Vehicle Mine"}
+,"5085": {"resist_info_id":5085,"resist_type_id":"14","resist_percent":"99","resist_amount":"50","multiplier_when_headshot":"1","description":"Tank Trap - Static Collisions"}
+,"5086": {"resist_info_id":5086,"resist_type_id":"47","resist_percent":"-200","description":"Tank Trap - Orbital Strike"}
+,"5087": {"resist_info_id":5087,"resist_type_id":"46","resist_percent":"100","description":"WarAsset Bastion - Core / Glaive"}
+,"5088": {"resist_info_id":5088,"resist_type_id":"45","resist_percent":"50","description":"Construction: Infantry Tower: Whale Hunter"}
+,"5089": {"resist_info_id":5089,"resist_type_id":"45","resist_percent":"50","description":"Construction: PillBox: Whale Hunter"}
+,"5090": {"resist_info_id":5090,"resist_type_id":"1","resist_percent":"100","description":"Hardlight Canopy Shield - Melee"}
+,"5091": {"resist_info_id":5091,"resist_type_id":"2","resist_percent":"100","description":"Hardlight Canopy Shield - Small Arms"}
+,"5092": {"resist_info_id":5092,"resist_type_id":"4","resist_percent":"75","description":"Hardlight Canopy Shield - HMG 20mm+"}
+,"5093": {"resist_info_id":5093,"resist_type_id":"5","resist_percent":"50","description":"Hardlight Canopy Shield - Anti-Vehicle Cannons"}
+,"5094": {"resist_info_id":5094,"resist_type_id":"6","resist_percent":"50","description":"Hardlight Canopy Shield - Standard Explosive Blast"}
+,"5095": {"resist_info_id":5095,"resist_type_id":"7","resist_percent":"-50","description":"Hardlight Canopy Shield - Tank Shell"}
+,"5096": {"resist_info_id":5096,"resist_type_id":"8","resist_percent":"90","description":"Hardlight Canopy Shield - Soft Point (Aircraft Nose)"}
+,"5097": {"resist_info_id":5097,"resist_type_id":"9","resist_percent":"-100","description":"Hardlight Canopy Shield - Anti-Vehicle Mine"}
+,"5098": {"resist_info_id":5098,"resist_type_id":"11","resist_percent":"-100","description":"Hardlight Canopy Shield - Heavy Explosive Blast (C4)"}
+,"5099": {"resist_info_id":5099,"resist_type_id":"12","resist_percent":"0","description":"Hardlight Canopy Shield - Flak Burst"}
+,"5100": {"resist_info_id":5100,"resist_type_id":"22","resist_percent":"90","description":"Hardlight Canopy Shield - AA MG (Walker)"}
+,"5101": {"resist_info_id":5101,"resist_type_id":"23","resist_percent":"-50","description":"Hardlight Canopy Shield - Air to Ground Warhead"}
+,"5102": {"resist_info_id":5102,"resist_type_id":"28","resist_percent":"75","description":"Hardlight Canopy Shield - AP MG (Vulcan)"}
+,"5103": {"resist_info_id":5103,"resist_type_id":"34","resist_percent":"0","description":"Hardlight Canopy Shield - Default Rocket Launchers"}
+,"5104": {"resist_info_id":5104,"resist_type_id":"40","resist_percent":"0","description":"Hardlight Canopy Shield - Anti-Materiel Rifle"}
+,"5105": {"resist_info_id":5105,"resist_type_id":"45","resist_percent":"-50","description":"Hardlight Canopy Shield - AA Missile (Whale Hunter)"}
+,"5106": {"resist_info_id":5106,"resist_type_id":"47","resist_percent":"5","description":"Construction: SkyWall: Orbital Strike Resistance Buff: Module"}
+,"5107": {"resist_info_id":5107,"resist_type_id":"47","resist_percent":"25","description":"Construction: SkyWall: Orbital Strike Resistance Buff: Medium Health"}
+,"5108": {"resist_info_id":5108,"resist_type_id":"47","resist_percent":"50","description":"Construction: SkyWall: Orbital Strike Resistance Buff: Medium Health"}
+,"5109": {"resist_info_id":5109,"resist_type_id":"47","resist_percent":"7","description":"Construction: SkyWall: Orbital Strike Resistance Buff: 8k Health"}
+,"5110": {"resist_info_id":5110,"resist_type_id":"47","resist_percent":"42","description":"Construction: SkyWall: Orbital Strike Resistance Buff: 20k Health"}
+,"5111": {"resist_info_id":5111,"resist_type_id":"1","resist_percent":"25","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Melee"}
+,"5112": {"resist_info_id":5112,"resist_type_id":"2","resist_percent":"50","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Small Arms"}
+,"5113": {"resist_info_id":5113,"resist_type_id":"4","resist_percent":"25","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - HMG 20mm+"}
+,"5114": {"resist_info_id":5114,"resist_type_id":"5","resist_percent":"-100","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Anti-Vehicle Cannons"}
+,"5115": {"resist_info_id":5115,"resist_type_id":"6","resist_percent":"67","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Standard Explosive Blast"}
+,"5116": {"resist_info_id":5116,"resist_type_id":"7","resist_percent":"-100","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Tank Shell"}
+,"5117": {"resist_info_id":5117,"resist_type_id":"8","resist_percent":"-50","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Soft Point (Aircraft Nose)"}
+,"5118": {"resist_info_id":5118,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Anti-Vehicle Mine"}
+,"5119": {"resist_info_id":5119,"resist_type_id":"11","resist_percent":"0","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Heavy Explosive Blast (C4)"}
+,"5120": {"resist_info_id":5120,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Flak Burst"}
+,"5121": {"resist_info_id":5121,"resist_type_id":"22","resist_percent":"25","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - AA MG (Walker)"}
+,"5122": {"resist_info_id":5122,"resist_type_id":"23","resist_percent":"-100","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Air to Ground Warhead"}
+,"5123": {"resist_info_id":5123,"resist_type_id":"28","resist_percent":"0","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - AP MG (Vulcan)"}
+,"5124": {"resist_info_id":5124,"resist_type_id":"34","resist_percent":"0","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Default Rocket Launchers"}
+,"5125": {"resist_info_id":5125,"resist_type_id":"40","resist_percent":"-125","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Anti-Materiel Rifle"}
+,"5126": {"resist_info_id":5126,"resist_type_id":"45","resist_percent":"20","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - AA Missile (Whale Hunter)"}
+,"5127": {"resist_info_id":5127,"resist_type_id":"46","resist_percent":"0","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Core Explosion / Glaive"}
+,"5128": {"resist_info_id":5128,"resist_type_id":"47","resist_percent":"91","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Orbital Strike"}
+,"5129": {"resist_info_id":5129,"resist_type_id":"1","resist_percent":"100","description":"Colossus Shield - Melee"}
+,"5130": {"resist_info_id":5130,"resist_type_id":"2","resist_percent":"100","description":"Colossus Shield - Small Arms"}
+,"5131": {"resist_info_id":5131,"resist_type_id":"4","resist_percent":"75","description":"Colossus Shield - HMG 20mm+"}
+,"5132": {"resist_info_id":5132,"resist_type_id":"5","resist_percent":"0","description":"Colossus Shield - Anti-Vehicle Cannons"}
+,"5133": {"resist_info_id":5133,"resist_type_id":"6","resist_percent":"50","description":"Colossus Shield - Standard Explosive Blast"}
+,"5134": {"resist_info_id":5134,"resist_type_id":"7","resist_percent":"0","description":"Colossus Shield - Tank Shell"}
+,"5135": {"resist_info_id":5135,"resist_type_id":"8","resist_percent":"85","description":"Colossus Shield - Soft Point (Aircraft Nose)"}
+,"5136": {"resist_info_id":5136,"resist_type_id":"9","resist_percent":"0","description":"Colossus Shield - Anti-Vehicle Mine"}
+,"5137": {"resist_info_id":5137,"resist_type_id":"11","resist_percent":"0","description":"Colossus Shield - Heavy Explosive Blast (C4)"}
+,"5138": {"resist_info_id":5138,"resist_type_id":"12","resist_percent":"100","description":"Colossus Shield - Flak Burst"}
+,"5139": {"resist_info_id":5139,"resist_type_id":"22","resist_percent":"85","description":"Colossus Shield - AA MG (Walker)"}
+,"5140": {"resist_info_id":5140,"resist_type_id":"23","resist_percent":"75","description":"Colossus Shield - Air to Ground Warhead"}
+,"5141": {"resist_info_id":5141,"resist_type_id":"28","resist_percent":"75","description":"Colossus Shield - AP MG (Vulcan)"}
+,"5142": {"resist_info_id":5142,"resist_type_id":"34","resist_percent":"0","description":"Colossus Shield - Default Rocket Launchers"}
+,"5143": {"resist_info_id":5143,"resist_type_id":"40","resist_percent":"0","description":"Colossus Shield - Anti-Materiel Rifle"}
+,"5144": {"resist_info_id":5144,"resist_type_id":"45","resist_percent":"0","description":"Colossus Shield - AA Missile (Whale Hunter)"}
+,"5145": {"resist_info_id":5145,"resist_type_id":"46","resist_percent":"0","description":"Colossus Shield - Core Explosion / Glaive"}
+,"5146": {"resist_info_id":5146,"resist_type_id":"47","resist_percent":"58","description":"Colossus Shield - Orbital Strike"}
+,"5147": {"resist_info_id":5147,"resist_type_id":"49","resist_percent":"0","description":"Colossus Shield - Fast Siege"}
+,"5148": {"resist_info_id":5148,"resist_type_id":"62","resist_amount":"10","description":"Vehicle.Colossus.Logistics.ImprovedCooling.1"}
+,"5149": {"resist_info_id":5149,"resist_type_id":"62","resist_amount":"20","description":"Vehicle.Colossus.Logistics.ImprovedCooling.2"}
+,"5150": {"resist_info_id":5150,"resist_type_id":"62","resist_amount":"30","description":"Vehicle.Colossus.Logistics.ImprovedCooling.3"}
+,"5151": {"resist_info_id":5151,"resist_type_id":"62","resist_amount":"40","description":"Vehicle.Colossus.Logistics.ImprovedCooling.4"}
+,"5152": {"resist_info_id":5152,"resist_type_id":"62","resist_amount":"50","description":"Vehicle.Colossus.Logistics.ImprovedCooling.5"}
+,"5153": {"resist_info_id":5153,"resist_type_id":"2","resist_percent":"75","multiplier_when_headshot":"1","description":"NSO MAX - Personal Defense Weapons"}
+,"5154": {"resist_info_id":5154,"resist_type_id":"47","resist_percent":"4","description":"Colossus Shield - Fallout Hardening 1 - Orbital Strike"}
+,"5155": {"resist_info_id":5155,"resist_type_id":"47","resist_percent":"6","description":"Colossus Shield - Fallout Hardening 2 - Orbital Strike"}
+,"5156": {"resist_info_id":5156,"resist_type_id":"47","resist_percent":"8","description":"Colossus Shield - Fallout Hardening 3 - Orbital Strike"}
+,"5157": {"resist_info_id":5157,"resist_type_id":"47","resist_percent":"10","description":"Colossus Shield - Fallout Hardening 4 - Orbital Strike"}
+,"5158": {"resist_info_id":5158,"resist_type_id":"47","resist_percent":"12","description":"Colossus Shield - Fallout Hardening 5 - Orbital Strike"}
+,"5159": {"resist_info_id":5159,"resist_type_id":"1","resist_percent":"25","multiplier_when_headshot":"1","description":"Lightning Arrester  - Melee"}
+,"5160": {"resist_info_id":5160,"resist_type_id":"2","resist_percent":"50","multiplier_when_headshot":"1","description":"Lightning Arrester - Small Arms"}
+,"5161": {"resist_info_id":5161,"resist_type_id":"4","resist_percent":"25","multiplier_when_headshot":"1","description":"Lightning Arrester  - HMG 20mm+"}
+,"5162": {"resist_info_id":5162,"resist_type_id":"5","resist_percent":"-100","multiplier_when_headshot":"1","description":"Lightning Arrester - Anti-Vehicle Cannons"}
+,"5163": {"resist_info_id":5163,"resist_type_id":"6","resist_percent":"67","multiplier_when_headshot":"1","description":"Lightning Arrester - Standard Explosive Blast"}
+,"5164": {"resist_info_id":5164,"resist_type_id":"7","resist_percent":"-100","multiplier_when_headshot":"1","description":"Lightning Arrester - Tank Shell"}
+,"5165": {"resist_info_id":5165,"resist_type_id":"8","resist_percent":"-50","multiplier_when_headshot":"1","description":"Lightning Arrester - Soft Point (Aircraft Nose)"}
+,"5166": {"resist_info_id":5166,"resist_type_id":"9","resist_percent":"-100","multiplier_when_headshot":"1","description":"Lightning Arrester - Anti-Vehicle Mine"}
+,"5167": {"resist_info_id":5167,"resist_type_id":"11","resist_percent":"0","multiplier_when_headshot":"1","description":"Lightning Arrester - Heavy Explosive Blast (C4)"}
+,"5168": {"resist_info_id":5168,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Lightning Arrester - Flak Burst"}
+,"5169": {"resist_info_id":5169,"resist_type_id":"22","resist_percent":"25","multiplier_when_headshot":"1","description":"Lightning Arrester - AA MG (Walker)"}
+,"5170": {"resist_info_id":5170,"resist_type_id":"23","resist_percent":"-100","multiplier_when_headshot":"1","description":"Lightning Arrester - Air to Ground Warhead"}
+,"5171": {"resist_info_id":5171,"resist_type_id":"28","resist_percent":"0","multiplier_when_headshot":"1","description":"Lightning Arrester - AP MG (Vulcan)"}
+,"5172": {"resist_info_id":5172,"resist_type_id":"34","resist_percent":"0","multiplier_when_headshot":"1","description":"Lightning Arrester - Default Rocket Launchers"}
+,"5173": {"resist_info_id":5173,"resist_type_id":"40","resist_percent":"-125","multiplier_when_headshot":"1","description":"Lightning Arrester - Anti-Materiel Rifle"}
+,"5174": {"resist_info_id":5174,"resist_type_id":"45","resist_percent":"20","multiplier_when_headshot":"1","description":"Lightning Arrester - AA Missile (Whale Hunter)"}
+,"5175": {"resist_info_id":5175,"resist_type_id":"46","resist_percent":"0","multiplier_when_headshot":"1","description":"Lightning Arrester - Core Explosion / Glaive"}
+,"5176": {"resist_info_id":5176,"resist_type_id":"47","resist_percent":"91","multiplier_when_headshot":"1","description":"Lightning Arrester - Orbital Strike"}
+,"5177": {"resist_info_id":5177,"resist_type_id":"63","resist_percent":"50","description":"Esamir.Storm.InsulatedArmor"}
+,"5178": {"resist_info_id":5178,"resist_type_id":"1","resist_percent":"0","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Melee"}
+,"5179": {"resist_info_id":5179,"resist_type_id":"2","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Small Arms"}
+,"5180": {"resist_info_id":5180,"resist_type_id":"4","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - HMG 20mm+"}
+,"5181": {"resist_info_id":5181,"resist_type_id":"5","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Anti-Vehicle Cannons"}
+,"5182": {"resist_info_id":5182,"resist_type_id":"6","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Standard Explosive Blast"}
+,"5183": {"resist_info_id":5183,"resist_type_id":"7","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Tank Shell"}
+,"5184": {"resist_info_id":5184,"resist_type_id":"8","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Soft Point (Aircraft Nose)"}
+,"5185": {"resist_info_id":5185,"resist_type_id":"9","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Anti-Vehicle Mine"}
+,"5186": {"resist_info_id":5186,"resist_type_id":"11","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Heavy Explosive Blast (C4)"}
+,"5187": {"resist_info_id":5187,"resist_type_id":"12","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Flak Burst"}
+,"5188": {"resist_info_id":5188,"resist_type_id":"22","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - AA MG (Walker)"}
+,"5189": {"resist_info_id":5189,"resist_type_id":"23","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Air to Ground Warhead"}
+,"5190": {"resist_info_id":5190,"resist_type_id":"28","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - AP MG (Vulcan)"}
+,"5191": {"resist_info_id":5191,"resist_type_id":"34","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Default Rocket Launchers"}
+,"5192": {"resist_info_id":5192,"resist_type_id":"40","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Anti-Materiel Rifle"}
+,"5193": {"resist_info_id":5193,"resist_type_id":"45","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - AA Missile (Whale Hunter)"}
+,"5194": {"resist_info_id":5194,"resist_type_id":"46","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Core Explosion / Glaive"}
+,"5195": {"resist_info_id":5195,"resist_type_id":"47","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Orbital Strike"}
+,"5196": {"resist_info_id":5196,"resist_type_id":"49","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Fast Siege"}
+,"5216": {"resist_info_id":5216,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Deployed ION Turret: Burning"}
+,"5217": {"resist_info_id":5217,"resist_type_id":"64","resist_percent":"70","multiplier_when_headshot":"1","description":"Construction: SpawnTube: Burning"}
+,"5218": {"resist_info_id":5218,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: VehiclePad: Burning"}
+,"5219": {"resist_info_id":5219,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: PillBox: Burning"}
+,"5220": {"resist_info_id":5220,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: AmmoTower: Burning"}
+,"5221": {"resist_info_id":5221,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: GateWall: Burning"}
+,"5222": {"resist_info_id":5222,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: AirPad: Burning"}
+,"5223": {"resist_info_id":5223,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Orbital Strike Gen: Burning"}
+,"5224": {"resist_info_id":5224,"resist_type_id":"64","resist_percent":"50","multiplier_when_headshot":"1","description":"Hardlight Cover - Burning"}
+,"5225": {"resist_info_id":5225,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Cortium Module: Burning"}
+,"5226": {"resist_info_id":5226,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Premium Cortium Module: Burning"}
+,"5227": {"resist_info_id":5227,"resist_type_id":"64","resist_percent":"50","multiplier_when_headshot":"1","description":"Common: Flak Armor (2017): Burning"}
+,"5228": {"resist_info_id":5228,"resist_type_id":"64","resist_percent":"35","multiplier_when_headshot":"1","description":"Common: Heavy Assault: Ability 02: Resist Shield - Burning"}
+,"5229": {"resist_info_id":5229,"resist_type_id":"64","resist_percent":"15","multiplier_when_headshot":"1","description":"Common: Heavy Assault: Ability 02: Resist Shield - Burning with Flak"}
+,"5230": {"resist_info_id":5230,"resist_type_id":"64","resist_percent":"25","multiplier_when_headshot":"1","description":"Common: MAX Flak Armor (2017): Burning"}
+,"5231": {"resist_info_id":5231,"resist_type_id":"64","resist_percent":"80","description":"Snowman Soldier - Burning"}
+,"5232": {"resist_info_id":5232,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Deployed Artillery: Burning"}
+,"5233": {"resist_info_id":5233,"resist_type_id":"64","resist_percent":"50","multiplier_when_headshot":"1","description":"Loadout Implant: Response Jacket (Burning)"}
+,"5234": {"resist_info_id":5234,"resist_type_id":"64","resist_percent":"20","multiplier_when_headshot":"1","description":"Tempest - Burning"}
+,"5235": {"resist_info_id":5235,"resist_type_id":"64","resist_percent":"20","multiplier_when_headshot":"1","description":"Javelin - Burning"}
+,"5236": {"resist_info_id":5236,"resist_type_id":"64","resist_percent":"0","multiplier_when_headshot":"1","description":"Core 001_Core: Burning"}
+,"5237": {"resist_info_id":5237,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Core 001_Shield: Burning"}
+,"5238": {"resist_info_id":5238,"resist_type_id":"64","resist_percent":"100","description":"Deployed Rampart Wall: Burning"}
+,"5239": {"resist_info_id":5239,"resist_type_id":"64","resist_percent":"100","description":"Deployed Sunderer Garage: Burning"}
+,"5240": {"resist_info_id":5240,"resist_type_id":"64","resist_percent":"10","multiplier_when_headshot":"1","description":"Shared Module: Burning"}
+,"5241": {"resist_info_id":5241,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Projectile Shield Module: Shield: Burning"}
+,"5242": {"resist_info_id":5242,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"VP Chassis: Burning (R3 Invul )"}
+,"5243": {"resist_info_id":5243,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Structure Shield Module: Shield: Burning"}
+,"5244": {"resist_info_id":5244,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Silo: Burning"}
+,"5245": {"resist_info_id":5245,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Structure Shield Module: CBS: Burning"}
+,"5246": {"resist_info_id":5246,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Faction Banner: Burning"}
+,"5247": {"resist_info_id":5247,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Reinforcement Module: Burning"}
+,"5248": {"resist_info_id":5248,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Blast Wall: Burning"}
+,"5249": {"resist_info_id":5249,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Infantry Tower: Burning"}
+,"5250": {"resist_info_id":5250,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Vehicle Ramp: Burning"}
+,"5251": {"resist_info_id":5251,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Lumifiber Rampart Wall: Burning"}
+,"5252": {"resist_info_id":5252,"resist_type_id":"64","resist_percent":"10","multiplier_when_headshot":"1","description":"Construction: Alarm Module: Burning"}
+,"5253": {"resist_info_id":5253,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Construction: Repair Immune: Burning"}
+,"5254": {"resist_info_id":5254,"resist_type_id":"64","resist_percent":"100","description":"Valkyrie - Burning"}
+,"5255": {"resist_info_id":5255,"resist_type_id":"64","resist_percent":"75","multiplier_when_headshot":"1","description":"Valkyrie - Rumble Seat Inherit Resistance (Burning) w/no Armor"}
+,"5256": {"resist_info_id":5256,"resist_type_id":"64","resist_percent":"66","description":"Valkyrie - Rumble Seat Inherit Resistance (Burning) w/Armor 1"}
+,"5257": {"resist_info_id":5257,"resist_type_id":"64","resist_percent":"57","description":"Valkyrie - Rumble Seat Inherit Resistance (Burning) w/Armor 2"}
+,"5258": {"resist_info_id":5258,"resist_type_id":"64","resist_percent":"48","description":"Valkyrie - Rumble Seat Inherit Resistance (Burning) w/Armor 3"}
+,"5259": {"resist_info_id":5259,"resist_type_id":"64","resist_percent":"39","description":"Valkyrie - Rumble Seat Inherit Resistance (Burning) w/Armor 4"}
+,"5260": {"resist_info_id":5260,"resist_type_id":"64","resist_percent":"30","description":"Valkyrie - Rumble Seat Inherit Resistance (Burning) w/Armor 5"}
+,"5261": {"resist_info_id":5261,"resist_type_id":"64","resist_percent":"67","description":"Spitfire Auto-Turret - Burning"}
+,"5262": {"resist_info_id":5262,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"ANT - Burning"}
+,"5263": {"resist_info_id":5263,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Phalanx AV: Burning"}
+,"5264": {"resist_info_id":5264,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AA Phalanx: Burning"}
+,"5265": {"resist_info_id":5265,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed AI Phalanx: Burning"}
+,"5266": {"resist_info_id":5266,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Rampart Wall: Burning"}
+,"5267": {"resist_info_id":5267,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Repair Module: Burning"}
+,"5268": {"resist_info_id":5268,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer Garage: Burning"}
+,"5269": {"resist_info_id":5269,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Bunker 001: Burning"}
+,"5270": {"resist_info_id":5270,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"VP Chassis: Burning"}
+,"5271": {"resist_info_id":5271,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Deployed Blast Shield: Burning"}
+,"5272": {"resist_info_id":5272,"resist_type_id":"64","resist_percent":"-25","multiplier_when_headshot":"1","description":"Construction Light: Burning - General AoEs"}
+,"5273": {"resist_info_id":5273,"resist_type_id":"64","resist_percent":"0","multiplier_when_headshot":"1","description":"MANA Engineer Turret - Burning"}
+,"5274": {"resist_info_id":5274,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Phalanx - Burning"}
+,"5275": {"resist_info_id":5275,"resist_type_id":"64","resist_percent":"4","multiplier_when_headshot":"1","description":"MAX Flak Armor 1 - Burning"}
+,"5276": {"resist_info_id":5276,"resist_type_id":"64","resist_percent":"10","multiplier_when_headshot":"1","description":"MAX Flak Armor 2 - Burning"}
+,"5277": {"resist_info_id":5277,"resist_type_id":"64","resist_percent":"15","multiplier_when_headshot":"1","description":"MAX Flak Armor 3 - Burning"}
+,"5278": {"resist_info_id":5278,"resist_type_id":"64","resist_percent":"20","multiplier_when_headshot":"1","description":"MAX Flak Armor 4 - Burning"}
+,"5279": {"resist_info_id":5279,"resist_type_id":"64","resist_percent":"24.5","multiplier_when_headshot":"1","description":"MAX Flak Armor 5 - Burning"}
+,"5280": {"resist_info_id":5280,"resist_type_id":"64","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 1 - Burning"}
+,"5281": {"resist_info_id":5281,"resist_type_id":"64","resist_percent":"30","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 2 - Burning"}
+,"5282": {"resist_info_id":5282,"resist_type_id":"64","resist_percent":"20","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 3 - Burning"}
+,"5283": {"resist_info_id":5283,"resist_type_id":"64","resist_percent":"10","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 4 - Burning"}
+,"5284": {"resist_info_id":5284,"resist_type_id":"64","resist_percent":"0","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Flak Armor 5 - Burning"}
+,"5285": {"resist_info_id":5285,"resist_type_id":"64","resist_percent":"-17","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 01: Burning"}
+,"5286": {"resist_info_id":5286,"resist_type_id":"64","resist_percent":"-16","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 02: Burning"}
+,"5287": {"resist_info_id":5287,"resist_type_id":"64","resist_percent":"-15","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 03: Burning"}
+,"5288": {"resist_info_id":5288,"resist_type_id":"64","resist_percent":"-14","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 04: Burning"}
+,"5289": {"resist_info_id":5289,"resist_type_id":"64","resist_percent":"-13","multiplier_when_headshot":"1","description":"VS: MAX: Ability 02: Zealot Overdrive 05: Burning"}
+,"5290": {"resist_info_id":5290,"resist_type_id":"64","resist_percent":"50","multiplier_when_headshot":"1","description":"MAX - Burning"}
+,"5291": {"resist_info_id":5291,"resist_type_id":"64","resist_percent":"25","multiplier_when_headshot":"1","description":"Flash - Burning"}
+,"5292": {"resist_info_id":5292,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Sunderer - Burning"}
+,"5293": {"resist_info_id":5293,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Lightning - Burning"}
+,"5294": {"resist_info_id":5294,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Magrider - Burning"}
+,"5295": {"resist_info_id":5295,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Vanguard - Burning"}
+,"5296": {"resist_info_id":5296,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Prowler - Burning"}
+,"5297": {"resist_info_id":5297,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Scythe - Burning"}
+,"5298": {"resist_info_id":5298,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Reaver - Burning"}
+,"5299": {"resist_info_id":5299,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Mosquito - Burning"}
+,"5300": {"resist_info_id":5300,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Liberator - Burning"}
+,"5301": {"resist_info_id":5301,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Galaxy - Burning"}
+,"5302": {"resist_info_id":5302,"resist_type_id":"64","resist_percent":"10","multiplier_when_headshot":"1","description":"Flak Armor 1: Resist 64 - Burning"}
+,"5303": {"resist_info_id":5303,"resist_type_id":"64","resist_percent":"20","multiplier_when_headshot":"1","description":"Flak Armor 2: Resist 64 - Burning"}
+,"5304": {"resist_info_id":5304,"resist_type_id":"64","resist_percent":"30","multiplier_when_headshot":"1","description":"Flak Armor 3: Resist 64 - Burning"}
+,"5305": {"resist_info_id":5305,"resist_type_id":"64","resist_percent":"40","multiplier_when_headshot":"1","description":"Flak Armor 4: Resist 64 - Burning"}
+,"5306": {"resist_info_id":5306,"resist_type_id":"64","resist_percent":"99","multiplier_when_headshot":"1","description":"Drop Pod - Burning"}
+,"5307": {"resist_info_id":5307,"resist_type_id":"64","resist_percent":"50","multiplier_when_headshot":"1","description":"Flak Armor 5: Resist 64 - Burning"}
+,"5308": {"resist_info_id":5308,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Harasser - Burning"}
+,"5309": {"resist_info_id":5309,"resist_type_id":"64","resist_percent":"40","multiplier_when_headshot":"1","description":"Shared: Heavy Assault: Ability 02: Resist Shield - Burning"}
+,"5310": {"resist_info_id":5310,"resist_type_id":"64","resist_percent":"9","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Explosives 1 - Burning"}
+,"5311": {"resist_info_id":5311,"resist_type_id":"64","resist_percent":"19","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Explosives 2 - Burning"}
+,"5312": {"resist_info_id":5312,"resist_type_id":"64","resist_percent":"28","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Explosives 3 - Burning"}
+,"5313": {"resist_info_id":5313,"resist_type_id":"64","resist_percent":"38","multiplier_when_headshot":"1","description":"Flash - Composite Armor Buff - Explosives 4 - Burning"}
+,"5314": {"resist_info_id":5314,"resist_type_id":"64","resist_percent":"85","multiplier_when_headshot":"1","description":"Facility: Terminals - Burning"}
+,"5315": {"resist_info_id":5315,"resist_type_id":"64","resist_percent":"100","description":"WarAsset Bastion - Burning"}
+,"5316": {"resist_info_id":5316,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"War Asset: Generator: Burning"}
+,"5317": {"resist_info_id":5317,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Bastion Component - Burning"}
+,"5318": {"resist_info_id":5318,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Colossus - Burning"}
+,"5319": {"resist_info_id":5319,"resist_type_id":"64","resist_percent":"75","multiplier_when_headshot":"1","description":"Under Construction Medium: Burning - General AoEs"}
+,"5320": {"resist_info_id":5320,"resist_type_id":"64","resist_percent":"70","multiplier_when_headshot":"1","description":"Under Construction Heavy: Burning - General AoEs"}
+,"5321": {"resist_info_id":5321,"resist_type_id":"64","resist_percent":"50","multiplier_when_headshot":"1","description":"Tank Trap - Burning"}
+,"5322": {"resist_info_id":5322,"resist_type_id":"64","resist_percent":"50","description":"Hardlight Canopy Shield - Burning"}
+,"5323": {"resist_info_id":5323,"resist_type_id":"64","resist_percent":"67","multiplier_when_headshot":"1","description":"Hardlight Canopy Generator - Burning"}
+,"5324": {"resist_info_id":5324,"resist_type_id":"64","resist_percent":"50","description":"Colossus Shield - Burning"}
+,"5325": {"resist_info_id":5325,"resist_type_id":"64","resist_percent":"67","multiplier_when_headshot":"1","description":"Lightning Arrester - Burning"}
+,"5326": {"resist_info_id":5326,"resist_type_id":"64","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Plant - Burning"}
+,"5327": {"resist_info_id":5327,"resist_type_id":"1","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Melee"}
+,"5328": {"resist_info_id":5328,"resist_type_id":"2","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Small Arms"}
+,"5329": {"resist_info_id":5329,"resist_type_id":"4","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - HMG 20mm+"}
+,"5330": {"resist_info_id":5330,"resist_type_id":"5","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Anti-Vehicle Cannons"}
+,"5331": {"resist_info_id":5331,"resist_type_id":"6","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Standard Explosive Blast"}
+,"5332": {"resist_info_id":5332,"resist_type_id":"7","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Tank Shell"}
+,"5333": {"resist_info_id":5333,"resist_type_id":"8","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Soft Point (Aircraft Nose)"}
+,"5334": {"resist_info_id":5334,"resist_type_id":"9","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Anti-Vehicle Mine"}
+,"5335": {"resist_info_id":5335,"resist_type_id":"11","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Heavy Explosive Blast (C4)"}
+,"5336": {"resist_info_id":5336,"resist_type_id":"12","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Flak Burst"}
+,"5337": {"resist_info_id":5337,"resist_type_id":"22","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - AA MG (Walker)"}
+,"5338": {"resist_info_id":5338,"resist_type_id":"23","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Air to Ground Warhead"}
+,"5339": {"resist_info_id":5339,"resist_type_id":"28","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - AP MG (Vulcan)"}
+,"5340": {"resist_info_id":5340,"resist_type_id":"34","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Default Rocket Launchers"}
+,"5341": {"resist_info_id":5341,"resist_type_id":"40","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Anti-Materiel Rifle"}
+,"5342": {"resist_info_id":5342,"resist_type_id":"45","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - AA Missile (Whale Hunter)"}
+,"5343": {"resist_info_id":5343,"resist_type_id":"46","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Core Explosion / Glaive"}
+,"5344": {"resist_info_id":5344,"resist_type_id":"47","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Orbital Strike"}
+,"5345": {"resist_info_id":5345,"resist_type_id":"49","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Fast Siege"}
+,"5346": {"resist_info_id":5346,"resist_type_id":"63","resist_percent":"80","multiplier_when_headshot":"1","description":"Shared: Infantry: Ability: Tempest Shield - LightningBolt"}
+,"5361": {"resist_info_id":5361,"resist_type_id":"14","resist_percent":"100","resist_amount":"0","description":"Campaign01.02.WorldAnchor - Bail out add fall resistance"}
+,"5362": {"resist_info_id":5362,"resist_type_id":"64","resist_percent":"100","resist_amount":"0","multiplier_when_headshot":"0","description":"Strange Glowing Mineral - Burning"}
+,"5497": {"resist_info_id":5497,"resist_type_id":"1","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Melee"}
+,"5498": {"resist_info_id":5498,"resist_type_id":"2","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Small Arms"}
+,"5499": {"resist_info_id":5499,"resist_type_id":"4","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Heavy Machine Guns (Vehicle 20mms)"}
+,"5500": {"resist_info_id":5500,"resist_type_id":"5","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Heavy Anti-Armor (100mm+)"}
+,"5501": {"resist_info_id":5501,"resist_type_id":"6","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Explosive"}
+,"5502": {"resist_info_id":5502,"resist_type_id":"7","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Tank Shell"}
+,"5503": {"resist_info_id":5503,"resist_type_id":"8","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Aircraft Machine Gun (Soft Point)"}
+,"5504": {"resist_info_id":5504,"resist_type_id":"9","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Anti-Vehicle Mine"}
+,"5505": {"resist_info_id":5505,"resist_type_id":"11","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - C4"}
+,"5506": {"resist_info_id":5506,"resist_type_id":"12","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Flak Explosive Blast"}
+,"5507": {"resist_info_id":5507,"resist_type_id":"22","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Anti-Aircraft Machine Gun (Walker)"}
+,"5508": {"resist_info_id":5508,"resist_type_id":"23","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Air to Ground Warhead"}
+,"5509": {"resist_info_id":5509,"resist_type_id":"28","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - AP Chain Guns"}
+,"5510": {"resist_info_id":5510,"resist_type_id":"34","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Rocket Launchers"}
+,"5511": {"resist_info_id":5511,"resist_type_id":"40","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Anti-Materiel Rifle"}
+,"5512": {"resist_info_id":5512,"resist_type_id":"45","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Whale Hunter I"}
+,"5513": {"resist_info_id":5513,"resist_type_id":"46","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Glaive"}
+,"5514": {"resist_info_id":5514,"resist_type_id":"47","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Orbital Strike"}
+,"5515": {"resist_info_id":5515,"resist_type_id":"49","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Fast Siege"}
+,"5516": {"resist_info_id":5516,"resist_type_id":"62","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Colossus Overheat"}
+,"5517": {"resist_info_id":5517,"resist_type_id":"63","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Esamir Storm Lightning"}
+,"5518": {"resist_info_id":5518,"resist_type_id":"64","resist_percent":"100","multiplier_when_headshot":"1","description":"Cortium Bomb - Burning"}
+}
