@@ -3,6 +3,12 @@
 
 .EXAMPLE
 
+# So you dont get throttled get one
+$global:DayBreakDefaultServiceID = 's:example'
+
+# To see url calls
+$InformationPreference = 'Continue'
+
 $splat = @{
     OutfitTag = 'EDIM'
     FromDate = [datetime]'2021-03-06 18:45:00'
@@ -14,7 +20,6 @@ $scores = Get-OutfitActivity @splat
 
 $scores | ? { $_.Kills -gt 0 } | Sort-Object -Descending Kills | Format-Table
 
-
 #>
 Function Get-OutfitActivity {
     param(
@@ -24,8 +29,6 @@ Function Get-OutfitActivity {
         [string]$ZoneId
     )
     
-    $InformationPreference = 'Continue'
-
     $outfit = Get-Outfit -Tag $OutfitTag -ResolveMembers
 
     $recentMembers = $outfit.members | Where-Object { [System.DateTimeOffset]::FromUnixTimeSeconds($_.times.last_login) -ge $FromDate -or [System.DateTimeOffset]::FromUnixTimeSeconds($_.times.last_save) -ge $FromDate }
