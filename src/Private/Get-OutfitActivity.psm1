@@ -1,9 +1,19 @@
 
 <#
 
-$FromDate = [datetime]'2021-03-06 18:45:00'
-$ToDate = [datetime]'2021-03-06 20:15:00'
-$ZoneId = '1311081'
+.EXAMPLE
+
+$splat = @{
+    OutfitTag = 'EDIM'
+    FromDate = [datetime]'2021-03-06 18:45:00'
+    ToDate = [datetime]'2021-03-06 20:15:00'
+    ZoneId = '1311081'
+}
+
+$scores = Get-OutfitActivity @splat
+
+$scores | ? { $_.Kills -gt 0 } | Sort-Object -Descending Kills | Format-Table
+
 
 #>
 Function Get-OutfitActivity {
@@ -16,7 +26,7 @@ Function Get-OutfitActivity {
     
     $InformationPreference = 'Continue'
 
-    $outfit = Get-Outfit -Tag 'EDIM' -ResolveMembers
+    $outfit = Get-Outfit -Tag $OutfitTag -ResolveMembers
 
     $recentMembers = $outfit.members | Where-Object { [System.DateTimeOffset]::FromUnixTimeSeconds($_.times.last_login) -ge $FromDate -or [System.DateTimeOffset]::FromUnixTimeSeconds($_.times.last_save) -ge $FromDate }
 
@@ -126,8 +136,6 @@ Function Get-OutfitActivity {
 
         [pscustomobject]$result
     }
-
-    $scores | ? { $_.Kills -gt 0 } | Sort-Object -Descending Kills | Format-Table
 }
 
 Function Get-Md5Hash {
