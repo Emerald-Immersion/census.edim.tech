@@ -79,6 +79,16 @@ Function Sync-LiveCensusData ([string]$Destination) {
         }
     }
 
+    $smallNotEasy = $collections | Where-Object { $easy -notcontains $_ -and $_.count -gt 0 -and $_.count -lt 100000 }
+
+    $smallOneToAny = $smallNotEasy | Where-Object { 
+        ($_.Relationships.PSObject.Properties | Where-Object { $_.Value -like 'one-to-*' } | Measure-Object).Count -eq 1 
+    }
+
+    $smallAnyToOne = $smallNotEasy | Where-Object { 
+        ($_.Relationships.PSObject.Properties | Where-Object { $_.Value -like '*-to-one' } | Measure-Object).Count -eq 1 
+    }
+
     
-    # $collections | Where-Object { $easy -notcontains $_ -and $_.count -gt 0 -and $_.count -lt 100000 } | ft
+    
 }

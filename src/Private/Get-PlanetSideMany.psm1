@@ -155,8 +155,8 @@ Function Get-PlanetSideTimeStream {
     
         if ($TimeStampProperty) {
             $TimeStampProperty | ForEach-Object {
-                $splat.QueryProperties[$_] = "[$after"
-                $splat.QueryProperties[$_] = "]$before"
+                if ($Query) { $splat.Query = "$Query&"}
+                $splat.Query = "$_=[$after&$_=]$before"
             }
             
             $url = New-DBApiUrl @splat -Count
