@@ -3,6 +3,9 @@
 
 .EXAMPLE
 
+# Import
+Import-Module .\src\EdimCensus.psm1
+
 # So you dont get throttled get one
 $global:DayBreakDefaultServiceID = 's:example'
 
@@ -13,12 +16,12 @@ $splat = @{
     OutfitTag = 'EDIM'
     FromDate = [datetime]'2021-03-06 18:45:00'
     ToDate = [datetime]'2021-03-06 20:15:00'
-    ZoneId = '1311081'
+    Desolation = $true
 }
 
 $scores = Get-OutfitActivity @splat
 
-$scores | ? { $_.Kills -gt 0 } | Sort-Object -Descending Kills | Format-Table
+$scores | Sort-Object -Descending Kills | Format-Table *
 
 #>
 Function Get-OutfitActivity {
@@ -26,7 +29,8 @@ Function Get-OutfitActivity {
         [string]$OutfitTag,
         [DateTime]$FromDate,
         [DateTime]$ToDate,
-        [string]$ZoneId
+        [string]$ZoneId,
+        [Switch]$Desolation
     )
     
     $outfit = Get-Outfit -Tag $OutfitTag -ResolveMembers
@@ -43,7 +47,11 @@ Function Get-OutfitActivity {
         'character_id' = $recentMembers.character_id -join ','
         'type' = 'KILL,DEATH,VEHICLE_DESTROY,FACILITY_CHARACTER'
     } | ForEach-Object {
-        if (-not $ZoneId -or ($ZoneId -and $_.zone_id -eq $ZoneId)) {
+        if ($Desolation -and $_.zone_id -lt 1000) {
+
+        } elseif ($ZoneId -and $_.zone_id -ne $ZoneId) {
+
+        } else {
             if ($memberLookup.ContainsKey($_.character_id)) {
                 $memberLookup[$_.character_id][0].characters_event += $_
             } elseif ($memberLookup.ContainsKey($_.attacker_character_id)) {
@@ -60,9 +68,7 @@ Function Get-OutfitActivity {
     #    'type' = 'FACILITY'
     #} -From $FromDate -To $ToDate | Where-Object { -not $ZoneId -or ($ZoneId -and $_.zone_id -eq $ZoneId) }
 
-    # $recentMembers | Select -expand characters_event | ? { $_.table_type -eq 'kills' } | Where-Object { $_.is_headshot -gt 0 } | Measure-Object
-
-    $scores = $recentMembers | ForEach-Object {
+    $recentMembers | ForEach-Object {
         $member = $_
 
         $result = [ordered]@{
